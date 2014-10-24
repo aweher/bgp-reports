@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52308",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52308"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-ACSA19-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-ACSA19-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mar?a Marta Cortesini"],["adr",{"label":"AV. ALFREDO PALACIOS 890 ()\nSANTA ROSA, Pa --\nAR","type":"work"},"text",["","","AV. ALFREDO PALACIOS 890 ()","SANTA ROSA","Pa","--","AR"]],["email",{"type":"work"},"text","nic@AGUASDELCOLORADO-LP.COM.AR"],["tel",{"type":"work"},"text","54 2954 458803 ()"],["org",{},"text",["AGUAS DEL COLORADO SAPEM"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MMC2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MMC2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mar?a Marta Cortesini"],["adr",{"label":"Av. A.Palacios 890 ()\nSanta Rosa,  \nAR","type":"work"},"text",["","","Av. A.Palacios 890 ()","Santa Rosa","","","AR"]],["email",{"type":"work"},"text","nic@AGUASDELCOLORADO-LP.COM.AR"],["tel",{"type":"work"},"text","54 2954 458803 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100622",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120706",
+        "eventActor" : "MMC2"
+      } ],
+      "handle" : "MMC2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101014",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "MMC2"
+    } ],
+    "handle" : "AR-ACSA19-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MMC2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MMC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mar?a Marta Cortesini"],["adr",{"label":"Av. A.Palacios 890 ()\nSanta Rosa,  \nAR","type":"work"},"text",["","","Av. A.Palacios 890 ()","Santa Rosa","","","AR"]],["email",{"type":"work"},"text","nic@AGUASDELCOLORADO-LP.COM.AR"],["tel",{"type":"work"},"text","54 2954 458803 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100622",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120706",
+      "eventActor" : "MMC2"
+    } ],
+    "handle" : "MMC2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MMC2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MMC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mar?a Marta Cortesini"],["adr",{"label":"Av. A.Palacios 890 ()\nSanta Rosa,  \nAR","type":"work"},"text",["","","Av. A.Palacios 890 ()","Santa Rosa","","","AR"]],["email",{"type":"work"},"text","nic@AGUASDELCOLORADO-LP.COM.AR"],["tel",{"type":"work"},"text","54 2954 458803 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100622",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120706",
+      "eventActor" : "MMC2"
+    } ],
+    "handle" : "MMC2"
+  } ],
+  "startAutnum" : 52308,
+  "endAutnum" : 52308,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110107",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110107",
+    "eventActor" : "MMC2"
+  } ],
+  "type" : null,
+  "handle" : "52308-LACNIC",
+  "country" : "AR"
+}

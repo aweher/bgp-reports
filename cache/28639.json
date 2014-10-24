@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28639,
+  "endAutnum" : 28639,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28639",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28639"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130513",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130513",
+    "eventActor" : "DRR3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DRRO-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DRRO-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniela Ropke da Rosa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPelotas, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pelotas","RS","04578-000","BR"]],["email",{"type":"work"},"text","DRR3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 53 55093511 ()"],["org",{},"text",["LocalNet Internet Pelotas"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140420",
+      "eventActor" : "DRR3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DRR3",
+        "value" : "http://rdap.labs.lacnic.net/entity/DRR3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniela Ropke da Rosa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPelotas, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pelotas","RS","04578-000","BR"]],["email",{"type":"work"},"text","DRR3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 53 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DRR3"
+      } ],
+      "entities" : [ ],
+      "handle" : "DRR3"
+    } ],
+    "handle" : "BR-DRRO-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DRR3",
+      "value" : "http://rdap.labs.lacnic.net/entity/DRR3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniela Ropke da Rosa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPelotas, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pelotas","RS","04578-000","BR"]],["email",{"type":"work"},"text","DRR3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 53 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DRR3"
+    } ],
+    "entities" : [ ],
+    "handle" : "DRR3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DRR3",
+      "value" : "http://rdap.labs.lacnic.net/entity/DRR3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniela Ropke da Rosa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPelotas, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pelotas","RS","04578-000","BR"]],["email",{"type":"work"},"text","DRR3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 53 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DRR3"
+    } ],
+    "entities" : [ ],
+    "handle" : "DRR3"
+  } ],
+  "type" : null,
+  "handle" : "28639-LACNIC",
+  "country" : "BR"
+}

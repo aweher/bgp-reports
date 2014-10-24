@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52632,
+  "endAutnum" : 52632,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52632",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52632"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130408",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130408",
+    "eventActor" : "ROV18"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TPLT36-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TPLT36-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo Vian"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","ROV18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["TERAPAR PARTICIPA??ES LTDA."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130408",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140509",
+      "eventActor" : "ROV18"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ROV18",
+        "value" : "http://rdap.labs.lacnic.net/entity/ROV18"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo Vian"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","ROV18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ROV18"
+      } ],
+      "entities" : [ ],
+      "handle" : "ROV18"
+    } ],
+    "handle" : "BR-TPLT36-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ROV18",
+      "value" : "http://rdap.labs.lacnic.net/entity/ROV18"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo Vian"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","ROV18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ROV18"
+    } ],
+    "entities" : [ ],
+    "handle" : "ROV18"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ROV18",
+      "value" : "http://rdap.labs.lacnic.net/entity/ROV18"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo Vian"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","ROV18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ROV18"
+    } ],
+    "entities" : [ ],
+    "handle" : "ROV18"
+  } ],
+  "type" : null,
+  "handle" : "52632-LACNIC",
+  "country" : "BR"
+}

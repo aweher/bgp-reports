@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28028",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28028"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-FASA17-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-FASA17-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julio Policarpo"],["adr",{"label":"Maipu 26 ()\nBuenos Aires, CF 1084\nAR","type":"work"},"text",["","","Maipu 26 ()","Buenos Aires","CF","1084","AR"]],["email",{"type":"work"},"text","ipadmin@FASTBEE.NET.AR"],["tel",{"type":"work"},"text","54 11 6328-1500 ()"],["org",{},"text",["FastBee Argentina S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FIS",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FIS"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julio Policarpo"],["adr",{"label":"Reconquista 899 ()\nBuenos Aires, CF 1003\nAR","type":"work"},"text",["","","Reconquista 899 ()","Buenos Aires","CF","1003","AR"]],["email",{"type":"work"},"text","ipadmin@FASTBEE.NET.AR"],["tel",{"type":"work"},"text","54 11 4393 (5600)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20070508",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140523",
+        "eventActor" : "FIS"
+      } ],
+      "handle" : "FIS"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080403",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "FIS"
+    } ],
+    "handle" : "AR-FASA17-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FIS",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FIS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julio Policarpo"],["adr",{"label":"Reconquista 899 ()\nBuenos Aires, CF 1003\nAR","type":"work"},"text",["","","Reconquista 899 ()","Buenos Aires","CF","1003","AR"]],["email",{"type":"work"},"text","ipadmin@FASTBEE.NET.AR"],["tel",{"type":"work"},"text","54 11 4393 (5600)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070508",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140523",
+      "eventActor" : "FIS"
+    } ],
+    "handle" : "FIS"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FIS",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FIS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julio Policarpo"],["adr",{"label":"Reconquista 899 ()\nBuenos Aires, CF 1003\nAR","type":"work"},"text",["","","Reconquista 899 ()","Buenos Aires","CF","1003","AR"]],["email",{"type":"work"},"text","ipadmin@FASTBEE.NET.AR"],["tel",{"type":"work"},"text","54 11 4393 (5600)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070508",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140523",
+      "eventActor" : "FIS"
+    } ],
+    "handle" : "FIS"
+  } ],
+  "startAutnum" : 28028,
+  "endAutnum" : 28028,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20081230",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20081230",
+    "eventActor" : "FIS"
+  } ],
+  "type" : null,
+  "handle" : "28028-LACNIC",
+  "country" : "AR"
+}

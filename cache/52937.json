@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52937,
+  "endAutnum" : 52937,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52937",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52937"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120817",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140507",
+    "eventActor" : "MIO7"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-FTCV-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-FTCV-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Michel Olivier"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio de Janeiro, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio de Janeiro","RJ","04578-000","BR"]],["email",{"type":"work"},"text","MIO7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["org",{},"text",["FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140507",
+      "eventActor" : "MIO7"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MIO7",
+        "value" : "http://rdap.labs.lacnic.net/entity/MIO7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Michel Olivier"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio de Janeiro, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio de Janeiro","RJ","04578-000","BR"]],["email",{"type":"work"},"text","MIO7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MIO7"
+      } ],
+      "entities" : [ ],
+      "handle" : "MIO7"
+    } ],
+    "handle" : "BR-FTCV-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MIO7",
+      "value" : "http://rdap.labs.lacnic.net/entity/MIO7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Michel Olivier"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio de Janeiro, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio de Janeiro","RJ","04578-000","BR"]],["email",{"type":"work"},"text","MIO7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MIO7"
+    } ],
+    "entities" : [ ],
+    "handle" : "MIO7"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IST10",
+      "value" : "http://rdap.labs.lacnic.net/entity/IST10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ISP TI"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLondrina, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Londrina","","04578-000","BR"]],["email",{"type":"work"},"text","IST10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130422",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130422",
+      "eventActor" : "IST10"
+    } ],
+    "entities" : [ ],
+    "handle" : "IST10"
+  } ],
+  "type" : null,
+  "handle" : "52937-LACNIC",
+  "country" : "BR"
+}

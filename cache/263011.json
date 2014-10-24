@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263011,
+  "endAutnum" : 263011,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263011",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263011"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120525",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130406",
+    "eventActor" : "WDS7"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PTLT31-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PTLT31-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo Henrique de F Farias"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPrimeiro de Maio, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Primeiro de Maio","PR","04578-000","BR"]],["email",{"type":"work"},"text","PHF11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["org",{},"text",["6P Telecom Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140703",
+      "eventActor" : "PHF11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PHF11",
+        "value" : "http://rdap.labs.lacnic.net/entity/PHF11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo Henrique de F Farias"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlvorada do Sul, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alvorada do Sul","PR","04578-000","BR"]],["email",{"type":"work"},"text","PHF11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PHF11"
+      } ],
+      "entities" : [ ],
+      "handle" : "PHF11"
+    } ],
+    "handle" : "BR-PTLT31-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WDS7",
+      "value" : "http://rdap.labs.lacnic.net/entity/WDS7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Wenderson dos Santos Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMacap?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Macap?","","04578-000","BR"]],["email",{"type":"work"},"text","WDS7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 96 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130406",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130406",
+      "eventActor" : "WDS7"
+    } ],
+    "entities" : [ ],
+    "handle" : "WDS7"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WDS7",
+      "value" : "http://rdap.labs.lacnic.net/entity/WDS7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Wenderson dos Santos Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMacap?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Macap?","","04578-000","BR"]],["email",{"type":"work"},"text","WDS7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 96 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130406",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130406",
+      "eventActor" : "WDS7"
+    } ],
+    "entities" : [ ],
+    "handle" : "WDS7"
+  } ],
+  "type" : null,
+  "handle" : "263011-LACNIC",
+  "country" : "BR"
+}

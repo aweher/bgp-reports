@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28630,
+  "endAutnum" : 28630,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28630",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28630"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060208",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "CGA8"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SSLM1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SSLM1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tiago Garbim"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","TIG3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["Sucesso Servi?os de Loc. de Maq. e Eq. de Inf ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140127",
+      "eventActor" : "TIG3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/TIG3",
+        "value" : "http://rdap.labs.lacnic.net/entity/TIG3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tiago Garbim"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampinas, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campinas","SP","04578-000","BR"]],["email",{"type":"work"},"text","TIG3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "TIG3"
+      } ],
+      "entities" : [ ],
+      "handle" : "TIG3"
+    } ],
+    "handle" : "BR-SSLM1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CGA8",
+      "value" : "http://rdap.labs.lacnic.net/entity/CGA8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Centro de Gerencia de Redes Ascenty"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","CGA8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130513",
+      "eventActor" : "CGA8"
+    } ],
+    "entities" : [ ],
+    "handle" : "CGA8"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GSA5",
+      "value" : "http://rdap.labs.lacnic.net/entity/GSA5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Grupo de seguran?a Ascenty"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","GSA5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GSA5"
+    } ],
+    "entities" : [ ],
+    "handle" : "GSA5"
+  } ],
+  "type" : null,
+  "handle" : "28630-LACNIC",
+  "country" : "BR"
+}

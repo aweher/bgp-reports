@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263287,
+  "endAutnum" : 263287,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263287",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263287"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140423",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140425",
+    "eventActor" : "AOR3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BESE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BESE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alessio de Oliveira Rezende"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAracaju, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aracaju","","04578-000","BR"]],["email",{"type":"work"},"text","AOR3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["org",{},"text",["BANCO DO ESTADO DE SERGIPE"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "AOR3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/AOR3",
+        "value" : "http://rdap.labs.lacnic.net/entity/AOR3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alessio de Oliveira Rezende"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAracaju, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aracaju","SE","04578-000","BR"]],["email",{"type":"work"},"text","AOR3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "AOR3"
+      } ],
+      "entities" : [ ],
+      "handle" : "AOR3"
+    } ],
+    "handle" : "BR-BESE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AOR3",
+      "value" : "http://rdap.labs.lacnic.net/entity/AOR3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alessio de Oliveira Rezende"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAracaju, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aracaju","SE","04578-000","BR"]],["email",{"type":"work"},"text","AOR3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AOR3"
+    } ],
+    "entities" : [ ],
+    "handle" : "AOR3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RJM9",
+      "value" : "http://rdap.labs.lacnic.net/entity/RJM9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Jos? Rollemberg de Mendon?a"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAracaju, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aracaju","SE","04578-000","BR"]],["email",{"type":"work"},"text","RJM9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130730",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130730",
+      "eventActor" : "RJM9"
+    } ],
+    "entities" : [ ],
+    "handle" : "RJM9"
+  } ],
+  "type" : null,
+  "handle" : "263287-LACNIC",
+  "country" : "BR"
+}

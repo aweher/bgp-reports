@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27871",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27871"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-NCAS1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-NCAS1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Pasion"],["adr",{"label":"PALESTINA 977 (2 Piso)\nBUENOS AIRES,  C1182ADI\nAR","type":"work"},"text",["","","PALESTINA 977 (2 Piso)","BUENOS AIRES","","C1182ADI","AR"]],["email",{"type":"work"},"text","pablo.pasion@NEXTEL.COM.AR"],["tel",{"type":"work"},"text","54 11 5359 9369 ()"],["org",{},"text",["NEXTEL COMMUNICATIONS ARGENTINA S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PAB3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PAB3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Pasion"],["adr",{"label":"Palestina 977 (2 Piso)\nBuenos Aires, CP 1182\nAR","type":"work"},"text",["","","Palestina 977 (2 Piso)","Buenos Aires","CP","1182","AR"]],["email",{"type":"work"},"text","pablo.pasion@NEXTEL.COM.AR"],["tel",{"type":"work"},"text","54 11 5359 (9888)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060829",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20101004",
+        "eventActor" : "PAB3"
+      } ],
+      "handle" : "PAB3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060831",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "PAB3"
+    } ],
+    "handle" : "AR-NCAS1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAB3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAB3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Pasion"],["adr",{"label":"Palestina 977 (2 Piso)\nBuenos Aires, CP 1182\nAR","type":"work"},"text",["","","Palestina 977 (2 Piso)","Buenos Aires","CP","1182","AR"]],["email",{"type":"work"},"text","pablo.pasion@NEXTEL.COM.AR"],["tel",{"type":"work"},"text","54 11 5359 (9888)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060829",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101004",
+      "eventActor" : "PAB3"
+    } ],
+    "handle" : "PAB3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAB3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAB3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Pasion"],["adr",{"label":"Palestina 977 (2 Piso)\nBuenos Aires, CP 1182\nAR","type":"work"},"text",["","","Palestina 977 (2 Piso)","Buenos Aires","CP","1182","AR"]],["email",{"type":"work"},"text","pablo.pasion@NEXTEL.COM.AR"],["tel",{"type":"work"},"text","54 11 5359 (9888)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060829",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101004",
+      "eventActor" : "PAB3"
+    } ],
+    "handle" : "PAB3"
+  } ],
+  "startAutnum" : 27871,
+  "endAutnum" : 27871,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20061128",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20061128",
+    "eventActor" : "PAB3"
+  } ],
+  "type" : null,
+  "handle" : "27871-LACNIC",
+  "country" : "AR"
+}

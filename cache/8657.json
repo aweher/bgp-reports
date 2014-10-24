@@ -1,0 +1,3417 @@
+{"service" : {
+  "name" : "search"
+},
+"parameters" : {
+  "inverse-lookup" : { },
+  "type-filters" : { },
+  "flags" : { },
+  "query-strings" : {
+    "query-string" : [ {
+      "value" : "as8657"
+    } ]
+  },
+  "sources" : { }
+},
+"objects" : {
+  "object" : [ {
+    "type" : "as-block",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/as-block/AS8525 - AS8769"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS8525 - AS8769"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS8525 - AS8769"
+      }, {
+        "name" : "descr",
+        "value" : "RIPE NCC ASN block"
+      }, {
+        "name" : "remarks",
+        "value" : "These AS Numbers are assigned to network operators in the RIPE NCC service region."
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "aut-num",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/aut-num/AS8657"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS8657"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS8657"
+      }, {
+        "name" : "as-name",
+        "value" : "CPRM"
+      }, {
+        "name" : "descr",
+        "value" : "PT Comunicacoes S A"
+      }, {
+        "name" : "descr",
+        "value" : "Portugal Telecom"
+      }, {
+        "name" : "descr",
+        "value" : "Internet Access Provider"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/organisation/ORG-CPRM1-RIPE"
+        },
+        "name" : "org",
+        "value" : "ORG-CPRM1-RIPE",
+        "referenced-type" : "organisation"
+      }, {
+        "name" : "remarks",
+        "value" : "; ; customers ;"
+      }, {
+        "name" : "import",
+        "value" : "from AS15525 action pref=170; accept AS-PTPRIME"
+      }, {
+        "name" : "export",
+        "value" : "to AS15525 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS3243 action pref=160; accept AS-TELEPAC"
+      }, {
+        "name" : "export",
+        "value" : "to AS3243 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS13156 action pref=160; accept AS13156"
+      }, {
+        "name" : "export",
+        "value" : "to AS13156 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS15457 action pref=170; accept AS15457"
+      }, {
+        "name" : "export",
+        "value" : "to AS15457 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS12542 action pref=170; accept AS12542"
+      }, {
+        "name" : "export",
+        "value" : "to AS12542 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS4609 action pref=170; accept AS4609 AS7582"
+      }, {
+        "name" : "export",
+        "value" : "to AS4609 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS29340 action pref=170; accept AS29340"
+      }, {
+        "name" : "export",
+        "value" : "to AS29340 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS11259 action pref=170; accept AS11259 AS17400"
+      }, {
+        "name" : "export",
+        "value" : "to AS11259 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS42863 action pref=190; accept AS42863"
+      }, {
+        "name" : "export",
+        "value" : "to AS42863 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS36896 action pref=170; accept AS36896"
+      }, {
+        "name" : "export",
+        "value" : "to AS36896 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS17400 action pref=170; accept AS17400"
+      }, {
+        "name" : "export",
+        "value" : "to AS17400 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS36961 action pref=170; accept AS36961"
+      }, {
+        "name" : "export",
+        "value" : "to AS36961 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS15964 action pref=170; accept AS15964"
+      }, {
+        "name" : "export",
+        "value" : "to AS15964 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS21357 action pref=170; accept AS21357"
+      }, {
+        "name" : "export",
+        "value" : "to AS21357 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS41345 action pref=170; accept AS41345"
+      }, {
+        "name" : "export",
+        "value" : "to AS41345 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS42580 action pref=170; accept AS42580"
+      }, {
+        "name" : "export",
+        "value" : "to AS42580 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS32021 action pref=170; accept AS32021"
+      }, {
+        "name" : "export",
+        "value" : "to AS32021 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS36881 action pref=170; accept AS36881"
+      }, {
+        "name" : "export",
+        "value" : "to AS36881 announce ANY"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS3243 accept AS-TELEPAC"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS3243 announce AS-CPRM"
+      }, {
+        "name" : "remarks",
+        "value" : "; ; transits ;"
+      }, {
+        "name" : "import",
+        "value" : "from AS701 action pref=100; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS701 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS1273 action pref=100; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS1273 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6453 action pref=140; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS6453 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS174 action pref=100; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS174 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS286 action pref=100; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS286 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS3356 action pref=100; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS3356 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS1299 action pref=100; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS1299 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS3257 action pref=130; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS3257 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS22822 action pref=130; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS22822 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15169 action pref=130; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15169 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8075 action pref=130; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8075 announce AS-CPRM"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS1273 accept ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS1273 announce AS-CPRM"
+      }, {
+        "name" : "remarks",
+        "value" : "; ; direct peers ;"
+      }, {
+        "name" : "import",
+        "value" : "from AS35655 action pref=130; accept AS-OXYD"
+      }, {
+        "name" : "export",
+        "value" : "to AS35655 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS31290 action pref=130; accept AS-MURPHX"
+      }, {
+        "name" : "export",
+        "value" : "to AS31290 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS10310 action pref=130; accept AS-YAHOO"
+      }, {
+        "name" : "export",
+        "value" : "to AS10310 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS1103 action pref=130; accept AS-SURFNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS1103 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS1126 action pref=130; accept AS-SARA"
+      }, {
+        "name" : "export",
+        "value" : "to AS1126 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS112 action pref=130; accept AS-NETNOD"
+      }, {
+        "name" : "export",
+        "value" : "to AS112 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS1200 action pref=130; accept AS-AMS-IX-PEERS"
+      }, {
+        "name" : "export",
+        "value" : "to AS1200 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12222 action pref=130; accept AS-AKAMAI"
+      }, {
+        "name" : "export",
+        "value" : "to AS12222 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12306 action pref=130; accept AS-PLUSLINE"
+      }, {
+        "name" : "export",
+        "value" : "to AS12306 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12312 action pref=130; accept AS-NACAMAR"
+      }, {
+        "name" : "export",
+        "value" : "to AS12312 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12322 action pref=130; accept AS-PROXAD"
+      }, {
+        "name" : "export",
+        "value" : "to AS12322 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12337 action pref=130; accept AS-NORIS"
+      }, {
+        "name" : "export",
+        "value" : "to AS12337 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12355 action pref=130; accept AS-HELINET-V4"
+      }, {
+        "name" : "export",
+        "value" : "to AS12355 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12390 action pref=130; accept AS-KINGSTONUK"
+      }, {
+        "name" : "export",
+        "value" : "to AS12390 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12399 action pref=130; accept AS-SPXS"
+      }, {
+        "name" : "export",
+        "value" : "to AS12399 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12407 action pref=130; accept AS-WESTEND"
+      }, {
+        "name" : "export",
+        "value" : "to AS12407 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12414 action pref=130; accept AS-SOLCON"
+      }, {
+        "name" : "export",
+        "value" : "to AS12414 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12496 action pref=130; accept AS-IDNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS12496 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12510 action pref=130; accept AS-SAP"
+      }, {
+        "name" : "export",
+        "value" : "to AS12510 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12513 action pref=130; accept AS-ECLIPSE"
+      }, {
+        "name" : "export",
+        "value" : "to AS12513 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12566 action pref=130; accept AS-JETMULTIMEDIA"
+      }, {
+        "name" : "export",
+        "value" : "to AS12566 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12611 action pref=130; accept AS-RKOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS12611 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12634 action pref=130; accept AS-SCARLET"
+      }, {
+        "name" : "export",
+        "value" : "to AS12634 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12654 action pref=130; accept AS-RIS"
+      }, {
+        "name" : "export",
+        "value" : "to AS12654 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12670 action pref=130; accept AS-COMPLETEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS12670 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12676 action pref=130; accept AS-NCORE"
+      }, {
+        "name" : "export",
+        "value" : "to AS12676 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS1267 action pref=130; accept AS-INFOSTRADA"
+      }, {
+        "name" : "export",
+        "value" : "to AS1267 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12703 action pref=130; accept AS-EDNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS12703 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12713 action pref=130; accept AS-OTEGLOBE"
+      }, {
+        "name" : "export",
+        "value" : "to AS12713 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12715 action pref=130; accept AS-JAZZTRANS"
+      }, {
+        "name" : "export",
+        "value" : "to AS12715 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12731 action pref=130; accept AS-IPHH"
+      }, {
+        "name" : "export",
+        "value" : "to AS12731 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12859 action pref=130; accept AS-BIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS12859 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12871 action pref=130; accept AS-CONCEPTS"
+      }, {
+        "name" : "export",
+        "value" : "to AS12871 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12876 action pref=130; accept AS-TISCALIFR"
+      }, {
+        "name" : "export",
+        "value" : "to AS12876 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12897 action pref=130; accept AS-HEAGMEDIANET"
+      }, {
+        "name" : "export",
+        "value" : "to AS12897 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12902 action pref=130; accept AS-LUNA"
+      }, {
+        "name" : "export",
+        "value" : "to AS12902 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS1290 action pref=130; accept AS-PSINETEU"
+      }, {
+        "name" : "export",
+        "value" : "to AS1290 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12932 action pref=130; accept AS-TELETEXT"
+      }, {
+        "name" : "export",
+        "value" : "to AS12932 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12956 action pref=130; accept AS-TDATANET"
+      }, {
+        "name" : "export",
+        "value" : "to AS12956 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12989 action pref=130; accept AS-HWNG"
+      }, {
+        "name" : "export",
+        "value" : "to AS12989 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS13030 action pref=130; accept AS-INIT7"
+      }, {
+        "name" : "export",
+        "value" : "to AS13030 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS13037 action pref=130; accept AS-ZEN"
+      }, {
+        "name" : "export",
+        "value" : "to AS13037 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS13049 action pref=130; accept AS-FRONTIER"
+      }, {
+        "name" : "export",
+        "value" : "to AS13049 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS13054 action pref=130; accept AS-FREINET"
+      }, {
+        "name" : "export",
+        "value" : "to AS13054 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS13101 action pref=130; accept AS-TNG"
+      }, {
+        "name" : "export",
+        "value" : "to AS13101 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS13122 action pref=130; accept AS-MANX"
+      }, {
+        "name" : "export",
+        "value" : "to AS13122 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS13127 action pref=130; accept AS-VERSATEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS13127 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS13184 action pref=130; accept AS-HANSENET"
+      }, {
+        "name" : "export",
+        "value" : "to AS13184 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS13193 action pref=130; accept AS-NERIM"
+      }, {
+        "name" : "export",
+        "value" : "to AS13193 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS13213 action pref=130; accept AS-UK2NET"
+      }, {
+        "name" : "export",
+        "value" : "to AS13213 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS13237 action pref=130; accept AS-LAMBDANET"
+      }, {
+        "name" : "export",
+        "value" : "to AS13237 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS13237 action pref=130; accept AS-LNC"
+      }, {
+        "name" : "export",
+        "value" : "to AS13237 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS13246 action pref=130; accept AS-INETWIRE"
+      }, {
+        "name" : "export",
+        "value" : "to AS13246 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS13273 action pref=130; accept AS-TEASER"
+      }, {
+        "name" : "export",
+        "value" : "to AS13273 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS13276 action pref=130; accept AS-MAGENTA"
+      }, {
+        "name" : "export",
+        "value" : "to AS13276 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS13285 action pref=130; accept AS-OPAL"
+      }, {
+        "name" : "export",
+        "value" : "to AS13285 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS13645 action pref=130; accept AS-HOST"
+      }, {
+        "name" : "export",
+        "value" : "to AS13645 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS13646 action pref=130; accept AS-PRIORITY"
+      }, {
+        "name" : "export",
+        "value" : "to AS13646 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS13768 action pref=130; accept AS-PEERONECUST"
+      }, {
+        "name" : "export",
+        "value" : "to AS13768 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS14361 action pref=130; accept AS-HOPONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS14361 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS14492 action pref=130; accept AS-DATAPIPE"
+      }, {
+        "name" : "export",
+        "value" : "to AS14492 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS14537 action pref=130; accept AS-MOHAWK-TRANSIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS14537 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS14891 action pref=130; accept AS-EACOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS14891 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15290 action pref=130; accept AS-ALLSTREAM"
+      }, {
+        "name" : "export",
+        "value" : "to AS15290 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15412 action pref=130; accept AS-FLAGP"
+      }, {
+        "name" : "export",
+        "value" : "to AS15412 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15422 action pref=130; accept AS-PPR"
+      }, {
+        "name" : "export",
+        "value" : "to AS15422 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15426 action pref=130; accept AS-XENOSITE"
+      }, {
+        "name" : "export",
+        "value" : "to AS15426 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15435 action pref=130; accept AS-KABELFOON"
+      }, {
+        "name" : "export",
+        "value" : "to AS15435 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15444 action pref=130; accept AS-NETSERVICES"
+      }, {
+        "name" : "export",
+        "value" : "to AS15444 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15509 action pref=130; accept AS-PLANT"
+      }, {
+        "name" : "export",
+        "value" : "to AS15509 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15535 action pref=130; accept AS-VIRTUALXS"
+      }, {
+        "name" : "export",
+        "value" : "to AS15535 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15542 action pref=130; accept AS-ZEELANDNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS15542 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15557 action pref=130; accept AS-LDCOMNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS15557 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15598 action pref=130; accept AS-IPX"
+      }, {
+        "name" : "export",
+        "value" : "to AS15598 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15600 action pref=130; accept AS-LAN"
+      }, {
+        "name" : "export",
+        "value" : "to AS15600 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15670 action pref=130; accept AS-BBNED-AMSIX1"
+      }, {
+        "name" : "export",
+        "value" : "to AS15670 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15703 action pref=130; accept AS-TRUESERVER"
+      }, {
+        "name" : "export",
+        "value" : "to AS15703 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15743 action pref=130; accept AS-IPH"
+      }, {
+        "name" : "export",
+        "value" : "to AS15743 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15772 action pref=130; accept AS-WNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS15772 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15830 action pref=130; accept AS-TELECITYLON"
+      }, {
+        "name" : "export",
+        "value" : "to AS15830 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15879 action pref=130; accept AS-IS"
+      }, {
+        "name" : "export",
+        "value" : "to AS15879 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15935 action pref=130; accept AS-HA-VEL-CZNIX"
+      }, {
+        "name" : "export",
+        "value" : "to AS15935 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15935 action pref=130; accept AS-HA-VEL-CZNIX"
+      }, {
+        "name" : "export",
+        "value" : "to AS15935 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15988 action pref=130; accept AS-AKHTERNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS15988 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16030 action pref=130; accept AS-ALTECOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS16030 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16030 action pref=130; accept AS-ALTECOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS16030 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16034 action pref=130; accept AS-KEME"
+      }, {
+        "name" : "export",
+        "value" : "to AS16034 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16080 action pref=130; accept AS-CARPEDIEM"
+      }, {
+        "name" : "export",
+        "value" : "to AS16080 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16097 action pref=130; accept AS-HLKOMM"
+      }, {
+        "name" : "export",
+        "value" : "to AS16097 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16128 action pref=130; accept AS-AGARIK"
+      }, {
+        "name" : "export",
+        "value" : "to AS16128 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16131 action pref=130; accept AS-GRAFIX"
+      }, {
+        "name" : "export",
+        "value" : "to AS16131 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16150 action pref=130; accept AS-PORT"
+      }, {
+        "name" : "export",
+        "value" : "to AS16150 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16211 action pref=130; accept AS-STELLA-NET"
+      }, {
+        "name" : "export",
+        "value" : "to AS16211 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16237 action pref=130; accept AS-NXS"
+      }, {
+        "name" : "export",
+        "value" : "to AS16237 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16243 action pref=130; accept AS-VIRTU"
+      }, {
+        "name" : "export",
+        "value" : "to AS16243 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16265 action pref=130; accept AS-LEASEWEB"
+      }, {
+        "name" : "export",
+        "value" : "to AS16265 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16265 action pref=130; accept AS-LEASEWEB-AMX"
+      }, {
+        "name" : "export",
+        "value" : "to AS16265 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16276 action pref=130; accept AS-OVH"
+      }, {
+        "name" : "export",
+        "value" : "to AS16276 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16298 action pref=130; accept AS-INTERBOX"
+      }, {
+        "name" : "export",
+        "value" : "to AS16298 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16334 action pref=130; accept AS-I-NAP"
+      }, {
+        "name" : "export",
+        "value" : "to AS16334 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16353 action pref=130; accept AS-MERULA"
+      }, {
+        "name" : "export",
+        "value" : "to AS16353 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16559 action pref=130; accept AS-REALCONNECT"
+      }, {
+        "name" : "export",
+        "value" : "to AS16559 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS1784 action pref=130; accept AS-GNAPS"
+      }, {
+        "name" : "export",
+        "value" : "to AS1784 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS1785 action pref=130; accept AS-EWETEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS1785 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS1836 action pref=130; accept AS-TICCH"
+      }, {
+        "name" : "export",
+        "value" : "to AS1836 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS19029 action pref=130; accept AS-NEWEDGE"
+      }, {
+        "name" : "export",
+        "value" : "to AS19029 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS19151 action pref=130; accept AS-WVFIBER"
+      }, {
+        "name" : "export",
+        "value" : "to AS19151 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS19318 action pref=130; accept AS-NJIIX"
+      }, {
+        "name" : "export",
+        "value" : "to AS19318 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20485 action pref=130; accept AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS20485 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20495 action pref=130; accept AS-WEDARE"
+      }, {
+        "name" : "export",
+        "value" : "to AS20495 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20500 action pref=130; accept AS-GRIFFIN"
+      }, {
+        "name" : "export",
+        "value" : "to AS20500 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20504 action pref=130; accept AS-RTL"
+      }, {
+        "name" : "export",
+        "value" : "to AS20504 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20547 action pref=130; accept AS-UKS"
+      }, {
+        "name" : "export",
+        "value" : "to AS20547 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20562 action pref=130; accept AS-OPENPEERING"
+      }, {
+        "name" : "export",
+        "value" : "to AS20562 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20633 action pref=130; accept as-uniffm"
+      }, {
+        "name" : "export",
+        "value" : "to AS20633 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20634 action pref=130; accept AS-LIECOMTEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS20634 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20639 action pref=130; accept AS-NETLAND"
+      }, {
+        "name" : "export",
+        "value" : "to AS20639 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20640 action pref=130; accept AS-TITANNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS20640 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20676 action pref=130; accept AS-QSC"
+      }, {
+        "name" : "export",
+        "value" : "to AS20676 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20679 action pref=130; accept AS-HSO"
+      }, {
+        "name" : "export",
+        "value" : "to AS20679 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20718 action pref=130; accept AS-ARSYSINTERNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS20718 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20747 action pref=130; accept AS-PINS"
+      }, {
+        "name" : "export",
+        "value" : "to AS20747 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20766 action pref=130; accept AS-Gitoyen"
+      }, {
+        "name" : "export",
+        "value" : "to AS20766 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20799 action pref=130; accept AS-DATANETUK"
+      }, {
+        "name" : "export",
+        "value" : "to AS20799 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20847 action pref=130; accept AS-INTROWEB"
+      }, {
+        "name" : "export",
+        "value" : "to AS20847 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20857 action pref=130; accept AS-TRANSIP"
+      }, {
+        "name" : "export",
+        "value" : "to AS20857 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20932 action pref=130; accept AS-IP-MAN"
+      }, {
+        "name" : "export",
+        "value" : "to AS20932 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20940 action pref=130; accept AS-AKAMAI"
+      }, {
+        "name" : "export",
+        "value" : "to AS20940 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20953 action pref=130; accept AS-INFO"
+      }, {
+        "name" : "export",
+        "value" : "to AS20953 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS20976 action pref=130; accept AS-HOTLINKS-LINX"
+      }, {
+        "name" : "export",
+        "value" : "to AS20976 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS21055 action pref=130; accept AS-WEBTAPESTRY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21055 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS21073 action pref=130; accept AS-ZORANET"
+      }, {
+        "name" : "export",
+        "value" : "to AS21073 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS21099 action pref=130; accept AS-GAMEGROUP"
+      }, {
+        "name" : "export",
+        "value" : "to AS21099 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS2110 action pref=130; accept AS-IEUNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS2110 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS21155 action pref=130; accept AS-PROSERVE"
+      }, {
+        "name" : "export",
+        "value" : "to AS21155 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS2119 action pref=130; accept AS-TELENOR"
+      }, {
+        "name" : "export",
+        "value" : "to AS2119 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS21221 action pref=130; accept AS-INFOPACT"
+      }, {
+        "name" : "export",
+        "value" : "to AS21221 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS21263 action pref=130; accept AS-TELEDATA"
+      }, {
+        "name" : "export",
+        "value" : "to AS21263 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS21336 action pref=130; accept AS-IR"
+      }, {
+        "name" : "export",
+        "value" : "to AS21336 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS21385 action pref=130; accept AS-TNIB"
+      }, {
+        "name" : "export",
+        "value" : "to AS21385 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS21396 action pref=130; accept AS-NETCONNEX"
+      }, {
+        "name" : "export",
+        "value" : "to AS21396 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS21409 action pref=130; accept AS-IKOULA"
+      }, {
+        "name" : "export",
+        "value" : "to AS21409 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS21413 action pref=130; accept AS-ENVIATEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS21413 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS21414 action pref=130; accept AS-RCNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS21414 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS21473 action pref=130; accept AS-MANET"
+      }, {
+        "name" : "export",
+        "value" : "to AS21473 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS21478 action pref=130; accept AS-PLEX"
+      }, {
+        "name" : "export",
+        "value" : "to AS21478 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS21502 action pref=130; accept AS-NUMERICABLE"
+      }, {
+        "name" : "export",
+        "value" : "to AS21502 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS2200 action pref=130; accept AS-RENATER"
+      }, {
+        "name" : "export",
+        "value" : "to AS2200 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS22773 action pref=130; accept AS-COX-TRANSIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS22773 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS23148 action pref=130; accept AS-TWW"
+      }, {
+        "name" : "export",
+        "value" : "to AS23148 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS23342 action pref=130; accept AS-UNITEDLAYER"
+      }, {
+        "name" : "export",
+        "value" : "to AS23342 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS23393 action pref=130; accept AS-ISPRIME"
+      }, {
+        "name" : "export",
+        "value" : "to AS23393 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS24167 action pref=130; accept AS-ASGC"
+      }, {
+        "name" : "export",
+        "value" : "to AS24167 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS24586 action pref=130; accept AS-TRANSITS"
+      }, {
+        "name" : "export",
+        "value" : "to AS24586 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS24642 action pref=130; accept AS-CAVEO"
+      }, {
+        "name" : "export",
+        "value" : "to AS24642 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS24679 action pref=130; accept AS-SSERV"
+      }, {
+        "name" : "export",
+        "value" : "to AS24679 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS24730 action pref=130; accept AS-NETHOLDING"
+      }, {
+        "name" : "export",
+        "value" : "to AS24730 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS24851 action pref=130; accept AS-NETCETERA"
+      }, {
+        "name" : "export",
+        "value" : "to AS24851 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS2486 action pref=130; accept AS-AFNIC"
+      }, {
+        "name" : "export",
+        "value" : "to AS2486 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS24875 action pref=130; accept AS-ISPSERVICES"
+      }, {
+        "name" : "export",
+        "value" : "to AS24875 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS24905 action pref=130; accept AS-TERRALINK"
+      }, {
+        "name" : "export",
+        "value" : "to AS24905 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS24931 action pref=130; accept AS-DEDIPOWER"
+      }, {
+        "name" : "export",
+        "value" : "to AS24931 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS24940 action pref=130; accept AS-HETZNER"
+      }, {
+        "name" : "export",
+        "value" : "to AS24940 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS24961 action pref=130; accept AS-FIBRE1"
+      }, {
+        "name" : "export",
+        "value" : "to AS24961 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS24963 action pref=130; accept AS-YACAST"
+      }, {
+        "name" : "export",
+        "value" : "to AS24963 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS24974 action pref=130; accept AS-TACHYON-EU"
+      }, {
+        "name" : "export",
+        "value" : "to AS24974 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS24989 action pref=130; accept AS-IXE-FFT"
+      }, {
+        "name" : "export",
+        "value" : "to AS24989 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS25061 action pref=130; accept AS-ANLX"
+      }, {
+        "name" : "export",
+        "value" : "to AS25061 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS25074 action pref=130; accept AS-INETBONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS25074 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS25182 action pref=130; accept AS-PUBLIEKEOMROEP"
+      }, {
+        "name" : "export",
+        "value" : "to AS25182 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS25232 action pref=130; accept AS-ROKSCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS25232 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS25286 action pref=130; accept AS-IPERCAST"
+      }, {
+        "name" : "export",
+        "value" : "to AS25286 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS2529 action pref=130; accept AS-DEMON"
+      }, {
+        "name" : "export",
+        "value" : "to AS2529 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS25310 action pref=130; accept AS-ASN-CWACCESS"
+      }, {
+        "name" : "export",
+        "value" : "to AS25310 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS25358 action pref=130; accept AS-NDSOFTWARE"
+      }, {
+        "name" : "export",
+        "value" : "to AS25358 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS25394 action pref=130; accept AS-MK-NETZDIENSTE"
+      }, {
+        "name" : "export",
+        "value" : "to AS25394 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS25459 action pref=130; accept AS-NEDZONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS25459 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS25478 action pref=130; accept AS-IHOME"
+      }, {
+        "name" : "export",
+        "value" : "to AS25478 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS25525 action pref=130; accept AS-REASONNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS25525 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS25542 action pref=130; accept AS-DENIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS25542 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS25560 action pref=130; accept AS-RHTEC"
+      }, {
+        "name" : "export",
+        "value" : "to AS25560 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS25562 action pref=130; accept AS-SCEE"
+      }, {
+        "name" : "export",
+        "value" : "to AS25562 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS25577 action pref=130; accept AS-C4L"
+      }, {
+        "name" : "export",
+        "value" : "to AS25577 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS25593 action pref=130; accept AS-LINKBYNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS25593 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS25596 action pref=130; accept AS-CAMBRIUM"
+      }, {
+        "name" : "export",
+        "value" : "to AS25596 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS25973 action pref=130; accept AS-MZIMA"
+      }, {
+        "name" : "export",
+        "value" : "to AS25973 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS2603 action pref=130; accept AS-SUNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS2603 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS2611 action pref=130; accept AS-BELNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS2611 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS2686 action pref=130; accept AS-IGNEMEA"
+      }, {
+        "name" : "export",
+        "value" : "to AS2686 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS2818 action pref=130; accept AS-BBC"
+      }, {
+        "name" : "export",
+        "value" : "to AS2818 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS2828 action pref=130; accept AS-XO"
+      }, {
+        "name" : "export",
+        "value" : "to AS2828 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS2856 action pref=130; accept AS-BTGB"
+      }, {
+        "name" : "export",
+        "value" : "to AS2856 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS2857 action pref=130; accept AS-RLP-NET"
+      }, {
+        "name" : "export",
+        "value" : "to AS2857 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS28685 action pref=130; accept AS-ROUTIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS28685 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS286 action pref=130; accept AS-EUNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS286 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS286 action pref=130; accept AS-KPN"
+      }, {
+        "name" : "export",
+        "value" : "to AS286 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS28753 action pref=130; accept AS-NETDIRECT"
+      }, {
+        "name" : "export",
+        "value" : "to AS28753 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS28788 action pref=130; accept AS-UNILOGICNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS28788 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS28836 action pref=130; accept AS-ICSNL"
+      }, {
+        "name" : "export",
+        "value" : "to AS28836 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS28855 action pref=130; accept AS-GALACSYS"
+      }, {
+        "name" : "export",
+        "value" : "to AS28855 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS28878 action pref=130; accept AS-SIGNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS28878 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29066 action pref=130; accept AS-VELIANET"
+      }, {
+        "name" : "export",
+        "value" : "to AS29066 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29073 action pref=130; accept AS-ECATEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS29073 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29075 action pref=130; accept AS-IELO"
+      }, {
+        "name" : "export",
+        "value" : "to AS29075 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29131 action pref=130; accept AS-RAPIDSWITCH"
+      }, {
+        "name" : "export",
+        "value" : "to AS29131 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS2914 action pref=130; accept AS-VERIO"
+      }, {
+        "name" : "export",
+        "value" : "to AS2914 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29169 action pref=130; accept AS-GANDI"
+      }, {
+        "name" : "export",
+        "value" : "to AS29169 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29204 action pref=130; accept AS-B3G"
+      }, {
+        "name" : "export",
+        "value" : "to AS29204 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29208 action pref=130; accept as-dialtelecom-six"
+      }, {
+        "name" : "export",
+        "value" : "to AS29208 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29246 action pref=130; accept AS-OPTILIAN"
+      }, {
+        "name" : "export",
+        "value" : "to AS29246 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29396 action pref=130; accept AS-UNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS29396 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS293 action pref=130; accept AS-ESNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS293 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29404 action pref=130; accept AS-ELBRACHT"
+      }, {
+        "name" : "export",
+        "value" : "to AS29404 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29527 action pref=130; accept AS-OTHELLOTECH"
+      }, {
+        "name" : "export",
+        "value" : "to AS29527 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29562 action pref=130; accept AS-KABELBW"
+      }, {
+        "name" : "export",
+        "value" : "to AS29562 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29608 action pref=130; accept AS-ABSOLIGHT"
+      }, {
+        "name" : "export",
+        "value" : "to AS29608 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29610 action pref=130; accept AS-BreisNet"
+      }, {
+        "name" : "export",
+        "value" : "to AS29610 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29632 action pref=130; accept AS-NETASSIST"
+      }, {
+        "name" : "export",
+        "value" : "to AS29632 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29636 action pref=130; accept AS-CATALYST2"
+      }, {
+        "name" : "export",
+        "value" : "to AS29636 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29639 action pref=130; accept AS-EUROCENTER"
+      }, {
+        "name" : "export",
+        "value" : "to AS29639 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29640 action pref=130; accept AS-COMNED"
+      }, {
+        "name" : "export",
+        "value" : "to AS29640 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29668 action pref=130; accept AS-QUBE"
+      }, {
+        "name" : "export",
+        "value" : "to AS29668 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29686 action pref=130; accept AS-PROBENETWORKS"
+      }, {
+        "name" : "export",
+        "value" : "to AS29686 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS30081 action pref=130; accept AS-CACHENETWORKS"
+      }, {
+        "name" : "export",
+        "value" : "to AS30081 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS30094 action pref=130; accept AS-GIGANEWS"
+      }, {
+        "name" : "export",
+        "value" : "to AS30094 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS30126 action pref=130; accept AS-ISC"
+      }, {
+        "name" : "export",
+        "value" : "to AS30126 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS30132 action pref=130; accept AS-ISC"
+      }, {
+        "name" : "export",
+        "value" : "to AS30132 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS30740 action pref=130; accept AS-EXA"
+      }, {
+        "name" : "export",
+        "value" : "to AS30740 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS30781 action pref=130; accept AS-JAGUAR"
+      }, {
+        "name" : "export",
+        "value" : "to AS30781 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS30827 action pref=130; accept AS-XTRAORDINARY"
+      }, {
+        "name" : "export",
+        "value" : "to AS30827 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS30844 action pref=130; accept AS-ECS"
+      }, {
+        "name" : "export",
+        "value" : "to AS30844 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS30889 action pref=130; accept AS-WAYCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS30889 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS30890 action pref=130; accept AS-EVOLVA"
+      }, {
+        "name" : "export",
+        "value" : "to AS30890 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS30972 action pref=130; accept AS-CYREALIS"
+      }, {
+        "name" : "export",
+        "value" : "to AS30972 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS31178 action pref=130; accept AS-CELEONET"
+      }, {
+        "name" : "export",
+        "value" : "to AS31178 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS31216 action pref=130; accept AS-BSOCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS31216 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS31235 action pref=130; accept AS-SKIWEBCENTER"
+      }, {
+        "name" : "export",
+        "value" : "to AS31235 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS31251 action pref=130; accept AS-NETGUARD"
+      }, {
+        "name" : "export",
+        "value" : "to AS31251 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS31323 action pref=130; accept AS-UNNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS31323 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS31334 action pref=130; accept AS-KDG"
+      }, {
+        "name" : "export",
+        "value" : "to AS31334 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS31383 action pref=130; accept AS-COMPUTEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS31383 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS31477 action pref=130; accept AS-DUOCAST"
+      }, {
+        "name" : "export",
+        "value" : "to AS31477 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS31500 action pref=130; accept AS-ETELECOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS31500 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS31529 action pref=130; accept AS-DENIC"
+      }, {
+        "name" : "export",
+        "value" : "to AS31529 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS31555 action pref=130; accept AS-HOSTINGFRANCE"
+      }, {
+        "name" : "export",
+        "value" : "to AS31555 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS31661 action pref=130; accept AS-COMX"
+      }, {
+        "name" : "export",
+        "value" : "to AS31661 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS31715 action pref=130; accept AS-NETRINO"
+      }, {
+        "name" : "export",
+        "value" : "to AS31715 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS3209 action pref=130; accept AS-ARCORGLOBAL"
+      }, {
+        "name" : "export",
+        "value" : "to AS3209 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS3212 action pref=130; accept AS-TRIERA"
+      }, {
+        "name" : "export",
+        "value" : "to AS3212 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS3213 action pref=130; accept AS-BOGONS"
+      }, {
+        "name" : "export",
+        "value" : "to AS3213 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS3248 action pref=130; accept AS-SILAT"
+      }, {
+        "name" : "export",
+        "value" : "to AS3248 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS3249 action pref=130; accept AS-ESTPAK"
+      }, {
+        "name" : "export",
+        "value" : "to AS3249 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS3262 action pref=130; accept AS-SARENET"
+      }, {
+        "name" : "export",
+        "value" : "to AS3262 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS3265 action pref=130; accept AS-ACCESSFORALL"
+      }, {
+        "name" : "export",
+        "value" : "to AS3265 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS32787 action pref=130; accept AS-PROLE"
+      }, {
+        "name" : "export",
+        "value" : "to AS32787 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS3292 action pref=130; accept AS-TDCNETDK"
+      }, {
+        "name" : "export",
+        "value" : "to AS3292 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS3303 action pref=130; accept AS-SWCMGLOBAL"
+      }, {
+        "name" : "export",
+        "value" : "to AS3303 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS3327 action pref=130; accept AS-LINXTELECOM-DECIX"
+      }, {
+        "name" : "export",
+        "value" : "to AS3327 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS3333 action pref=130; accept AS-RIPENCC"
+      }, {
+        "name" : "export",
+        "value" : "to AS3333 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS33843 action pref=130; accept AS-INTERSCHOLZ"
+      }, {
+        "name" : "export",
+        "value" : "to AS33843 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS33873 action pref=130; accept AS-ARVATO"
+      }, {
+        "name" : "export",
+        "value" : "to AS33873 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS33915 action pref=130; accept AS-TNF"
+      }, {
+        "name" : "export",
+        "value" : "to AS33915 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS33926 action pref=130; accept AS-CLANSERVER4U"
+      }, {
+        "name" : "export",
+        "value" : "to AS33926 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS33970 action pref=130; accept AS-TELECOMPLETE"
+      }, {
+        "name" : "export",
+        "value" : "to AS33970 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34011 action pref=130; accept AS-DOMAINFACTORY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34011 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34019 action pref=130; accept AS-HIVANE"
+      }, {
+        "name" : "export",
+        "value" : "to AS34019 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34088 action pref=130; accept AS-BELLAXA"
+      }, {
+        "name" : "export",
+        "value" : "to AS34088 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34106 action pref=130; accept AS-TELEGRAAF"
+      }, {
+        "name" : "export",
+        "value" : "to AS34106 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34141 action pref=130; accept AS-IN2IP"
+      }, {
+        "name" : "export",
+        "value" : "to AS34141 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34215 action pref=130; accept AS-ATINET"
+      }, {
+        "name" : "export",
+        "value" : "to AS34215 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34224 action pref=130; accept AS-NETERRA-INT"
+      }, {
+        "name" : "export",
+        "value" : "to AS34224 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34245 action pref=130; accept AS-MAGNETLOCAL"
+      }, {
+        "name" : "export",
+        "value" : "to AS34245 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34270 action pref=130; accept AS-INETC"
+      }, {
+        "name" : "export",
+        "value" : "to AS34270 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34305 action pref=130; accept AS-EUROACCESS"
+      }, {
+        "name" : "export",
+        "value" : "to AS34305 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34309 action pref=130; accept AS-LINK11"
+      }, {
+        "name" : "export",
+        "value" : "to AS34309 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34419 action pref=130; accept AS-VODAFONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS34419 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34486 action pref=130; accept AS-IP2"
+      }, {
+        "name" : "export",
+        "value" : "to AS34486 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34655 action pref=130; accept AS-DOCLER"
+      }, {
+        "name" : "export",
+        "value" : "to AS34655 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34763 action pref=130; accept AS-VIRGINRADIO"
+      }, {
+        "name" : "export",
+        "value" : "to AS34763 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34790 action pref=130; accept AS-WAVEWORKS"
+      }, {
+        "name" : "export",
+        "value" : "to AS34790 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS3491 action pref=130; accept AS-CAIS"
+      }, {
+        "name" : "export",
+        "value" : "to AS3491 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34948 action pref=130; accept AS-TYPHON"
+      }, {
+        "name" : "export",
+        "value" : "to AS34948 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34968 action pref=130; accept AS-IUNXI"
+      }, {
+        "name" : "export",
+        "value" : "to AS34968 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34997 action pref=130; accept AS-Alionis"
+      }, {
+        "name" : "export",
+        "value" : "to AS34997 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS35028 action pref=130; accept AS-MULTIPLAY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35028 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS35189 action pref=130; accept AS-KAZAR"
+      }, {
+        "name" : "export",
+        "value" : "to AS35189 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS35217 action pref=130; accept AS-OVEA"
+      }, {
+        "name" : "export",
+        "value" : "to AS35217 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS35228 action pref=130; accept AS-BEUNLIMITED"
+      }, {
+        "name" : "export",
+        "value" : "to AS35228 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS35260 action pref=130; accept AS-IU-NET"
+      }, {
+        "name" : "export",
+        "value" : "to AS35260 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS35283 action pref=130; accept AS-ADVISEO"
+      }, {
+        "name" : "export",
+        "value" : "to AS35283 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS35320 action pref=130; accept AS-ETT"
+      }, {
+        "name" : "export",
+        "value" : "to AS35320 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS35366 action pref=130; accept AS-ISPPRO"
+      }, {
+        "name" : "export",
+        "value" : "to AS35366 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS35456 action pref=130; accept AS-FUBRA"
+      }, {
+        "name" : "export",
+        "value" : "to AS35456 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS36408 action pref=130; accept AS-PANTHER"
+      }, {
+        "name" : "export",
+        "value" : "to AS36408 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS36622 action pref=130; accept AS-GTLD"
+      }, {
+        "name" : "export",
+        "value" : "to AS36622 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS36623 action pref=130; accept AS-GTLD"
+      }, {
+        "name" : "export",
+        "value" : "to AS36623 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS3856 action pref=130; accept AS-PCH"
+      }, {
+        "name" : "export",
+        "value" : "to AS3856 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS39196 action pref=130; accept AS-BCELU"
+      }, {
+        "name" : "export",
+        "value" : "to AS39196 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS39202 action pref=130; accept AS-GCAP"
+      }, {
+        "name" : "export",
+        "value" : "to AS39202 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS39309 action pref=130; accept AS-EDUTEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS39309 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS39326 action pref=130; accept AS-GOSCOMB"
+      }, {
+        "name" : "export",
+        "value" : "to AS39326 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS39326 action pref=130; accept AS-GOSCOMB"
+      }, {
+        "name" : "export",
+        "value" : "to AS39326 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS39598 action pref=130; accept AS-TIERA"
+      }, {
+        "name" : "export",
+        "value" : "to AS39598 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS39792 action pref=130; accept AS-ANDERS"
+      }, {
+        "name" : "export",
+        "value" : "to AS39792 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS4004 action pref=130; accept AS-GLOBALONE-UK"
+      }, {
+        "name" : "export",
+        "value" : "to AS4004 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS41012 action pref=130; accept AS-THECLOUD"
+      }, {
+        "name" : "export",
+        "value" : "to AS41012 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS41039 action pref=130; accept AS-DBD"
+      }, {
+        "name" : "export",
+        "value" : "to AS41039 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS41095 action pref=130; accept AS-IPTP"
+      }, {
+        "name" : "export",
+        "value" : "to AS41095 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS41157 action pref=130; accept AS-OXYMIUM"
+      }, {
+        "name" : "export",
+        "value" : "to AS41157 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS41445 action pref=130; accept AS-NETGROUND"
+      }, {
+        "name" : "export",
+        "value" : "to AS41445 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS41552 action pref=130; accept AS-MARKTPLAATS"
+      }, {
+        "name" : "export",
+        "value" : "to AS41552 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS41690 action pref=130; accept AS-DAILYMOTION"
+      }, {
+        "name" : "export",
+        "value" : "to AS41690 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS41692 action pref=130; accept AS-OPENCARRIER"
+      }, {
+        "name" : "export",
+        "value" : "to AS41692 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS41853 action pref=130; accept AS-NTCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS41853 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS42366 action pref=130; accept AS-TERRATRANSIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS42366 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS42416 action pref=130; accept AS-COMNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS42416 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS42884 action pref=130; accept AS-LOCALPHONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS42884 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS42949 action pref=130; accept AS-EATSERVER"
+      }, {
+        "name" : "export",
+        "value" : "to AS42949 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS42 action pref=130; accept AS-PCH"
+      }, {
+        "name" : "export",
+        "value" : "to AS42 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS43303 action pref=130; accept AS-CDNETWORKS"
+      }, {
+        "name" : "export",
+        "value" : "to AS43303 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS4355 action pref=130; accept AS-EarthLink"
+      }, {
+        "name" : "export",
+        "value" : "to AS4355 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS43560 action pref=130; accept AS-PANTHERIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS43560 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS43573 action pref=130; accept AS-EBSD"
+      }, {
+        "name" : "export",
+        "value" : "to AS43573 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS43821 action pref=130; accept AS-WIKIMEDIA"
+      }, {
+        "name" : "export",
+        "value" : "to AS43821 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS45047 action pref=130; accept AS-CONACOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS45047 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS4565 action pref=130; accept AS-EPOCH"
+      }, {
+        "name" : "export",
+        "value" : "to AS4565 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS4589 action pref=130; accept AS-EASYNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS4589 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS4589 action pref=130; accept AS-FLIX"
+      }, {
+        "name" : "export",
+        "value" : "to AS4589 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS4637 action pref=130; accept AS-REACH-CUSTOMERS"
+      }, {
+        "name" : "export",
+        "value" : "to AS4637 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS4766 action pref=130; accept AS-KORNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS4766 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS4788 action pref=130; accept AS-TMNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS4788 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5089 action pref=130; accept AS-NTLI"
+      }, {
+        "name" : "export",
+        "value" : "to AS5089 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5089 action pref=130; accept AS-NTLI"
+      }, {
+        "name" : "export",
+        "value" : "to AS5089 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5089 action pref=130; accept AS-NTLI"
+      }, {
+        "name" : "export",
+        "value" : "to AS5089 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5089 action pref=130; accept AS-NTLI"
+      }, {
+        "name" : "export",
+        "value" : "to AS5089 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5388 action pref=130; accept AS-ENERGIS"
+      }, {
+        "name" : "export",
+        "value" : "to AS5388 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5390 action pref=130; accept AS-EURONET"
+      }, {
+        "name" : "export",
+        "value" : "to AS5390 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5409 action pref=130; accept AS-TPL"
+      }, {
+        "name" : "export",
+        "value" : "to AS5409 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5410 action pref=130; accept AS-T-ONLINEFRANCE"
+      }, {
+        "name" : "export",
+        "value" : "to AS5410 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5413 action pref=130; accept AS5413:AS-CUSTOMER"
+      }, {
+        "name" : "export",
+        "value" : "to AS5413 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5413 action pref=130; accept AS-PIPEX"
+      }, {
+        "name" : "export",
+        "value" : "to AS5413 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5427 action pref=130; accept AS-PRTL-EU"
+      }, {
+        "name" : "export",
+        "value" : "to AS5427 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5430 action pref=130; accept AS-FREENETDE"
+      }, {
+        "name" : "export",
+        "value" : "to AS5430 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5436 action pref=130; accept AS-BTAH"
+      }, {
+        "name" : "export",
+        "value" : "to AS5436 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5459 action pref=130; accept AS-LINX"
+      }, {
+        "name" : "export",
+        "value" : "to AS5459 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5462 action pref=130; accept AS-CABLEINET"
+      }, {
+        "name" : "export",
+        "value" : "to AS5462 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5466 action pref=130; accept AS-EIRCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS5466 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5503 action pref=130; accept AS-RMIFL"
+      }, {
+        "name" : "export",
+        "value" : "to AS5503 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5539 action pref=130; accept AS-SPACENET"
+      }, {
+        "name" : "export",
+        "value" : "to AS5539 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS553 action pref=130; accept AS-BELWUE"
+      }, {
+        "name" : "export",
+        "value" : "to AS553 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5552 action pref=130; accept AS-DIALNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS5552 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5568 action pref=130; accept AS-RBNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS5568 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5571 action pref=130; accept AS-NETCOMUK"
+      }, {
+        "name" : "export",
+        "value" : "to AS5571 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5583 action pref=130; accept AS-GLOBALONE-UK"
+      }, {
+        "name" : "export",
+        "value" : "to AS5583 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5587 action pref=130; accept AS-BSVE"
+      }, {
+        "name" : "export",
+        "value" : "to AS5587 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5588 action pref=130; accept AS-GTS-CE"
+      }, {
+        "name" : "export",
+        "value" : "to AS5588 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5605 action pref=130; accept AS-NETUSE"
+      }, {
+        "name" : "export",
+        "value" : "to AS5605 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5631 action pref=130; accept AS-VITAL-GROUP"
+      }, {
+        "name" : "export",
+        "value" : "to AS5631 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6067 action pref=130; accept AS-ONYX"
+      }, {
+        "name" : "export",
+        "value" : "to AS6067 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6083 action pref=130; accept AS-POSIX"
+      }, {
+        "name" : "export",
+        "value" : "to AS6083 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6320 action pref=130; accept AS-TELECOMPLETE"
+      }, {
+        "name" : "export",
+        "value" : "to AS6320 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6327 action pref=130; accept AS-BIGPIPE"
+      }, {
+        "name" : "export",
+        "value" : "to AS6327 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6432 action pref=130; accept AS-DOUBLECLICK"
+      }, {
+        "name" : "export",
+        "value" : "to AS6432 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6461 action pref=130; accept AS-MFNX"
+      }, {
+        "name" : "export",
+        "value" : "to AS6461 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6539 action pref=130; accept AS-GT"
+      }, {
+        "name" : "export",
+        "value" : "to AS6539 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6656 action pref=130; accept AS-STG"
+      }, {
+        "name" : "export",
+        "value" : "to AS6656 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6661 action pref=130; accept AS-PTLU"
+      }, {
+        "name" : "export",
+        "value" : "to AS6661 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6663 action pref=130; accept AS-STARNETSRO"
+      }, {
+        "name" : "export",
+        "value" : "to AS6663 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6666 action pref=130; accept AS-HEADLIGHT"
+      }, {
+        "name" : "export",
+        "value" : "to AS6666 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6667 action pref=130; accept AS-KOLUMBUS"
+      }, {
+        "name" : "export",
+        "value" : "to AS6667 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6677 action pref=130; accept AS-ICENET"
+      }, {
+        "name" : "export",
+        "value" : "to AS6677 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6724 action pref=130; accept AS-STRATORZ"
+      }, {
+        "name" : "export",
+        "value" : "to AS6724 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6730 action pref=130; accept AS-GLOBAL"
+      }, {
+        "name" : "export",
+        "value" : "to AS6730 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6735 action pref=130; accept AS-SDTDECIX"
+      }, {
+        "name" : "export",
+        "value" : "to AS6735 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6762 action pref=130; accept AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS6762 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6770 action pref=130; accept AS-AEXIOMUS-T"
+      }, {
+        "name" : "export",
+        "value" : "to AS6770 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6774 action pref=130; accept AS-BELBONETOPEERS"
+      }, {
+        "name" : "export",
+        "value" : "to AS6774 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6779 action pref=130; accept AS-ICLNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS6779 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6805 action pref=130; accept AS-TDDE"
+      }, {
+        "name" : "export",
+        "value" : "to AS6805 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6830 action pref=130; accept AS-CHELLOBRB"
+      }, {
+        "name" : "export",
+        "value" : "to AS6830 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6871 action pref=130; accept AS-PLUSNETUK"
+      }, {
+        "name" : "export",
+        "value" : "to AS6871 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS6939 action pref=130; accept AS-HURRICANE"
+      }, {
+        "name" : "export",
+        "value" : "to AS6939 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS7132 action pref=130; accept AS-SBCIS"
+      }, {
+        "name" : "export",
+        "value" : "to AS7132 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS7575 action pref=130; accept AS7575:AS-CUSTOMER"
+      }, {
+        "name" : "export",
+        "value" : "to AS7575 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS7795 action pref=130; accept AS-CFW"
+      }, {
+        "name" : "export",
+        "value" : "to AS7795 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS786 action pref=130; accept AS-JANETPLUS"
+      }, {
+        "name" : "export",
+        "value" : "to AS786 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8001 action pref=130; accept AS-NAC"
+      }, {
+        "name" : "export",
+        "value" : "to AS8001 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8068 action pref=130; accept AS-MICROSOFTEU"
+      }, {
+        "name" : "export",
+        "value" : "to AS8068 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8121 action pref=130; accept AS-LAYER42"
+      }, {
+        "name" : "export",
+        "value" : "to AS8121 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8196 action pref=130; accept AS-CLARANETDE"
+      }, {
+        "name" : "export",
+        "value" : "to AS8196 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8220 action pref=130; accept AS-COLT"
+      }, {
+        "name" : "export",
+        "value" : "to AS8220 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8304 action pref=130; accept AS-ECRITEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS8304 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8319 action pref=130; accept AS-IXNETHINKS"
+      }, {
+        "name" : "export",
+        "value" : "to AS8319 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8341 action pref=130; accept AS-QUICKNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS8341 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8342 action pref=130; accept AS-RT"
+      }, {
+        "name" : "export",
+        "value" : "to AS8342 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8359 action pref=130; accept AS-MTU"
+      }, {
+        "name" : "export",
+        "value" : "to AS8359 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8365 action pref=130; accept AS-MANDA"
+      }, {
+        "name" : "export",
+        "value" : "to AS8365 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8419 action pref=130; accept AS-HOTCHILLI"
+      }, {
+        "name" : "export",
+        "value" : "to AS8419 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8422 action pref=130; accept AS-NETCOLOGNE"
+      }, {
+        "name" : "export",
+        "value" : "to AS8422 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8426 action pref=130; accept AS-CLARANETUK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8426 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8442 action pref=130; accept AS-DIG"
+      }, {
+        "name" : "export",
+        "value" : "to AS8442 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8447 action pref=130; accept AS-PTA"
+      }, {
+        "name" : "export",
+        "value" : "to AS8447 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8468 action pref=130; accept AS-ENTANET"
+      }, {
+        "name" : "export",
+        "value" : "to AS8468 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8469 action pref=130; accept AS-PIRONETNDH"
+      }, {
+        "name" : "export",
+        "value" : "to AS8469 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8492 action pref=130; accept AS-OBIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS8492 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8527 action pref=130; accept AS-INTERNET-FR"
+      }, {
+        "name" : "export",
+        "value" : "to AS8527 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8546 action pref=130; accept AS-YOURCOMMS"
+      }, {
+        "name" : "export",
+        "value" : "to AS8546 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8553 action pref=130; accept AS-AVENSYS"
+      }, {
+        "name" : "export",
+        "value" : "to AS8553 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8554 action pref=130; accept AS-TAS"
+      }, {
+        "name" : "export",
+        "value" : "to AS8554 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8560 action pref=130; accept AS-1AND1"
+      }, {
+        "name" : "export",
+        "value" : "to AS8560 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8565 action pref=130; accept AS-BLUEGIX"
+      }, {
+        "name" : "export",
+        "value" : "to AS8565 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8577 action pref=130; accept AS-RACKAGE"
+      }, {
+        "name" : "export",
+        "value" : "to AS8577 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8586 action pref=130; accept AS-REDNETTOTRANSIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS8586 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8608 action pref=130; accept AS-QINIP"
+      }, {
+        "name" : "export",
+        "value" : "to AS8608 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8648 action pref=130; accept AS-KAMP"
+      }, {
+        "name" : "export",
+        "value" : "to AS8648 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8674 action pref=130; accept AS-NETNOD"
+      }, {
+        "name" : "export",
+        "value" : "to AS8674 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8677 action pref=130; accept AS-INFONIE"
+      }, {
+        "name" : "export",
+        "value" : "to AS8677 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8683 action pref=130; accept AS-NOMINET"
+      }, {
+        "name" : "export",
+        "value" : "to AS8683 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8708 action pref=130; accept AS-PCNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS8708 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8714 action pref=130; accept AS-LINX-CONNECTED"
+      }, {
+        "name" : "export",
+        "value" : "to AS8714 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8717 action pref=130; accept AS-SPNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS8717 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8737 action pref=130; accept AS-KPN-IS"
+      }, {
+        "name" : "export",
+        "value" : "to AS8737 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8741 action pref=130; accept AS-ECORE"
+      }, {
+        "name" : "export",
+        "value" : "to AS8741 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8767 action pref=130; accept AS-MNETDE"
+      }, {
+        "name" : "export",
+        "value" : "to AS8767 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8784 action pref=130; accept AS-MGN"
+      }, {
+        "name" : "export",
+        "value" : "to AS8784 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8804 action pref=130; accept AS-REGIONET"
+      }, {
+        "name" : "export",
+        "value" : "to AS8804 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8851 action pref=130; accept AS-INWEB"
+      }, {
+        "name" : "export",
+        "value" : "to AS8851 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8859 action pref=130; accept AS-OSN"
+      }, {
+        "name" : "export",
+        "value" : "to AS8859 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8879 action pref=130; accept AS-DTS"
+      }, {
+        "name" : "export",
+        "value" : "to AS8879 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8897 action pref=130; accept AS-MISTRAL"
+      }, {
+        "name" : "export",
+        "value" : "to AS8897 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8912 action pref=130; accept AS-NETBENEFIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS8912 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8918 action pref=130; accept AS-CARRIERONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS8918 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8928 action pref=130; accept AS-INTEROUTE"
+      }, {
+        "name" : "export",
+        "value" : "to AS8928 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8939 action pref=130; accept AS-ADTECH"
+      }, {
+        "name" : "export",
+        "value" : "to AS8939 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8954 action pref=130; accept AS-BDXNLBUYERS"
+      }, {
+        "name" : "export",
+        "value" : "to AS8954 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8966 action pref=130; accept AS-EMIX"
+      }, {
+        "name" : "export",
+        "value" : "to AS8966 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS9002 action pref=130; accept AS-RETN"
+      }, {
+        "name" : "export",
+        "value" : "to AS9002 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS9009 action pref=130; accept AS-REALROUTE"
+      }, {
+        "name" : "export",
+        "value" : "to AS9009 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS9044 action pref=130; accept AS-SOLNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS9044 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS9063 action pref=130; accept AS-SAARGATE"
+      }, {
+        "name" : "export",
+        "value" : "to AS9063 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS9066 action pref=130; accept AS-BCC"
+      }, {
+        "name" : "export",
+        "value" : "to AS9066 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS9070 action pref=130; accept AS-ITDOUT"
+      }, {
+        "name" : "export",
+        "value" : "to AS9070 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS9119 action pref=130; accept AS-SOFTNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS9119 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS9121 action pref=130; accept AS-TURNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS9121 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS9132 action pref=130; accept AS-MEDIASCAPE"
+      }, {
+        "name" : "export",
+        "value" : "to AS9132 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS9143 action pref=130; accept AS-BENELUX"
+      }, {
+        "name" : "export",
+        "value" : "to AS9143 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS9145 action pref=130; accept AS-NORDCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS9145 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS9150 action pref=130; accept AS-INTERCONNECT"
+      }, {
+        "name" : "export",
+        "value" : "to AS9150 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS9189 action pref=130; accept AS-ACCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS9189 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS9191 action pref=130; accept AS-NEWNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS9191 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS9211 action pref=130; accept AS-WORK"
+      }, {
+        "name" : "export",
+        "value" : "to AS9211 announce AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS9505 action pref=130; accept AS-TWIG"
+      }, {
+        "name" : "export",
+        "value" : "to AS9505 announce AS-CPRM"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/LMF28-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "LMF28-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/PAC1-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "PAC1-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/LMA14-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "LMA14-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/SAS310-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "SAS310-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "name" : "remarks",
+        "value" : "For information on \"status:\" attribute read https://www.ripe.net/data-tools/db/faq/faq-status-values-legacy-resources"
+      }, {
+        "name" : "status",
+        "value" : "ASSIGNED"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-END-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-END-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/CPRM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "CPRM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    },
+    "tags" : {
+      "tag" : [ {
+        "id" : "RIPE-REGISTRY-RESOURCE",
+        "data" : null
+      } ]
+    }
+  }, {
+    "type" : "organisation",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/organisation/ORG-CPRM1-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "organisation",
+        "value" : "ORG-CPRM1-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "organisation",
+        "value" : "ORG-CPRM1-RIPE"
+      }, {
+        "name" : "org-name",
+        "value" : "PT Comunicacoes S A"
+      }, {
+        "name" : "org-type",
+        "value" : "LIR"
+      }, {
+        "name" : "address",
+        "value" : "PT Comunicacoes, S.A."
+      }, {
+        "name" : "address",
+        "value" : "Luis Marques Ferreira"
+      }, {
+        "name" : "address",
+        "value" : "Rua Andrade Corvo, 6"
+      }, {
+        "name" : "address",
+        "value" : "1050-009"
+      }, {
+        "name" : "address",
+        "value" : "Lisbon"
+      }, {
+        "name" : "address",
+        "value" : "PORTUGAL"
+      }, {
+        "name" : "phone",
+        "value" : "+351 214 146 590"
+      }, {
+        "name" : "fax-no",
+        "value" : "+351 214 146 512"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/AR16481-RIPE"
+        },
+        "name" : "abuse-c",
+        "value" : "AR16481-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/LMA14-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "LMA14-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/PAC1-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "PAC1-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/SAS310-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "SAS310-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/LMF28-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "LMF28-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/CPRM-MNT"
+        },
+        "name" : "mnt-ref",
+        "value" : "CPRM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-ref",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "person",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/person/LMA14-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "nic-hdl",
+        "value" : "LMA14-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "person",
+        "value" : "Luis Filipe Malato Monteiro de Almeida"
+      }, {
+        "name" : "address",
+        "value" : "PT Comunicacoes"
+      }, {
+        "name" : "address",
+        "value" : "Rua Marconi"
+      }, {
+        "name" : "address",
+        "value" : "2795-135 Linda-a-Velha"
+      }, {
+        "name" : "address",
+        "value" : "Portugal"
+      }, {
+        "name" : "phone",
+        "value" : "+351215016116"
+      }, {
+        "name" : "fax-no",
+        "value" : "+351214146512"
+      }, {
+        "name" : "nic-hdl",
+        "value" : "LMA14-RIPE"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/CPRM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "CPRM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "person",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/person/LMF28-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "nic-hdl",
+        "value" : "LMF28-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "person",
+        "value" : "Luis Marques Ferreira"
+      }, {
+        "name" : "address",
+        "value" : "PT Comunicacoes"
+      }, {
+        "name" : "address",
+        "value" : "Rua Andrade Corvo, 6"
+      }, {
+        "name" : "address",
+        "value" : "Piso 2"
+      }, {
+        "name" : "address",
+        "value" : "1050-009 Lisboa"
+      }, {
+        "name" : "address",
+        "value" : "Portugal"
+      }, {
+        "name" : "phone",
+        "value" : "+351215007300"
+      }, {
+        "name" : "fax-no",
+        "value" : "+351215007377"
+      }, {
+        "name" : "nic-hdl",
+        "value" : "LMF28-RIPE"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/CPRM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "CPRM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "person",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/person/PAC1-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "nic-hdl",
+        "value" : "PAC1-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "person",
+        "value" : "Pedro Alexandre Correia"
+      }, {
+        "name" : "address",
+        "value" : "PT Comunicações"
+      }, {
+        "name" : "address",
+        "value" : "CTI - Centro de Telecomunicacoes Internacional"
+      }, {
+        "name" : "address",
+        "value" : "Rua Marconi"
+      }, {
+        "name" : "address",
+        "value" : "2795135 LINDA-A-VELHA"
+      }, {
+        "name" : "address",
+        "value" : "Portugal"
+      }, {
+        "name" : "phone",
+        "value" : "+351 215016090"
+      }, {
+        "name" : "fax-no",
+        "value" : "+351 214146512"
+      }, {
+        "name" : "nic-hdl",
+        "value" : "PAC1-RIPE"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/CPRM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "CPRM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "person",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/person/SAS310-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "nic-hdl",
+        "value" : "SAS310-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "person",
+        "value" : "Sandra Alves dos Santos"
+      }, {
+        "name" : "address",
+        "value" : "PT Comunicações"
+      }, {
+        "name" : "address",
+        "value" : "CTI - Centro de Telecomunicacoes Internacional"
+      }, {
+        "name" : "address",
+        "value" : "Rua Marconi"
+      }, {
+        "name" : "address",
+        "value" : "2795135 LINDA-A-VELHA"
+      }, {
+        "name" : "address",
+        "value" : "Portugal"
+      }, {
+        "name" : "phone",
+        "value" : "+351 215016094"
+      }, {
+        "name" : "fax-no",
+        "value" : "+351 214146543"
+      }, {
+        "name" : "nic-hdl",
+        "value" : "SAS310-RIPE"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/CPRM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "CPRM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  } ]
+},
+"terms-and-conditions" : {
+  "type" : "locator",
+  "href" : "http://www.ripe.net/db/support/db-terms-conditions.pdf"
+}
+}

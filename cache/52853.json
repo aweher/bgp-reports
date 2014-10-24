@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52853,
+  "endAutnum" : 52853,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52853",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52853"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111101",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "UPU3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-UUFL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-UUFL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Uflanet Provedor de Acesso da Ufla"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLavras, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lavras","MG","04578-000","BR"]],["email",{"type":"work"},"text","UPU3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["org",{},"text",["UFLA - UNIVERSIDADE FEDERAL DE LAVRAS"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "UPU3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/UPU3",
+        "value" : "http://rdap.labs.lacnic.net/entity/UPU3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Uflanet Provedor de Acesso da Ufla"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLavras, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lavras","MG","04578-000","BR"]],["email",{"type":"work"},"text","UPU3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "UPU3"
+      } ],
+      "entities" : [ ],
+      "handle" : "UPU3"
+    } ],
+    "handle" : "BR-UUFL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/UPU3",
+      "value" : "http://rdap.labs.lacnic.net/entity/UPU3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Uflanet Provedor de Acesso da Ufla"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLavras, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lavras","MG","04578-000","BR"]],["email",{"type":"work"},"text","UPU3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "UPU3"
+    } ],
+    "entities" : [ ],
+    "handle" : "UPU3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/UPU3",
+      "value" : "http://rdap.labs.lacnic.net/entity/UPU3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Uflanet Provedor de Acesso da Ufla"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLavras, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lavras","MG","04578-000","BR"]],["email",{"type":"work"},"text","UPU3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "UPU3"
+    } ],
+    "entities" : [ ],
+    "handle" : "UPU3"
+  } ],
+  "type" : null,
+  "handle" : "52853-LACNIC",
+  "country" : "BR"
+}

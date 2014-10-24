@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52812,
+  "endAutnum" : 52812,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52812",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52812"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121009",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "WAP10"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-RVMQ-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-RVMQ-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","WAGNER PEDROSA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSousa, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sousa","PB","04578-000","BR"]],["email",{"type":"work"},"text","WAP10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["org",{},"text",["WRLINK TELECOM"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140317",
+      "eventActor" : "WAP10"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/WAP10",
+        "value" : "http://rdap.labs.lacnic.net/entity/WAP10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","WAGNER PEDROSA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSousa, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sousa","PB","04578-000","BR"]],["email",{"type":"work"},"text","WAP10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "WAP10"
+      } ],
+      "entities" : [ ],
+      "handle" : "WAP10"
+    } ],
+    "handle" : "BR-RVMQ-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WAP10",
+      "value" : "http://rdap.labs.lacnic.net/entity/WAP10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","WAGNER PEDROSA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSousa, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sousa","PB","04578-000","BR"]],["email",{"type":"work"},"text","WAP10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WAP10"
+    } ],
+    "entities" : [ ],
+    "handle" : "WAP10"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WAP10",
+      "value" : "http://rdap.labs.lacnic.net/entity/WAP10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","WAGNER PEDROSA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSousa, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sousa","PB","04578-000","BR"]],["email",{"type":"work"},"text","WAP10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WAP10"
+    } ],
+    "entities" : [ ],
+    "handle" : "WAP10"
+  } ],
+  "type" : null,
+  "handle" : "52812-LACNIC",
+  "country" : "BR"
+}

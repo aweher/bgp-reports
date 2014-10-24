@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/16742",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/16742"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-UCVA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-UCVA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Ortiz"],["adr",{"label":"Avenida Brasil 2950 2950 ()\nVALPARAISO,  234-0025\nCL","type":"work"},"text",["","","Avenida Brasil 2950 2950 ()","VALPARAISO","","234-0025","CL"]],["email",{"type":"work"},"text","fortiz@UCV.CL"],["tel",{"type":"work"},"text","56 32 273053 ()"],["org",{},"text",["Universidad Catolica de Valparaiso"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FEO4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FEO4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Ortiz"],["adr",{"label":"Av Brasil 2950 ()\nValpara?so,  2370200\nCL","type":"work"},"text",["","","Av Brasil 2950 ()","Valpara?so","","2370200","CL"]],["email",{"type":"work"},"text","fortiz@UCV.CL"],["tel",{"type":"work"},"text","56 32 273053 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060125",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20090408",
+        "eventActor" : "FEO4"
+      } ],
+      "handle" : "FEO4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060223",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100206",
+      "eventActor" : "FEO4"
+    } ],
+    "handle" : "CL-UCVA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEO4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEO4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Ortiz"],["adr",{"label":"Av Brasil 2950 ()\nValpara?so,  2370200\nCL","type":"work"},"text",["","","Av Brasil 2950 ()","Valpara?so","","2370200","CL"]],["email",{"type":"work"},"text","fortiz@UCV.CL"],["tel",{"type":"work"},"text","56 32 273053 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060125",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090408",
+      "eventActor" : "FEO4"
+    } ],
+    "handle" : "FEO4"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEO4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEO4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Ortiz"],["adr",{"label":"Av Brasil 2950 ()\nValpara?so,  2370200\nCL","type":"work"},"text",["","","Av Brasil 2950 ()","Valpara?so","","2370200","CL"]],["email",{"type":"work"},"text","fortiz@UCV.CL"],["tel",{"type":"work"},"text","56 32 273053 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060125",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090408",
+      "eventActor" : "FEO4"
+    } ],
+    "handle" : "FEO4"
+  } ],
+  "startAutnum" : 16742,
+  "endAutnum" : 16742,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20000605",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20040415",
+    "eventActor" : "FEO4"
+  } ],
+  "type" : null,
+  "handle" : "16742-LACNIC",
+  "country" : "CL"
+}

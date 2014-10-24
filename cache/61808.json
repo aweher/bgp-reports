@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61808,
+  "endAutnum" : 61808,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61808",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61808"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140626",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140626",
+    "eventActor" : "TIG3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ASET12-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ASET12-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tiago Garbim"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampinas, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campinas","SP","04578-000","BR"]],["email",{"type":"work"},"text","TIG3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["ATIVY - SERVICOS EM TECNOLOGIA DA INFORMACAO LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140626",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140627",
+      "eventActor" : "TIG3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/TIG3",
+        "value" : "http://rdap.labs.lacnic.net/entity/TIG3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tiago Garbim"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampinas, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campinas","SP","04578-000","BR"]],["email",{"type":"work"},"text","TIG3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "TIG3"
+      } ],
+      "entities" : [ ],
+      "handle" : "TIG3"
+    } ],
+    "handle" : "BR-ASET12-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TIG3",
+      "value" : "http://rdap.labs.lacnic.net/entity/TIG3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tiago Garbim"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampinas, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campinas","SP","04578-000","BR"]],["email",{"type":"work"},"text","TIG3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TIG3"
+    } ],
+    "entities" : [ ],
+    "handle" : "TIG3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TIG3",
+      "value" : "http://rdap.labs.lacnic.net/entity/TIG3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tiago Garbim"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampinas, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campinas","SP","04578-000","BR"]],["email",{"type":"work"},"text","TIG3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TIG3"
+    } ],
+    "entities" : [ ],
+    "handle" : "TIG3"
+  } ],
+  "type" : null,
+  "handle" : "61808-LACNIC",
+  "country" : "BR"
+}

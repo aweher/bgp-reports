@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/26594",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/26594"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CNPC-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CNPC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administracion tecnica de DNS"],["adr",{"label":"Maipu 1 ()\nCapital Federal, BA 1084\nAR","type":"work"},"text",["","","Maipu 1 ()","Capital Federal","BA","1084","AR"]],["email",{"type":"work"},"text","dns@PETROBRAS.COM"],["tel",{"type":"work"},"text","54 11 4344 (6368)"],["org",{},"text",["PETROBRAS ENERGIA S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ATD",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ATD"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administracion tecnica de DNS"],["adr",{"label":"Maipu 1 ()\nBuenos Aires, BA C1084ABA\nAR","type":"work"},"text",["","","Maipu 1 ()","Buenos Aires","BA","C1084ABA","AR"]],["email",{"type":"work"},"text","dns@PETROBRAS.COM"],["tel",{"type":"work"},"text","54 11 4344-6000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20051027",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20071122",
+        "eventActor" : "ATD"
+      } ],
+      "handle" : "ATD"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050711",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130118",
+      "eventActor" : "ATD"
+    } ],
+    "handle" : "AR-CNPC-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ATD",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ATD"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administracion tecnica de DNS"],["adr",{"label":"Maipu 1 ()\nBuenos Aires, BA C1084ABA\nAR","type":"work"},"text",["","","Maipu 1 ()","Buenos Aires","BA","C1084ABA","AR"]],["email",{"type":"work"},"text","dns@PETROBRAS.COM"],["tel",{"type":"work"},"text","54 11 4344-6000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20051027",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20071122",
+      "eventActor" : "ATD"
+    } ],
+    "handle" : "ATD"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAL14",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAL14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Lopez"],["adr",{"label":"Maipu 1 ()\nBuenos Aires, null C1084ABA\nAR","type":"work"},"text",["","","Maipu 1 ()","Buenos Aires","","C1084ABA","AR"]],["email",{"type":"work"},"text","marcelo.lopez@PETROBRAS.COM"],["tel",{"type":"work"},"text","54 11 4344-6368 (6368)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050711",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20050711",
+      "eventActor" : "MAL14"
+    } ],
+    "handle" : "MAL14"
+  } ],
+  "startAutnum" : 26594,
+  "endAutnum" : 26594,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20020830",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110926",
+    "eventActor" : "ATD"
+  } ],
+  "type" : null,
+  "handle" : "26594-LACNIC",
+  "country" : "AR"
+}

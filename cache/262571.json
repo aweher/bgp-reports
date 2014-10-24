@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262571,
+  "endAutnum" : 262571,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262571",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262571"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110829",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "IAP7"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SNSS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SNSS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Internet.com Access Provider"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nQueimados, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Queimados","RJ","04578-000","BR"]],["email",{"type":"work"},"text","IAP7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["org",{},"text",["SM Networks (SM Servi?os Ltda)"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "IAP7"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/IAP7",
+        "value" : "http://rdap.labs.lacnic.net/entity/IAP7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Internet.com Access Provider"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nQueimados, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Queimados","RJ","04578-000","BR"]],["email",{"type":"work"},"text","IAP7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "IAP7"
+      } ],
+      "entities" : [ ],
+      "handle" : "IAP7"
+    } ],
+    "handle" : "BR-SNSS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IAP7",
+      "value" : "http://rdap.labs.lacnic.net/entity/IAP7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Internet.com Access Provider"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nQueimados, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Queimados","RJ","04578-000","BR"]],["email",{"type":"work"},"text","IAP7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "IAP7"
+    } ],
+    "entities" : [ ],
+    "handle" : "IAP7"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IAP7",
+      "value" : "http://rdap.labs.lacnic.net/entity/IAP7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Internet.com Access Provider"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nQueimados, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Queimados","RJ","04578-000","BR"]],["email",{"type":"work"},"text","IAP7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "IAP7"
+    } ],
+    "entities" : [ ],
+    "handle" : "IAP7"
+  } ],
+  "type" : null,
+  "handle" : "262571-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61908,
+  "endAutnum" : 61908,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61908",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61908"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140425",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140425",
+    "eventActor" : "AMS63"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NTLT62-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NTLT62-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Arlan Morais"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelford Roxo, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belford Roxo","RJ","04578-000","BR"]],["email",{"type":"work"},"text","ARM50@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["org",{},"text",["NovaNet Telecomunica??es Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140306",
+      "eventActor" : "ARM50"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ARM50",
+        "value" : "http://rdap.labs.lacnic.net/entity/ARM50"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Arlan Morais"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelford Roxo, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belford Roxo","RJ","04578-000","BR"]],["email",{"type":"work"},"text","ARM50@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20140306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140306",
+        "eventActor" : "ARM50"
+      } ],
+      "entities" : [ ],
+      "handle" : "ARM50"
+    } ],
+    "handle" : "BR-NTLT62-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AMS63",
+      "value" : "http://rdap.labs.lacnic.net/entity/AMS63"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","AD?O MIGUEL DOS SANTOS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelford Roxo, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belford Roxo","RJ","04578-000","BR"]],["email",{"type":"work"},"text","AMS63@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140324",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140324",
+      "eventActor" : "AMS63"
+    } ],
+    "entities" : [ ],
+    "handle" : "AMS63"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AMS63",
+      "value" : "http://rdap.labs.lacnic.net/entity/AMS63"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","AD?O MIGUEL DOS SANTOS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelford Roxo, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belford Roxo","RJ","04578-000","BR"]],["email",{"type":"work"},"text","AMS63@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140324",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140324",
+      "eventActor" : "AMS63"
+    } ],
+    "entities" : [ ],
+    "handle" : "AMS63"
+  } ],
+  "type" : null,
+  "handle" : "61908-LACNIC",
+  "country" : "BR"
+}

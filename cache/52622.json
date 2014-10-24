@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52622,
+  "endAutnum" : 52622,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52622",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52622"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130402",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130402",
+    "eventActor" : "TRP4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TRTR1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TRTR1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TRIBUNAL REG. DO TRABALHO-4.A REGIAO POA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Alegre, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Alegre","RS","04578-000","BR"]],["email",{"type":"work"},"text","TRP4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["Tribunal Regional do Trabalho da 4 Regiao"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130403",
+      "eventActor" : "TRP4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/TRP4",
+        "value" : "http://rdap.labs.lacnic.net/entity/TRP4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TRIBUNAL REG. DO TRABALHO-4.A REGIAO POA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Alegre, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Alegre","RS","04578-000","BR"]],["email",{"type":"work"},"text","TRP4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "TRP4"
+      } ],
+      "entities" : [ ],
+      "handle" : "TRP4"
+    } ],
+    "handle" : "BR-TRTR1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TRP4",
+      "value" : "http://rdap.labs.lacnic.net/entity/TRP4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TRIBUNAL REG. DO TRABALHO-4.A REGIAO POA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Alegre, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Alegre","RS","04578-000","BR"]],["email",{"type":"work"},"text","TRP4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TRP4"
+    } ],
+    "entities" : [ ],
+    "handle" : "TRP4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TRP4",
+      "value" : "http://rdap.labs.lacnic.net/entity/TRP4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TRIBUNAL REG. DO TRABALHO-4.A REGIAO POA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Alegre, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Alegre","RS","04578-000","BR"]],["email",{"type":"work"},"text","TRP4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TRP4"
+    } ],
+    "entities" : [ ],
+    "handle" : "TRP4"
+  } ],
+  "type" : null,
+  "handle" : "52622-LACNIC",
+  "country" : "BR"
+}

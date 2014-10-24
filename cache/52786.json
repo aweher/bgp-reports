@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52786,
+  "endAutnum" : 52786,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52786",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52786"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120921",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "GAA30"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-OAAL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-OAAL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Guilherme Amorim de Oliveira Alves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCorumb?, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Corumb?","MS","04578-000","BR"]],["email",{"type":"work"},"text","GAA30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["org",{},"text",["Oliveira Alves E Amorim LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "GAA30"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GAA30",
+        "value" : "http://rdap.labs.lacnic.net/entity/GAA30"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Guilherme Amorim de Oliveira Alves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCorumb?, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Corumb?","MS","04578-000","BR"]],["email",{"type":"work"},"text","GAA30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "GAA30"
+      } ],
+      "entities" : [ ],
+      "handle" : "GAA30"
+    } ],
+    "handle" : "BR-OAAL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GAA30",
+      "value" : "http://rdap.labs.lacnic.net/entity/GAA30"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Guilherme Amorim de Oliveira Alves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCorumb?, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Corumb?","MS","04578-000","BR"]],["email",{"type":"work"},"text","GAA30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GAA30"
+    } ],
+    "entities" : [ ],
+    "handle" : "GAA30"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GAA30",
+      "value" : "http://rdap.labs.lacnic.net/entity/GAA30"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Guilherme Amorim de Oliveira Alves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCorumb?, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Corumb?","MS","04578-000","BR"]],["email",{"type":"work"},"text","GAA30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GAA30"
+    } ],
+    "entities" : [ ],
+    "handle" : "GAA30"
+  } ],
+  "type" : null,
+  "handle" : "52786-LACNIC",
+  "country" : "BR"
+}

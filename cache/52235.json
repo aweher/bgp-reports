@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52235",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52235"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-NESR10-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-NESR10-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Badenes Pablo"],["adr",{"label":"Calle 54 673 (1er piso)\nLa Plata, BA 1900\nAR","type":"work"},"text",["","","Calle 54 673 (1er piso)","La Plata","BA","1900","AR"]],["email",{"type":"work"},"text","pablo@NET-ALLIANCE.NET"],["tel",{"type":"work"},"text","54 221 4459900 ()"],["org",{},"text",["NetLP SRL"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/BAP",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/BAP"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Badenes Pablo"],["adr",{"label":"Calle 54 673 (1er piso)\nLa Plata, null 1900\nAR","type":"work"},"text",["","","Calle 54 673 (1er piso)","La Plata","","1900","AR"]],["email",{"type":"work"},"text","pablo@NET-ALLIANCE.NET"],["tel",{"type":"work"},"text","54 221 4459900 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100223",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100223",
+        "eventActor" : "BAP"
+      } ],
+      "handle" : "BAP"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100310",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "BAP"
+    } ],
+    "handle" : "AR-NESR10-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/BAP",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/BAP"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Badenes Pablo"],["adr",{"label":"Calle 54 673 (1er piso)\nLa Plata, null 1900\nAR","type":"work"},"text",["","","Calle 54 673 (1er piso)","La Plata","","1900","AR"]],["email",{"type":"work"},"text","pablo@NET-ALLIANCE.NET"],["tel",{"type":"work"},"text","54 221 4459900 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100223",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100223",
+      "eventActor" : "BAP"
+    } ],
+    "handle" : "BAP"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/BAP",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/BAP"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Badenes Pablo"],["adr",{"label":"Calle 54 673 (1er piso)\nLa Plata, null 1900\nAR","type":"work"},"text",["","","Calle 54 673 (1er piso)","La Plata","","1900","AR"]],["email",{"type":"work"},"text","pablo@NET-ALLIANCE.NET"],["tel",{"type":"work"},"text","54 221 4459900 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100223",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100223",
+      "eventActor" : "BAP"
+    } ],
+    "handle" : "BAP"
+  } ],
+  "startAutnum" : 52235,
+  "endAutnum" : 52235,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100409",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100410",
+    "eventActor" : "BAP"
+  } ],
+  "type" : null,
+  "handle" : "52235-LACNIC",
+  "country" : "AR"
+}

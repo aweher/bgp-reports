@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52986,
+  "endAutnum" : 52986,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52986",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52986"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110426",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "VPL12"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VPIL3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VPIL3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Vupt Provedora de Internet Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIt?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","It?","SC","04578-000","BR"]],["email",{"type":"work"},"text","VPL12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["org",{},"text",["Vupt Provedora de Internet Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "VPL12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/VPL12",
+        "value" : "http://rdap.labs.lacnic.net/entity/VPL12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Vupt Provedora de Internet Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIt?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","It?","SC","04578-000","BR"]],["email",{"type":"work"},"text","VPL12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "VPL12"
+      } ],
+      "entities" : [ ],
+      "handle" : "VPL12"
+    } ],
+    "handle" : "BR-VPIL3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VPL12",
+      "value" : "http://rdap.labs.lacnic.net/entity/VPL12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Vupt Provedora de Internet Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIt?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","It?","SC","04578-000","BR"]],["email",{"type":"work"},"text","VPL12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VPL12"
+    } ],
+    "entities" : [ ],
+    "handle" : "VPL12"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VPL12",
+      "value" : "http://rdap.labs.lacnic.net/entity/VPL12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Vupt Provedora de Internet Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIt?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","It?","SC","04578-000","BR"]],["email",{"type":"work"},"text","VPL12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VPL12"
+    } ],
+    "entities" : [ ],
+    "handle" : "VPL12"
+  } ],
+  "type" : null,
+  "handle" : "52986-LACNIC",
+  "country" : "BR"
+}

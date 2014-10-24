@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 22689,
+  "endAutnum" : 22689,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/22689",
+    "value" : "http://rdap.labs.lacnic.net/autnum/22689"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20011106",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "IBS4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-IBSS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-IBSS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Internet by Sercomtel S.A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLondrina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Londrina","PR","04578-000","BR"]],["email",{"type":"work"},"text","IBS4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["org",{},"text",["Internet by Sercomtel S.A."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130828",
+      "eventActor" : "IBS4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/IBS4",
+        "value" : "http://rdap.labs.lacnic.net/entity/IBS4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Internet by Sercomtel S.A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLondrina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Londrina","PR","04578-000","BR"]],["email",{"type":"work"},"text","IBS4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "IBS4"
+      } ],
+      "entities" : [ ],
+      "handle" : "IBS4"
+    } ],
+    "handle" : "BR-IBSS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IBS4",
+      "value" : "http://rdap.labs.lacnic.net/entity/IBS4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Internet by Sercomtel S.A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLondrina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Londrina","PR","04578-000","BR"]],["email",{"type":"work"},"text","IBS4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "IBS4"
+    } ],
+    "entities" : [ ],
+    "handle" : "IBS4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IBS4",
+      "value" : "http://rdap.labs.lacnic.net/entity/IBS4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Internet by Sercomtel S.A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLondrina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Londrina","PR","04578-000","BR"]],["email",{"type":"work"},"text","IBS4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "IBS4"
+    } ],
+    "entities" : [ ],
+    "handle" : "IBS4"
+  } ],
+  "type" : null,
+  "handle" : "22689-LACNIC",
+  "country" : "BR"
+}

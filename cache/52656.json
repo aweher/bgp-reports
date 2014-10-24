@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52656,
+  "endAutnum" : 52656,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52656",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52656"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121121",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MAC197"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CCEI8-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CCEI8-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marketing CISS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDois Vizinhos, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dois Vizinhos","PR","04578-000","BR"]],["email",{"type":"work"},"text","MAC197@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["org",{},"text",["Ciss Consultoria em Informatica Serv e Soft Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "MAC197"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MAC197",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAC197"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marketing CISS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDois Vizinhos, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dois Vizinhos","PR","04578-000","BR"]],["email",{"type":"work"},"text","MAC197@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MAC197"
+      } ],
+      "entities" : [ ],
+      "handle" : "MAC197"
+    } ],
+    "handle" : "BR-CCEI8-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAC197",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAC197"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marketing CISS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDois Vizinhos, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dois Vizinhos","PR","04578-000","BR"]],["email",{"type":"work"},"text","MAC197@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAC197"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAC197"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAC197",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAC197"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marketing CISS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDois Vizinhos, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dois Vizinhos","PR","04578-000","BR"]],["email",{"type":"work"},"text","MAC197@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAC197"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAC197"
+  } ],
+  "type" : null,
+  "handle" : "52656-LACNIC",
+  "country" : "BR"
+}

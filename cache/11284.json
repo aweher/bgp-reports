@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 11284,
+  "endAutnum" : 11284,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/11284",
+    "value" : "http://rdap.labs.lacnic.net/autnum/11284"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19991117",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "FAN4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NICP1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NICP1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Frederico Augusto de Carvalho Neves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","FAN4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["N?cleo de Inf. e Coord. do Ponto BR - NIC.BR"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130828",
+      "eventActor" : "FAN4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FAN4",
+        "value" : "http://rdap.labs.lacnic.net/entity/FAN4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Frederico Augusto de Carvalho Neves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","FAN4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FAN4"
+      } ],
+      "entities" : [ ],
+      "handle" : "FAN4"
+    } ],
+    "handle" : "BR-NICP1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAN4",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAN4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Frederico Augusto de Carvalho Neves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","FAN4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FAN4"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAN4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAN4",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAN4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Frederico Augusto de Carvalho Neves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","FAN4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FAN4"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAN4"
+  } ],
+  "type" : null,
+  "handle" : "11284-LACNIC",
+  "country" : "BR"
+}

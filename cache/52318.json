@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52318",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52318"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-ASIG-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-ASIG-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Goenaga"],["adr",{"label":"Av. independencia 635 ()\nBuenos Aires, CF C1099AAG\nAR","type":"work"},"text",["","","Av. independencia 635 ()","Buenos Aires","CF","C1099AAG","AR"]],["email",{"type":"work"},"text","ggoenaga@BUENOSAIRES.GOB.AR"],["tel",{"type":"work"},"text","54 11 43239300 ()"],["org",{},"text",["Agencia de Sistemas de Informacion, Gobierno de la Ciudad Aut?noma de Buenos Aires"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GUG23",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GUG23"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Goenaga"],["adr",{"label":"Av. Independencia 635 (2?)\nCiudad Autonoma de Buenos Aires,  C1099AAG\nAR","type":"work"},"text",["","","Av. Independencia 635 (2?)","Ciudad Autonoma de Buenos Aires","","C1099AAG","AR"]],["email",{"type":"work"},"text","ggoenaga@BUENOSAIRES.GOB.AR"],["tel",{"type":"work"},"text","0054 11 43239300 (1444)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120327",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130605",
+        "eventActor" : "GUG23"
+      } ],
+      "handle" : "GUG23"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101221",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130605",
+      "eventActor" : "GUG23"
+    } ],
+    "handle" : "AR-ASIG-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ELF3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ELF3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ernesto Luis Frias"],["adr",{"label":"Av. Independencia 635 ()\nBuenos Aires, null C1099AAG\nAR","type":"work"},"text",["","","Av. Independencia 635 ()","Buenos Aires","","C1099AAG","AR"]],["email",{"type":"work"},"text","efrias@BUENOSAIRES.GOB.AR"],["tel",{"type":"work"},"text","54 11 43239300 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101125",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101125",
+      "eventActor" : "ELF3"
+    } ],
+    "handle" : "ELF3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ELF3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ELF3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ernesto Luis Frias"],["adr",{"label":"Av. Independencia 635 ()\nBuenos Aires, null C1099AAG\nAR","type":"work"},"text",["","","Av. Independencia 635 ()","Buenos Aires","","C1099AAG","AR"]],["email",{"type":"work"},"text","efrias@BUENOSAIRES.GOB.AR"],["tel",{"type":"work"},"text","54 11 43239300 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101125",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101125",
+      "eventActor" : "ELF3"
+    } ],
+    "handle" : "ELF3"
+  } ],
+  "startAutnum" : 52318,
+  "endAutnum" : 52318,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110311",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110311",
+    "eventActor" : "ELF3"
+  } ],
+  "type" : null,
+  "handle" : "52318-LACNIC",
+  "country" : "AR"
+}

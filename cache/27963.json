@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27963",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27963"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-MAAM-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-MAAM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Anderson Tomaiz"],["adr",{"label":"Avenida Pedro de Valdivia 291 ()\nSantiago, RM 7500524\nCL","type":"work"},"text",["","","Avenida Pedro de Valdivia 291 ()","Santiago","RM","7500524","CL"]],["email",{"type":"work"},"text","anderson.tomaiz@BT.COM"],["tel",{"type":"work"},"text","56 2 2908036 ()"],["org",{},"text",["Anglo American Chile"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ANT2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ANT2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Anderson Tomaiz"],["adr",{"label":"Av. Nações Unidas 4777 (14 Andar)\nSão Paulo, null 05477000\nBR","type":"work"},"text",["","","Av. Nações Unidas 4777 (14 Andar)","São Paulo","","05477000","BR"]],["email",{"type":"work"},"text","anderson.tomaiz@BT.COM"],["tel",{"type":"work"},"text","55 11 21019915 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20071211",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20071211",
+        "eventActor" : "ANT2"
+      } ],
+      "handle" : "ANT2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071219",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130809",
+      "eventActor" : "ANT2"
+    } ],
+    "handle" : "CL-MAAM-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ANT2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ANT2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Anderson Tomaiz"],["adr",{"label":"Av. Nações Unidas 4777 (14 Andar)\nSão Paulo, null 05477000\nBR","type":"work"},"text",["","","Av. Nações Unidas 4777 (14 Andar)","São Paulo","","05477000","BR"]],["email",{"type":"work"},"text","anderson.tomaiz@BT.COM"],["tel",{"type":"work"},"text","55 11 21019915 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071211",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20071211",
+      "eventActor" : "ANT2"
+    } ],
+    "handle" : "ANT2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ANT2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ANT2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Anderson Tomaiz"],["adr",{"label":"Av. Nações Unidas 4777 (14 Andar)\nSão Paulo, null 05477000\nBR","type":"work"},"text",["","","Av. Nações Unidas 4777 (14 Andar)","São Paulo","","05477000","BR"]],["email",{"type":"work"},"text","anderson.tomaiz@BT.COM"],["tel",{"type":"work"},"text","55 11 21019915 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071211",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20071211",
+      "eventActor" : "ANT2"
+    } ],
+    "handle" : "ANT2"
+  } ],
+  "startAutnum" : 27963,
+  "endAutnum" : 27963,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080304",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080304",
+    "eventActor" : "ANT2"
+  } ],
+  "type" : null,
+  "handle" : "27963-LACNIC",
+  "country" : "CL"
+}

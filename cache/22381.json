@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 22381,
+  "endAutnum" : 22381,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/22381",
+    "value" : "http://rdap.labs.lacnic.net/autnum/22381"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20020405",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MTS8"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MTLT24-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MTLT24-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Megatelecom Telecomunicacoes S/A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSantana de Parna?ba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santana de Parna?ba","SP","04578-000","BR"]],["email",{"type":"work"},"text","MTS8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["Megatelecom Telecomunicacoes Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "MTS8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MTS8",
+        "value" : "http://rdap.labs.lacnic.net/entity/MTS8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Megatelecom Telecomunicacoes S/A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSantana de Parna?ba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santana de Parna?ba","SP","04578-000","BR"]],["email",{"type":"work"},"text","MTS8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MTS8"
+      } ],
+      "entities" : [ ],
+      "handle" : "MTS8"
+    } ],
+    "handle" : "BR-MTLT24-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MTS8",
+      "value" : "http://rdap.labs.lacnic.net/entity/MTS8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Megatelecom Telecomunicacoes S/A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSantana de Parna?ba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santana de Parna?ba","SP","04578-000","BR"]],["email",{"type":"work"},"text","MTS8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MTS8"
+    } ],
+    "entities" : [ ],
+    "handle" : "MTS8"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MTS8",
+      "value" : "http://rdap.labs.lacnic.net/entity/MTS8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Megatelecom Telecomunicacoes S/A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSantana de Parna?ba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santana de Parna?ba","SP","04578-000","BR"]],["email",{"type":"work"},"text","MTS8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MTS8"
+    } ],
+    "entities" : [ ],
+    "handle" : "MTS8"
+  } ],
+  "type" : null,
+  "handle" : "22381-LACNIC",
+  "country" : "BR"
+}

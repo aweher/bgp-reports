@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263603,
+  "endAutnum" : 263603,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263603",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263603"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130902",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130902",
+    "eventActor" : "MAM281"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DIIL1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DIIL1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jonas Elcio Eckert"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJoinville, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Joinville","SC","04578-000","BR"]],["email",{"type":"work"},"text","JEE8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["org",{},"text",["DUPLANET INTERNET E INFORMATICA LTDA - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140523",
+      "eventActor" : "JEE8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JEE8",
+        "value" : "http://rdap.labs.lacnic.net/entity/JEE8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jonas Elcio Eckert"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJaragu? do Sul, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jaragu? do Sul","SC","04578-000","BR"]],["email",{"type":"work"},"text","JEE8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JEE8"
+      } ],
+      "entities" : [ ],
+      "handle" : "JEE8"
+    } ],
+    "handle" : "BR-DIIL1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAM281",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAM281"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marciano Machado"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJaragu? do Sul, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jaragu? do Sul","","04578-000","BR"]],["email",{"type":"work"},"text","MAM281@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130524",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130524",
+      "eventActor" : "MAM281"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAM281"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAM281",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAM281"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marciano Machado"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJaragu? do Sul, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jaragu? do Sul","","04578-000","BR"]],["email",{"type":"work"},"text","MAM281@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130524",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130524",
+      "eventActor" : "MAM281"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAM281"
+  } ],
+  "type" : null,
+  "handle" : "263603-LACNIC",
+  "country" : "BR"
+}

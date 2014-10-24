@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262861,
+  "endAutnum" : 262861,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262861",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262861"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101216",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140429",
+    "eventActor" : "GTL15"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-GTSE1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-GTSE1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Orlando Ferreira Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVinhedo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vinhedo","SP","04578-000","BR"]],["email",{"type":"work"},"text","OFN2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["G30 TELECOM SERVI?OS EM TELECOMUNICA??ES LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140521",
+      "eventActor" : "OFN2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/OFN2",
+        "value" : "http://rdap.labs.lacnic.net/entity/OFN2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Orlando Ferreira Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampinas, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campinas","SP","04578-000","BR"]],["email",{"type":"work"},"text","OFN2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130721",
+        "eventActor" : "OFN2"
+      } ],
+      "entities" : [ ],
+      "handle" : "OFN2"
+    } ],
+    "handle" : "BR-GTSE1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GTL15",
+      "value" : "http://rdap.labs.lacnic.net/entity/GTL15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","G30 Telecomunica??es Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVinhedo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vinhedo","SP","04578-000","BR"]],["email",{"type":"work"},"text","GTL15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140317",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140317",
+      "eventActor" : "GTL15"
+    } ],
+    "entities" : [ ],
+    "handle" : "GTL15"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GTL15",
+      "value" : "http://rdap.labs.lacnic.net/entity/GTL15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","G30 Telecomunica??es Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVinhedo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vinhedo","SP","04578-000","BR"]],["email",{"type":"work"},"text","GTL15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140317",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140317",
+      "eventActor" : "GTL15"
+    } ],
+    "entities" : [ ],
+    "handle" : "GTL15"
+  } ],
+  "type" : null,
+  "handle" : "262861-LACNIC",
+  "country" : "BR"
+}

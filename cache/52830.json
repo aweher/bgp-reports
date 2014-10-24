@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52830,
+  "endAutnum" : 52830,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52830",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52830"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121017",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "VII3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-JOCA1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-JOCA1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Visual Inform?tica"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTapejara, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tapejara","RS","04578-000","BR"]],["email",{"type":"work"},"text","VII3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 05 455093511 ()"],["org",{},"text",["Jone Casamali"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "VII3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/VII3",
+        "value" : "http://rdap.labs.lacnic.net/entity/VII3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Visual Inform?tica"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTapejara, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tapejara","RS","04578-000","BR"]],["email",{"type":"work"},"text","VII3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "VII3"
+      } ],
+      "entities" : [ ],
+      "handle" : "VII3"
+    } ],
+    "handle" : "BR-JOCA1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VII3",
+      "value" : "http://rdap.labs.lacnic.net/entity/VII3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Visual Inform?tica"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTapejara, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tapejara","RS","04578-000","BR"]],["email",{"type":"work"},"text","VII3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VII3"
+    } ],
+    "entities" : [ ],
+    "handle" : "VII3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VII3",
+      "value" : "http://rdap.labs.lacnic.net/entity/VII3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Visual Inform?tica"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTapejara, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tapejara","RS","04578-000","BR"]],["email",{"type":"work"},"text","VII3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VII3"
+    } ],
+    "entities" : [ ],
+    "handle" : "VII3"
+  } ],
+  "type" : null,
+  "handle" : "52830-LACNIC",
+  "country" : "BR"
+}

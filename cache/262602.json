@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262602,
+  "endAutnum" : 262602,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262602",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262602"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110928",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "NES18"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ITSI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ITSI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Netsoft Sistemas"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIbirit?, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ibirit?","MG","04578-000","BR"]],["email",{"type":"work"},"text","NES18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["org",{},"text",["Ibiritenet Telecom e serv. de inf. ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "NES18"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/NES18",
+        "value" : "http://rdap.labs.lacnic.net/entity/NES18"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Netsoft Sistemas"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIbirit?, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ibirit?","MG","04578-000","BR"]],["email",{"type":"work"},"text","NES18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "NES18"
+      } ],
+      "entities" : [ ],
+      "handle" : "NES18"
+    } ],
+    "handle" : "BR-ITSI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NES18",
+      "value" : "http://rdap.labs.lacnic.net/entity/NES18"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Netsoft Sistemas"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIbirit?, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ibirit?","MG","04578-000","BR"]],["email",{"type":"work"},"text","NES18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NES18"
+    } ],
+    "entities" : [ ],
+    "handle" : "NES18"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NES18",
+      "value" : "http://rdap.labs.lacnic.net/entity/NES18"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Netsoft Sistemas"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIbirit?, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ibirit?","MG","04578-000","BR"]],["email",{"type":"work"},"text","NES18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NES18"
+    } ],
+    "entities" : [ ],
+    "handle" : "NES18"
+  } ],
+  "type" : null,
+  "handle" : "262602-LACNIC",
+  "country" : "BR"
+}

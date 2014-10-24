@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262460,
+  "endAutnum" : 262460,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262460",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262460"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110505",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "DSV2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DSVE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DSVE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Danillo da Silva Ventura"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTimba?ba, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Timba?ba","PE","04578-000","BR"]],["email",{"type":"work"},"text","DSV2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["org",{},"text",["Danillo da Silva Ventura"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "DSV2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DSV2",
+        "value" : "http://rdap.labs.lacnic.net/entity/DSV2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Danillo da Silva Ventura"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTimba?ba, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Timba?ba","PE","04578-000","BR"]],["email",{"type":"work"},"text","DSV2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DSV2"
+      } ],
+      "entities" : [ ],
+      "handle" : "DSV2"
+    } ],
+    "handle" : "BR-DSVE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DSV2",
+      "value" : "http://rdap.labs.lacnic.net/entity/DSV2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Danillo da Silva Ventura"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTimba?ba, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Timba?ba","PE","04578-000","BR"]],["email",{"type":"work"},"text","DSV2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DSV2"
+    } ],
+    "entities" : [ ],
+    "handle" : "DSV2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DSV2",
+      "value" : "http://rdap.labs.lacnic.net/entity/DSV2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Danillo da Silva Ventura"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTimba?ba, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Timba?ba","PE","04578-000","BR"]],["email",{"type":"work"},"text","DSV2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DSV2"
+    } ],
+    "entities" : [ ],
+    "handle" : "DSV2"
+  } ],
+  "type" : null,
+  "handle" : "262460-LACNIC",
+  "country" : "BR"
+}

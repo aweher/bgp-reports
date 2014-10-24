@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27766",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27766"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-LCLA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-LCLA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Andres Alvarado Alvarez"],["adr",{"label":"Av. Americo Vespucio 901 (3C)\nSantiago, RM 00000\nCL","type":"work"},"text",["","","Av. Americo Vespucio 901 (3C)","Santiago","RM","00000","CL"]],["email",{"type":"work"},"text","gabriel.alvarado@LAN.COM"],["tel",{"type":"work"},"text","56 2 5652525 (3686)"],["org",{},"text",["LAN CHILE (Lineas Aereas de Chile)"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GAA6",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GAA6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Andres Alvarado Alvarez"],["adr",{"label":"Americo Vespucio 901 (3C)\nSantiago, RM NONE\nCL","type":"work"},"text",["","","Americo Vespucio 901 (3C)","Santiago","RM","NONE","CL"]],["email",{"type":"work"},"text","gabriel.alvarado@LAN.COM"],["tel",{"type":"work"},"text","56 2 5653382 (3382)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20041217",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20041228",
+        "eventActor" : "GAA6"
+      } ],
+      "handle" : "GAA6"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030327",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060120",
+      "eventActor" : "GAA6"
+    } ],
+    "handle" : "CL-LCLA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GAA6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GAA6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Andres Alvarado Alvarez"],["adr",{"label":"Americo Vespucio 901 (3C)\nSantiago, RM NONE\nCL","type":"work"},"text",["","","Americo Vespucio 901 (3C)","Santiago","RM","NONE","CL"]],["email",{"type":"work"},"text","gabriel.alvarado@LAN.COM"],["tel",{"type":"work"},"text","56 2 5653382 (3382)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041217",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20041228",
+      "eventActor" : "GAA6"
+    } ],
+    "handle" : "GAA6"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GAA6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GAA6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Andres Alvarado Alvarez"],["adr",{"label":"Americo Vespucio 901 (3C)\nSantiago, RM NONE\nCL","type":"work"},"text",["","","Americo Vespucio 901 (3C)","Santiago","RM","NONE","CL"]],["email",{"type":"work"},"text","gabriel.alvarado@LAN.COM"],["tel",{"type":"work"},"text","56 2 5653382 (3382)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041217",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20041228",
+      "eventActor" : "GAA6"
+    } ],
+    "handle" : "GAA6"
+  } ],
+  "startAutnum" : 27766,
+  "endAutnum" : 27766,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20050415",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20050415",
+    "eventActor" : "GAA6"
+  } ],
+  "type" : null,
+  "handle" : "27766-LACNIC",
+  "country" : "CL"
+}

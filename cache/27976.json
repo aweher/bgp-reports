@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27976",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27976"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CSPM1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CSPM1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Coop. de Serv. P?blicos de Morteros Ltda"],["adr",{"label":"Urquiza 17 (-)\nMorteros (Cordoba),  -\nAR","type":"work"},"text",["","","Urquiza 17 (-)","Morteros (Cordoba)","","-","AR"]],["email",{"type":"work"},"text","internet@CSPM.COM.AR"],["tel",{"type":"work"},"text","54 3562 423721 ()"],["org",{},"text",["Coop. de Servicios P?blicos de Morteros Ltda."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CSL",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CSL"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Coop. de Serv. P?blicos de Morteros Ltda"],["adr",{"label":"Urquiza 17 ()\nMorteros, CB 2421\nAR","type":"work"},"text",["","","Urquiza 17 ()","Morteros","CB","2421","AR"]],["email",{"type":"work"},"text","internet@CSPM.COM.AR"],["tel",{"type":"work"},"text","54 3562 402000 (219)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20031008",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130318",
+        "eventActor" : "CSL"
+      } ],
+      "handle" : "CSL"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031022",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130531",
+      "eventActor" : "CSL"
+    } ],
+    "handle" : "AR-CSPM1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CSL",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CSL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Coop. de Serv. P?blicos de Morteros Ltda"],["adr",{"label":"Urquiza 17 ()\nMorteros, CB 2421\nAR","type":"work"},"text",["","","Urquiza 17 ()","Morteros","CB","2421","AR"]],["email",{"type":"work"},"text","internet@CSPM.COM.AR"],["tel",{"type":"work"},"text","54 3562 402000 (219)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031008",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130318",
+      "eventActor" : "CSL"
+    } ],
+    "handle" : "CSL"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CSL",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CSL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Coop. de Serv. P?blicos de Morteros Ltda"],["adr",{"label":"Urquiza 17 ()\nMorteros, CB 2421\nAR","type":"work"},"text",["","","Urquiza 17 ()","Morteros","CB","2421","AR"]],["email",{"type":"work"},"text","internet@CSPM.COM.AR"],["tel",{"type":"work"},"text","54 3562 402000 (219)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031008",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130318",
+      "eventActor" : "CSL"
+    } ],
+    "handle" : "CSL"
+  } ],
+  "startAutnum" : 27976,
+  "endAutnum" : 27976,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080612",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080612",
+    "eventActor" : "CSL"
+  } ],
+  "type" : null,
+  "handle" : "27976-LACNIC",
+  "country" : "AR"
+}

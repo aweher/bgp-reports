@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263064,
+  "endAutnum" : 263064,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263064",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263064"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120320",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "JBS18"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SKPR-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SKPR-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Barbosa da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBel?m, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bel?m","PB","04578-000","BR"]],["email",{"type":"work"},"text","JBS18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["org",{},"text",["SKYNET - Provedor"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "JBS18"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JBS18",
+        "value" : "http://rdap.labs.lacnic.net/entity/JBS18"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Barbosa da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPicu?, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Picu?","PB","04578-000","BR"]],["email",{"type":"work"},"text","JBS18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130909",
+        "eventActor" : "JBS18"
+      } ],
+      "entities" : [ ],
+      "handle" : "JBS18"
+    } ],
+    "handle" : "BR-SKPR-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JBS18",
+      "value" : "http://rdap.labs.lacnic.net/entity/JBS18"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Barbosa da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPicu?, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Picu?","PB","04578-000","BR"]],["email",{"type":"work"},"text","JBS18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130909",
+      "eventActor" : "JBS18"
+    } ],
+    "entities" : [ ],
+    "handle" : "JBS18"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JBS18",
+      "value" : "http://rdap.labs.lacnic.net/entity/JBS18"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Barbosa da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPicu?, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Picu?","PB","04578-000","BR"]],["email",{"type":"work"},"text","JBS18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130909",
+      "eventActor" : "JBS18"
+    } ],
+    "entities" : [ ],
+    "handle" : "JBS18"
+  } ],
+  "type" : null,
+  "handle" : "263064-LACNIC",
+  "country" : "BR"
+}

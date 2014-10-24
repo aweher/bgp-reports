@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28220,
+  "endAutnum" : 28220,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28220",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28220"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080609",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131105",
+    "eventActor" : "ART7"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CSTL10-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CSTL10-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","D?cio Frederico B. Feij?"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNatal, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Natal","RN","04578-000","BR"]],["email",{"type":"work"},"text","DFF5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["org",{},"text",["CABO SERVICOS DE TELECOMUNICACOES LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "DFF5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DFF5",
+        "value" : "http://rdap.labs.lacnic.net/entity/DFF5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","D?cio Frederico B. Feij?"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNatal, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Natal","RN","04578-000","BR"]],["email",{"type":"work"},"text","DFF5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DFF5"
+      } ],
+      "entities" : [ ],
+      "handle" : "DFF5"
+    } ],
+    "handle" : "BR-CSTL10-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ART7",
+      "value" : "http://rdap.labs.lacnic.net/entity/ART7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Adm. de Redes - Cabo Telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNatal, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Natal","RN","04578-000","BR"]],["email",{"type":"work"},"text","ART7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ART7"
+    } ],
+    "entities" : [ ],
+    "handle" : "ART7"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TIT7",
+      "value" : "http://rdap.labs.lacnic.net/entity/TIT7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tratamento de Incidentes - Cabo Telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNatal, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Natal","RN","04578-000","BR"]],["email",{"type":"work"},"text","TIT7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131105",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131105",
+      "eventActor" : "TIT7"
+    } ],
+    "entities" : [ ],
+    "handle" : "TIT7"
+  } ],
+  "type" : null,
+  "handle" : "28220-LACNIC",
+  "country" : "BR"
+}

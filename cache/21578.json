@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 21578,
+  "endAutnum" : 21578,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/21578",
+    "value" : "http://rdap.labs.lacnic.net/autnum/21578"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20010525",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20040315",
+    "eventActor" : "JUM2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-UABU-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-UABU-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Mart?nez"],["adr",{"label":"Avenida 42 No. 48 11  ()\nBucaramanga, Sa 0000\nCO","type":"work"},"text",["","","Avenida 42 No. 48 11  ()","Bucaramanga","Sa","0000","CO"]],["email",{"type":"work"},"text","jmartine@UNAB.EDU.CO"],["tel",{"type":"work"},"text","57 76 573489 ()"],["org",{},"text",["Universidad autonoma de Bucaramanga"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110823",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111015",
+      "eventActor" : "JUM2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JUM2",
+        "value" : "http://rdap.labs.lacnic.net/entity/JUM2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Mart?nez"],["adr",{"label":"Avenida 42 No. 48 11  ()\nBucaramanga, Sa 0000\nCO","type":"work"},"text",["","","Avenida 42 No. 48 11  ()","Bucaramanga","Sa","0000","CO"]],["email",{"type":"work"},"text","jmartine@UNAB.EDU.CO"],["tel",{"type":"work"},"text","57 7 6573489 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030228",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110823",
+        "eventActor" : "JUM2"
+      } ],
+      "entities" : [ ],
+      "handle" : "JUM2"
+    } ],
+    "handle" : "CO-UABU-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JUM2",
+      "value" : "http://rdap.labs.lacnic.net/entity/JUM2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Mart?nez"],["adr",{"label":"Avenida 42 No. 48 11  ()\nBucaramanga, Sa 0000\nCO","type":"work"},"text",["","","Avenida 42 No. 48 11  ()","Bucaramanga","Sa","0000","CO"]],["email",{"type":"work"},"text","jmartine@UNAB.EDU.CO"],["tel",{"type":"work"},"text","57 7 6573489 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030228",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110823",
+      "eventActor" : "JUM2"
+    } ],
+    "entities" : [ ],
+    "handle" : "JUM2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JUM2",
+      "value" : "http://rdap.labs.lacnic.net/entity/JUM2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Mart?nez"],["adr",{"label":"Avenida 42 No. 48 11  ()\nBucaramanga, Sa 0000\nCO","type":"work"},"text",["","","Avenida 42 No. 48 11  ()","Bucaramanga","Sa","0000","CO"]],["email",{"type":"work"},"text","jmartine@UNAB.EDU.CO"],["tel",{"type":"work"},"text","57 7 6573489 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030228",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110823",
+      "eventActor" : "JUM2"
+    } ],
+    "entities" : [ ],
+    "handle" : "JUM2"
+  } ],
+  "type" : null,
+  "handle" : "21578-LACNIC",
+  "country" : "CO"
+}

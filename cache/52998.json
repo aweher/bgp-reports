@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52998,
+  "endAutnum" : 52998,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52998",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52998"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110601",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130924",
+    "eventActor" : "FAG14"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-FAGU-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-FAGU-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Faculdade Assis Gurgacz"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","PR","04578-000","BR"]],["email",{"type":"work"},"text","FAG14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["org",{},"text",["Funda??o Assis Gurgacz"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130924",
+      "eventActor" : "FAG14"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FAG14",
+        "value" : "http://rdap.labs.lacnic.net/entity/FAG14"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Faculdade Assis Gurgacz"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","PR","04578-000","BR"]],["email",{"type":"work"},"text","FAG14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FAG14"
+      } ],
+      "entities" : [ ],
+      "handle" : "FAG14"
+    } ],
+    "handle" : "BR-FAGU-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAG14",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAG14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Faculdade Assis Gurgacz"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","PR","04578-000","BR"]],["email",{"type":"work"},"text","FAG14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FAG14"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAG14"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TIF10",
+      "value" : "http://rdap.labs.lacnic.net/entity/TIF10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ti Infra FAG"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","PR","04578-000","BR"]],["email",{"type":"work"},"text","TIF10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130924",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130924",
+      "eventActor" : "TIF10"
+    } ],
+    "entities" : [ ],
+    "handle" : "TIF10"
+  } ],
+  "type" : null,
+  "handle" : "52998-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52752,
+  "endAutnum" : 52752,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52752",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52752"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120830",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "FCC16"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VTIL6-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VTIL6-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando C?sar Card"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPassos, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Passos","MG","04578-000","BR"]],["email",{"type":"work"},"text","FCC16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["org",{},"text",["Vegas Telecom Inform?tica Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "FCC16"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FCC16",
+        "value" : "http://rdap.labs.lacnic.net/entity/FCC16"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando C?sar Card"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPassos, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Passos","MG","04578-000","BR"]],["email",{"type":"work"},"text","FCC16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FCC16"
+      } ],
+      "entities" : [ ],
+      "handle" : "FCC16"
+    } ],
+    "handle" : "BR-VTIL6-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FCC16",
+      "value" : "http://rdap.labs.lacnic.net/entity/FCC16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando C?sar Card"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPassos, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Passos","MG","04578-000","BR"]],["email",{"type":"work"},"text","FCC16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FCC16"
+    } ],
+    "entities" : [ ],
+    "handle" : "FCC16"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FCC16",
+      "value" : "http://rdap.labs.lacnic.net/entity/FCC16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando C?sar Card"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPassos, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Passos","MG","04578-000","BR"]],["email",{"type":"work"},"text","FCC16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FCC16"
+    } ],
+    "entities" : [ ],
+    "handle" : "FCC16"
+  } ],
+  "type" : null,
+  "handle" : "52752-LACNIC",
+  "country" : "BR"
+}

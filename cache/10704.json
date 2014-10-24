@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 10704,
+  "endAutnum" : 10704,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/10704",
+    "value" : "http://rdap.labs.lacnic.net/autnum/10704"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20000914",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "IDA6"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MTLN-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MTLN-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Id Dominios Administrativos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNiter?i, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Niter?i","RJ","04578-000","BR"]],["email",{"type":"work"},"text","IDA6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["org",{},"text",["Microlink Telecom (LNCC)"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "IDA6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/IDA6",
+        "value" : "http://rdap.labs.lacnic.net/entity/IDA6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Id Dominios Administrativos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNiter?i, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Niter?i","RJ","04578-000","BR"]],["email",{"type":"work"},"text","IDA6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "IDA6"
+      } ],
+      "entities" : [ ],
+      "handle" : "IDA6"
+    } ],
+    "handle" : "BR-MTLN-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IDA6",
+      "value" : "http://rdap.labs.lacnic.net/entity/IDA6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Id Dominios Administrativos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNiter?i, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Niter?i","RJ","04578-000","BR"]],["email",{"type":"work"},"text","IDA6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "IDA6"
+    } ],
+    "entities" : [ ],
+    "handle" : "IDA6"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ITD3",
+      "value" : "http://rdap.labs.lacnic.net/entity/ITD3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Id Tec Dominios"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNiter?i, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Niter?i","RJ","04578-000","BR"]],["email",{"type":"work"},"text","ITD3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ITD3"
+    } ],
+    "entities" : [ ],
+    "handle" : "ITD3"
+  } ],
+  "type" : null,
+  "handle" : "10704-LACNIC",
+  "country" : "BR"
+}

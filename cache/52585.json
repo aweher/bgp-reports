@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52585,
+  "endAutnum" : 52585,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52585",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52585"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130306",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130708",
+    "eventActor" : "EDP40"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DIED1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DIED1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Evandro Polizei"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuiab?, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cuiab?","MT","04578-000","BR"]],["email",{"type":"work"},"text","EVP3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 65 55093511 ()"],["org",{},"text",["Dismobras Imp. Exp. Distr. de Moveis e Eletr. S/A"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130523",
+      "eventActor" : "EVP3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EVP3",
+        "value" : "http://rdap.labs.lacnic.net/entity/EVP3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Evandro Polizei"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nV?rzea Grande, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","V?rzea Grande","MT","04578-000","BR"]],["email",{"type":"work"},"text","EVP3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 65 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130323",
+        "eventActor" : "EVP3"
+      } ],
+      "entities" : [ ],
+      "handle" : "EVP3"
+    } ],
+    "handle" : "BR-DIED1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDP40",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDP40"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eder Pelachim"],["adr",{"label":"Av. das Nações Unidas 11541 (7º andar)\nVárzea Grande, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Nações Unidas 11541 (7º andar)","Várzea Grande","MT","04578-000","BR"]],["email",{"type":"work"},"text","EDP40@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 65 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130708",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130708",
+      "eventActor" : "EDP40"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDP40"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDP40",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDP40"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eder Pelachim"],["adr",{"label":"Av. das Nações Unidas 11541 (7º andar)\nVárzea Grande, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Nações Unidas 11541 (7º andar)","Várzea Grande","MT","04578-000","BR"]],["email",{"type":"work"},"text","EDP40@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 65 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130708",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130708",
+      "eventActor" : "EDP40"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDP40"
+  } ],
+  "type" : null,
+  "handle" : "52585-LACNIC",
+  "country" : "BR"
+}

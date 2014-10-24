@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28596,
+  "endAutnum" : 28596,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28596",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28596"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20050812",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "LGS17"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BSBV-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BSBV-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jo?o Roberto Magalh?es Lima"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","JRL10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["BM&FBOVESPA SA Bolsa de Valores Mercadorias e Futu"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "JRL10"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JRL10",
+        "value" : "http://rdap.labs.lacnic.net/entity/JRL10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jo?o Roberto Magalh?es Lima"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","JRL10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JRL10"
+      } ],
+      "entities" : [ ],
+      "handle" : "JRL10"
+    } ],
+    "handle" : "BR-BSBV-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LGS17",
+      "value" : "http://rdap.labs.lacnic.net/entity/LGS17"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luiz Gonzaga de Oliveira Sim?es"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","LGS17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 01 155093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LGS17"
+    } ],
+    "entities" : [ ],
+    "handle" : "LGS17"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LGS17",
+      "value" : "http://rdap.labs.lacnic.net/entity/LGS17"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luiz Gonzaga de Oliveira Sim?es"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","LGS17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 01 155093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LGS17"
+    } ],
+    "entities" : [ ],
+    "handle" : "LGS17"
+  } ],
+  "type" : null,
+  "handle" : "28596-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263497,
+  "endAutnum" : 263497,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263497",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263497"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131223",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140120",
+    "eventActor" : "DMF3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DOIL3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DOIL3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Arthur Alves Netto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMonte Carmelo, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Monte Carmelo","MG","04578-000","BR"]],["email",{"type":"work"},"text","AAN12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["org",{},"text",["DH ONLINE INTERNET LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131223",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140120",
+      "eventActor" : "AAN12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/AAN12",
+        "value" : "http://rdap.labs.lacnic.net/entity/AAN12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Arthur Alves Netto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nUberl?ndia, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Uberl?ndia","MG","04578-000","BR"]],["email",{"type":"work"},"text","AAN12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20131223",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131223",
+        "eventActor" : "AAN12"
+      } ],
+      "entities" : [ ],
+      "handle" : "AAN12"
+    } ],
+    "handle" : "BR-DOIL3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DMF3",
+      "value" : "http://rdap.labs.lacnic.net/entity/DMF3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","David Martins Ferreira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMonte Carmelo, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Monte Carmelo","MG","04578-000","BR"]],["email",{"type":"work"},"text","DMF3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DMF3"
+    } ],
+    "entities" : [ ],
+    "handle" : "DMF3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DMF3",
+      "value" : "http://rdap.labs.lacnic.net/entity/DMF3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","David Martins Ferreira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMonte Carmelo, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Monte Carmelo","MG","04578-000","BR"]],["email",{"type":"work"},"text","DMF3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DMF3"
+    } ],
+    "entities" : [ ],
+    "handle" : "DMF3"
+  } ],
+  "type" : null,
+  "handle" : "263497-LACNIC",
+  "country" : "BR"
+}

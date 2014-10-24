@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28059",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28059"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-BHFO-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-BHFO-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","John Rubilar"],["adr",{"label":"Huefanos 1234 ()\nSantiago,  6500546\nCL","type":"work"},"text",["","","Huefanos 1234 ()","Santiago","","6500546","CL"]],["email",{"type":"work"},"text","jrubilar@BBVA.COM"],["tel",{"type":"work"},"text","56 2 3511455 (1455)"],["org",{},"text",["Banco Hipotecario de Fomento"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JOR20",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JOR20"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","John Rubilar"],["adr",{"label":"Hu?rfanos 1234 (Piso 9)\nSantiago, RM 6500546\nCL","type":"work"},"text",["","","Hu?rfanos 1234 (Piso 9)","Santiago","RM","6500546","CL"]],["email",{"type":"work"},"text","jrubilar@BBVA.COM"],["tel",{"type":"work"},"text","56 2 9391421 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090224",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120201",
+        "eventActor" : "JOR20"
+      } ],
+      "handle" : "JOR20"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070302",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130118",
+      "eventActor" : "JOR20"
+    } ],
+    "handle" : "CL-BHFO-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JOR20",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JOR20"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","John Rubilar"],["adr",{"label":"Hu?rfanos 1234 (Piso 9)\nSantiago, RM 6500546\nCL","type":"work"},"text",["","","Hu?rfanos 1234 (Piso 9)","Santiago","RM","6500546","CL"]],["email",{"type":"work"},"text","jrubilar@BBVA.COM"],["tel",{"type":"work"},"text","56 2 9391421 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090224",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120201",
+      "eventActor" : "JOR20"
+    } ],
+    "handle" : "JOR20"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JOR20",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JOR20"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","John Rubilar"],["adr",{"label":"Hu?rfanos 1234 (Piso 9)\nSantiago, RM 6500546\nCL","type":"work"},"text",["","","Hu?rfanos 1234 (Piso 9)","Santiago","RM","6500546","CL"]],["email",{"type":"work"},"text","jrubilar@BBVA.COM"],["tel",{"type":"work"},"text","56 2 9391421 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090224",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120201",
+      "eventActor" : "JOR20"
+    } ],
+    "handle" : "JOR20"
+  } ],
+  "startAutnum" : 28059,
+  "endAutnum" : 28059,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090519",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090519",
+    "eventActor" : "JOR20"
+  } ],
+  "type" : null,
+  "handle" : "28059-LACNIC",
+  "country" : "CL"
+}

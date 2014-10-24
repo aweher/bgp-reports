@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61881,
+  "endAutnum" : 61881,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61881",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61881"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140715",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140715",
+    "eventActor" : "SUA10"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-UPAS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-UPAS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sysadm Unimed Porto Alegre"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Alegre, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Alegre","","04578-000","BR"]],["email",{"type":"work"},"text","SUA10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["Unimed Porto Alegre - Soc. Coop. de Trab. Medico L"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "SUA10"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SUA10",
+        "value" : "http://rdap.labs.lacnic.net/entity/SUA10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sysadm Unimed Porto Alegre"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Alegre, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Alegre","RS","04578-000","BR"]],["email",{"type":"work"},"text","SUA10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SUA10"
+      } ],
+      "entities" : [ ],
+      "handle" : "SUA10"
+    } ],
+    "handle" : "BR-UPAS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SUA10",
+      "value" : "http://rdap.labs.lacnic.net/entity/SUA10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sysadm Unimed Porto Alegre"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Alegre, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Alegre","RS","04578-000","BR"]],["email",{"type":"work"},"text","SUA10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SUA10"
+    } ],
+    "entities" : [ ],
+    "handle" : "SUA10"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SUA10",
+      "value" : "http://rdap.labs.lacnic.net/entity/SUA10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sysadm Unimed Porto Alegre"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Alegre, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Alegre","RS","04578-000","BR"]],["email",{"type":"work"},"text","SUA10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SUA10"
+    } ],
+    "entities" : [ ],
+    "handle" : "SUA10"
+  } ],
+  "type" : null,
+  "handle" : "61881-LACNIC",
+  "country" : "BR"
+}

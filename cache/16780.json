@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/16780",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/16780"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-BASA15-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-BASA15-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","David Hughes"],["adr",{"label":"Bandera 140 ()\nSantiago,  6500596\nCL","type":"work"},"text",["","","Bandera 140 ()","Santiago","","6500596","CL"]],["email",{"type":"work"},"text","dhughes@PRODUBAN.CL"],["tel",{"type":"work"},"text","56 2 3202896 (52896)"],["org",{},"text",["Banco SantanderSantiago"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ALM14",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ALM14"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","David Hughes"],["adr",{"label":"Matias Cousi?o 199 199 (Piso 9)\nSantiago,  6500596\nCL","type":"work"},"text",["","","Matias Cousi?o 199 199 (Piso 9)","Santiago","","6500596","CL"]],["email",{"type":"work"},"text","dhughes@PRODUBAN.CL"],["tel",{"type":"work"},"text","56 2 26483611 (83611)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060110",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121228",
+        "eventActor" : "ALM14"
+      } ],
+      "handle" : "ALM14"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060209",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130118",
+      "eventActor" : "ALM14"
+    } ],
+    "handle" : "CL-BASA15-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ALM14",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALM14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","David Hughes"],["adr",{"label":"Matias Cousi?o 199 199 (Piso 9)\nSantiago,  6500596\nCL","type":"work"},"text",["","","Matias Cousi?o 199 199 (Piso 9)","Santiago","","6500596","CL"]],["email",{"type":"work"},"text","dhughes@PRODUBAN.CL"],["tel",{"type":"work"},"text","56 2 26483611 (83611)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060110",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121228",
+      "eventActor" : "ALM14"
+    } ],
+    "handle" : "ALM14"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ALM14",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALM14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","David Hughes"],["adr",{"label":"Matias Cousi?o 199 199 (Piso 9)\nSantiago,  6500596\nCL","type":"work"},"text",["","","Matias Cousi?o 199 199 (Piso 9)","Santiago","","6500596","CL"]],["email",{"type":"work"},"text","dhughes@PRODUBAN.CL"],["tel",{"type":"work"},"text","56 2 26483611 (83611)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060110",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121228",
+      "eventActor" : "ALM14"
+    } ],
+    "handle" : "ALM14"
+  } ],
+  "startAutnum" : 16780,
+  "endAutnum" : 16780,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20000607",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20060210",
+    "eventActor" : "ALM14"
+  } ],
+  "type" : null,
+  "handle" : "16780-LACNIC",
+  "country" : "CL"
+}

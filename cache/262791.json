@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262791,
+  "endAutnum" : 262791,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262791",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262791"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100927",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "EVP10"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ENTL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ENTL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ilam michael"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArcos, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Arcos","MG","04578-000","BR"]],["email",{"type":"work"},"text","ILM5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["org",{},"text",["EMI NET TELECOMUNICACOES LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "ILM5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ILM5",
+        "value" : "http://rdap.labs.lacnic.net/entity/ILM5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ilam michael"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArcos, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Arcos","MG","04578-000","BR"]],["email",{"type":"work"},"text","ILM5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ILM5"
+      } ],
+      "entities" : [ ],
+      "handle" : "ILM5"
+    } ],
+    "handle" : "BR-ENTL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EVP10",
+      "value" : "http://rdap.labs.lacnic.net/entity/EVP10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Vin?cius Teixeira Pires"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArcos, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Arcos","MG","04578-000","BR"]],["email",{"type":"work"},"text","EVP10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EVP10"
+    } ],
+    "entities" : [ ],
+    "handle" : "EVP10"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ILM5",
+      "value" : "http://rdap.labs.lacnic.net/entity/ILM5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ilam michael"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArcos, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Arcos","MG","04578-000","BR"]],["email",{"type":"work"},"text","ILM5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ILM5"
+    } ],
+    "entities" : [ ],
+    "handle" : "ILM5"
+  } ],
+  "type" : null,
+  "handle" : "262791-LACNIC",
+  "country" : "BR"
+}

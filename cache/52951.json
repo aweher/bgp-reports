@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52951,
+  "endAutnum" : 52951,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52951",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52951"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110111",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131202",
+    "eventActor" : "CGJ2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CSAC1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CSAC1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMISSORA AVOZ DE CATANDUVA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCatanduva, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Catanduva","SP","04578-000","BR"]],["email",{"type":"work"},"text","EAC15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["org",{},"text",["Catanduva sistemas a cabo ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "EAC15"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EAC15",
+        "value" : "http://rdap.labs.lacnic.net/entity/EAC15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMISSORA AVOZ DE CATANDUVA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCatanduva, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Catanduva","SP","04578-000","BR"]],["email",{"type":"work"},"text","EAC15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EAC15"
+      } ],
+      "entities" : [ ],
+      "handle" : "EAC15"
+    } ],
+    "handle" : "BR-CSAC1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CGJ2",
+      "value" : "http://rdap.labs.lacnic.net/entity/CGJ2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cairo Gomide J?nior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMar?lia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mar?lia","SP","04578-000","BR"]],["email",{"type":"work"},"text","CGJ2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CGJ2"
+    } ],
+    "entities" : [ ],
+    "handle" : "CGJ2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CGJ2",
+      "value" : "http://rdap.labs.lacnic.net/entity/CGJ2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cairo Gomide J?nior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMar?lia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mar?lia","SP","04578-000","BR"]],["email",{"type":"work"},"text","CGJ2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CGJ2"
+    } ],
+    "entities" : [ ],
+    "handle" : "CGJ2"
+  } ],
+  "type" : null,
+  "handle" : "52951-LACNIC",
+  "country" : "BR"
+}

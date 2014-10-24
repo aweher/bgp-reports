@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262363,
+  "endAutnum" : 262363,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262363",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262363"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120120",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "AOP"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-WIML-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-WIML-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andrea Outa Pasqualini"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMogi das Cruzes, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mogi das Cruzes","SP","04578-000","BR"]],["email",{"type":"work"},"text","AOP@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["Wharehouse Informatica e Multimidia Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "AOP"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/AOP",
+        "value" : "http://rdap.labs.lacnic.net/entity/AOP"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andrea Outa Pasqualini"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMogi das Cruzes, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mogi das Cruzes","SP","04578-000","BR"]],["email",{"type":"work"},"text","AOP@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "AOP"
+      } ],
+      "entities" : [ ],
+      "handle" : "AOP"
+    } ],
+    "handle" : "BR-WIML-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AOP",
+      "value" : "http://rdap.labs.lacnic.net/entity/AOP"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andrea Outa Pasqualini"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMogi das Cruzes, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mogi das Cruzes","SP","04578-000","BR"]],["email",{"type":"work"},"text","AOP@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AOP"
+    } ],
+    "entities" : [ ],
+    "handle" : "AOP"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AOP",
+      "value" : "http://rdap.labs.lacnic.net/entity/AOP"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andrea Outa Pasqualini"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMogi das Cruzes, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mogi das Cruzes","SP","04578-000","BR"]],["email",{"type":"work"},"text","AOP@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AOP"
+    } ],
+    "entities" : [ ],
+    "handle" : "AOP"
+  } ],
+  "type" : null,
+  "handle" : "262363-LACNIC",
+  "country" : "BR"
+}

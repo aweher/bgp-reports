@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53107,
+  "endAutnum" : 53107,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53107",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53107"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091210",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140404",
+    "eventActor" : "SEC53"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SSIL7-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SSIL7-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Vicente de Moura Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","VMN2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["SNH Servi?os de Internet Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140404",
+      "eventActor" : "VMN2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/VMN2",
+        "value" : "http://rdap.labs.lacnic.net/entity/VMN2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Vicente de Moura Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","VMN2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "VMN2"
+      } ],
+      "entities" : [ ],
+      "handle" : "VMN2"
+    } ],
+    "handle" : "BR-SSIL7-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SEC53",
+      "value" : "http://rdap.labs.lacnic.net/entity/SEC53"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Security EVEO Cloud"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","SEC53@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140404",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140404",
+      "eventActor" : "SEC53"
+    } ],
+    "entities" : [ ],
+    "handle" : "SEC53"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SEC53",
+      "value" : "http://rdap.labs.lacnic.net/entity/SEC53"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Security EVEO Cloud"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","SEC53@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140404",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140404",
+      "eventActor" : "SEC53"
+    } ],
+    "entities" : [ ],
+    "handle" : "SEC53"
+  } ],
+  "type" : null,
+  "handle" : "53107-LACNIC",
+  "country" : "BR"
+}

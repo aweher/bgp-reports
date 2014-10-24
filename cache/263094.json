@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263094,
+  "endAutnum" : 263094,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263094",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263094"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120423",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130429",
+    "eventActor" : "GIC26"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PMFI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PMFI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Giovane Lucas"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFoz do Igua?u, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Foz do Igua?u","PR","04578-000","BR"]],["email",{"type":"work"},"text","GIL24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["org",{},"text",["Prefeitura Municipal de Foz do Igua?u"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130426",
+      "eventActor" : "GIL24"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GIL24",
+        "value" : "http://rdap.labs.lacnic.net/entity/GIL24"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Giovane Lucas"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFoz do Igua?u, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Foz do Igua?u","PR","04578-000","BR"]],["email",{"type":"work"},"text","GIL24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "GIL24"
+      } ],
+      "entities" : [ ],
+      "handle" : "GIL24"
+    } ],
+    "handle" : "BR-PMFI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GIC26",
+      "value" : "http://rdap.labs.lacnic.net/entity/GIC26"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gilberto Couto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFoz do Igua?u, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Foz do Igua?u","","04578-000","BR"]],["email",{"type":"work"},"text","GIC26@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130426",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130426",
+      "eventActor" : "GIC26"
+    } ],
+    "entities" : [ ],
+    "handle" : "GIC26"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GIC26",
+      "value" : "http://rdap.labs.lacnic.net/entity/GIC26"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gilberto Couto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFoz do Igua?u, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Foz do Igua?u","","04578-000","BR"]],["email",{"type":"work"},"text","GIC26@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130426",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130426",
+      "eventActor" : "GIC26"
+    } ],
+    "entities" : [ ],
+    "handle" : "GIC26"
+  } ],
+  "type" : null,
+  "handle" : "263094-LACNIC",
+  "country" : "BR"
+}

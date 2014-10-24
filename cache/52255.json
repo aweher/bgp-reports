@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52255",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52255"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-GSJU-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-GSJU-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ALBERTO PEDRO DAMIANI"],["adr",{"label":"Coronel Suarez 27 ()\nJunin, BA 6000\nAR","type":"work"},"text",["","","Coronel Suarez 27 ()","Junin","BA","6000","AR"]],["email",{"type":"work"},"text","adamiani@GRUPOJUNIN.COM.AR"],["tel",{"type":"work"},"text","54 0236 4630057 ()"],["org",{},"text",["Grupo Servicios Junin S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/APD",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/APD"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ALBERTO PEDRO DAMIANI"],["adr",{"label":"CORONEL SUAREZ 27 ()\nJUNIN, BA 6000\nAR","type":"work"},"text",["","","CORONEL SUAREZ 27 ()","JUNIN","BA","6000","AR"]],["email",{"type":"work"},"text","adamiani@GRUPOJUNIN.COM.AR"],["tel",{"type":"work"},"text","54 236 4630057 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20081023",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121114",
+        "eventActor" : "APD"
+      } ],
+      "handle" : "APD"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070418",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130809",
+      "eventActor" : "APD"
+    } ],
+    "handle" : "AR-GSJU-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/APD",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/APD"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ALBERTO PEDRO DAMIANI"],["adr",{"label":"CORONEL SUAREZ 27 ()\nJUNIN, BA 6000\nAR","type":"work"},"text",["","","CORONEL SUAREZ 27 ()","JUNIN","BA","6000","AR"]],["email",{"type":"work"},"text","adamiani@GRUPOJUNIN.COM.AR"],["tel",{"type":"work"},"text","54 236 4630057 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081023",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121114",
+      "eventActor" : "APD"
+    } ],
+    "handle" : "APD"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/APD",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/APD"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ALBERTO PEDRO DAMIANI"],["adr",{"label":"CORONEL SUAREZ 27 ()\nJUNIN, BA 6000\nAR","type":"work"},"text",["","","CORONEL SUAREZ 27 ()","JUNIN","BA","6000","AR"]],["email",{"type":"work"},"text","adamiani@GRUPOJUNIN.COM.AR"],["tel",{"type":"work"},"text","54 236 4630057 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081023",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121114",
+      "eventActor" : "APD"
+    } ],
+    "handle" : "APD"
+  } ],
+  "startAutnum" : 52255,
+  "endAutnum" : 52255,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100607",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100608",
+    "eventActor" : "APD"
+  } ],
+  "type" : null,
+  "handle" : "52255-LACNIC",
+  "country" : "AR"
+}

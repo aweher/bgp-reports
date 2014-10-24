@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28579,
+  "endAutnum" : 28579,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28579",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28579"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130401",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130401",
+    "eventActor" : "DBC2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-FUSS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-FUSS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Bitencourt Cadorin"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTubar?o, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tubar?o","SC","04578-000","BR"]],["email",{"type":"work"},"text","DBC2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 04 855093511 ()"],["org",{},"text",["Fundacao Universidade do Sul de Santa Catarina"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130402",
+      "eventActor" : "DBC2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DBC2",
+        "value" : "http://rdap.labs.lacnic.net/entity/DBC2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Bitencourt Cadorin"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTubar?o, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tubar?o","SC","04578-000","BR"]],["email",{"type":"work"},"text","DBC2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DBC2"
+      } ],
+      "entities" : [ ],
+      "handle" : "DBC2"
+    } ],
+    "handle" : "BR-FUSS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DBC2",
+      "value" : "http://rdap.labs.lacnic.net/entity/DBC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Bitencourt Cadorin"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTubar?o, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tubar?o","SC","04578-000","BR"]],["email",{"type":"work"},"text","DBC2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DBC2"
+    } ],
+    "entities" : [ ],
+    "handle" : "DBC2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DBC2",
+      "value" : "http://rdap.labs.lacnic.net/entity/DBC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Bitencourt Cadorin"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTubar?o, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tubar?o","SC","04578-000","BR"]],["email",{"type":"work"},"text","DBC2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DBC2"
+    } ],
+    "entities" : [ ],
+    "handle" : "DBC2"
+  } ],
+  "type" : null,
+  "handle" : "28579-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 17379,
+  "endAutnum" : 17379,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/17379",
+    "value" : "http://rdap.labs.lacnic.net/autnum/17379"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20000915",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ITL31"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ITLT7-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ITLT7-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Engenharia de Redes Intelig"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio de Janeiro, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio de Janeiro","RJ","04578-000","BR"]],["email",{"type":"work"},"text","ERI3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["org",{},"text",["Intelig Telecomunica??es Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "ERI3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ERI3",
+        "value" : "http://rdap.labs.lacnic.net/entity/ERI3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Engenharia de Redes Intelig"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio de Janeiro, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio de Janeiro","RJ","04578-000","BR"]],["email",{"type":"work"},"text","ERI3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ERI3"
+      } ],
+      "entities" : [ ],
+      "handle" : "ERI3"
+    } ],
+    "handle" : "BR-ITLT7-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ITL31",
+      "value" : "http://rdap.labs.lacnic.net/entity/ITL31"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Intelig Telecomunica??es Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","ITL31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ITL31"
+    } ],
+    "entities" : [ ],
+    "handle" : "ITL31"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ITL31",
+      "value" : "http://rdap.labs.lacnic.net/entity/ITL31"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Intelig Telecomunica??es Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","ITL31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ITL31"
+    } ],
+    "entities" : [ ],
+    "handle" : "ITL31"
+  } ],
+  "type" : null,
+  "handle" : "17379-LACNIC",
+  "country" : "BR"
+}

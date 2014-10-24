@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263073,
+  "endAutnum" : 263073,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263073",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263073"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120327",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "DAS74"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SALM-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SALM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Soares"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVit?ria de Santo Ant?o, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vit?ria de Santo Ant?o","PE","04578-000","BR"]],["email",{"type":"work"},"text","DAS74@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["org",{},"text",["SOARES & AGUIAR LTDA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130711",
+      "eventActor" : "DAS74"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DAS74",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAS74"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Soares"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVit?ria de Santo Ant?o, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vit?ria de Santo Ant?o","PE","04578-000","BR"]],["email",{"type":"work"},"text","DAS74@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DAS74"
+      } ],
+      "entities" : [ ],
+      "handle" : "DAS74"
+    } ],
+    "handle" : "BR-SALM-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DAS74",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAS74"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Soares"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVit?ria de Santo Ant?o, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vit?ria de Santo Ant?o","PE","04578-000","BR"]],["email",{"type":"work"},"text","DAS74@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DAS74"
+    } ],
+    "entities" : [ ],
+    "handle" : "DAS74"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DAS74",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAS74"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Soares"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVit?ria de Santo Ant?o, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vit?ria de Santo Ant?o","PE","04578-000","BR"]],["email",{"type":"work"},"text","DAS74@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DAS74"
+    } ],
+    "entities" : [ ],
+    "handle" : "DAS74"
+  } ],
+  "type" : null,
+  "handle" : "263073-LACNIC",
+  "country" : "BR"
+}

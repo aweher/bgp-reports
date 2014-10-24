@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28302,
+  "endAutnum" : 28302,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28302",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28302"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070614",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "NBI"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BLIL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BLIL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NOC - Bon Line Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarretos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barretos","SP","04578-000","BR"]],["email",{"type":"work"},"text","NBI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["org",{},"text",["Bon Line Internet Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "NBI"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/NBI",
+        "value" : "http://rdap.labs.lacnic.net/entity/NBI"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NOC - Bon Line Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarretos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barretos","SP","04578-000","BR"]],["email",{"type":"work"},"text","NBI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "NBI"
+      } ],
+      "entities" : [ ],
+      "handle" : "NBI"
+    } ],
+    "handle" : "BR-BLIL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NBI",
+      "value" : "http://rdap.labs.lacnic.net/entity/NBI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NOC - Bon Line Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarretos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barretos","SP","04578-000","BR"]],["email",{"type":"work"},"text","NBI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NBI"
+    } ],
+    "entities" : [ ],
+    "handle" : "NBI"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NBI",
+      "value" : "http://rdap.labs.lacnic.net/entity/NBI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NOC - Bon Line Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarretos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barretos","SP","04578-000","BR"]],["email",{"type":"work"},"text","NBI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NBI"
+    } ],
+    "entities" : [ ],
+    "handle" : "NBI"
+  } ],
+  "type" : null,
+  "handle" : "28302-LACNIC",
+  "country" : "BR"
+}

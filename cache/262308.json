@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262308,
+  "endAutnum" : 262308,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262308",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262308"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111213",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "GHS2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NISI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NISI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Holmos Sim?es"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSantana do Livramento, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santana do Livramento","RS","04578-000","BR"]],["email",{"type":"work"},"text","GHS2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["org",{},"text",["NEXUS Inform?tica Servi?os de Internet e Telecom"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "GHS2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GHS2",
+        "value" : "http://rdap.labs.lacnic.net/entity/GHS2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Holmos Sim?es"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSantana do Livramento, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santana do Livramento","RS","04578-000","BR"]],["email",{"type":"work"},"text","GHS2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "GHS2"
+      } ],
+      "entities" : [ ],
+      "handle" : "GHS2"
+    } ],
+    "handle" : "BR-NISI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GHS2",
+      "value" : "http://rdap.labs.lacnic.net/entity/GHS2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Holmos Sim?es"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSantana do Livramento, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santana do Livramento","RS","04578-000","BR"]],["email",{"type":"work"},"text","GHS2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GHS2"
+    } ],
+    "entities" : [ ],
+    "handle" : "GHS2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GHS2",
+      "value" : "http://rdap.labs.lacnic.net/entity/GHS2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Holmos Sim?es"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSantana do Livramento, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santana do Livramento","RS","04578-000","BR"]],["email",{"type":"work"},"text","GHS2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GHS2"
+    } ],
+    "entities" : [ ],
+    "handle" : "GHS2"
+  } ],
+  "type" : null,
+  "handle" : "262308-LACNIC",
+  "country" : "BR"
+}

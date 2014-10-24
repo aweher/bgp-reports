@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27981",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27981"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-UNMP1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-UNMP1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Hernan Mailluquet"],["adr",{"label":"Alberdi 2695 ()\nMar del Plata, BA 7600\nAR","type":"work"},"text",["","","Alberdi 2695 ()","Mar del Plata","BA","7600","AR"]],["email",{"type":"work"},"text","hernan@MDP.EDU.AR"],["tel",{"type":"work"},"text","54 223 4752728 ()"],["org",{},"text",["Universidad Nacional de Mar del Plata"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PHM",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PHM"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Hernan Mailluquet"],["adr",{"label":"Alberdi 2695 ()\nMar del Plata, BA 7600\nAR","type":"work"},"text",["","","Alberdi 2695 ()","Mar del Plata","BA","7600","AR"]],["email",{"type":"work"},"text","hernan@MDP.EDU.AR"],["tel",{"type":"work"},"text","54 223 4752728 (101)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030130",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20071218",
+        "eventActor" : "PHM"
+      } ],
+      "handle" : "PHM"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030211",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130118",
+      "eventActor" : "PHM"
+    } ],
+    "handle" : "AR-UNMP1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PHM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PHM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Hernan Mailluquet"],["adr",{"label":"Alberdi 2695 ()\nMar del Plata, BA 7600\nAR","type":"work"},"text",["","","Alberdi 2695 ()","Mar del Plata","BA","7600","AR"]],["email",{"type":"work"},"text","hernan@MDP.EDU.AR"],["tel",{"type":"work"},"text","54 223 4752728 (101)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030130",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20071218",
+      "eventActor" : "PHM"
+    } ],
+    "handle" : "PHM"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PHM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PHM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Hernan Mailluquet"],["adr",{"label":"Alberdi 2695 ()\nMar del Plata, BA 7600\nAR","type":"work"},"text",["","","Alberdi 2695 ()","Mar del Plata","BA","7600","AR"]],["email",{"type":"work"},"text","hernan@MDP.EDU.AR"],["tel",{"type":"work"},"text","54 223 4752728 (101)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030130",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20071218",
+      "eventActor" : "PHM"
+    } ],
+    "handle" : "PHM"
+  } ],
+  "startAutnum" : 27981,
+  "endAutnum" : 27981,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080703",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080703",
+    "eventActor" : "PHM"
+  } ],
+  "type" : null,
+  "handle" : "27981-LACNIC",
+  "country" : "AR"
+}

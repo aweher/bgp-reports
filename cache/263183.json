@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/263183",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263183"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-SILA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-SILA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Velasco"],["adr",{"label":"Buenos Aires 60 ()\nSan Rafael, MZ 5600\nAR","type":"work"},"text",["","","Buenos Aires 60 ()","San Rafael","MZ","5600","AR"]],["email",{"type":"work"},"text","gvelasco@SLATINOS.COM.AR"],["tel",{"type":"work"},"text","54 2627 513328 ()"],["org",{},"text",["Sistemas Latinos"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GUV4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GUV4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Velasco"],["adr",{"label":"Buenos Aires 60 ()\nSan Rafael, MZ 5600\nAR","type":"work"},"text",["","","Buenos Aires 60 ()","San Rafael","MZ","5600","AR"]],["email",{"type":"work"},"text","gvelasco@SLATINOS.COM.AR"],["tel",{"type":"work"},"text","54 2627 433767 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050519",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130620",
+        "eventActor" : "GUV4"
+      } ],
+      "handle" : "GUV4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050520",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131207",
+      "eventActor" : "GUV4"
+    } ],
+    "handle" : "AR-SILA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GUV4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GUV4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Velasco"],["adr",{"label":"Buenos Aires 60 ()\nSan Rafael, MZ 5600\nAR","type":"work"},"text",["","","Buenos Aires 60 ()","San Rafael","MZ","5600","AR"]],["email",{"type":"work"},"text","gvelasco@SLATINOS.COM.AR"],["tel",{"type":"work"},"text","54 2627 433767 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050519",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130620",
+      "eventActor" : "GUV4"
+    } ],
+    "handle" : "GUV4"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GUV4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GUV4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Velasco"],["adr",{"label":"Buenos Aires 60 ()\nSan Rafael, MZ 5600\nAR","type":"work"},"text",["","","Buenos Aires 60 ()","San Rafael","MZ","5600","AR"]],["email",{"type":"work"},"text","gvelasco@SLATINOS.COM.AR"],["tel",{"type":"work"},"text","54 2627 433767 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050519",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130620",
+      "eventActor" : "GUV4"
+    } ],
+    "handle" : "GUV4"
+  } ],
+  "startAutnum" : 263183,
+  "endAutnum" : 263183,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131206",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131206",
+    "eventActor" : "GUV4"
+  } ],
+  "type" : null,
+  "handle" : "263183-LACNIC",
+  "country" : "AR"
+}

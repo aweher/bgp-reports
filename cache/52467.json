@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52467,
+  "endAutnum" : 52467,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52467",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52467"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130506",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130506",
+    "eventActor" : "MRG2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-CUIB-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-CUIB-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Pel?ez Negro"],["adr",{"label":"Avenida ambala No 67-03 ()\nIbagu?, To 00000\nCO","type":"work"},"text",["","","Avenida ambala No 67-03 ()","Ibagu?","To","00000","CO"]],["email",{"type":"work"},"text","cgr@UNIBAGUE.EDU.CO"],["tel",{"type":"work"},"text","57 8 2753874 ()"],["org",{},"text",["Universidad de Ibague"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050223",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130507",
+      "eventActor" : "MRG2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MRG2",
+        "value" : "http://rdap.labs.lacnic.net/entity/MRG2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Pel?ez Negro"],["adr",{"label":"Carrera 22 calle 67 Barrio Ambala  ()\nibague, to 5782\nCO","type":"work"},"text",["","","Carrera 22 calle 67 Barrio Ambala  ()","ibague","to","5782","CO"]],["email",{"type":"work"},"text","cgr@UNIBAGUE.EDU.CO"],["tel",{"type":"work"},"text","57 8 2709458 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120126",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130506",
+        "eventActor" : "MRG2"
+      } ],
+      "entities" : [ ],
+      "handle" : "MRG2"
+    } ],
+    "handle" : "CO-CUIB-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MRG2",
+      "value" : "http://rdap.labs.lacnic.net/entity/MRG2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Pel?ez Negro"],["adr",{"label":"Carrera 22 calle 67 Barrio Ambala  ()\nibague, to 5782\nCO","type":"work"},"text",["","","Carrera 22 calle 67 Barrio Ambala  ()","ibague","to","5782","CO"]],["email",{"type":"work"},"text","cgr@UNIBAGUE.EDU.CO"],["tel",{"type":"work"},"text","57 8 2709458 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120126",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130506",
+      "eventActor" : "MRG2"
+    } ],
+    "entities" : [ ],
+    "handle" : "MRG2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MRG2",
+      "value" : "http://rdap.labs.lacnic.net/entity/MRG2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Pel?ez Negro"],["adr",{"label":"Carrera 22 calle 67 Barrio Ambala  ()\nibague, to 5782\nCO","type":"work"},"text",["","","Carrera 22 calle 67 Barrio Ambala  ()","ibague","to","5782","CO"]],["email",{"type":"work"},"text","cgr@UNIBAGUE.EDU.CO"],["tel",{"type":"work"},"text","57 8 2709458 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120126",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130506",
+      "eventActor" : "MRG2"
+    } ],
+    "entities" : [ ],
+    "handle" : "MRG2"
+  } ],
+  "type" : null,
+  "handle" : "52467-LACNIC",
+  "country" : "CO"
+}

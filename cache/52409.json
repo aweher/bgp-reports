@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52409",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52409"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-KALI-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-KALI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Esteban Tocalini"],["adr",{"label":"H Yrigoyen 572 (EP oficina 2)\nQUILMES,  1878\nAR","type":"work"},"text",["","","H Yrigoyen 572 (EP oficina 2)","QUILMES","","1878","AR"]],["email",{"type":"work"},"text","estebantocalini@KALISPERA.COM.AR"],["tel",{"type":"work"},"text","54 11 52588274 (546)"],["org",{},"text",["COSEIDI S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/EST4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/EST4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Esteban Tocalini"],["adr",{"label":"H. Yrigoyen 572 (EP2)\nQuilmes, Ba 1878\nAR","type":"work"},"text",["","","H. Yrigoyen 572 (EP2)","Quilmes","Ba","1878","AR"]],["email",{"type":"work"},"text","estebantocalini@KALISPERA.COM.AR"],["tel",{"type":"work"},"text","54 11 52588274 (546)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120808",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120808",
+        "eventActor" : "EST4"
+      } ],
+      "handle" : "EST4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120827",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "EST4"
+    } ],
+    "handle" : "AR-KALI-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/EST4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/EST4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Esteban Tocalini"],["adr",{"label":"H. Yrigoyen 572 (EP2)\nQuilmes, Ba 1878\nAR","type":"work"},"text",["","","H. Yrigoyen 572 (EP2)","Quilmes","Ba","1878","AR"]],["email",{"type":"work"},"text","estebantocalini@KALISPERA.COM.AR"],["tel",{"type":"work"},"text","54 11 52588274 (546)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120808",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120808",
+      "eventActor" : "EST4"
+    } ],
+    "handle" : "EST4"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/EST4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/EST4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Esteban Tocalini"],["adr",{"label":"H. Yrigoyen 572 (EP2)\nQuilmes, Ba 1878\nAR","type":"work"},"text",["","","H. Yrigoyen 572 (EP2)","Quilmes","Ba","1878","AR"]],["email",{"type":"work"},"text","estebantocalini@KALISPERA.COM.AR"],["tel",{"type":"work"},"text","54 11 52588274 (546)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120808",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120808",
+      "eventActor" : "EST4"
+    } ],
+    "handle" : "EST4"
+  } ],
+  "startAutnum" : 52409,
+  "endAutnum" : 52409,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121011",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121012",
+    "eventActor" : "EST4"
+  } ],
+  "type" : null,
+  "handle" : "52409-LACNIC",
+  "country" : "AR"
+}

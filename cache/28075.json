@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28075",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28075"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-ARSA18-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-ARSA18-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sandra Gladys Rocha"],["adr",{"label":"Lisandro de la Torre 150 ()\nMendoza,  5500\nAR","type":"work"},"text",["","","Lisandro de la Torre 150 ()","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","srocha@ARLINK.NET.AR"],["tel",{"type":"work"},"text","54 261 4496000 (6072)"],["org",{},"text",["ARLINK S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SGR",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SGR"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sandra Gladys Rocha"],["adr",{"label":"Lisandro de la Torre 150 ()\nMendoza, null 5500\nAR","type":"work"},"text",["","","Lisandro de la Torre 150 ()","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","srocha@ARLINK.NET.AR"],["tel",{"type":"work"},"text","54 261 4496000 (6072)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090518",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20090518",
+        "eventActor" : "SGR"
+      } ],
+      "handle" : "SGR"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041122",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130912",
+      "eventActor" : "SGR"
+    } ],
+    "handle" : "AR-ARSA18-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SGR2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SGR2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Italo Ezequiel Rocha"],["adr",{"label":"Lisandro de la Torre 150 ()\nMendoza,  5500\nAR","type":"work"},"text",["","","Lisandro de la Torre 150 ()","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","lacnic@SUPERCANAL.COM.AR"],["tel",{"type":"work"},"text","54 261 4496000 (6034)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090529",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130910",
+      "eventActor" : "SGR2"
+    } ],
+    "handle" : "SGR2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SGR2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SGR2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Italo Ezequiel Rocha"],["adr",{"label":"Lisandro de la Torre 150 ()\nMendoza,  5500\nAR","type":"work"},"text",["","","Lisandro de la Torre 150 ()","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","lacnic@SUPERCANAL.COM.AR"],["tel",{"type":"work"},"text","54 261 4496000 (6034)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090529",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130910",
+      "eventActor" : "SGR2"
+    } ],
+    "handle" : "SGR2"
+  } ],
+  "startAutnum" : 28075,
+  "endAutnum" : 28075,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090804",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090804",
+    "eventActor" : "SGR2"
+  } ],
+  "type" : null,
+  "handle" : "28075-LACNIC",
+  "country" : "AR"
+}

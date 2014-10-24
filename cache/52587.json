@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52587,
+  "endAutnum" : 52587,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52587",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52587"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130306",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "GDI"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-JMSA1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-JMSA1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ger?ncia Dom?nios Almix Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGuarapuava, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Guarapuava","PR","04578-000","BR"]],["email",{"type":"work"},"text","GDI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["org",{},"text",["Jo?o M. S. de Almeida junior & Cia ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "GDI"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GDI",
+        "value" : "http://rdap.labs.lacnic.net/entity/GDI"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ger?ncia Dom?nios Almix Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGuarapuava, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Guarapuava","PR","04578-000","BR"]],["email",{"type":"work"},"text","GDI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "GDI"
+      } ],
+      "entities" : [ ],
+      "handle" : "GDI"
+    } ],
+    "handle" : "BR-JMSA1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GDI",
+      "value" : "http://rdap.labs.lacnic.net/entity/GDI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ger?ncia Dom?nios Almix Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGuarapuava, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Guarapuava","PR","04578-000","BR"]],["email",{"type":"work"},"text","GDI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GDI"
+    } ],
+    "entities" : [ ],
+    "handle" : "GDI"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GDI",
+      "value" : "http://rdap.labs.lacnic.net/entity/GDI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ger?ncia Dom?nios Almix Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGuarapuava, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Guarapuava","PR","04578-000","BR"]],["email",{"type":"work"},"text","GDI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GDI"
+    } ],
+    "entities" : [ ],
+    "handle" : "GDI"
+  } ],
+  "type" : null,
+  "handle" : "52587-LACNIC",
+  "country" : "BR"
+}

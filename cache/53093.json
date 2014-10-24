@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53093,
+  "endAutnum" : 53093,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53093",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53093"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091105",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131016",
+    "eventActor" : "VPI3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-AAFM-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-AAFM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Luiz de Fran?a"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGuarabira, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Guarabira","PB","04578-000","BR"]],["email",{"type":"work"},"text","MLF8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["org",{},"text",["Voax Provedor de Internet"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140319",
+      "eventActor" : "MLF8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MLF8",
+        "value" : "http://rdap.labs.lacnic.net/entity/MLF8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Luiz de Fran?a"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGuarabira, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Guarabira","PB","04578-000","BR"]],["email",{"type":"work"},"text","MLF8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MLF8"
+      } ],
+      "entities" : [ ],
+      "handle" : "MLF8"
+    } ],
+    "handle" : "BR-AAFM-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VPI3",
+      "value" : "http://rdap.labs.lacnic.net/entity/VPI3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Voax Provedor de Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGuarabira, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Guarabira","PB","04578-000","BR"]],["email",{"type":"work"},"text","VPI3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130816",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130816",
+      "eventActor" : "VPI3"
+    } ],
+    "entities" : [ ],
+    "handle" : "VPI3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MLF8",
+      "value" : "http://rdap.labs.lacnic.net/entity/MLF8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Luiz de Fran?a"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGuarabira, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Guarabira","PB","04578-000","BR"]],["email",{"type":"work"},"text","MLF8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MLF8"
+    } ],
+    "entities" : [ ],
+    "handle" : "MLF8"
+  } ],
+  "type" : null,
+  "handle" : "53093-LACNIC",
+  "country" : "BR"
+}

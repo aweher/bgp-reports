@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53197,
+  "endAutnum" : 53197,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53197",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53197"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100831",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "LRM9"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MTLT15-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MTLT15-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Roberto Martins"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Alegre, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Alegre","RS","04578-000","BR"]],["email",{"type":"work"},"text","LRM9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["Meta Telecomunica??es Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140427",
+      "eventActor" : "LRM9"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LRM9",
+        "value" : "http://rdap.labs.lacnic.net/entity/LRM9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Roberto Martins"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Alegre, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Alegre","RS","04578-000","BR"]],["email",{"type":"work"},"text","LRM9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LRM9"
+      } ],
+      "entities" : [ ],
+      "handle" : "LRM9"
+    } ],
+    "handle" : "BR-MTLT15-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LRM9",
+      "value" : "http://rdap.labs.lacnic.net/entity/LRM9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Roberto Martins"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Alegre, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Alegre","RS","04578-000","BR"]],["email",{"type":"work"},"text","LRM9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LRM9"
+    } ],
+    "entities" : [ ],
+    "handle" : "LRM9"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LRM9",
+      "value" : "http://rdap.labs.lacnic.net/entity/LRM9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Roberto Martins"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Alegre, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Alegre","RS","04578-000","BR"]],["email",{"type":"work"},"text","LRM9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LRM9"
+    } ],
+    "entities" : [ ],
+    "handle" : "LRM9"
+  } ],
+  "type" : null,
+  "handle" : "53197-LACNIC",
+  "country" : "BR"
+}

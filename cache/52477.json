@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52477",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52477"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-APIN4-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-APIN4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabian del Rio"],["adr",{"label":"Cnel. del Busto 2440 ()\nBragado, BA 6640\nAR","type":"work"},"text",["","","Cnel. del Busto 2440 ()","Bragado","BA","6640","AR"]],["email",{"type":"work"},"text","fabiandelrio@APINTER.COM.AR"],["tel",{"type":"work"},"text","54 2342 423023 ()"],["org",{},"text",["ApInter"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FAR25",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FAR25"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabian del Rio"],["adr",{"label":"Cnel. del Busto 2440 ()\nBragado, null 6640\nAR","type":"work"},"text",["","","Cnel. del Busto 2440 ()","Bragado","","6640","AR"]],["email",{"type":"work"},"text","fabiandelrio@APINTER.COM.AR"],["tel",{"type":"work"},"text","54 2342 423023 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130425",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130425",
+        "eventActor" : "FAR25"
+      } ],
+      "handle" : "FAR25"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130429",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "FAR25"
+    } ],
+    "handle" : "AR-APIN4-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FAR25",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAR25"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabian del Rio"],["adr",{"label":"Cnel. del Busto 2440 ()\nBragado, null 6640\nAR","type":"work"},"text",["","","Cnel. del Busto 2440 ()","Bragado","","6640","AR"]],["email",{"type":"work"},"text","fabiandelrio@APINTER.COM.AR"],["tel",{"type":"work"},"text","54 2342 423023 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130425",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130425",
+      "eventActor" : "FAR25"
+    } ],
+    "handle" : "FAR25"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FAR25",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAR25"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabian del Rio"],["adr",{"label":"Cnel. del Busto 2440 ()\nBragado, null 6640\nAR","type":"work"},"text",["","","Cnel. del Busto 2440 ()","Bragado","","6640","AR"]],["email",{"type":"work"},"text","fabiandelrio@APINTER.COM.AR"],["tel",{"type":"work"},"text","54 2342 423023 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130425",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130425",
+      "eventActor" : "FAR25"
+    } ],
+    "handle" : "FAR25"
+  } ],
+  "startAutnum" : 52477,
+  "endAutnum" : 52477,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130528",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130528",
+    "eventActor" : "FAR25"
+  } ],
+  "type" : null,
+  "handle" : "52477-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52239",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52239"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-DDPC1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-DDPC1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emiliano Coronelli"],["adr",{"label":"Tacuari 1018 ()\nLomas de San Isidro, BA 1643\nAR","type":"work"},"text",["","","Tacuari 1018 ()","Lomas de San Isidro","BA","1643","AR"]],["email",{"type":"work"},"text","emiliano.coronelli@GMAIL.COM"],["tel",{"type":"work"},"text","54 11 45192538 ()"],["org",{},"text",["Desarrollos Digitales de Pulsar Consulting"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/EMC6",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/EMC6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emiliano Coronelli"],["adr",{"label":"Jos? Ingenieros 3030 (oficina 14)\nLomas de San Isidro, BA 1643\nAR","type":"work"},"text",["","","Jos? Ingenieros 3030 (oficina 14)","Lomas de San Isidro","BA","1643","AR"]],["email",{"type":"work"},"text","emiliano.coronelli@GMAIL.COM"],["tel",{"type":"work"},"text","54 11 45192538 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100104",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131023",
+        "eventActor" : "EMC6"
+      } ],
+      "handle" : "EMC6"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100111",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140328",
+      "eventActor" : "EMC6"
+    } ],
+    "handle" : "AR-DDPC1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JOO7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JOO7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Soporte Redes"],["adr",{"label":"Jos? Ingenieros 3030 (oficina 15)\nLomas de San Isidro, BA 1643\nAR","type":"work"},"text",["","","Jos? Ingenieros 3030 (oficina 15)","Lomas de San Isidro","BA","1643","AR"]],["email",{"type":"work"},"text","lacnic@PULSARCONSULTING.NET"],["tel",{"type":"work"},"text","54 11 45192538 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100104",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140328",
+      "eventActor" : "JOO7"
+    } ],
+    "handle" : "JOO7"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/EMC6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/EMC6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emiliano Coronelli"],["adr",{"label":"Jos? Ingenieros 3030 (oficina 14)\nLomas de San Isidro, BA 1643\nAR","type":"work"},"text",["","","Jos? Ingenieros 3030 (oficina 14)","Lomas de San Isidro","BA","1643","AR"]],["email",{"type":"work"},"text","emiliano.coronelli@GMAIL.COM"],["tel",{"type":"work"},"text","54 11 45192538 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100104",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131023",
+      "eventActor" : "EMC6"
+    } ],
+    "handle" : "EMC6"
+  } ],
+  "startAutnum" : 52239,
+  "endAutnum" : 52239,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100428",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130814",
+    "eventActor" : "JOO7"
+  } ],
+  "type" : null,
+  "handle" : "52239-LACNIC",
+  "country" : "AR"
+}

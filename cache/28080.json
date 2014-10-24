@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28080",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28080"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-INSR21-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-INSR21-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emanuel Maldonado"],["adr",{"label":"Mendoza Sur 360 ()\nSan Juan, SJ 5400\nAR","type":"work"},"text",["","","Mendoza Sur 360 ()","San Juan","SJ","5400","AR"]],["email",{"type":"work"},"text","emanuel.maldonado@INTERREDESSA.COM.AR"],["tel",{"type":"work"},"text","54 264 155067542 ()"],["org",{},"text",["Interredes S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JMT2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JMT2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emanuel Maldonado"],["adr",{"label":"Lautaro este 191 ()\nSan Juan, AR 5400\nAR","type":"work"},"text",["","","Lautaro este 191 ()","San Juan","AR","5400","AR"]],["email",{"type":"work"},"text","emanuel.maldonado@INTERREDESSA.COM.AR"],["tel",{"type":"work"},"text","54 0264 155267597 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090209",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140224",
+        "eventActor" : "JMT2"
+      } ],
+      "handle" : "JMT2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070417",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "JMT2"
+    } ],
+    "handle" : "AR-INSR21-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JMT2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JMT2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emanuel Maldonado"],["adr",{"label":"Lautaro este 191 ()\nSan Juan, AR 5400\nAR","type":"work"},"text",["","","Lautaro este 191 ()","San Juan","AR","5400","AR"]],["email",{"type":"work"},"text","emanuel.maldonado@INTERREDESSA.COM.AR"],["tel",{"type":"work"},"text","54 0264 155267597 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090209",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140224",
+      "eventActor" : "JMT2"
+    } ],
+    "handle" : "JMT2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JMT2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JMT2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emanuel Maldonado"],["adr",{"label":"Lautaro este 191 ()\nSan Juan, AR 5400\nAR","type":"work"},"text",["","","Lautaro este 191 ()","San Juan","AR","5400","AR"]],["email",{"type":"work"},"text","emanuel.maldonado@INTERREDESSA.COM.AR"],["tel",{"type":"work"},"text","54 0264 155267597 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090209",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140224",
+      "eventActor" : "JMT2"
+    } ],
+    "handle" : "JMT2"
+  } ],
+  "startAutnum" : 28080,
+  "endAutnum" : 28080,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090826",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090827",
+    "eventActor" : "JMT2"
+  } ],
+  "type" : null,
+  "handle" : "28080-LACNIC",
+  "country" : "AR"
+}

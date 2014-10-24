@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263439,
+  "endAutnum" : 263439,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263439",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263439"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131204",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131204",
+    "eventActor" : "SAC47"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SILT77-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SILT77-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Maicon Roberto Golo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nQuilombo, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Quilombo","","04578-000","BR"]],["email",{"type":"work"},"text","MRG6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["org",{},"text",["Saber Inform?tica LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "MRG6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MRG6",
+        "value" : "http://rdap.labs.lacnic.net/entity/MRG6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Maicon Roberto Golo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nQuilombo, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Quilombo","SC","04578-000","BR"]],["email",{"type":"work"},"text","MRG6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MRG6"
+      } ],
+      "entities" : [ ],
+      "handle" : "MRG6"
+    } ],
+    "handle" : "BR-SILT77-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SAC47",
+      "value" : "http://rdap.labs.lacnic.net/entity/SAC47"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","samuel campagnolo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nQuilombo, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Quilombo","SC","04578-000","BR"]],["email",{"type":"work"},"text","SAC47@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 33 4655093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131202",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131202",
+      "eventActor" : "SAC47"
+    } ],
+    "entities" : [ ],
+    "handle" : "SAC47"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SAC47",
+      "value" : "http://rdap.labs.lacnic.net/entity/SAC47"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","samuel campagnolo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nQuilombo, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Quilombo","SC","04578-000","BR"]],["email",{"type":"work"},"text","SAC47@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 33 4655093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131202",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131202",
+      "eventActor" : "SAC47"
+    } ],
+    "entities" : [ ],
+    "handle" : "SAC47"
+  } ],
+  "type" : null,
+  "handle" : "263439-LACNIC",
+  "country" : "BR"
+}

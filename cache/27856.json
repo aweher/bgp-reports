@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27856",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27856"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-UNUN1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-UNUN1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cristian Iturrieta"],["adr",{"label":"Av. Salvador 1200 ()\nSantriago, RM 7501277\nCL","type":"work"},"text",["","","Av. Salvador 1200 ()","Santriago","RM","7501277","CL"]],["email",{"type":"work"},"text","citurrieta@UNIACC.CL"],["tel",{"type":"work"},"text","56 2 6406116 ()"],["org",{},"text",["UNIVERSIDAD UNIACC"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CRI",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CRI"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cristian Iturrieta"],["adr",{"label":"Av. Salvador 1200 ()\nSantiago, rm NA\nCL","type":"work"},"text",["","","Av. Salvador 1200 ()","Santiago","rm","NA","CL"]],["email",{"type":"work"},"text","citurrieta@UNIACC.CL"],["tel",{"type":"work"},"text","56 2 6406116 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030610",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20080403",
+        "eventActor" : "CRI"
+      } ],
+      "handle" : "CRI"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060904",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "CRI"
+    } ],
+    "handle" : "CL-UNUN1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CRI",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CRI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cristian Iturrieta"],["adr",{"label":"Av. Salvador 1200 ()\nSantiago, rm NA\nCL","type":"work"},"text",["","","Av. Salvador 1200 ()","Santiago","rm","NA","CL"]],["email",{"type":"work"},"text","citurrieta@UNIACC.CL"],["tel",{"type":"work"},"text","56 2 6406116 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030610",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080403",
+      "eventActor" : "CRI"
+    } ],
+    "handle" : "CRI"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CRI",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CRI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cristian Iturrieta"],["adr",{"label":"Av. Salvador 1200 ()\nSantiago, rm NA\nCL","type":"work"},"text",["","","Av. Salvador 1200 ()","Santiago","rm","NA","CL"]],["email",{"type":"work"},"text","citurrieta@UNIACC.CL"],["tel",{"type":"work"},"text","56 2 6406116 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030610",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080403",
+      "eventActor" : "CRI"
+    } ],
+    "handle" : "CRI"
+  } ],
+  "startAutnum" : 27856,
+  "endAutnum" : 27856,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20061002",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20061002",
+    "eventActor" : "CRI"
+  } ],
+  "type" : null,
+  "handle" : "27856-LACNIC",
+  "country" : "CL"
+}

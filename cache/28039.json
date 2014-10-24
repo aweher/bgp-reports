@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28039,
+  "endAutnum" : 28039,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28039",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28039"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090225",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090225",
+    "eventActor" : "EPM2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-UNEA1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-UNEA1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eliana Patricia Robayo Martinez"],["adr",{"label":"Carrera 11 No 78-47 -- ()\nBogota,  472\nCO","type":"work"},"text",["","","Carrera 11 No 78-47 -- ()","Bogota","","472","CO"]],["email",{"type":"work"},"text","elianap.robayo@EAN.EDU.CO"],["tel",{"type":"work"},"text","057 1 5936464 (475)"],["org",{},"text",["Universidad EAN"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081217",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110609",
+      "eventActor" : "EPM2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EPM2",
+        "value" : "http://rdap.labs.lacnic.net/entity/EPM2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eliana Patricia Robayo Martinez"],["adr",{"label":"Carrera 11 No. 78 -47 00 (00)\nBogota, null 472\nCO","type":"work"},"text",["","","Carrera 11 No. 78 -47 00 (00)","Bogota","","472","CO"]],["email",{"type":"work"},"text","elianap.robayo@EAN.EDU.CO"],["tel",{"type":"work"},"text","57 1 5936464 (475)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090117",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20090117",
+        "eventActor" : "EPM2"
+      } ],
+      "entities" : [ ],
+      "handle" : "EPM2"
+    } ],
+    "handle" : "CO-UNEA1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EPM2",
+      "value" : "http://rdap.labs.lacnic.net/entity/EPM2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eliana Patricia Robayo Martinez"],["adr",{"label":"Carrera 11 No. 78 -47 00 (00)\nBogota, null 472\nCO","type":"work"},"text",["","","Carrera 11 No. 78 -47 00 (00)","Bogota","","472","CO"]],["email",{"type":"work"},"text","elianap.robayo@EAN.EDU.CO"],["tel",{"type":"work"},"text","57 1 5936464 (475)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090117",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090117",
+      "eventActor" : "EPM2"
+    } ],
+    "entities" : [ ],
+    "handle" : "EPM2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EPM2",
+      "value" : "http://rdap.labs.lacnic.net/entity/EPM2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eliana Patricia Robayo Martinez"],["adr",{"label":"Carrera 11 No. 78 -47 00 (00)\nBogota, null 472\nCO","type":"work"},"text",["","","Carrera 11 No. 78 -47 00 (00)","Bogota","","472","CO"]],["email",{"type":"work"},"text","elianap.robayo@EAN.EDU.CO"],["tel",{"type":"work"},"text","57 1 5936464 (475)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090117",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090117",
+      "eventActor" : "EPM2"
+    } ],
+    "entities" : [ ],
+    "handle" : "EPM2"
+  } ],
+  "type" : null,
+  "handle" : "28039-LACNIC",
+  "country" : "CO"
+}

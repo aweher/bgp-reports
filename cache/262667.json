@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262667,
+  "endAutnum" : 262667,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262667",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262667"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090623",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "VAC13"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TISL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TISL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Valzumiro Ceolim"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampo Grande, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campo Grande","MS","04578-000","BR"]],["email",{"type":"work"},"text","VAC13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["org",{},"text",["Tendencia Informa??es e Sistemas Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VAC13"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/VAC13",
+        "value" : "http://rdap.labs.lacnic.net/entity/VAC13"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Valzumiro Ceolim"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampo Grande, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campo Grande","MS","04578-000","BR"]],["email",{"type":"work"},"text","VAC13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "VAC13"
+      } ],
+      "entities" : [ ],
+      "handle" : "VAC13"
+    } ],
+    "handle" : "BR-TISL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VAC13",
+      "value" : "http://rdap.labs.lacnic.net/entity/VAC13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Valzumiro Ceolim"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampo Grande, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campo Grande","MS","04578-000","BR"]],["email",{"type":"work"},"text","VAC13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VAC13"
+    } ],
+    "entities" : [ ],
+    "handle" : "VAC13"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RET16",
+      "value" : "http://rdap.labs.lacnic.net/entity/RET16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rede Tendencia"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampo Grande, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campo Grande","MS","04578-000","BR"]],["email",{"type":"work"},"text","RET16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RET16"
+    } ],
+    "entities" : [ ],
+    "handle" : "RET16"
+  } ],
+  "type" : null,
+  "handle" : "262667-LACNIC",
+  "country" : "BR"
+}

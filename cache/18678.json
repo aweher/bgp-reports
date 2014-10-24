@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 18678,
+  "endAutnum" : 18678,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/18678",
+    "value" : "http://rdap.labs.lacnic.net/autnum/18678"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20000928",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120509",
+    "eventActor" : "CAM40"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-IESA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-IESA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP-ITX"],["adr",{"label":"Calle 12 sur 18-168 Bloque 5 Piso 2 18 (168)\nMedellin, An 000000\nCO","type":"work"},"text",["","","Calle 12 sur 18-168 Bloque 5 Piso 2 18 (168)","Medellin","An","000000","CO"]],["email",{"type":"work"},"text","adminred@INTERNEXA.COM"],["tel",{"type":"work"},"text","57 4 3157171 (74171)"],["org",{},"text",["INTERNEXA S.A. E.S.P"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021217",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130920",
+      "eventActor" : "HEJ"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/HEJ",
+        "value" : "http://rdap.labs.lacnic.net/entity/HEJ"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP-ITX"],["adr",{"label":"Cl 12 sur # 18 - 168 bloque 5 Piso 2 00 (00000)\nMedellin, CO 00000\nCO","type":"work"},"text",["","","Cl 12 sur # 18 - 168 bloque 5 Piso 2 00 (00000)","Medellin","CO","00000","CO"]],["email",{"type":"work"},"text","adminred@INTERNEXA.COM"],["tel",{"type":"work"},"text","57 4 3171111 (73341)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090515",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130920",
+        "eventActor" : "HEJ"
+      } ],
+      "entities" : [ ],
+      "handle" : "HEJ"
+    } ],
+    "handle" : "CO-IESA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CAM40",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAM40"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Alberto Florez Mesa"],["adr",{"label":"calle 12 sur # 18-168 bloque 5 piso 2  ()\nmedellin, null 574\nCO","type":"work"},"text",["","","calle 12 sur # 18-168 bloque 5 piso 2  ()","medellin","","574","CO"]],["email",{"type":"work"},"text","caflorez@INTERNEXA.COM"],["tel",{"type":"work"},"text","57 4 32552270 (73369)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120509",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120509",
+      "eventActor" : "CAM40"
+    } ],
+    "entities" : [ ],
+    "handle" : "CAM40"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CAM40",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAM40"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Alberto Florez Mesa"],["adr",{"label":"calle 12 sur # 18-168 bloque 5 piso 2  ()\nmedellin, null 574\nCO","type":"work"},"text",["","","calle 12 sur # 18-168 bloque 5 piso 2  ()","medellin","","574","CO"]],["email",{"type":"work"},"text","caflorez@INTERNEXA.COM"],["tel",{"type":"work"},"text","57 4 32552270 (73369)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120509",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120509",
+      "eventActor" : "CAM40"
+    } ],
+    "entities" : [ ],
+    "handle" : "CAM40"
+  } ],
+  "type" : null,
+  "handle" : "18678-LACNIC",
+  "country" : "CO"
+}

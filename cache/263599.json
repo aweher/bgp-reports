@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263599,
+  "endAutnum" : 263599,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263599",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263599"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130829",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130829",
+    "eventActor" : "FMI4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-GNIN-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-GNIN-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","G3 Loja Virtual"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta F?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa F?","","04578-000","BR"]],["email",{"type":"work"},"text","GLV5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["org",{},"text",["Globo Net Inform?tica"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "GLV5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GLV5",
+        "value" : "http://rdap.labs.lacnic.net/entity/GLV5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","G3 Loja Virtual"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaring?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maring?","PR","04578-000","BR"]],["email",{"type":"work"},"text","GLV5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "GLV5"
+      } ],
+      "entities" : [ ],
+      "handle" : "GLV5"
+    } ],
+    "handle" : "BR-GNIN-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FMI4",
+      "value" : "http://rdap.labs.lacnic.net/entity/FMI4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","flavio manske israel"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta F?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa F?","","04578-000","BR"]],["email",{"type":"work"},"text","FMI4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130617",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130617",
+      "eventActor" : "FMI4"
+    } ],
+    "entities" : [ ],
+    "handle" : "FMI4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FMI4",
+      "value" : "http://rdap.labs.lacnic.net/entity/FMI4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","flavio manske israel"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta F?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa F?","","04578-000","BR"]],["email",{"type":"work"},"text","FMI4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130617",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130617",
+      "eventActor" : "FMI4"
+    } ],
+    "entities" : [ ],
+    "handle" : "FMI4"
+  } ],
+  "type" : null,
+  "handle" : "263599-LACNIC",
+  "country" : "BR"
+}

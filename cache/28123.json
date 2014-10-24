@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28123,
+  "endAutnum" : 28123,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28123",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28123"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20081210",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "TDF2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ANIL4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ANIL4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","thomas dias furtado"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos?","SC","04578-000","BR"]],["email",{"type":"work"},"text","TDF2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["org",{},"text",["Actual Network Internet Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TDF2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/TDF2",
+        "value" : "http://rdap.labs.lacnic.net/entity/TDF2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","thomas dias furtado"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos?","SC","04578-000","BR"]],["email",{"type":"work"},"text","TDF2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "TDF2"
+      } ],
+      "entities" : [ ],
+      "handle" : "TDF2"
+    } ],
+    "handle" : "BR-ANIL4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TDF2",
+      "value" : "http://rdap.labs.lacnic.net/entity/TDF2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","thomas dias furtado"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos?","SC","04578-000","BR"]],["email",{"type":"work"},"text","TDF2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TDF2"
+    } ],
+    "entities" : [ ],
+    "handle" : "TDF2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TDF2",
+      "value" : "http://rdap.labs.lacnic.net/entity/TDF2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","thomas dias furtado"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos?","SC","04578-000","BR"]],["email",{"type":"work"},"text","TDF2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TDF2"
+    } ],
+    "entities" : [ ],
+    "handle" : "TDF2"
+  } ],
+  "type" : null,
+  "handle" : "28123-LACNIC",
+  "country" : "BR"
+}

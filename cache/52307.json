@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52307",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52307"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-COLT6-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-COLT6-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Delacoste"],["adr",{"label":"Calle 11 341 ()\nGeneral Pico, LP 6360\nAR","type":"work"},"text",["","","Calle 11 341 ()","General Pico","LP","6360","AR"]],["email",{"type":"work"},"text","abuse@CORPICONET.COM.AR"],["tel",{"type":"work"},"text","54 2302 15457902 ()"],["org",{},"text",["CORPICO LTDA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CLD3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CLD3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Delacoste"],["adr",{"label":"Calle 11 341 ()\nGeneral Pico, null L6360AQG\nAR","type":"work"},"text",["","","Calle 11 341 ()","General Pico","","L6360AQG","AR"]],["email",{"type":"work"},"text","abuse@CORPICONET.COM.AR"],["tel",{"type":"work"},"text","54 2302 15457902 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100705",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100705",
+        "eventActor" : "CLD3"
+      } ],
+      "handle" : "CLD3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090309",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "CLD3"
+    } ],
+    "handle" : "AR-COLT6-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CLD3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLD3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Delacoste"],["adr",{"label":"Calle 11 341 ()\nGeneral Pico, null L6360AQG\nAR","type":"work"},"text",["","","Calle 11 341 ()","General Pico","","L6360AQG","AR"]],["email",{"type":"work"},"text","abuse@CORPICONET.COM.AR"],["tel",{"type":"work"},"text","54 2302 15457902 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100705",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100705",
+      "eventActor" : "CLD3"
+    } ],
+    "handle" : "CLD3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CLD3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLD3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Delacoste"],["adr",{"label":"Calle 11 341 ()\nGeneral Pico, null L6360AQG\nAR","type":"work"},"text",["","","Calle 11 341 ()","General Pico","","L6360AQG","AR"]],["email",{"type":"work"},"text","abuse@CORPICONET.COM.AR"],["tel",{"type":"work"},"text","54 2302 15457902 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100705",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100705",
+      "eventActor" : "CLD3"
+    } ],
+    "handle" : "CLD3"
+  } ],
+  "startAutnum" : 52307,
+  "endAutnum" : 52307,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101229",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20101229",
+    "eventActor" : "CLD3"
+  } ],
+  "type" : null,
+  "handle" : "52307-LACNIC",
+  "country" : "AR"
+}

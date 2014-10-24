@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/7004",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/7004"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-CTRS4-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-CTRS4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Antonio Ricapito Zapata"],["adr",{"label":"San Martin 50 Piso 6 50 ()\nSantiago, RM 6640742\nCL","type":"work"},"text",["","","San Martin 50 Piso 6 50 ()","Santiago","RM","6640742","CL"]],["email",{"type":"work"},"text","antonio.ricapito@TELEFONICA.COM"],["tel",{"type":"work"},"text","56 2 6917044 ()"],["org",{},"text",["CTC Transmisiones Regionales S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/NAA",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/NAA"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Antonio Ricapito Zapata"],["adr",{"label":"PROVIDENCIA 111 PISO 9 0 ()\nSantiago,  7500775\nCL","type":"work"},"text",["","","PROVIDENCIA 111 PISO 9 0 ()","Santiago","","7500775","CL"]],["email",{"type":"work"},"text","antonio.ricapito@TELEFONICA.COM"],["tel",{"type":"work"},"text","56 2 26912453 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20020923",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140130",
+        "eventActor" : "NAA"
+      } ],
+      "handle" : "NAA"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021008",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130809",
+      "eventActor" : "NAA"
+    } ],
+    "handle" : "CL-CTRS4-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NAA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NAA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Antonio Ricapito Zapata"],["adr",{"label":"PROVIDENCIA 111 PISO 9 0 ()\nSantiago,  7500775\nCL","type":"work"},"text",["","","PROVIDENCIA 111 PISO 9 0 ()","Santiago","","7500775","CL"]],["email",{"type":"work"},"text","antonio.ricapito@TELEFONICA.COM"],["tel",{"type":"work"},"text","56 2 26912453 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020923",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140130",
+      "eventActor" : "NAA"
+    } ],
+    "handle" : "NAA"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NAA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NAA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Antonio Ricapito Zapata"],["adr",{"label":"PROVIDENCIA 111 PISO 9 0 ()\nSantiago,  7500775\nCL","type":"work"},"text",["","","PROVIDENCIA 111 PISO 9 0 ()","Santiago","","7500775","CL"]],["email",{"type":"work"},"text","antonio.ricapito@TELEFONICA.COM"],["tel",{"type":"work"},"text","56 2 26912453 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020923",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140130",
+      "eventActor" : "NAA"
+    } ],
+    "handle" : "NAA"
+  } ],
+  "startAutnum" : 7004,
+  "endAutnum" : 7004,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19960724",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130320",
+    "eventActor" : "NAA"
+  } ],
+  "type" : null,
+  "handle" : "7004-LACNIC",
+  "country" : "CL"
+}

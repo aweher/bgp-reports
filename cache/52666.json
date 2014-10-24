@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52666,
+  "endAutnum" : 52666,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52666",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52666"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121123",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131206",
+    "eventActor" : "MVM19"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SPIL8-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SPIL8-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador Net2 Networks"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Crist?v?o, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Crist?v?o","SE","04578-000","BR"]],["email",{"type":"work"},"text","ANN12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["org",{},"text",["SERGIPEWEB PROVEDORES DE INTERNET LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140402",
+      "eventActor" : "ANN12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ANN12",
+        "value" : "http://rdap.labs.lacnic.net/entity/ANN12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador Net2 Networks"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBel?m, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bel?m","PA","04578-000","BR"]],["email",{"type":"work"},"text","ANN12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 91 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ANN12"
+      } ],
+      "entities" : [ ],
+      "handle" : "ANN12"
+    } ],
+    "handle" : "BR-SPIL8-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MVM19",
+      "value" : "http://rdap.labs.lacnic.net/entity/MVM19"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Vinicius Malachias"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAra?atuba, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ara?atuba","","04578-000","BR"]],["email",{"type":"work"},"text","MVM19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130419",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130419",
+      "eventActor" : "MVM19"
+    } ],
+    "entities" : [ ],
+    "handle" : "MVM19"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MVM19",
+      "value" : "http://rdap.labs.lacnic.net/entity/MVM19"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Vinicius Malachias"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAra?atuba, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ara?atuba","","04578-000","BR"]],["email",{"type":"work"},"text","MVM19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130419",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130419",
+      "eventActor" : "MVM19"
+    } ],
+    "entities" : [ ],
+    "handle" : "MVM19"
+  } ],
+  "type" : null,
+  "handle" : "52666-LACNIC",
+  "country" : "BR"
+}

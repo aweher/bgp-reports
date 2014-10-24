@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27831,
+  "endAutnum" : 27831,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27831",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27831"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060605",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130910",
+    "eventActor" : "ADS68"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-COMO-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-COMO-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","DAVID SAENZ"],["adr",{"label":"Cra 9 99 (02 piso 5)\nBogot?, Cu 9999\nCO","type":"work"},"text",["","","Cra 9 99 (02 piso 5)","Bogot?","Cu","9999","CO"]],["email",{"type":"work"},"text","david.saenz@TIGO.COM.CO"],["tel",{"type":"work"},"text","57 1 3303000 (1297)"],["org",{},"text",["Colombia M?vil"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030416",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140610",
+      "eventActor" : "DAS29"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DAS29",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAS29"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","DAVID SAENZ"],["adr",{"label":"Cra 50 No 96-12 50 (96)\nBOGOTA, BO 110121\nCO","type":"work"},"text",["","","Cra 50 No 96-12 50 (96)","BOGOTA","BO","110121","CO"]],["email",{"type":"work"},"text","david.saenz@TIGO.COM.CO"],["tel",{"type":"work"},"text","57 1 3303000 (00)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120425",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130910",
+        "eventActor" : "DAS29"
+      } ],
+      "entities" : [ ],
+      "handle" : "DAS29"
+    } ],
+    "handle" : "CO-COMO-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ADS68",
+      "value" : "http://rdap.labs.lacnic.net/entity/ADS68"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ADMINISTRADOR SEGURIDAD"],["adr",{"label":"11001  ()\nBOGOTA,  \nCO","type":"work"},"text",["","","11001  ()","BOGOTA","","","CO"]],["email",{"type":"work"},"text","ipadmin@TIGO.COM.CO"],["tel",{"type":"work"},"text","57 1 3303000 (00)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130905",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130905",
+      "eventActor" : "ADS68"
+    } ],
+    "entities" : [ ],
+    "handle" : "ADS68"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ADS68",
+      "value" : "http://rdap.labs.lacnic.net/entity/ADS68"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ADMINISTRADOR SEGURIDAD"],["adr",{"label":"11001  ()\nBOGOTA,  \nCO","type":"work"},"text",["","","11001  ()","BOGOTA","","","CO"]],["email",{"type":"work"},"text","ipadmin@TIGO.COM.CO"],["tel",{"type":"work"},"text","57 1 3303000 (00)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130905",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130905",
+      "eventActor" : "ADS68"
+    } ],
+    "entities" : [ ],
+    "handle" : "ADS68"
+  } ],
+  "type" : null,
+  "handle" : "27831-LACNIC",
+  "country" : "CO"
+}

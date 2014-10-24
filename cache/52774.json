@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52774,
+  "endAutnum" : 52774,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52774",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52774"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120911",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "RDV2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ANCE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ANCE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo dos Reis Mendes Velasco"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMirassol, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mirassol","SP","04578-000","BR"]],["email",{"type":"work"},"text","RDV2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["org",{},"text",["Amiga Net Com. de Equipamentos e Servi?o LTDA.- ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140411",
+      "eventActor" : "RDV2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RDV2",
+        "value" : "http://rdap.labs.lacnic.net/entity/RDV2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo dos Reis Mendes Velasco"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMirassol, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mirassol","SP","04578-000","BR"]],["email",{"type":"work"},"text","RDV2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140411",
+        "eventActor" : "RDV2"
+      } ],
+      "entities" : [ ],
+      "handle" : "RDV2"
+    } ],
+    "handle" : "BR-ANCE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RDV2",
+      "value" : "http://rdap.labs.lacnic.net/entity/RDV2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo dos Reis Mendes Velasco"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMirassol, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mirassol","SP","04578-000","BR"]],["email",{"type":"work"},"text","RDV2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140411",
+      "eventActor" : "RDV2"
+    } ],
+    "entities" : [ ],
+    "handle" : "RDV2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RDV2",
+      "value" : "http://rdap.labs.lacnic.net/entity/RDV2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo dos Reis Mendes Velasco"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMirassol, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mirassol","SP","04578-000","BR"]],["email",{"type":"work"},"text","RDV2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140411",
+      "eventActor" : "RDV2"
+    } ],
+    "entities" : [ ],
+    "handle" : "RDV2"
+  } ],
+  "type" : null,
+  "handle" : "52774-LACNIC",
+  "country" : "BR"
+}

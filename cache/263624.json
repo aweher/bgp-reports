@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263624,
+  "endAutnum" : 263624,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263624",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263624"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130920",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130926",
+    "eventActor" : "JCM62"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-JCBD-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-JCBD-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Massa Web"],["adr",{"label":"Av. das Nações Unidas 11541 (7º andar)\nEspinosa, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Nações Unidas 11541 (7º andar)","Espinosa","MG","04578-000","BR"]],["email",{"type":"work"},"text","MAW31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["org",{},"text",["JOSÉ CARLOS BATISTA DOS SANTOS"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130718",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130718",
+      "eventActor" : "MAW31"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MAW31",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAW31"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Massa Web"],["adr",{"label":"Av. das Nações Unidas 11541 (7º andar)\nMontes Claros, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Nações Unidas 11541 (7º andar)","Montes Claros","MG","04578-000","BR"]],["email",{"type":"work"},"text","MAW31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130718",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130718",
+        "eventActor" : "MAW31"
+      } ],
+      "entities" : [ ],
+      "handle" : "MAW31"
+    } ],
+    "handle" : "BR-JCBD-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JCM62",
+      "value" : "http://rdap.labs.lacnic.net/entity/JCM62"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Carlos Batista dos Santos ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEspinosa, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Espinosa","MG","04578-000","BR"]],["email",{"type":"work"},"text","JCM62@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130926",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130926",
+      "eventActor" : "JCM62"
+    } ],
+    "entities" : [ ],
+    "handle" : "JCM62"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JCM62",
+      "value" : "http://rdap.labs.lacnic.net/entity/JCM62"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Carlos Batista dos Santos ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEspinosa, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Espinosa","MG","04578-000","BR"]],["email",{"type":"work"},"text","JCM62@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130926",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130926",
+      "eventActor" : "JCM62"
+    } ],
+    "entities" : [ ],
+    "handle" : "JCM62"
+  } ],
+  "type" : null,
+  "handle" : "263624-LACNIC",
+  "country" : "BR"
+}

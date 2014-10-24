@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53227,
+  "endAutnum" : 53227,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53227",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53227"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101123",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MNM4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MMCL6-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MMCL6-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hiuri Ilha"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCandel?ria, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Candel?ria","RS","04578-000","BR"]],["email",{"type":"work"},"text","HII3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["M.V. Martin & Cia Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "HII3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/HII3",
+        "value" : "http://rdap.labs.lacnic.net/entity/HII3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hiuri Ilha"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCandel?ria, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Candel?ria","RS","04578-000","BR"]],["email",{"type":"work"},"text","HII3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "HII3"
+      } ],
+      "entities" : [ ],
+      "handle" : "HII3"
+    } ],
+    "handle" : "BR-MMCL6-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MNM4",
+      "value" : "http://rdap.labs.lacnic.net/entity/MNM4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Maikel Nixon Martin"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCandelaria, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Candelaria","RS","04578-000","BR"]],["email",{"type":"work"},"text","MNM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MNM4"
+    } ],
+    "entities" : [ ],
+    "handle" : "MNM4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MNM4",
+      "value" : "http://rdap.labs.lacnic.net/entity/MNM4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Maikel Nixon Martin"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCandelaria, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Candelaria","RS","04578-000","BR"]],["email",{"type":"work"},"text","MNM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MNM4"
+    } ],
+    "entities" : [ ],
+    "handle" : "MNM4"
+  } ],
+  "type" : null,
+  "handle" : "53227-LACNIC",
+  "country" : "BR"
+}

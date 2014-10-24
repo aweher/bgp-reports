@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262616,
+  "endAutnum" : 262616,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262616",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262616"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111021",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "VIS23"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VSPA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VSPA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Virtual Slice"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLajeado, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lajeado","RS","04578-000","BR"]],["email",{"type":"work"},"text","VIS23@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["Virtual Slice Provedor de Acesso a Internet Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140606",
+      "eventActor" : "VIS23"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/VIS23",
+        "value" : "http://rdap.labs.lacnic.net/entity/VIS23"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Virtual Slice"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLajeado, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lajeado","RS","04578-000","BR"]],["email",{"type":"work"},"text","VIS23@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "VIS23"
+      } ],
+      "entities" : [ ],
+      "handle" : "VIS23"
+    } ],
+    "handle" : "BR-VSPA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VIS23",
+      "value" : "http://rdap.labs.lacnic.net/entity/VIS23"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Virtual Slice"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLajeado, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lajeado","RS","04578-000","BR"]],["email",{"type":"work"},"text","VIS23@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VIS23"
+    } ],
+    "entities" : [ ],
+    "handle" : "VIS23"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VIS23",
+      "value" : "http://rdap.labs.lacnic.net/entity/VIS23"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Virtual Slice"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLajeado, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lajeado","RS","04578-000","BR"]],["email",{"type":"work"},"text","VIS23@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VIS23"
+    } ],
+    "entities" : [ ],
+    "handle" : "VIS23"
+  } ],
+  "type" : null,
+  "handle" : "262616-LACNIC",
+  "country" : "BR"
+}

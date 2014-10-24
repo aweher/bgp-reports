@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53180,
+  "endAutnum" : 53180,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53180",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53180"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100813",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ENV9"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ITSL5-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ITSL5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Nunes Vieira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEun?polis, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Eun?polis","BA","04578-000","BR"]],["email",{"type":"work"},"text","ENV9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 73 55093511 ()"],["org",{},"text",["Infortel Telecomunica??es e Servi?os Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "ENV9"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ENV9",
+        "value" : "http://rdap.labs.lacnic.net/entity/ENV9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Nunes Vieira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEun?polis, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Eun?polis","BA","04578-000","BR"]],["email",{"type":"work"},"text","ENV9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 73 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ENV9"
+      } ],
+      "entities" : [ ],
+      "handle" : "ENV9"
+    } ],
+    "handle" : "BR-ITSL5-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ENV9",
+      "value" : "http://rdap.labs.lacnic.net/entity/ENV9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Nunes Vieira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEun?polis, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Eun?polis","BA","04578-000","BR"]],["email",{"type":"work"},"text","ENV9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 73 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ENV9"
+    } ],
+    "entities" : [ ],
+    "handle" : "ENV9"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ENV9",
+      "value" : "http://rdap.labs.lacnic.net/entity/ENV9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Nunes Vieira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEun?polis, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Eun?polis","BA","04578-000","BR"]],["email",{"type":"work"},"text","ENV9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 73 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ENV9"
+    } ],
+    "entities" : [ ],
+    "handle" : "ENV9"
+  } ],
+  "type" : null,
+  "handle" : "53180-LACNIC",
+  "country" : "BR"
+}

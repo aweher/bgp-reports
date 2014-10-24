@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263152,
+  "endAutnum" : 263152,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263152",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263152"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140519",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140521",
+    "eventActor" : "VHM9"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-AAPI4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-AAPI4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Aguiari"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nClementina, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Clementina","SP","04578-000","BR"]],["email",{"type":"work"},"text","CAA46@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["org",{},"text",["AGUIARI E AGUIARI PROVEDOR DE INTERNET"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140519",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140521",
+      "eventActor" : "CAA46"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CAA46",
+        "value" : "http://rdap.labs.lacnic.net/entity/CAA46"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Aguiari"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nClementina, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Clementina","SP","04578-000","BR"]],["email",{"type":"work"},"text","CAA46@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CAA46"
+      } ],
+      "entities" : [ ],
+      "handle" : "CAA46"
+    } ],
+    "handle" : "BR-AAPI4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VHM9",
+      "value" : "http://rdap.labs.lacnic.net/entity/VHM9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","VICTOR HUGO REBOLLO DE MOURA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto Anast?cio, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo Anast?cio","SP","04578-000","BR"]],["email",{"type":"work"},"text","VHM9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VHM9"
+    } ],
+    "entities" : [ ],
+    "handle" : "VHM9"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VHM9",
+      "value" : "http://rdap.labs.lacnic.net/entity/VHM9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","VICTOR HUGO REBOLLO DE MOURA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto Anast?cio, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo Anast?cio","SP","04578-000","BR"]],["email",{"type":"work"},"text","VHM9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VHM9"
+    } ],
+    "entities" : [ ],
+    "handle" : "VHM9"
+  } ],
+  "type" : null,
+  "handle" : "263152-LACNIC",
+  "country" : "BR"
+}

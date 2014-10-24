@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262359,
+  "endAutnum" : 262359,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262359",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262359"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120117",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "PRL16"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-LLPI1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-LLPI1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo Roberto Lag?do Lins"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCarpina, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Carpina","PE","04578-000","BR"]],["email",{"type":"work"},"text","PRL16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["org",{},"text",["HIPER LINK PROVEDOR DE INTERNET LTDA - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130918",
+      "eventActor" : "PRL16"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PRL16",
+        "value" : "http://rdap.labs.lacnic.net/entity/PRL16"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo Roberto Lag?do Lins"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRibeir?o, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ribeir?o","PE","04578-000","BR"]],["email",{"type":"work"},"text","PRL16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PRL16"
+      } ],
+      "entities" : [ ],
+      "handle" : "PRL16"
+    } ],
+    "handle" : "BR-LLPI1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PRL16",
+      "value" : "http://rdap.labs.lacnic.net/entity/PRL16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo Roberto Lag?do Lins"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRibeir?o, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ribeir?o","PE","04578-000","BR"]],["email",{"type":"work"},"text","PRL16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PRL16"
+    } ],
+    "entities" : [ ],
+    "handle" : "PRL16"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PRL16",
+      "value" : "http://rdap.labs.lacnic.net/entity/PRL16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo Roberto Lag?do Lins"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRibeir?o, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ribeir?o","PE","04578-000","BR"]],["email",{"type":"work"},"text","PRL16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PRL16"
+    } ],
+    "entities" : [ ],
+    "handle" : "PRL16"
+  } ],
+  "type" : null,
+  "handle" : "262359-LACNIC",
+  "country" : "BR"
+}

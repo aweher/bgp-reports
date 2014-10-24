@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262928,
+  "endAutnum" : 262928,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262928",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262928"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140307",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140308",
+    "eventActor" : "CND5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-DICO15-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-DICO15-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christophe Ngo Van Duc"],["adr",{"label":"Autopista Norte # 103 -60 - (-)\nBogota, CU 110111\nCO","type":"work"},"text",["","","Autopista Norte # 103 -60 - (-)","Bogota","CU","110111","CO"]],["email",{"type":"work"},"text","chrduc@DIRECTVLA.COM.CO"],["tel",{"type":"work"},"text","57  6516000 ()"],["org",{},"text",["DIRECTV COLOMBIA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140221",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140221",
+      "eventActor" : "CND5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CND5",
+        "value" : "http://rdap.labs.lacnic.net/entity/CND5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christophe Ngo Van Duc"],["adr",{"label":"autopista norte #103-60  ()\nBogota,  \nCO","type":"work"},"text",["","","autopista norte #103-60  ()","Bogota","","","CO"]],["email",{"type":"work"},"text","chrduc@DIRECTVLA.COM.CO"],["tel",{"type":"work"},"text","57 65 16000 (1560)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130828",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130828",
+        "eventActor" : "CND5"
+      } ],
+      "entities" : [ ],
+      "handle" : "CND5"
+    } ],
+    "handle" : "CO-DICO15-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CND5",
+      "value" : "http://rdap.labs.lacnic.net/entity/CND5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christophe Ngo Van Duc"],["adr",{"label":"autopista norte #103-60  ()\nBogota,  \nCO","type":"work"},"text",["","","autopista norte #103-60  ()","Bogota","","","CO"]],["email",{"type":"work"},"text","chrduc@DIRECTVLA.COM.CO"],["tel",{"type":"work"},"text","57 65 16000 (1560)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130828",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130828",
+      "eventActor" : "CND5"
+    } ],
+    "entities" : [ ],
+    "handle" : "CND5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CND5",
+      "value" : "http://rdap.labs.lacnic.net/entity/CND5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christophe Ngo Van Duc"],["adr",{"label":"autopista norte #103-60  ()\nBogota,  \nCO","type":"work"},"text",["","","autopista norte #103-60  ()","Bogota","","","CO"]],["email",{"type":"work"},"text","chrduc@DIRECTVLA.COM.CO"],["tel",{"type":"work"},"text","57 65 16000 (1560)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130828",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130828",
+      "eventActor" : "CND5"
+    } ],
+    "entities" : [ ],
+    "handle" : "CND5"
+  } ],
+  "type" : null,
+  "handle" : "262928-LACNIC",
+  "country" : "CO"
+}

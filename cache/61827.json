@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61827,
+  "endAutnum" : 61827,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61827",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61827"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140630",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140630",
+    "eventActor" : "PBZ"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PBZM-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PBZM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Brito Zucoloto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJer?nimo Monteiro, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jer?nimo Monteiro","","04578-000","BR"]],["email",{"type":"work"},"text","PBZ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 28 55093511 ()"],["org",{},"text",["Pablo Brito Zucoloto ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "PBZ"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PBZ",
+        "value" : "http://rdap.labs.lacnic.net/entity/PBZ"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Brito Zucoloto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJer?nimo Monteiro, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jer?nimo Monteiro","ES","04578-000","BR"]],["email",{"type":"work"},"text","PBZ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 28 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PBZ"
+      } ],
+      "entities" : [ ],
+      "handle" : "PBZ"
+    } ],
+    "handle" : "BR-PBZM-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PBZ",
+      "value" : "http://rdap.labs.lacnic.net/entity/PBZ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Brito Zucoloto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJer?nimo Monteiro, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jer?nimo Monteiro","ES","04578-000","BR"]],["email",{"type":"work"},"text","PBZ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 28 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PBZ"
+    } ],
+    "entities" : [ ],
+    "handle" : "PBZ"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PBZ",
+      "value" : "http://rdap.labs.lacnic.net/entity/PBZ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Brito Zucoloto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJer?nimo Monteiro, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jer?nimo Monteiro","ES","04578-000","BR"]],["email",{"type":"work"},"text","PBZ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 28 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PBZ"
+    } ],
+    "entities" : [ ],
+    "handle" : "PBZ"
+  } ],
+  "type" : null,
+  "handle" : "61827-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27904",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27904"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-VISA10-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-VISA10-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Bravo M."],["adr",{"label":"Camino Melipilla 7875 (Cerrillos)\nSantiago, RM 9999\nCL","type":"work"},"text",["","","Camino Melipilla 7875 (Cerrillos)","Santiago","RM","9999","CL"]],["email",{"type":"work"},"text","fernando.bravo@VIRUTEXILKO.CL"],["tel",{"type":"work"},"text","56 2 2700165 ()"],["org",{},"text",["Virutex Ilko S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FBM2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FBM2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Bravo M."],["adr",{"label":"Camino Melipilla 7875 (Cerrillos)\nSantiago, null 999\nCL","type":"work"},"text",["","","Camino Melipilla 7875 (Cerrillos)","Santiago","","999","CL"]],["email",{"type":"work"},"text","fernando.bravo@VIRUTEXILKO.CL"],["tel",{"type":"work"},"text","56 2 2700165 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20061218",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20061218",
+        "eventActor" : "FBM2"
+      } ],
+      "handle" : "FBM2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070426",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "FBM2"
+    } ],
+    "handle" : "CL-VISA10-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FBM2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FBM2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Bravo M."],["adr",{"label":"Camino Melipilla 7875 (Cerrillos)\nSantiago, null 999\nCL","type":"work"},"text",["","","Camino Melipilla 7875 (Cerrillos)","Santiago","","999","CL"]],["email",{"type":"work"},"text","fernando.bravo@VIRUTEXILKO.CL"],["tel",{"type":"work"},"text","56 2 2700165 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20061218",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20061218",
+      "eventActor" : "FBM2"
+    } ],
+    "handle" : "FBM2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FBM2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FBM2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Bravo M."],["adr",{"label":"Camino Melipilla 7875 (Cerrillos)\nSantiago, null 999\nCL","type":"work"},"text",["","","Camino Melipilla 7875 (Cerrillos)","Santiago","","999","CL"]],["email",{"type":"work"},"text","fernando.bravo@VIRUTEXILKO.CL"],["tel",{"type":"work"},"text","56 2 2700165 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20061218",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20061218",
+      "eventActor" : "FBM2"
+    } ],
+    "handle" : "FBM2"
+  } ],
+  "startAutnum" : 27904,
+  "endAutnum" : 27904,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070509",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20070509",
+    "eventActor" : "FBM2"
+  } ],
+  "type" : null,
+  "handle" : "27904-LACNIC",
+  "country" : "CL"
+}

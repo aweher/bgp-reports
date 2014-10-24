@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52984,
+  "endAutnum" : 52984,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52984",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52984"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110419",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "DIS30"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CITL8-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CITL8-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dimas Sonego"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArroio Trinta, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Arroio Trinta","SC","04578-000","BR"]],["email",{"type":"work"},"text","DIS30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["org",{},"text",["CS-NET Inform?tica e Tecnologia Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DIS30"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DIS30",
+        "value" : "http://rdap.labs.lacnic.net/entity/DIS30"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dimas Sonego"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVideira, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Videira","SC","04578-000","BR"]],["email",{"type":"work"},"text","DIS30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 04 955093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DIS30"
+      } ],
+      "entities" : [ ],
+      "handle" : "DIS30"
+    } ],
+    "handle" : "BR-CITL8-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DIS30",
+      "value" : "http://rdap.labs.lacnic.net/entity/DIS30"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dimas Sonego"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVideira, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Videira","SC","04578-000","BR"]],["email",{"type":"work"},"text","DIS30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 04 955093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DIS30"
+    } ],
+    "entities" : [ ],
+    "handle" : "DIS30"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DIS30",
+      "value" : "http://rdap.labs.lacnic.net/entity/DIS30"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dimas Sonego"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVideira, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Videira","SC","04578-000","BR"]],["email",{"type":"work"},"text","DIS30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 04 955093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DIS30"
+    } ],
+    "entities" : [ ],
+    "handle" : "DIS30"
+  } ],
+  "type" : null,
+  "handle" : "52984-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 10670,
+  "endAutnum" : 10670,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/10670",
+    "value" : "http://rdap.labs.lacnic.net/autnum/10670"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19991117",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130819",
+    "eventActor" : "NIP11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CTIE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CTIE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Prodemge Ger. Rede - Dominios MG.GOV.BR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","MG","04578-000","BR"]],["email",{"type":"work"},"text","PGM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["org",{},"text",["COMPANHIA DE TECNOLOGIA DA INFORMA??O ESTADO MG"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PGM4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PGM4",
+        "value" : "http://rdap.labs.lacnic.net/entity/PGM4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Prodemge Ger. Rede - Dominios MG.GOV.BR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","MG","04578-000","BR"]],["email",{"type":"work"},"text","PGM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PGM4"
+      } ],
+      "entities" : [ ],
+      "handle" : "PGM4"
+    } ],
+    "handle" : "BR-CTIE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NIP11",
+      "value" : "http://rdap.labs.lacnic.net/entity/NIP11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NOC INTERNET PRODEMGE"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","MG","04578-000","BR"]],["email",{"type":"work"},"text","NIP11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130813",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130813",
+      "eventActor" : "NIP11"
+    } ],
+    "entities" : [ ],
+    "handle" : "NIP11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SIP13",
+      "value" : "http://rdap.labs.lacnic.net/entity/SIP13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SEGURANCA INTERNET PRODEMGE"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","MG","04578-000","BR"]],["email",{"type":"work"},"text","SIP13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130819",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130819",
+      "eventActor" : "SIP13"
+    } ],
+    "entities" : [ ],
+    "handle" : "SIP13"
+  } ],
+  "type" : null,
+  "handle" : "10670-LACNIC",
+  "country" : "BR"
+}

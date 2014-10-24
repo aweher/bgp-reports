@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61804,
+  "endAutnum" : 61804,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61804",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61804"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140625",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140625",
+    "eventActor" : "TKL4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TKTR-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TKTR-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Robson Fernandes da Silveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAragua?na, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aragua?na","","04578-000","BR"]],["email",{"type":"work"},"text","RFS15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["org",{},"text",["TRANS KOTHE TRANSPORTES RODOVIARIOS LTDA."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "RFS15"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RFS15",
+        "value" : "http://rdap.labs.lacnic.net/entity/RFS15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Robson Fernandes da Silveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAragua?na, TO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aragua?na","TO","04578-000","BR"]],["email",{"type":"work"},"text","RFS15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "RFS15"
+      } ],
+      "entities" : [ ],
+      "handle" : "RFS15"
+    } ],
+    "handle" : "BR-TKTR-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TKL4",
+      "value" : "http://rdap.labs.lacnic.net/entity/TKL4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TRANS KOTHE TRANSPORTES RODOVIARIOS LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAragua?na, TO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aragua?na","TO","04578-000","BR"]],["email",{"type":"work"},"text","TKL4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130813",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130813",
+      "eventActor" : "TKL4"
+    } ],
+    "entities" : [ ],
+    "handle" : "TKL4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TKL4",
+      "value" : "http://rdap.labs.lacnic.net/entity/TKL4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TRANS KOTHE TRANSPORTES RODOVIARIOS LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAragua?na, TO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aragua?na","TO","04578-000","BR"]],["email",{"type":"work"},"text","TKL4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130813",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130813",
+      "eventActor" : "TKL4"
+    } ],
+    "entities" : [ ],
+    "handle" : "TKL4"
+  } ],
+  "type" : null,
+  "handle" : "61804-LACNIC",
+  "country" : "BR"
+}

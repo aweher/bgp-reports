@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263251,
+  "endAutnum" : 263251,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263251",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263251"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140522",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140522",
+    "eventActor" : "BOS6"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BOSM-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BOSM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Bento de Oliveira Silvestre"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLimeira, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Limeira","SP","04578-000","BR"]],["email",{"type":"work"},"text","BOS6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["BENTO DE OLIVEIRA SILVESTRE - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140522",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140523",
+      "eventActor" : "BOS6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/BOS6",
+        "value" : "http://rdap.labs.lacnic.net/entity/BOS6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Bento de Oliveira Silvestre"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLimeira, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Limeira","","04578-000","BR"]],["email",{"type":"work"},"text","BOS6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130528",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130528",
+        "eventActor" : "BOS6"
+      } ],
+      "entities" : [ ],
+      "handle" : "BOS6"
+    } ],
+    "handle" : "BR-BOSM-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BOS6",
+      "value" : "http://rdap.labs.lacnic.net/entity/BOS6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Bento de Oliveira Silvestre"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLimeira, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Limeira","","04578-000","BR"]],["email",{"type":"work"},"text","BOS6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130528",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130528",
+      "eventActor" : "BOS6"
+    } ],
+    "entities" : [ ],
+    "handle" : "BOS6"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BOS6",
+      "value" : "http://rdap.labs.lacnic.net/entity/BOS6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Bento de Oliveira Silvestre"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLimeira, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Limeira","","04578-000","BR"]],["email",{"type":"work"},"text","BOS6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130528",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130528",
+      "eventActor" : "BOS6"
+    } ],
+    "entities" : [ ],
+    "handle" : "BOS6"
+  } ],
+  "type" : null,
+  "handle" : "263251-LACNIC",
+  "country" : "BR"
+}

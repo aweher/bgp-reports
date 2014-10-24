@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28279,
+  "endAutnum" : 28279,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28279",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28279"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070327",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130728",
+    "eventActor" : "JNM6"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TPIL2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TPIL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Weziton Geraldo Oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAn?polis, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","An?polis","GO","04578-000","BR"]],["email",{"type":"work"},"text","WGO2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["org",{},"text",["Turboseg Provedor de Internet Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130728",
+      "eventActor" : "WGO2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/WGO2",
+        "value" : "http://rdap.labs.lacnic.net/entity/WGO2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Weziton Geraldo Oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAn?polis, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","An?polis","GO","04578-000","BR"]],["email",{"type":"work"},"text","WGO2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "WGO2"
+      } ],
+      "entities" : [ ],
+      "handle" : "WGO2"
+    } ],
+    "handle" : "BR-TPIL2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JNM6",
+      "value" : "http://rdap.labs.lacnic.net/entity/JNM6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jaime Neto A. Matos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAn?polis, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","An?polis","GO","04578-000","BR"]],["email",{"type":"work"},"text","JNM6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130728",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130728",
+      "eventActor" : "JNM6"
+    } ],
+    "entities" : [ ],
+    "handle" : "JNM6"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JNM6",
+      "value" : "http://rdap.labs.lacnic.net/entity/JNM6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jaime Neto A. Matos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAn?polis, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","An?polis","GO","04578-000","BR"]],["email",{"type":"work"},"text","JNM6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130728",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130728",
+      "eventActor" : "JNM6"
+    } ],
+    "entities" : [ ],
+    "handle" : "JNM6"
+  } ],
+  "type" : null,
+  "handle" : "28279-LACNIC",
+  "country" : "BR"
+}

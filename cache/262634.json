@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262634,
+  "endAutnum" : 262634,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262634",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262634"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111104",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140102",
+    "eventActor" : "LMT2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-LMLT5-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-LMLT5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Erick Araujo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSol?nea, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sol?nea","PB","04578-000","BR"]],["email",{"type":"work"},"text","ERA28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["org",{},"text",["LEMOS E MORAIS LTDA."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140102",
+      "eventActor" : "ERA28"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ERA28",
+        "value" : "http://rdap.labs.lacnic.net/entity/ERA28"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Erick Araujo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJo?o Pessoa, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jo?o Pessoa","PB","04578-000","BR"]],["email",{"type":"work"},"text","ERA28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ERA28"
+      } ],
+      "entities" : [ ],
+      "handle" : "ERA28"
+    } ],
+    "handle" : "BR-LMLT5-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LMT2",
+      "value" : "http://rdap.labs.lacnic.net/entity/LMT2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","L&M TELECOM"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSol?nea, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sol?nea","PB","04578-000","BR"]],["email",{"type":"work"},"text","LMT2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140102",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140102",
+      "eventActor" : "LMT2"
+    } ],
+    "entities" : [ ],
+    "handle" : "LMT2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LMT2",
+      "value" : "http://rdap.labs.lacnic.net/entity/LMT2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","L&M TELECOM"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSol?nea, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sol?nea","PB","04578-000","BR"]],["email",{"type":"work"},"text","LMT2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140102",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140102",
+      "eventActor" : "LMT2"
+    } ],
+    "entities" : [ ],
+    "handle" : "LMT2"
+  } ],
+  "type" : null,
+  "handle" : "262634-LACNIC",
+  "country" : "BR"
+}

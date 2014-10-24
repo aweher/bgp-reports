@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53212,
+  "endAutnum" : 53212,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53212",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53212"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101013",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MRL10"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ZSOL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ZSOL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauricio Ricardo Martins de Lima"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDom Eliseu, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dom Eliseu","PA","04578-000","BR"]],["email",{"type":"work"},"text","MRL10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["org",{},"text",["Zunet Servi?os Online Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "MRL10"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MRL10",
+        "value" : "http://rdap.labs.lacnic.net/entity/MRL10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauricio Ricardo Martins de Lima"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDom Eliseu, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dom Eliseu","PA","04578-000","BR"]],["email",{"type":"work"},"text","MRL10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MRL10"
+      } ],
+      "entities" : [ ],
+      "handle" : "MRL10"
+    } ],
+    "handle" : "BR-ZSOL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MRL10",
+      "value" : "http://rdap.labs.lacnic.net/entity/MRL10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauricio Ricardo Martins de Lima"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDom Eliseu, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dom Eliseu","PA","04578-000","BR"]],["email",{"type":"work"},"text","MRL10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MRL10"
+    } ],
+    "entities" : [ ],
+    "handle" : "MRL10"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MRL10",
+      "value" : "http://rdap.labs.lacnic.net/entity/MRL10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauricio Ricardo Martins de Lima"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDom Eliseu, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dom Eliseu","PA","04578-000","BR"]],["email",{"type":"work"},"text","MRL10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MRL10"
+    } ],
+    "entities" : [ ],
+    "handle" : "MRL10"
+  } ],
+  "type" : null,
+  "handle" : "53212-LACNIC",
+  "country" : "BR"
+}

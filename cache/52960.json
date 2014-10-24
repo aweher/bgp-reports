@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52960,
+  "endAutnum" : 52960,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52960",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52960"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110131",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "EDS68"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ESSS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ESSS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edilson Sobrinho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCama?ari, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cama?ari","BA","04578-000","BR"]],["email",{"type":"work"},"text","EDS68@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["org",{},"text",["EDILSON SANTOS SILVA SOBRINHO - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "EDS68"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EDS68",
+        "value" : "http://rdap.labs.lacnic.net/entity/EDS68"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edilson Sobrinho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCama?ari, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cama?ari","BA","04578-000","BR"]],["email",{"type":"work"},"text","EDS68@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EDS68"
+      } ],
+      "entities" : [ ],
+      "handle" : "EDS68"
+    } ],
+    "handle" : "BR-ESSS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDS68",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDS68"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edilson Sobrinho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCama?ari, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cama?ari","BA","04578-000","BR"]],["email",{"type":"work"},"text","EDS68@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EDS68"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDS68"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDS68",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDS68"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edilson Sobrinho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCama?ari, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cama?ari","BA","04578-000","BR"]],["email",{"type":"work"},"text","EDS68@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EDS68"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDS68"
+  } ],
+  "type" : null,
+  "handle" : "52960-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/21756",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/21756"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-ASTE1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-ASTE1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Facundo Gomila"],["adr",{"label":"Dr. Simini 250 (Piso 15)\nCampana, CF 2804\nAR","type":"work"},"text",["","","Dr. Simini 250 (Piso 15)","Campana","CF","2804","AR"]],["email",{"type":"work"},"text","netmaster@TECSIS.COM"],["tel",{"type":"work"},"text","54 11 40182252 ()"],["org",{},"text",["SIDERCA S.A.I.C."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/OSB3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/OSB3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Facundo Gomila"],["adr",{"label":"Av. Eduardo Madero 942 (Piso 3)\nBuenos Aires,  C1106ACW\nAR","type":"work"},"text",["","","Av. Eduardo Madero 942 (Piso 3)","Buenos Aires","","C1106ACW","AR"]],["email",{"type":"work"},"text","netmaster@TECSIS.COM"],["tel",{"type":"work"},"text","54 11 5168 (2020)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030804",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20061108",
+        "eventActor" : "OSB3"
+      } ],
+      "handle" : "OSB3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030814",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140430",
+      "eventActor" : "OSB3"
+    } ],
+    "handle" : "AR-ASTE1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/OSB3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/OSB3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Facundo Gomila"],["adr",{"label":"Av. Eduardo Madero 942 (Piso 3)\nBuenos Aires,  C1106ACW\nAR","type":"work"},"text",["","","Av. Eduardo Madero 942 (Piso 3)","Buenos Aires","","C1106ACW","AR"]],["email",{"type":"work"},"text","netmaster@TECSIS.COM"],["tel",{"type":"work"},"text","54 11 5168 (2020)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030804",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20061108",
+      "eventActor" : "OSB3"
+    } ],
+    "handle" : "OSB3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/OSB3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/OSB3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Facundo Gomila"],["adr",{"label":"Av. Eduardo Madero 942 (Piso 3)\nBuenos Aires,  C1106ACW\nAR","type":"work"},"text",["","","Av. Eduardo Madero 942 (Piso 3)","Buenos Aires","","C1106ACW","AR"]],["email",{"type":"work"},"text","netmaster@TECSIS.COM"],["tel",{"type":"work"},"text","54 11 5168 (2020)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030804",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20061108",
+      "eventActor" : "OSB3"
+    } ],
+    "handle" : "OSB3"
+  } ],
+  "startAutnum" : 21756,
+  "endAutnum" : 21756,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20010615",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20040415",
+    "eventActor" : "OSB3"
+  } ],
+  "type" : null,
+  "handle" : "21756-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52424",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52424"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-UNER2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-UNER2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","DG TICs - Adm. de Redes (UNER)"],["adr",{"label":"Eva Per?n 24 ()\nConcepci?n del Uruguay, ER 3260\nAR","type":"work"},"text",["","","Eva Per?n 24 ()","Concepci?n del Uruguay","ER","3260","AR"]],["email",{"type":"work"},"text","redes@UNER.EDU.AR"],["tel",{"type":"work"},"text","54 3442 421500 (1539)"],["org",{},"text",["Universidad Nacional de Entre R?os"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/UNR2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/UNR2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","DG TICs - Adm. de Redes (UNER)"],["adr",{"label":"Eva Per?n 24 ()\nC. del Uguruay, ER 3260\nAR","type":"work"},"text",["","","Eva Per?n 24 ()","C. del Uguruay","ER","3260","AR"]],["email",{"type":"work"},"text","redes@UNER.EDU.AR"],["tel",{"type":"work"},"text","54 3442 421539 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20081218",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140630",
+        "eventActor" : "UNR2"
+      } ],
+      "handle" : "UNR2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030604",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "UNR2"
+    } ],
+    "handle" : "AR-UNER2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/UNR2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/UNR2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","DG TICs - Adm. de Redes (UNER)"],["adr",{"label":"Eva Per?n 24 ()\nC. del Uguruay, ER 3260\nAR","type":"work"},"text",["","","Eva Per?n 24 ()","C. del Uguruay","ER","3260","AR"]],["email",{"type":"work"},"text","redes@UNER.EDU.AR"],["tel",{"type":"work"},"text","54 3442 421539 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081218",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140630",
+      "eventActor" : "UNR2"
+    } ],
+    "handle" : "UNR2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/UNR2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/UNR2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","DG TICs - Adm. de Redes (UNER)"],["adr",{"label":"Eva Per?n 24 ()\nC. del Uguruay, ER 3260\nAR","type":"work"},"text",["","","Eva Per?n 24 ()","C. del Uguruay","ER","3260","AR"]],["email",{"type":"work"},"text","redes@UNER.EDU.AR"],["tel",{"type":"work"},"text","54 3442 421539 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081218",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140630",
+      "eventActor" : "UNR2"
+    } ],
+    "handle" : "UNR2"
+  } ],
+  "startAutnum" : 52424,
+  "endAutnum" : 52424,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121121",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121121",
+    "eventActor" : "UNR2"
+  } ],
+  "type" : null,
+  "handle" : "52424-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53172,
+  "endAutnum" : 53172,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53172",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53172"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100729",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130709",
+    "eventActor" : "LTA2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-JILT7-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-JILT7-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonardo Teixeira Augusto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVisconde do Rio Branco, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Visconde do Rio Branco","MG","04578-000","BR"]],["email",{"type":"work"},"text","LTA2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["org",{},"text",["Next Telecomunica??es do Brasil LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130709",
+      "eventActor" : "LTA2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LTA2",
+        "value" : "http://rdap.labs.lacnic.net/entity/LTA2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonardo Teixeira Augusto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVisconde do Rio Branco, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Visconde do Rio Branco","MG","04578-000","BR"]],["email",{"type":"work"},"text","LTA2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LTA2"
+      } ],
+      "entities" : [ ],
+      "handle" : "LTA2"
+    } ],
+    "handle" : "BR-JILT7-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LTA2",
+      "value" : "http://rdap.labs.lacnic.net/entity/LTA2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonardo Teixeira Augusto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVisconde do Rio Branco, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Visconde do Rio Branco","MG","04578-000","BR"]],["email",{"type":"work"},"text","LTA2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LTA2"
+    } ],
+    "entities" : [ ],
+    "handle" : "LTA2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PDN",
+      "value" : "http://rdap.labs.lacnic.net/entity/PDN"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Phillipe Dias Nascimento"],["adr",{"label":"Av. das Nações Unidas 11541 (7º andar)\nVisconde do Rio Branco, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Nações Unidas 11541 (7º andar)","Visconde do Rio Branco","MG","04578-000","BR"]],["email",{"type":"work"},"text","PDN@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130709",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130709",
+      "eventActor" : "PDN"
+    } ],
+    "entities" : [ ],
+    "handle" : "PDN"
+  } ],
+  "type" : null,
+  "handle" : "53172-LACNIC",
+  "country" : "BR"
+}

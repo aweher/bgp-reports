@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27750,
+  "endAutnum" : 27750,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27750",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27750"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20040707",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140430",
+    "eventActor" : "GUG"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/UY-CLAR-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/UY-CLAR-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Garcia"],["adr",{"label":"Rambla Republica de Mexico 6125 ()\nMontevideo,  11200\nUY","type":"work"},"text",["","","Rambla Republica de Mexico 6125 ()","Montevideo","","11200","UY"]],["email",{"type":"work"},"text","gustavo.garcia@REDCLARA.NET"],["tel",{"type":"work"},"text","598 2 6042222 (5301)"],["org",{},"text",["Cooperaci?n Latino Americana de Redes Avanzadas"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040609",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130815",
+      "eventActor" : "GUG"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GUG",
+        "value" : "http://rdap.labs.lacnic.net/entity/GUG"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Garcia"],["adr",{"label":"Calle 95 # 71-11 T.4 Apto 1704 1 ()\nBogota, NA NA\nCO","type":"work"},"text",["","","Calle 95 # 71-11 T.4 Apto 1704 1 ()","Bogota","NA","NA","CO"]],["email",{"type":"work"},"text","gustavo.garcia@REDCLARA.NET"],["tel",{"type":"work"},"text","57 317 4341329 (0)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20020927",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140430",
+        "eventActor" : "GUG"
+      } ],
+      "entities" : [ ],
+      "handle" : "GUG"
+    } ],
+    "handle" : "UY-CLAR-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GUG",
+      "value" : "http://rdap.labs.lacnic.net/entity/GUG"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Garcia"],["adr",{"label":"Calle 95 # 71-11 T.4 Apto 1704 1 ()\nBogota, NA NA\nCO","type":"work"},"text",["","","Calle 95 # 71-11 T.4 Apto 1704 1 ()","Bogota","NA","NA","CO"]],["email",{"type":"work"},"text","gustavo.garcia@REDCLARA.NET"],["tel",{"type":"work"},"text","57 317 4341329 (0)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020927",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140430",
+      "eventActor" : "GUG"
+    } ],
+    "entities" : [ ],
+    "handle" : "GUG"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GUG",
+      "value" : "http://rdap.labs.lacnic.net/entity/GUG"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Garcia"],["adr",{"label":"Calle 95 # 71-11 T.4 Apto 1704 1 ()\nBogota, NA NA\nCO","type":"work"},"text",["","","Calle 95 # 71-11 T.4 Apto 1704 1 ()","Bogota","NA","NA","CO"]],["email",{"type":"work"},"text","gustavo.garcia@REDCLARA.NET"],["tel",{"type":"work"},"text","57 317 4341329 (0)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020927",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140430",
+      "eventActor" : "GUG"
+    } ],
+    "entities" : [ ],
+    "handle" : "GUG"
+  } ],
+  "type" : null,
+  "handle" : "27750-LACNIC",
+  "country" : "UY"
+}

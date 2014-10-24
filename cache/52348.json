@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52348",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52348"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CEAC-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CEAC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alberto Cuello"],["adr",{"label":"Calle 8 y 11 -- ()\nCarboni, Ba 7243\nAR","type":"work"},"text",["","","Calle 8 y 11 -- ()","Carboni","Ba","7243","AR"]],["email",{"type":"work"},"text","a.cuello@CEACNET.COM.AR"],["tel",{"type":"work"},"text","54 2227 495003 ()"],["org",{},"text",["Cooperativa El?ctrica Antonio Carboni Ltda"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ALC67",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ALC67"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alberto Cuello"],["adr",{"label":"Calle 8 y 11, 8 ()\ncarboni, null 7243\nAR","type":"work"},"text",["","","Calle 8 y 11, 8 ()","carboni","","7243","AR"]],["email",{"type":"work"},"text","a.cuello@CEACNET.COM.AR"],["tel",{"type":"work"},"text","54 11 59177290 (114)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20121217",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121217",
+        "eventActor" : "ALC67"
+      } ],
+      "handle" : "ALC67"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090605",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121217",
+      "eventActor" : "ALC67"
+    } ],
+    "handle" : "AR-CEAC-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RBM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RBM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Roberto Boero Mansilla"],["adr",{"label":"Los nogales 535 (1)\nMarcos Paz, Buenos Aires, BA 1727\nAR","type":"work"},"text",["","","Los nogales 535 (1)","Marcos Paz, Buenos Aires","BA","1727","AR"]],["email",{"type":"work"},"text","rboero@SOMTIK.COM"],["tel",{"type":"work"},"text","54 11 6632 (9000)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071127",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130604",
+      "eventActor" : "RBM"
+    } ],
+    "handle" : "RBM"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RBM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RBM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Roberto Boero Mansilla"],["adr",{"label":"Los nogales 535 (1)\nMarcos Paz, Buenos Aires, BA 1727\nAR","type":"work"},"text",["","","Los nogales 535 (1)","Marcos Paz, Buenos Aires","BA","1727","AR"]],["email",{"type":"work"},"text","rboero@SOMTIK.COM"],["tel",{"type":"work"},"text","54 11 6632 (9000)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071127",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130604",
+      "eventActor" : "RBM"
+    } ],
+    "handle" : "RBM"
+  } ],
+  "startAutnum" : 52348,
+  "endAutnum" : 52348,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111018",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20111018",
+    "eventActor" : "RBM"
+  } ],
+  "type" : null,
+  "handle" : "52348-LACNIC",
+  "country" : "AR"
+}

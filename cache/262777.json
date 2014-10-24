@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262777,
+  "endAutnum" : 262777,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262777",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262777"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100902",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "FFK2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CTLM4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CTLM4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabricio Fadel Kammer"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConchal, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Conchal","SP","04578-000","BR"]],["email",{"type":"work"},"text","FFK2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["Conchalnet Telecomunica??es LTDA - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130423",
+      "eventActor" : "FFK2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FFK2",
+        "value" : "http://rdap.labs.lacnic.net/entity/FFK2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabricio Fadel Kammer"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConchal, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Conchal","SP","04578-000","BR"]],["email",{"type":"work"},"text","FFK2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FFK2"
+      } ],
+      "entities" : [ ],
+      "handle" : "FFK2"
+    } ],
+    "handle" : "BR-CTLM4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FFK2",
+      "value" : "http://rdap.labs.lacnic.net/entity/FFK2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabricio Fadel Kammer"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConchal, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Conchal","SP","04578-000","BR"]],["email",{"type":"work"},"text","FFK2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FFK2"
+    } ],
+    "entities" : [ ],
+    "handle" : "FFK2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FFK2",
+      "value" : "http://rdap.labs.lacnic.net/entity/FFK2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabricio Fadel Kammer"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConchal, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Conchal","SP","04578-000","BR"]],["email",{"type":"work"},"text","FFK2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FFK2"
+    } ],
+    "entities" : [ ],
+    "handle" : "FFK2"
+  } ],
+  "type" : null,
+  "handle" : "262777-LACNIC",
+  "country" : "BR"
+}

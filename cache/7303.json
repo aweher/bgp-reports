@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/7303",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/7303"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TAST-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TAST-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP"],["adr",{"label":"Dorrego 2520 (Piso 11)\nBuenos Aires,  1425\nAR","type":"work"},"text",["","","Dorrego 2520 (Piso 11)","Buenos Aires","","1425","AR"]],["email",{"type":"work"},"text","ipadmin@TA.TELECOM.COM.AR"],["tel",{"type":"work"},"text","54 11 4968 (4975)"],["org",{},"text",["Telecom Argentina S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ADI2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ADI2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP"],["adr",{"label":"Dorrego 2502 (piso 11)\nBuenos Aires,  1425\nAR","type":"work"},"text",["","","Dorrego 2502 (piso 11)","Buenos Aires","","1425","AR"]],["email",{"type":"work"},"text","ipadmin@TA.TELECOM.COM.AR"],["tel",{"type":"work"},"text","54 11 4968 (4975)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20020909",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20101209",
+        "eventActor" : "ADI2"
+      } ],
+      "handle" : "ADI2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020911",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "ADI2"
+    } ],
+    "handle" : "AR-TAST-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ADI2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ADI2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP"],["adr",{"label":"Dorrego 2502 (piso 11)\nBuenos Aires,  1425\nAR","type":"work"},"text",["","","Dorrego 2502 (piso 11)","Buenos Aires","","1425","AR"]],["email",{"type":"work"},"text","ipadmin@TA.TELECOM.COM.AR"],["tel",{"type":"work"},"text","54 11 4968 (4975)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020909",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101209",
+      "eventActor" : "ADI2"
+    } ],
+    "handle" : "ADI2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ADI2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ADI2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP"],["adr",{"label":"Dorrego 2502 (piso 11)\nBuenos Aires,  1425\nAR","type":"work"},"text",["","","Dorrego 2502 (piso 11)","Buenos Aires","","1425","AR"]],["email",{"type":"work"},"text","ipadmin@TA.TELECOM.COM.AR"],["tel",{"type":"work"},"text","54 11 4968 (4975)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020909",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101209",
+      "eventActor" : "ADI2"
+    } ],
+    "handle" : "ADI2"
+  } ],
+  "startAutnum" : 7303,
+  "endAutnum" : 7303,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20000609",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20020304",
+    "eventActor" : "ADI2"
+  } ],
+  "type" : null,
+  "handle" : "7303-LACNIC",
+  "country" : "AR"
+}

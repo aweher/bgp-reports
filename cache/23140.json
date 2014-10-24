@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/23140",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/23140"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-UNCH3-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-UNCH3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alvise bolsi"],["adr",{"label":"Av. Diagonal Paraguay 265 (Of. 1206)\nSantiago,  6510015\nCL","type":"work"},"text",["","","Av. Diagonal Paraguay 265 (Of. 1206)","Santiago","","6510015","CL"]],["email",{"type":"work"},"text","Abolsi@U.UCHILE.CL"],["tel",{"type":"work"},"text","56 2 9782646 ()"],["org",{},"text",["Universidad de Chile"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ALB32",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ALB32"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alvise bolsi"],["adr",{"label":"Diagonal paraguay 265 (Oficina 1203)\nSantiago, null \nCL","type":"work"},"text",["","","Diagonal paraguay 265 (Oficina 1203)","Santiago","","","CL"]],["email",{"type":"work"},"text","Abolsi@U.UCHILE.CL"],["tel",{"type":"work"},"text","56 2 9782625 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110807",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110807",
+        "eventActor" : "ALB32"
+      } ],
+      "handle" : "ALB32"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021014",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130829",
+      "eventActor" : "ALB32"
+    } ],
+    "handle" : "CL-UNCH3-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RAP",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RAP"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alicia Hernandez"],["adr",{"label":"Diagonal Paraguay 265 (of 1206)\nSantiago,  6510015\nCL","type":"work"},"text",["","","Diagonal Paraguay 265 (of 1206)","Santiago","","6510015","CL"]],["email",{"type":"work"},"text","ahernand@UCHILE.CL"],["tel",{"type":"work"},"text","56 2 9782680 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021011",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20051026",
+      "eventActor" : "RAP"
+    } ],
+    "handle" : "RAP"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ALB32",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALB32"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alvise bolsi"],["adr",{"label":"Diagonal paraguay 265 (Oficina 1203)\nSantiago, null \nCL","type":"work"},"text",["","","Diagonal paraguay 265 (Oficina 1203)","Santiago","","","CL"]],["email",{"type":"work"},"text","Abolsi@U.UCHILE.CL"],["tel",{"type":"work"},"text","56 2 9782625 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110807",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110807",
+      "eventActor" : "ALB32"
+    } ],
+    "handle" : "ALB32"
+  } ],
+  "startAutnum" : 23140,
+  "endAutnum" : 23140,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20020130",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20111219",
+    "eventActor" : "RAP"
+  } ],
+  "type" : null,
+  "handle" : "23140-LACNIC",
+  "country" : "CL"
+}

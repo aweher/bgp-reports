@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 26596,
+  "endAutnum" : 26596,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/26596",
+    "value" : "http://rdap.labs.lacnic.net/autnum/26596"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20020930",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130314",
+    "eventActor" : "LFC3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-SUTE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-SUTE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","David Quintero Arias"],["adr",{"label":"Carrera 68D 17A (84)\nBogota, NA 571\nCO","type":"work"},"text",["","","Carrera 68D 17A (84)","Bogota","NA","571","CO"]],["email",{"type":"work"},"text","david.quintero@SUPERCABLE.CO"],["tel",{"type":"work"},"text","57 311 2158072 ()"],["org",{},"text",["SUPERCABLE TELECOMUNICACIONES"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020930",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130314",
+      "eventActor" : "LFC3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LFC3",
+        "value" : "http://rdap.labs.lacnic.net/entity/LFC3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","David Quintero Arias"],["adr",{"label":"cra 68d #17A-84 57 (3138676483)\nBogota, DC 1234\nCO","type":"work"},"text",["","","cra 68d #17A-84 57 (3138676483)","Bogota","DC","1234","CO"]],["email",{"type":"work"},"text","david.quintero@SUPERCABLE.CO"],["tel",{"type":"work"},"text","57 1 5782805 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100616",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140217",
+        "eventActor" : "LFC3"
+      } ],
+      "entities" : [ ],
+      "handle" : "LFC3"
+    } ],
+    "handle" : "CO-SUTE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LFC3",
+      "value" : "http://rdap.labs.lacnic.net/entity/LFC3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","David Quintero Arias"],["adr",{"label":"cra 68d #17A-84 57 (3138676483)\nBogota, DC 1234\nCO","type":"work"},"text",["","","cra 68d #17A-84 57 (3138676483)","Bogota","DC","1234","CO"]],["email",{"type":"work"},"text","david.quintero@SUPERCABLE.CO"],["tel",{"type":"work"},"text","57 1 5782805 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100616",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140217",
+      "eventActor" : "LFC3"
+    } ],
+    "entities" : [ ],
+    "handle" : "LFC3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LFC3",
+      "value" : "http://rdap.labs.lacnic.net/entity/LFC3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","David Quintero Arias"],["adr",{"label":"cra 68d #17A-84 57 (3138676483)\nBogota, DC 1234\nCO","type":"work"},"text",["","","cra 68d #17A-84 57 (3138676483)","Bogota","DC","1234","CO"]],["email",{"type":"work"},"text","david.quintero@SUPERCABLE.CO"],["tel",{"type":"work"},"text","57 1 5782805 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100616",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140217",
+      "eventActor" : "LFC3"
+    } ],
+    "entities" : [ ],
+    "handle" : "LFC3"
+  } ],
+  "type" : null,
+  "handle" : "26596-LACNIC",
+  "country" : "CO"
+}

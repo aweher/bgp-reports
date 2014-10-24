@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27813",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27813"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TESA33-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TESA33-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando G. Escobar"],["adr",{"label":"Av. Ovidio Lagos 502 ()\nRosario, SF 2000\nAR","type":"work"},"text",["","","Av. Ovidio Lagos 502 ()","Rosario","SF","2000","AR"]],["email",{"type":"work"},"text","gestionnoc@EXPRESS.COM.AR"],["tel",{"type":"work"},"text","54 341 436-8888 ()"],["org",{},"text",["Teledifusora S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FGE",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FGE"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando G. Escobar"],["adr",{"label":"O. Lagos 502 ()\nRosario, SF 2000\nAR","type":"work"},"text",["","","O. Lagos 502 ()","Rosario","SF","2000","AR"]],["email",{"type":"work"},"text","gestionnoc@EXPRESS.COM.AR"],["tel",{"type":"work"},"text","54 341 5276304 (204)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030424",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110711",
+        "eventActor" : "FGE"
+      } ],
+      "handle" : "FGE"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060123",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "FGE"
+    } ],
+    "handle" : "AR-TESA33-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FGE",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FGE"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando G. Escobar"],["adr",{"label":"O. Lagos 502 ()\nRosario, SF 2000\nAR","type":"work"},"text",["","","O. Lagos 502 ()","Rosario","SF","2000","AR"]],["email",{"type":"work"},"text","gestionnoc@EXPRESS.COM.AR"],["tel",{"type":"work"},"text","54 341 5276304 (204)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030424",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110711",
+      "eventActor" : "FGE"
+    } ],
+    "handle" : "FGE"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FGE",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FGE"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando G. Escobar"],["adr",{"label":"O. Lagos 502 ()\nRosario, SF 2000\nAR","type":"work"},"text",["","","O. Lagos 502 ()","Rosario","SF","2000","AR"]],["email",{"type":"work"},"text","gestionnoc@EXPRESS.COM.AR"],["tel",{"type":"work"},"text","54 341 5276304 (204)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030424",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110711",
+      "eventActor" : "FGE"
+    } ],
+    "handle" : "FGE"
+  } ],
+  "startAutnum" : 27813,
+  "endAutnum" : 27813,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060316",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110711",
+    "eventActor" : "FGE"
+  } ],
+  "type" : null,
+  "handle" : "27813-LACNIC",
+  "country" : "AR"
+}

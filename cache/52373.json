@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52373",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52373"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-ECSA4-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-ECSA4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Dusek"],["adr",{"label":"ROQUE SAENZ PE?A 370 (-)\nRESISTENCIA,  3500\nAR","type":"work"},"text",["","","ROQUE SAENZ PE?A 370 (-)","RESISTENCIA","","3500","AR"]],["email",{"type":"work"},"text","duse@ECOMCHACO.COM.AR"],["tel",{"type":"work"},"text","54 3722 444999 ()"],["org",{},"text",["ECOM CHACO S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JAD10",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JAD10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Dusek"],["adr",{"label":"Roque Saenz Pe?a 370 ()\nResistencia, CH 3500\nAR","type":"work"},"text",["","","Roque Saenz Pe?a 370 ()","Resistencia","CH","3500","AR"]],["email",{"type":"work"},"text","duse@ECOMCHACO.COM.AR"],["tel",{"type":"work"},"text","54 362 4444300 (154)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110506",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120328",
+        "eventActor" : "JAD10"
+      } ],
+      "handle" : "JAD10"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070828",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "JAD10"
+    } ],
+    "handle" : "AR-ECSA4-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ECS8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ECS8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ECOM Chaco S.A."],["adr",{"label":"Roque Saenz Pe?a 370 ()\nResistencia, CH 3500\nAR","type":"work"},"text",["","","Roque Saenz Pe?a 370 ()","Resistencia","CH","3500","AR"]],["email",{"type":"work"},"text","soportetecnico@ECOMCHACO.COM.AR"],["tel",{"type":"work"},"text","54 362 4444300 (154)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110204",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120328",
+      "eventActor" : "ECS8"
+    } ],
+    "handle" : "ECS8"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ECS8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ECS8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ECOM Chaco S.A."],["adr",{"label":"Roque Saenz Pe?a 370 ()\nResistencia, CH 3500\nAR","type":"work"},"text",["","","Roque Saenz Pe?a 370 ()","Resistencia","CH","3500","AR"]],["email",{"type":"work"},"text","soportetecnico@ECOMCHACO.COM.AR"],["tel",{"type":"work"},"text","54 362 4444300 (154)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110204",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120328",
+      "eventActor" : "ECS8"
+    } ],
+    "handle" : "ECS8"
+  } ],
+  "startAutnum" : 52373,
+  "endAutnum" : 52373,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120601",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140212",
+    "eventActor" : "ECS8"
+  } ],
+  "type" : null,
+  "handle" : "52373-LACNIC",
+  "country" : "AR"
+}

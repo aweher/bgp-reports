@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263155,
+  "endAutnum" : 263155,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263155",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263155"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140522",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140522",
+    "eventActor" : "OLT"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-OLIT-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-OLIT-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","O L I Telecomunica??es"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMandaguari, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mandaguari","","04578-000","BR"]],["email",{"type":"work"},"text","OLT@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["org",{},"text",["O L I Telecomunica??es Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "OLT"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/OLT",
+        "value" : "http://rdap.labs.lacnic.net/entity/OLT"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","O L I Telecomunica??es"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMandaguari, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mandaguari","PR","04578-000","BR"]],["email",{"type":"work"},"text","OLT@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "OLT"
+      } ],
+      "entities" : [ ],
+      "handle" : "OLT"
+    } ],
+    "handle" : "BR-OLIT-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/OLT",
+      "value" : "http://rdap.labs.lacnic.net/entity/OLT"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","O L I Telecomunica??es"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMandaguari, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mandaguari","PR","04578-000","BR"]],["email",{"type":"work"},"text","OLT@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "OLT"
+    } ],
+    "entities" : [ ],
+    "handle" : "OLT"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/OLT",
+      "value" : "http://rdap.labs.lacnic.net/entity/OLT"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","O L I Telecomunica??es"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMandaguari, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mandaguari","PR","04578-000","BR"]],["email",{"type":"work"},"text","OLT@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "OLT"
+    } ],
+    "entities" : [ ],
+    "handle" : "OLT"
+  } ],
+  "type" : null,
+  "handle" : "263155-LACNIC",
+  "country" : "BR"
+}

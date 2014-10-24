@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61944,
+  "endAutnum" : 61944,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61944",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61944"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140610",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140610",
+    "eventActor" : "FRS22"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-AMSI2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-AMSI2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fl?vio Rodrigo da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCupira, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cupira","","04578-000","BR"]],["email",{"type":"work"},"text","FRS22@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["org",{},"text",["Alcivania Maria da Silva"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "FRS22"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FRS22",
+        "value" : "http://rdap.labs.lacnic.net/entity/FRS22"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fl?vio Rodrigo da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCupira, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cupira","PE","04578-000","BR"]],["email",{"type":"work"},"text","FRS22@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FRS22"
+      } ],
+      "entities" : [ ],
+      "handle" : "FRS22"
+    } ],
+    "handle" : "BR-AMSI2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FRS22",
+      "value" : "http://rdap.labs.lacnic.net/entity/FRS22"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fl?vio Rodrigo da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCupira, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cupira","PE","04578-000","BR"]],["email",{"type":"work"},"text","FRS22@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FRS22"
+    } ],
+    "entities" : [ ],
+    "handle" : "FRS22"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FRS22",
+      "value" : "http://rdap.labs.lacnic.net/entity/FRS22"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fl?vio Rodrigo da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCupira, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cupira","PE","04578-000","BR"]],["email",{"type":"work"},"text","FRS22@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FRS22"
+    } ],
+    "entities" : [ ],
+    "handle" : "FRS22"
+  } ],
+  "type" : null,
+  "handle" : "61944-LACNIC",
+  "country" : "BR"
+}

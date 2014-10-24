@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53144,
+  "endAutnum" : 53144,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53144",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53144"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091123",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "STL15"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-STEI1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-STEI1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Surfix Tecnologia em Internet Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRecife, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Recife","PE","04578-000","BR"]],["email",{"type":"work"},"text","STL15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["org",{},"text",["SURFIX TECNOLOGIA EM INTERNET LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "STL15"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/STL15",
+        "value" : "http://rdap.labs.lacnic.net/entity/STL15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Surfix Tecnologia em Internet Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRecife, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Recife","PE","04578-000","BR"]],["email",{"type":"work"},"text","STL15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "STL15"
+      } ],
+      "entities" : [ ],
+      "handle" : "STL15"
+    } ],
+    "handle" : "BR-STEI1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/STL15",
+      "value" : "http://rdap.labs.lacnic.net/entity/STL15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Surfix Tecnologia em Internet Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRecife, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Recife","PE","04578-000","BR"]],["email",{"type":"work"},"text","STL15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "STL15"
+    } ],
+    "entities" : [ ],
+    "handle" : "STL15"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SLF13",
+      "value" : "http://rdap.labs.lacnic.net/entity/SLF13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","S?rgio Lopes de Fontes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRecife, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Recife","PE","04578-000","BR"]],["email",{"type":"work"},"text","SLF13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SLF13"
+    } ],
+    "entities" : [ ],
+    "handle" : "SLF13"
+  } ],
+  "type" : null,
+  "handle" : "53144-LACNIC",
+  "country" : "BR"
+}

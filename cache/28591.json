@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28591,
+  "endAutnum" : 28591,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28591",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28591"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20041214",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140514",
+    "eventActor" : "TMT3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MTLT33-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MTLT33-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dante Passos Cioffi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","PR","04578-000","BR"]],["email",{"type":"work"},"text","DPC8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["org",{},"text",["MCM Telecom Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DPC8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DPC8",
+        "value" : "http://rdap.labs.lacnic.net/entity/DPC8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dante Passos Cioffi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","PR","04578-000","BR"]],["email",{"type":"work"},"text","DPC8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DPC8"
+      } ],
+      "entities" : [ ],
+      "handle" : "DPC8"
+    } ],
+    "handle" : "BR-MTLT33-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TMT3",
+      "value" : "http://rdap.labs.lacnic.net/entity/TMT3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TECNICO MCM TELECOM"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","PR","04578-000","BR"]],["email",{"type":"work"},"text","TMT3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140514",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140514",
+      "eventActor" : "TMT3"
+    } ],
+    "entities" : [ ],
+    "handle" : "TMT3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TMT3",
+      "value" : "http://rdap.labs.lacnic.net/entity/TMT3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TECNICO MCM TELECOM"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","PR","04578-000","BR"]],["email",{"type":"work"},"text","TMT3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140514",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140514",
+      "eventActor" : "TMT3"
+    } ],
+    "entities" : [ ],
+    "handle" : "TMT3"
+  } ],
+  "type" : null,
+  "handle" : "28591-LACNIC",
+  "country" : "BR"
+}

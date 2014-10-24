@@ -1,0 +1,265 @@
+{"service" : {
+  "name" : "search"
+},
+"parameters" : {
+  "inverse-lookup" : { },
+  "type-filters" : { },
+  "flags" : { },
+  "query-strings" : {
+    "query-string" : [ {
+      "value" : "as41278"
+    } ]
+  },
+  "sources" : { }
+},
+"objects" : {
+  "object" : [ {
+    "type" : "as-block",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/as-block/AS40960 - AS41983"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS40960 - AS41983"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS40960 - AS41983"
+      }, {
+        "name" : "descr",
+        "value" : "RIPE NCC ASN block"
+      }, {
+        "name" : "remarks",
+        "value" : "These AS Numbers are assigned to network operators in the RIPE NCC service region."
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "aut-num",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/aut-num/AS41278"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS41278"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS41278"
+      }, {
+        "name" : "as-name",
+        "value" : "IDEA-AS"
+      }, {
+        "name" : "descr",
+        "value" : "Branch Enterprise \"Netgroup-Service\""
+      }, {
+        "name" : "import",
+        "value" : "from AS39297 action pref=100; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39297 announce AS41278"
+      }, {
+        "name" : "import",
+        "value" : "from AS35004 action pref=200; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35004 announce AS41278"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/organisation/ORG-BE14-RIPE"
+        },
+        "name" : "org",
+        "value" : "ORG-BE14-RIPE",
+        "referenced-type" : "organisation"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/AMD-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "AMD-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/AMD-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "AMD-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "name" : "remarks",
+        "value" : "For information on \"status:\" attribute read https://www.ripe.net/data-tools/db/faq/faq-status-values-legacy-resources"
+      }, {
+        "name" : "status",
+        "value" : "ASSIGNED"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-END-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-END-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/AMD-MNT"
+        },
+        "name" : "mnt-routes",
+        "value" : "AMD-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/AMD-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "AMD-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/organisation/ORG-CL8-RIPE"
+        },
+        "name" : "sponsoring-org",
+        "value" : "ORG-CL8-RIPE",
+        "referenced-type" : "organisation"
+      } ]
+    },
+    "tags" : {
+      "tag" : [ {
+        "id" : "RIPE-REGISTRY-RESOURCE",
+        "data" : null
+      } ]
+    }
+  }, {
+    "type" : "organisation",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/organisation/ORG-BE14-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "organisation",
+        "value" : "ORG-BE14-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "organisation",
+        "value" : "ORG-BE14-RIPE"
+      }, {
+        "name" : "org-name",
+        "value" : "Branch Enterprise \"Netgroup-Service\""
+      }, {
+        "name" : "org-type",
+        "value" : "OTHER"
+      }, {
+        "name" : "address",
+        "value" : "Ivano-Frankovsk, Ukraine"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/NETGRUP-MNT"
+        },
+        "name" : "mnt-ref",
+        "value" : "NETGRUP-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/NETGRUP-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "NETGRUP-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "person",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/person/AMD-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "nic-hdl",
+        "value" : "AMD-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "person",
+        "value" : "Alexandr M. Demus"
+      }, {
+        "name" : "address",
+        "value" : "Bogdana Khmelnitskogo st.21."
+      }, {
+        "name" : "address",
+        "value" : "Ivano-frankovsk area, 77300 Kalush"
+      }, {
+        "name" : "address",
+        "value" : "Ukraine"
+      }, {
+        "name" : "phone",
+        "value" : "+38(03472)62204"
+      }, {
+        "name" : "fax-no",
+        "value" : "+38(03472)62204"
+      }, {
+        "name" : "nic-hdl",
+        "value" : "AMD-RIPE"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  } ]
+},
+"terms-and-conditions" : {
+  "type" : "locator",
+  "href" : "http://www.ripe.net/db/support/db-terms-conditions.pdf"
+}
+}

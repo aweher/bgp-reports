@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262695,
+  "endAutnum" : 262695,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262695",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262695"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091020",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130826",
+    "eventActor" : "ALM69"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TTLT55-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TTLT55-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre Martini"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEspumoso, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Espumoso","","04578-000","BR"]],["email",{"type":"work"},"text","ALM69@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["org",{},"text",["Tecwave Telecomunica??es Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "ALM69"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ALM69",
+        "value" : "http://rdap.labs.lacnic.net/entity/ALM69"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre Martini"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEspumoso, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Espumoso","RS","04578-000","BR"]],["email",{"type":"work"},"text","ALM69@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ALM69"
+      } ],
+      "entities" : [ ],
+      "handle" : "ALM69"
+    } ],
+    "handle" : "BR-TTLT55-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALM69",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALM69"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre Martini"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEspumoso, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Espumoso","RS","04578-000","BR"]],["email",{"type":"work"},"text","ALM69@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ALM69"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALM69"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALM69",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALM69"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre Martini"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEspumoso, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Espumoso","RS","04578-000","BR"]],["email",{"type":"work"},"text","ALM69@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ALM69"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALM69"
+  } ],
+  "type" : null,
+  "handle" : "262695-LACNIC",
+  "country" : "BR"
+}

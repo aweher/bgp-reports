@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262411,
+  "endAutnum" : 262411,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262411",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262411"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110302",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130311",
+    "eventActor" : "TAA9"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-FTLT17-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-FTLT17-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JULIANO VILAS BOAS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDois Vizinhos, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dois Vizinhos","PR","04578-000","BR"]],["email",{"type":"work"},"text","JVB4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["org",{},"text",["Force Telecom Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "JVB4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JVB4",
+        "value" : "http://rdap.labs.lacnic.net/entity/JVB4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JULIANO VILAS BOAS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSiqueira Campos, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Siqueira Campos","PR","04578-000","BR"]],["email",{"type":"work"},"text","JVB4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JVB4"
+      } ],
+      "entities" : [ ],
+      "handle" : "JVB4"
+    } ],
+    "handle" : "BR-FTLT17-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TAA9",
+      "value" : "http://rdap.labs.lacnic.net/entity/TAA9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","tatiane alberton"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDois Vizinhos, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dois Vizinhos","","04578-000","BR"]],["email",{"type":"work"},"text","TAA9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130311",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130311",
+      "eventActor" : "TAA9"
+    } ],
+    "entities" : [ ],
+    "handle" : "TAA9"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JVB4",
+      "value" : "http://rdap.labs.lacnic.net/entity/JVB4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JULIANO VILAS BOAS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSiqueira Campos, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Siqueira Campos","PR","04578-000","BR"]],["email",{"type":"work"},"text","JVB4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JVB4"
+    } ],
+    "entities" : [ ],
+    "handle" : "JVB4"
+  } ],
+  "type" : null,
+  "handle" : "262411-LACNIC",
+  "country" : "BR"
+}

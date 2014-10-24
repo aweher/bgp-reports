@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262436,
+  "endAutnum" : 262436,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262436",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262436"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110407",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "HUB2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BSIL2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BSIL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Humberto Bovo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nP?rola, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","P?rola","PR","04578-000","BR"]],["email",{"type":"work"},"text","HUB2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["org",{},"text",["E. B. Sanches Inform?tica Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "HUB2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/HUB2",
+        "value" : "http://rdap.labs.lacnic.net/entity/HUB2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Humberto Bovo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nP?rola, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","P?rola","PR","04578-000","BR"]],["email",{"type":"work"},"text","HUB2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "HUB2"
+      } ],
+      "entities" : [ ],
+      "handle" : "HUB2"
+    } ],
+    "handle" : "BR-BSIL2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HUB2",
+      "value" : "http://rdap.labs.lacnic.net/entity/HUB2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Humberto Bovo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nP?rola, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","P?rola","PR","04578-000","BR"]],["email",{"type":"work"},"text","HUB2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "HUB2"
+    } ],
+    "entities" : [ ],
+    "handle" : "HUB2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HUB2",
+      "value" : "http://rdap.labs.lacnic.net/entity/HUB2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Humberto Bovo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nP?rola, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","P?rola","PR","04578-000","BR"]],["email",{"type":"work"},"text","HUB2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "HUB2"
+    } ],
+    "entities" : [ ],
+    "handle" : "HUB2"
+  } ],
+  "type" : null,
+  "handle" : "262436-LACNIC",
+  "country" : "BR"
+}

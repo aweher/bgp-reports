@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53012,
+  "endAutnum" : 53012,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53012",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53012"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110701",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "RMV11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SMPF-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SMPF-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael Melo Veras"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNatal, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Natal","RN","04578-000","BR"]],["email",{"type":"work"},"text","RMV11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["org",{},"text",["SEC MUN DE PLANEJAMENTO, FAZENDA E TEC DA INFORM-S"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "RMV11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RMV11",
+        "value" : "http://rdap.labs.lacnic.net/entity/RMV11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael Melo Veras"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNatal, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Natal","RN","04578-000","BR"]],["email",{"type":"work"},"text","RMV11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "RMV11"
+      } ],
+      "entities" : [ ],
+      "handle" : "RMV11"
+    } ],
+    "handle" : "BR-SMPF-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RMV11",
+      "value" : "http://rdap.labs.lacnic.net/entity/RMV11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael Melo Veras"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNatal, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Natal","RN","04578-000","BR"]],["email",{"type":"work"},"text","RMV11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RMV11"
+    } ],
+    "entities" : [ ],
+    "handle" : "RMV11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RMV11",
+      "value" : "http://rdap.labs.lacnic.net/entity/RMV11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael Melo Veras"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNatal, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Natal","RN","04578-000","BR"]],["email",{"type":"work"},"text","RMV11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RMV11"
+    } ],
+    "entities" : [ ],
+    "handle" : "RMV11"
+  } ],
+  "type" : null,
+  "handle" : "53012-LACNIC",
+  "country" : "BR"
+}

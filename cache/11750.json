@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/11750",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/11750"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-IASA5-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-IASA5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Enzo Fusaro"],["adr",{"label":"Maip? 24 (-)\nCapital Federal,  1084\nAR","type":"work"},"text",["","","Maip? 24 (-)","Capital Federal","","1084","AR"]],["email",{"type":"work"},"text","lacnic@AR.INTER.NET"],["tel",{"type":"work"},"text","54 11 6328-1500 ()"],["org",{},"text",["Interdotnet Argentina S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/RUB2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/RUB2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Enzo Fusaro"],["adr",{"label":"Maipu 24 ()\nCapital Federal, BA C1084ABB\nAR","type":"work"},"text",["","","Maipu 24 ()","Capital Federal","BA","C1084ABB","AR"]],["email",{"type":"work"},"text","lacnic@AR.INTER.NET"],["tel",{"type":"work"},"text","54 11 63281500 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030428",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120118",
+        "eventActor" : "RUB2"
+      } ],
+      "handle" : "RUB2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040420",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "RUB2"
+    } ],
+    "handle" : "AR-IASA5-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RUB2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RUB2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Enzo Fusaro"],["adr",{"label":"Maipu 24 ()\nCapital Federal, BA C1084ABB\nAR","type":"work"},"text",["","","Maipu 24 ()","Capital Federal","BA","C1084ABB","AR"]],["email",{"type":"work"},"text","lacnic@AR.INTER.NET"],["tel",{"type":"work"},"text","54 11 63281500 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030428",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120118",
+      "eventActor" : "RUB2"
+    } ],
+    "handle" : "RUB2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RUB2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RUB2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Enzo Fusaro"],["adr",{"label":"Maipu 24 ()\nCapital Federal, BA C1084ABB\nAR","type":"work"},"text",["","","Maipu 24 ()","Capital Federal","BA","C1084ABB","AR"]],["email",{"type":"work"},"text","lacnic@AR.INTER.NET"],["tel",{"type":"work"},"text","54 11 63281500 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030428",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120118",
+      "eventActor" : "RUB2"
+    } ],
+    "handle" : "RUB2"
+  } ],
+  "startAutnum" : 11750,
+  "endAutnum" : 11750,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19981207",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20061031",
+    "eventActor" : "RUB2"
+  } ],
+  "type" : null,
+  "handle" : "11750-LACNIC",
+  "country" : "AR"
+}

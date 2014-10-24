@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52639,
+  "endAutnum" : 52639,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52639",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52639"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130410",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130410",
+    "eventActor" : "RMP4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MRIT-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MRIT-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","RENATO MONTEIRO PINHEIRO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTrajano de Morais, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Trajano de Morais","RJ","04578-000","BR"]],["email",{"type":"work"},"text","RMP4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["org",{},"text",["MEGANET RJ INFORM?TICA E TELECOMUNICA??ES LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "RMP4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RMP4",
+        "value" : "http://rdap.labs.lacnic.net/entity/RMP4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","RENATO MONTEIRO PINHEIRO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTrajano de Morais, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Trajano de Morais","RJ","04578-000","BR"]],["email",{"type":"work"},"text","RMP4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "RMP4"
+      } ],
+      "entities" : [ ],
+      "handle" : "RMP4"
+    } ],
+    "handle" : "BR-MRIT-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RMP4",
+      "value" : "http://rdap.labs.lacnic.net/entity/RMP4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","RENATO MONTEIRO PINHEIRO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTrajano de Morais, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Trajano de Morais","RJ","04578-000","BR"]],["email",{"type":"work"},"text","RMP4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RMP4"
+    } ],
+    "entities" : [ ],
+    "handle" : "RMP4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RMP4",
+      "value" : "http://rdap.labs.lacnic.net/entity/RMP4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","RENATO MONTEIRO PINHEIRO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTrajano de Morais, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Trajano de Morais","RJ","04578-000","BR"]],["email",{"type":"work"},"text","RMP4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RMP4"
+    } ],
+    "entities" : [ ],
+    "handle" : "RMP4"
+  } ],
+  "type" : null,
+  "handle" : "52639-LACNIC",
+  "country" : "BR"
+}

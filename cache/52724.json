@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52724,
+  "endAutnum" : 52724,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52724",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52724"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130123",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ADC43"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ATLM1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ATLM1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","adriano centenaro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBom Jesus do Sul, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bom Jesus do Sul","PR","04578-000","BR"]],["email",{"type":"work"},"text","ADC43@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["org",{},"text",["Adriano Telecomunicacoes Ltda Me"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "ADC43"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ADC43",
+        "value" : "http://rdap.labs.lacnic.net/entity/ADC43"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","adriano centenaro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBom Jesus do Sul, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bom Jesus do Sul","PR","04578-000","BR"]],["email",{"type":"work"},"text","ADC43@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ADC43"
+      } ],
+      "entities" : [ ],
+      "handle" : "ADC43"
+    } ],
+    "handle" : "BR-ATLM1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ADC43",
+      "value" : "http://rdap.labs.lacnic.net/entity/ADC43"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","adriano centenaro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBom Jesus do Sul, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bom Jesus do Sul","PR","04578-000","BR"]],["email",{"type":"work"},"text","ADC43@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ADC43"
+    } ],
+    "entities" : [ ],
+    "handle" : "ADC43"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ADC43",
+      "value" : "http://rdap.labs.lacnic.net/entity/ADC43"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","adriano centenaro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBom Jesus do Sul, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bom Jesus do Sul","PR","04578-000","BR"]],["email",{"type":"work"},"text","ADC43@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ADC43"
+    } ],
+    "entities" : [ ],
+    "handle" : "ADC43"
+  } ],
+  "type" : null,
+  "handle" : "52724-LACNIC",
+  "country" : "BR"
+}

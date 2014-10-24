@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27735",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27735"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-SSYS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-SSYS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Espinosa"],["adr",{"label":"Av. Presidente Eduardo Frei Montalva 2205 (Independenci)\nSantiago,  839-0740\nCL","type":"work"},"text",["","","Av. Presidente Eduardo Frei Montalva 2205 (Independenci)","Santiago","","839-0740","CL"]],["email",{"type":"work"},"text","rys@SYNAPSIS-IT.COM"],["tel",{"type":"work"},"text","56 2 3976600 (6873)"],["org",{},"text",["Synapsis Soluciones y Servicios IT LTDA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/RYS2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/RYS2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Espinosa"],["adr",{"label":"Miraflores 383 Piso 27 Santiago  ()\nSantiago, cl 8320149\nCL","type":"work"},"text",["","","Miraflores 383 Piso 27 Santiago  ()","Santiago","cl","8320149","CL"]],["email",{"type":"work"},"text","rys@SYNAPSIS-IT.COM"],["tel",{"type":"work"},"text","56 2 3976700 (6700)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110420",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140221",
+        "eventActor" : "RYS2"
+      } ],
+      "handle" : "RYS2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040206",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140221",
+      "eventActor" : "RYS2"
+    } ],
+    "handle" : "CL-SSYS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RYS2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RYS2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Espinosa"],["adr",{"label":"Miraflores 383 Piso 27 Santiago  ()\nSantiago, cl 8320149\nCL","type":"work"},"text",["","","Miraflores 383 Piso 27 Santiago  ()","Santiago","cl","8320149","CL"]],["email",{"type":"work"},"text","rys@SYNAPSIS-IT.COM"],["tel",{"type":"work"},"text","56 2 3976700 (6700)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110420",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140221",
+      "eventActor" : "RYS2"
+    } ],
+    "handle" : "RYS2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RYS2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RYS2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Espinosa"],["adr",{"label":"Miraflores 383 Piso 27 Santiago  ()\nSantiago, cl 8320149\nCL","type":"work"},"text",["","","Miraflores 383 Piso 27 Santiago  ()","Santiago","cl","8320149","CL"]],["email",{"type":"work"},"text","rys@SYNAPSIS-IT.COM"],["tel",{"type":"work"},"text","56 2 3976700 (6700)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110420",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140221",
+      "eventActor" : "RYS2"
+    } ],
+    "handle" : "RYS2"
+  } ],
+  "startAutnum" : 27735,
+  "endAutnum" : 27735,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20040219",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110420",
+    "eventActor" : "RYS2"
+  } ],
+  "type" : null,
+  "handle" : "27735-LACNIC",
+  "country" : "CL"
+}

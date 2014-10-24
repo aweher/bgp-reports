@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28034",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28034"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TASA27-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TASA27-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Manuel Tomas Fernandez"],["adr",{"label":"Ruta 12 Km 81 - ()\nZarate, BA 2800\nAR","type":"work"},"text",["","","Ruta 12 Km 81 - ()","Zarate","BA","2800","AR"]],["email",{"type":"work"},"text","mfernandez@TOYOTA.COM.AR"],["tel",{"type":"work"},"text","54 3487 443000 (3309)"],["org",{},"text",["Toyota Argentina S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MTF",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MTF"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Manuel Tomas Fernandez"],["adr",{"label":"Ruta 12 Km 81 - (-)\nZarate, null 2800\nAR","type":"work"},"text",["","","Ruta 12 Km 81 - (-)","Zarate","","2800","AR"]],["email",{"type":"work"},"text","mfernandez@TOYOTA.COM.AR"],["tel",{"type":"work"},"text","54 3487 443000 (3309)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20081007",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20081007",
+        "eventActor" : "MTF"
+      } ],
+      "handle" : "MTF"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081126",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "MTF"
+    } ],
+    "handle" : "AR-TASA27-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MTF",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MTF"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Manuel Tomas Fernandez"],["adr",{"label":"Ruta 12 Km 81 - (-)\nZarate, null 2800\nAR","type":"work"},"text",["","","Ruta 12 Km 81 - (-)","Zarate","","2800","AR"]],["email",{"type":"work"},"text","mfernandez@TOYOTA.COM.AR"],["tel",{"type":"work"},"text","54 3487 443000 (3309)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081007",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20081007",
+      "eventActor" : "MTF"
+    } ],
+    "handle" : "MTF"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MTF",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MTF"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Manuel Tomas Fernandez"],["adr",{"label":"Ruta 12 Km 81 - (-)\nZarate, null 2800\nAR","type":"work"},"text",["","","Ruta 12 Km 81 - (-)","Zarate","","2800","AR"]],["email",{"type":"work"},"text","mfernandez@TOYOTA.COM.AR"],["tel",{"type":"work"},"text","54 3487 443000 (3309)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081007",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20081007",
+      "eventActor" : "MTF"
+    } ],
+    "handle" : "MTF"
+  } ],
+  "startAutnum" : 28034,
+  "endAutnum" : 28034,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090126",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090126",
+    "eventActor" : "MTF"
+  } ],
+  "type" : null,
+  "handle" : "28034-LACNIC",
+  "country" : "AR"
+}

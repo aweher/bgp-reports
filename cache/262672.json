@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262672,
+  "endAutnum" : 262672,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262672",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262672"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090707",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "CDI9"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DIST-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DIST-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Contato da Entidade Digirati"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio de Janeiro, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio de Janeiro","RJ","04578-000","BR"]],["email",{"type":"work"},"text","CED10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["org",{},"text",["Digirati Inform?tica, servi?os e telecomunica??es"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131119",
+      "eventActor" : "CED10"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CED10",
+        "value" : "http://rdap.labs.lacnic.net/entity/CED10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Contato da Entidade Digirati"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio de Janeiro, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio de Janeiro","RJ","04578-000","BR"]],["email",{"type":"work"},"text","CED10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CED10"
+      } ],
+      "entities" : [ ],
+      "handle" : "CED10"
+    } ],
+    "handle" : "BR-DIST-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CDI9",
+      "value" : "http://rdap.labs.lacnic.net/entity/CDI9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Contato da DIGIRATI INFORMATICA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio de Janeiro, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio de Janeiro","RJ","04578-000","BR"]],["email",{"type":"work"},"text","CDI9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CDI9"
+    } ],
+    "entities" : [ ],
+    "handle" : "CDI9"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CDI9",
+      "value" : "http://rdap.labs.lacnic.net/entity/CDI9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Contato da DIGIRATI INFORMATICA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio de Janeiro, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio de Janeiro","RJ","04578-000","BR"]],["email",{"type":"work"},"text","CDI9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CDI9"
+    } ],
+    "entities" : [ ],
+    "handle" : "CDI9"
+  } ],
+  "type" : null,
+  "handle" : "262672-LACNIC",
+  "country" : "BR"
+}

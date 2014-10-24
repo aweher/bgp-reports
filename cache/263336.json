@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263336,
+  "endAutnum" : 263336,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263336",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263336"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140313",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140429",
+    "eventActor" : "BRH5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BPHM-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BPHM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SINAL BR - Ger?ncia da Rede IP"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJales, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jales","SP","04578-000","BR"]],["email",{"type":"work"},"text","SBI3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["org",{},"text",["Bruno Pereira Hernandes - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131216",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131216",
+      "eventActor" : "SBI3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SBI3",
+        "value" : "http://rdap.labs.lacnic.net/entity/SBI3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SINAL BR - Ger?ncia da Rede IP"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? do Rio Preto, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? do Rio Preto","","04578-000","BR"]],["email",{"type":"work"},"text","SBI3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130402",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130402",
+        "eventActor" : "SBI3"
+      } ],
+      "entities" : [ ],
+      "handle" : "SBI3"
+    } ],
+    "handle" : "BR-BPHM-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BRH5",
+      "value" : "http://rdap.labs.lacnic.net/entity/BRH5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Bruno Hernandes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJales, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jales","SP","04578-000","BR"]],["email",{"type":"work"},"text","BRH5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130827",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130827",
+      "eventActor" : "BRH5"
+    } ],
+    "entities" : [ ],
+    "handle" : "BRH5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SBI3",
+      "value" : "http://rdap.labs.lacnic.net/entity/SBI3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SINAL BR - Ger?ncia da Rede IP"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? do Rio Preto, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? do Rio Preto","","04578-000","BR"]],["email",{"type":"work"},"text","SBI3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130402",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130402",
+      "eventActor" : "SBI3"
+    } ],
+    "entities" : [ ],
+    "handle" : "SBI3"
+  } ],
+  "type" : null,
+  "handle" : "263336-LACNIC",
+  "country" : "BR"
+}

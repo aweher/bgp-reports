@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52677,
+  "endAutnum" : 52677,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52677",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52677"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121129",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "DAA33"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-WSLT5-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-WSLT5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","DATACENTRO [ADM]"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","PR","04578-000","BR"]],["email",{"type":"work"},"text","DAA33@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["org",{},"text",["Webgenium System Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "DAA33"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DAA33",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAA33"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","DATACENTRO [ADM]"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","PR","04578-000","BR"]],["email",{"type":"work"},"text","DAA33@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DAA33"
+      } ],
+      "entities" : [ ],
+      "handle" : "DAA33"
+    } ],
+    "handle" : "BR-WSLT5-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DAA33",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAA33"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","DATACENTRO [ADM]"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","PR","04578-000","BR"]],["email",{"type":"work"},"text","DAA33@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DAA33"
+    } ],
+    "entities" : [ ],
+    "handle" : "DAA33"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DAA33",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAA33"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","DATACENTRO [ADM]"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","PR","04578-000","BR"]],["email",{"type":"work"},"text","DAA33@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DAA33"
+    } ],
+    "entities" : [ ],
+    "handle" : "DAA33"
+  } ],
+  "type" : null,
+  "handle" : "52677-LACNIC",
+  "country" : "BR"
+}

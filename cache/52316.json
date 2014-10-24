@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52316",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52316"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-SAIS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-SAIS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lucas Javier Reveand"],["adr",{"label":"Viamonte 1133 (5to piso.)\nBuenos Aires,  1053\nAR","type":"work"},"text",["","","Viamonte 1133 (5to piso.)","Buenos Aires","","1053","AR"]],["email",{"type":"work"},"text","lreveand@SANANTONIOINTERNACIONAL.COM"],["tel",{"type":"work"},"text","54 11 50316502 ()"],["org",{},"text",["SAN ANTONIO INTERNACIONAL S.R.L."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/LJR2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/LJR2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lucas Javier Reveand"],["adr",{"label":"Viamonte 1133 (5° PISO)\nBuenos Aires, null 1053\nAR","type":"work"},"text",["","","Viamonte 1133 (5° PISO)","Buenos Aires","","1053","AR"]],["email",{"type":"work"},"text","lreveand@SANANTONIOINTERNACIONAL.COM"],["tel",{"type":"work"},"text","54 11 43706434 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20101207",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20101207",
+        "eventActor" : "LJR2"
+      } ],
+      "handle" : "LJR2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101214",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110420",
+      "eventActor" : "LJR2"
+    } ],
+    "handle" : "AR-SAIS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/IVK",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/IVK"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ivan Kowalczuk"],["adr",{"label":"virrey cevallos 422 (Piso 3)\ncapital federal, null C1077AAJ\nAR","type":"work"},"text",["","","virrey cevallos 422 (Piso 3)","capital federal","","C1077AAJ","AR"]],["email",{"type":"work"},"text","ikowalczuk@IPLAN.COM.AR"],["tel",{"type":"work"},"text","54 011 50316502 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101203",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101203",
+      "eventActor" : "IVK"
+    } ],
+    "handle" : "IVK"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/IVK",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/IVK"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ivan Kowalczuk"],["adr",{"label":"virrey cevallos 422 (Piso 3)\ncapital federal, null C1077AAJ\nAR","type":"work"},"text",["","","virrey cevallos 422 (Piso 3)","capital federal","","C1077AAJ","AR"]],["email",{"type":"work"},"text","ikowalczuk@IPLAN.COM.AR"],["tel",{"type":"work"},"text","54 011 50316502 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101203",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101203",
+      "eventActor" : "IVK"
+    } ],
+    "handle" : "IVK"
+  } ],
+  "startAutnum" : 52316,
+  "endAutnum" : 52316,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110301",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110301",
+    "eventActor" : "IVK"
+  } ],
+  "type" : null,
+  "handle" : "52316-LACNIC",
+  "country" : "AR"
+}

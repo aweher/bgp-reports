@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262387,
+  "endAutnum" : 262387,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262387",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262387"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120216",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "TMB3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-INLT16-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-INLT16-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Irineu Kleber Macedo Felisberto Junior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMuria?, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Muria?","MG","04578-000","BR"]],["email",{"type":"work"},"text","IKJ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["org",{},"text",["Intermicro Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "IKJ"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/IKJ",
+        "value" : "http://rdap.labs.lacnic.net/entity/IKJ"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Irineu Kleber Macedo Felisberto Junior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMuria?, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Muria?","MG","04578-000","BR"]],["email",{"type":"work"},"text","IKJ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "IKJ"
+      } ],
+      "entities" : [ ],
+      "handle" : "IKJ"
+    } ],
+    "handle" : "BR-INLT16-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TMB3",
+      "value" : "http://rdap.labs.lacnic.net/entity/TMB3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","thiago montes bittencourt"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMuria?, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Muria?","MG","04578-000","BR"]],["email",{"type":"work"},"text","TMB3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TMB3"
+    } ],
+    "entities" : [ ],
+    "handle" : "TMB3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TMB3",
+      "value" : "http://rdap.labs.lacnic.net/entity/TMB3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","thiago montes bittencourt"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMuria?, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Muria?","MG","04578-000","BR"]],["email",{"type":"work"},"text","TMB3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TMB3"
+    } ],
+    "entities" : [ ],
+    "handle" : "TMB3"
+  } ],
+  "type" : null,
+  "handle" : "262387-LACNIC",
+  "country" : "BR"
+}

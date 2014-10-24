@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28215,
+  "endAutnum" : 28215,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28215",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28215"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080520",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ORL2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ORVL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ORVL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marco Antonio de Oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLondrina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Londrina","PR","04578-000","BR"]],["email",{"type":"work"},"text","MAO38@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["org",{},"text",["Onixsat Rastreamento de Ve?culos Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAO38"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MAO38",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAO38"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marco Antonio de Oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLondrina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Londrina","PR","04578-000","BR"]],["email",{"type":"work"},"text","MAO38@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MAO38"
+      } ],
+      "entities" : [ ],
+      "handle" : "MAO38"
+    } ],
+    "handle" : "BR-ORVL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ORL2",
+      "value" : "http://rdap.labs.lacnic.net/entity/ORL2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Onixsat Rastreamento de Ve?culos Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLondrina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Londrina","PR","04578-000","BR"]],["email",{"type":"work"},"text","ORL2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ORL2"
+    } ],
+    "entities" : [ ],
+    "handle" : "ORL2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ORL2",
+      "value" : "http://rdap.labs.lacnic.net/entity/ORL2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Onixsat Rastreamento de Ve?culos Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLondrina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Londrina","PR","04578-000","BR"]],["email",{"type":"work"},"text","ORL2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ORL2"
+    } ],
+    "entities" : [ ],
+    "handle" : "ORL2"
+  } ],
+  "type" : null,
+  "handle" : "28215-LACNIC",
+  "country" : "BR"
+}

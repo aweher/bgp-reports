@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263636,
+  "endAutnum" : 263636,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263636",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263636"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131001",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131001",
+    "eventActor" : "MRC4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MRCA3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MRCA3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Michel Rocha Canavarro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeol?ndia, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teol?ndia","BA","04578-000","BR"]],["email",{"type":"work"},"text","MRC4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["org",{},"text",["CALLNET TELECOM"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131002",
+      "eventActor" : "MRC4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MRC4",
+        "value" : "http://rdap.labs.lacnic.net/entity/MRC4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Michel Rocha Canavarro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVera Cruz, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vera Cruz","BA","04578-000","BR"]],["email",{"type":"work"},"text","MRC4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130725",
+        "eventActor" : "MRC4"
+      } ],
+      "entities" : [ ],
+      "handle" : "MRC4"
+    } ],
+    "handle" : "BR-MRCA3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MRC4",
+      "value" : "http://rdap.labs.lacnic.net/entity/MRC4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Michel Rocha Canavarro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVera Cruz, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vera Cruz","BA","04578-000","BR"]],["email",{"type":"work"},"text","MRC4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130725",
+      "eventActor" : "MRC4"
+    } ],
+    "entities" : [ ],
+    "handle" : "MRC4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MRC4",
+      "value" : "http://rdap.labs.lacnic.net/entity/MRC4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Michel Rocha Canavarro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVera Cruz, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vera Cruz","BA","04578-000","BR"]],["email",{"type":"work"},"text","MRC4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130725",
+      "eventActor" : "MRC4"
+    } ],
+    "entities" : [ ],
+    "handle" : "MRC4"
+  } ],
+  "type" : null,
+  "handle" : "263636-LACNIC",
+  "country" : "BR"
+}

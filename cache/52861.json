@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52861,
+  "endAutnum" : 52861,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52861",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52861"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111215",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140426",
+    "eventActor" : "FAH16"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SINL1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SINL1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sea Net"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNavegantes, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Navegantes","SC","04578-000","BR"]],["email",{"type":"work"},"text","SEN14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["org",{},"text",["SN Internet Navegantes Ltda ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140516",
+      "eventActor" : "SEN14"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SEN14",
+        "value" : "http://rdap.labs.lacnic.net/entity/SEN14"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sea Net"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItapema, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itapema","SC","04578-000","BR"]],["email",{"type":"work"},"text","SEN14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SEN14"
+      } ],
+      "entities" : [ ],
+      "handle" : "SEN14"
+    } ],
+    "handle" : "BR-SINL1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAH16",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAH16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabiano Hauschild"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Belo, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Belo","SC","04578-000","BR"]],["email",{"type":"work"},"text","FAH16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140426",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140426",
+      "eventActor" : "FAH16"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAH16"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAH16",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAH16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabiano Hauschild"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Belo, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Belo","SC","04578-000","BR"]],["email",{"type":"work"},"text","FAH16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140426",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140426",
+      "eventActor" : "FAH16"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAH16"
+  } ],
+  "type" : null,
+  "handle" : "52861-LACNIC",
+  "country" : "BR"
+}

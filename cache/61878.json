@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61878,
+  "endAutnum" : 61878,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61878",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61878"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140711",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140711",
+    "eventActor" : "ILS2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-STLT40-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-STLT40-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Igor Luiz Oliveira de Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalvador, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salvador","","04578-000","BR"]],["email",{"type":"work"},"text","ILS2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["org",{},"text",["SOLIC TELECOMUNICA??ES LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "ILS2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ILS2",
+        "value" : "http://rdap.labs.lacnic.net/entity/ILS2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Igor Luiz Oliveira de Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVit?ria da Conquista, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vit?ria da Conquista","BA","04578-000","BR"]],["email",{"type":"work"},"text","ILS2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ILS2"
+      } ],
+      "entities" : [ ],
+      "handle" : "ILS2"
+    } ],
+    "handle" : "BR-STLT40-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ILS2",
+      "value" : "http://rdap.labs.lacnic.net/entity/ILS2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Igor Luiz Oliveira de Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVit?ria da Conquista, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vit?ria da Conquista","BA","04578-000","BR"]],["email",{"type":"work"},"text","ILS2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ILS2"
+    } ],
+    "entities" : [ ],
+    "handle" : "ILS2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ILS2",
+      "value" : "http://rdap.labs.lacnic.net/entity/ILS2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Igor Luiz Oliveira de Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVit?ria da Conquista, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vit?ria da Conquista","BA","04578-000","BR"]],["email",{"type":"work"},"text","ILS2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ILS2"
+    } ],
+    "entities" : [ ],
+    "handle" : "ILS2"
+  } ],
+  "type" : null,
+  "handle" : "61878-LACNIC",
+  "country" : "BR"
+}

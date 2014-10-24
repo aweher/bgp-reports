@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/20207",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/20207"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-GISA2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-GISA2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Feijoo Roberto"],["adr",{"label":"Donado 840 ()\nCapital Federal,  C1427CZB\nAR","type":"work"},"text",["","","Donado 840 ()","Capital Federal","","C1427CZB","AR"]],["email",{"type":"work"},"text","rfeijoo@GIGARED.COM.AR"],["tel",{"type":"work"},"text","54 11 63106000 (6071)"],["org",{},"text",["Gigared S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FER",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FER"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Feijoo Roberto"],["adr",{"label":"Donado 840 ()\nCapital Federal, BA C1427CZB\nAR","type":"work"},"text",["","","Donado 840 ()","Capital Federal","BA","C1427CZB","AR"]],["email",{"type":"work"},"text","rfeijoo@GIGARED.COM.AR"],["tel",{"type":"work"},"text","54 11 604006000 (6030)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030110",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120710",
+        "eventActor" : "FER"
+      } ],
+      "handle" : "FER"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060203",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "FER"
+    } ],
+    "handle" : "AR-GISA2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FER",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FER"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Feijoo Roberto"],["adr",{"label":"Donado 840 ()\nCapital Federal, BA C1427CZB\nAR","type":"work"},"text",["","","Donado 840 ()","Capital Federal","BA","C1427CZB","AR"]],["email",{"type":"work"},"text","rfeijoo@GIGARED.COM.AR"],["tel",{"type":"work"},"text","54 11 604006000 (6030)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030110",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120710",
+      "eventActor" : "FER"
+    } ],
+    "handle" : "FER"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FER",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FER"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Feijoo Roberto"],["adr",{"label":"Donado 840 ()\nCapital Federal, BA C1427CZB\nAR","type":"work"},"text",["","","Donado 840 ()","Capital Federal","BA","C1427CZB","AR"]],["email",{"type":"work"},"text","rfeijoo@GIGARED.COM.AR"],["tel",{"type":"work"},"text","54 11 604006000 (6030)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030110",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120710",
+      "eventActor" : "FER"
+    } ],
+    "handle" : "FER"
+  } ],
+  "startAutnum" : 20207,
+  "endAutnum" : 20207,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20010405",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20060323",
+    "eventActor" : "FER"
+  } ],
+  "type" : null,
+  "handle" : "20207-LACNIC",
+  "country" : "AR"
+}

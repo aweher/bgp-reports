@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52814,
+  "endAutnum" : 52814,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52814",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52814"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121009",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "LMI2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-LMNL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-LMNL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","LM INFORMATICA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAra?atuba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ara?atuba","SP","04578-000","BR"]],["email",{"type":"work"},"text","LMI2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["org",{},"text",["L. M. NETWORKS LTDA - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "LMI2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LMI2",
+        "value" : "http://rdap.labs.lacnic.net/entity/LMI2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","LM INFORMATICA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAra?atuba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ara?atuba","SP","04578-000","BR"]],["email",{"type":"work"},"text","LMI2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LMI2"
+      } ],
+      "entities" : [ ],
+      "handle" : "LMI2"
+    } ],
+    "handle" : "BR-LMNL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LMI2",
+      "value" : "http://rdap.labs.lacnic.net/entity/LMI2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","LM INFORMATICA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAra?atuba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ara?atuba","SP","04578-000","BR"]],["email",{"type":"work"},"text","LMI2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LMI2"
+    } ],
+    "entities" : [ ],
+    "handle" : "LMI2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LMI2",
+      "value" : "http://rdap.labs.lacnic.net/entity/LMI2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","LM INFORMATICA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAra?atuba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ara?atuba","SP","04578-000","BR"]],["email",{"type":"work"},"text","LMI2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LMI2"
+    } ],
+    "entities" : [ ],
+    "handle" : "LMI2"
+  } ],
+  "type" : null,
+  "handle" : "52814-LACNIC",
+  "country" : "BR"
+}

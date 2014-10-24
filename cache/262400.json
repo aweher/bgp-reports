@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262400,
+  "endAutnum" : 262400,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262400",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262400"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110217",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "DCG5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DCGM-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DCGM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dem?trio Costa G?is"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPocinhos, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pocinhos","PB","04578-000","BR"]],["email",{"type":"work"},"text","DCG5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["org",{},"text",["Dem?trio da Costa G?is - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "DCG5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DCG5",
+        "value" : "http://rdap.labs.lacnic.net/entity/DCG5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dem?trio Costa G?is"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampina Grande, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campina Grande","PB","04578-000","BR"]],["email",{"type":"work"},"text","DCG5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DCG5"
+      } ],
+      "entities" : [ ],
+      "handle" : "DCG5"
+    } ],
+    "handle" : "BR-DCGM-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DCG5",
+      "value" : "http://rdap.labs.lacnic.net/entity/DCG5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dem?trio Costa G?is"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampina Grande, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campina Grande","PB","04578-000","BR"]],["email",{"type":"work"},"text","DCG5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DCG5"
+    } ],
+    "entities" : [ ],
+    "handle" : "DCG5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DCG5",
+      "value" : "http://rdap.labs.lacnic.net/entity/DCG5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dem?trio Costa G?is"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampina Grande, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campina Grande","PB","04578-000","BR"]],["email",{"type":"work"},"text","DCG5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DCG5"
+    } ],
+    "entities" : [ ],
+    "handle" : "DCG5"
+  } ],
+  "type" : null,
+  "handle" : "262400-LACNIC",
+  "country" : "BR"
+}

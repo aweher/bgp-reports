@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28026",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28026"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-GRSA4-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-GRSA4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo de Chiara"],["adr",{"label":"San Martin 180 (Local 89)\nCordoba, CO X5000IWD\nAR","type":"work"},"text",["","","San Martin 180 (Local 89)","Cordoba","CO","X5000IWD","AR"]],["email",{"type":"work"},"text","pdechiara@AIRSAT.COM.AR"],["tel",{"type":"work"},"text","54 351 5707077 (107)"],["org",{},"text",["Grape S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PAC8",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PAC8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo de Chiara"],["adr",{"label":"Rafael Nu?ez 3835 (Oficina 8)\ncordoba,  X5009CFF\nAR","type":"work"},"text",["","","Rafael Nu?ez 3835 (Oficina 8)","cordoba","","X5009CFF","AR"]],["email",{"type":"work"},"text","pdechiara@AIRSAT.COM.AR"],["tel",{"type":"work"},"text","54 351 5261400 (301)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20040203",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131002",
+        "eventActor" : "PAC8"
+      } ],
+      "handle" : "PAC8"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081117",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "PAC8"
+    } ],
+    "handle" : "AR-GRSA4-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAC8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAC8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo de Chiara"],["adr",{"label":"Rafael Nu?ez 3835 (Oficina 8)\ncordoba,  X5009CFF\nAR","type":"work"},"text",["","","Rafael Nu?ez 3835 (Oficina 8)","cordoba","","X5009CFF","AR"]],["email",{"type":"work"},"text","pdechiara@AIRSAT.COM.AR"],["tel",{"type":"work"},"text","54 351 5261400 (301)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040203",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131002",
+      "eventActor" : "PAC8"
+    } ],
+    "handle" : "PAC8"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAC8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAC8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo de Chiara"],["adr",{"label":"Rafael Nu?ez 3835 (Oficina 8)\ncordoba,  X5009CFF\nAR","type":"work"},"text",["","","Rafael Nu?ez 3835 (Oficina 8)","cordoba","","X5009CFF","AR"]],["email",{"type":"work"},"text","pdechiara@AIRSAT.COM.AR"],["tel",{"type":"work"},"text","54 351 5261400 (301)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040203",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131002",
+      "eventActor" : "PAC8"
+    } ],
+    "handle" : "PAC8"
+  } ],
+  "startAutnum" : 28026,
+  "endAutnum" : 28026,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20081224",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20081224",
+    "eventActor" : "PAC8"
+  } ],
+  "type" : null,
+  "handle" : "28026-LACNIC",
+  "country" : "AR"
+}

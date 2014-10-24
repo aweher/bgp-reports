@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262814,
+  "endAutnum" : 262814,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262814",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262814"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101025",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ATI6"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ATCS1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ATCS1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Algar Tecnologia - Contratos e Registro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nUberl?ndia, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Uberl?ndia","MG","04578-000","BR"]],["email",{"type":"work"},"text","ATR2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["org",{},"text",["ALGAR TECNOLOGIA E CONSULTORIA SA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "ATR2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ATR2",
+        "value" : "http://rdap.labs.lacnic.net/entity/ATR2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Algar Tecnologia - Contratos e Registro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nUberl?ndia, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Uberl?ndia","MG","04578-000","BR"]],["email",{"type":"work"},"text","ATR2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ATR2"
+      } ],
+      "entities" : [ ],
+      "handle" : "ATR2"
+    } ],
+    "handle" : "BR-ATCS1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ATI6",
+      "value" : "http://rdap.labs.lacnic.net/entity/ATI6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Algar Tecnologia - Ger?ncia Backbone IP"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nUberl?ndia, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Uberl?ndia","MG","04578-000","BR"]],["email",{"type":"work"},"text","ATI6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ATI6"
+    } ],
+    "entities" : [ ],
+    "handle" : "ATI6"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ATI6",
+      "value" : "http://rdap.labs.lacnic.net/entity/ATI6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Algar Tecnologia - Ger?ncia Backbone IP"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nUberl?ndia, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Uberl?ndia","MG","04578-000","BR"]],["email",{"type":"work"},"text","ATI6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ATI6"
+    } ],
+    "entities" : [ ],
+    "handle" : "ATI6"
+  } ],
+  "type" : null,
+  "handle" : "262814-LACNIC",
+  "country" : "BR"
+}

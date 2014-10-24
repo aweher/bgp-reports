@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262156",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262156"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-UNRO-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-UNRO-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","María Francisca Costa"],["adr",{"label":"Maipu 1065 ()\nRosario, SF S2000CGK\nAR","type":"work"},"text",["","","Maipu 1065 ()","Rosario","SF","S2000CGK","AR"]],["email",{"type":"work"},"text","telematica@UNR.EDU.AR"],["tel",{"type":"work"},"text","54 34 1420 (1284)"],["org",{},"text",["Universidad Nacional de Rosario"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MFC5",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MFC5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","María Francisca Costa"],["adr",{"label":"Maipú 1065 (Of. 425)\nRosario, null 2000\nAR","type":"work"},"text",["","","Maipú 1065 (Of. 425)","Rosario","","2000","AR"]],["email",{"type":"work"},"text","telematica@UNR.EDU.AR"],["tel",{"type":"work"},"text","54 341 420 (1284)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100304",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100304",
+        "eventActor" : "MFC5"
+      } ],
+      "handle" : "MFC5"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050818",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111207",
+      "eventActor" : "MFC5"
+    } ],
+    "handle" : "AR-UNRO-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MFC5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MFC5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","María Francisca Costa"],["adr",{"label":"Maipú 1065 (Of. 425)\nRosario, null 2000\nAR","type":"work"},"text",["","","Maipú 1065 (Of. 425)","Rosario","","2000","AR"]],["email",{"type":"work"},"text","telematica@UNR.EDU.AR"],["tel",{"type":"work"},"text","54 341 420 (1284)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100304",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100304",
+      "eventActor" : "MFC5"
+    } ],
+    "handle" : "MFC5"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MFC5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MFC5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","María Francisca Costa"],["adr",{"label":"Maipú 1065 (Of. 425)\nRosario, null 2000\nAR","type":"work"},"text",["","","Maipú 1065 (Of. 425)","Rosario","","2000","AR"]],["email",{"type":"work"},"text","telematica@UNR.EDU.AR"],["tel",{"type":"work"},"text","54 341 420 (1284)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100304",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100304",
+      "eventActor" : "MFC5"
+    } ],
+    "handle" : "MFC5"
+  } ],
+  "startAutnum" : 262156,
+  "endAutnum" : 262156,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111021",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20111021",
+    "eventActor" : "MFC5"
+  } ],
+  "type" : null,
+  "handle" : "262156-LACNIC",
+  "country" : "AR"
+}

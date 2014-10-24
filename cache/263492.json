@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263492,
+  "endAutnum" : 263492,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263492",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263492"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131223",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140121",
+    "eventActor" : "VII5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VCSL3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VCSL3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Zarphost Internet Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMafra, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mafra","","04578-000","BR"]],["email",{"type":"work"},"text","ZIL2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["org",{},"text",["VIPMAXX COMPUTADORES E SISTEMAS LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "ZIL2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ZIL2",
+        "value" : "http://rdap.labs.lacnic.net/entity/ZIL2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Zarphost Internet Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio de Janeiro, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio de Janeiro","RJ","04578-000","BR"]],["email",{"type":"work"},"text","ZIL2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ZIL2"
+      } ],
+      "entities" : [ ],
+      "handle" : "ZIL2"
+    } ],
+    "handle" : "BR-VCSL3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VII5",
+      "value" : "http://rdap.labs.lacnic.net/entity/VII5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Vipmaxx Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMafra, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mafra","SC","04578-000","BR"]],["email",{"type":"work"},"text","VII5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131219",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131219",
+      "eventActor" : "VII5"
+    } ],
+    "entities" : [ ],
+    "handle" : "VII5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VII5",
+      "value" : "http://rdap.labs.lacnic.net/entity/VII5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Vipmaxx Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMafra, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mafra","SC","04578-000","BR"]],["email",{"type":"work"},"text","VII5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131219",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131219",
+      "eventActor" : "VII5"
+    } ],
+    "entities" : [ ],
+    "handle" : "VII5"
+  } ],
+  "type" : null,
+  "handle" : "263492-LACNIC",
+  "country" : "BR"
+}

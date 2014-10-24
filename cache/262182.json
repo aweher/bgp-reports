@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262182,
+  "endAutnum" : 262182,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262182",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262182"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110905",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110906",
+    "eventActor" : "CLP5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PE-MNLA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/PE-MNLA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christian L?pez Pereyra"],["adr",{"label":"Av. Paseo de la Rep?blica 3755 ()\nLima, Li 27\nPE","type":"work"},"text",["","","Av. Paseo de la Rep?blica 3755 ()","Lima","Li","27","PE"]],["email",{"type":"work"},"text","christian.lopez@TELEFONICA.COM"],["tel",{"type":"work"},"text","51 1 2106440 ()"],["org",{},"text",["Media Networks Latin America SAC"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110614",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "CLP5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CLP5",
+        "value" : "http://rdap.labs.lacnic.net/entity/CLP5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christian L?pez Pereyra"],["adr",{"label":"Calle los Explosivos S/N (piso 1)\nLima, Li 15000\nPE","type":"work"},"text",["","","Calle los Explosivos S/N (piso 1)","Lima","Li","15000","PE"]],["email",{"type":"work"},"text","christian.lopez@TELEFONICA.COM"],["tel",{"type":"work"},"text","51 1 2074365 (4365)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110609",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130322",
+        "eventActor" : "CLP5"
+      } ],
+      "entities" : [ ],
+      "handle" : "CLP5"
+    } ],
+    "handle" : "PE-MNLA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CLP5",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLP5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christian L?pez Pereyra"],["adr",{"label":"Calle los Explosivos S/N (piso 1)\nLima, Li 15000\nPE","type":"work"},"text",["","","Calle los Explosivos S/N (piso 1)","Lima","Li","15000","PE"]],["email",{"type":"work"},"text","christian.lopez@TELEFONICA.COM"],["tel",{"type":"work"},"text","51 1 2074365 (4365)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110609",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130322",
+      "eventActor" : "CLP5"
+    } ],
+    "entities" : [ ],
+    "handle" : "CLP5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CLP5",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLP5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christian L?pez Pereyra"],["adr",{"label":"Calle los Explosivos S/N (piso 1)\nLima, Li 15000\nPE","type":"work"},"text",["","","Calle los Explosivos S/N (piso 1)","Lima","Li","15000","PE"]],["email",{"type":"work"},"text","christian.lopez@TELEFONICA.COM"],["tel",{"type":"work"},"text","51 1 2074365 (4365)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110609",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130322",
+      "eventActor" : "CLP5"
+    } ],
+    "entities" : [ ],
+    "handle" : "CLP5"
+  } ],
+  "type" : null,
+  "handle" : "262182-LACNIC",
+  "country" : "PE"
+}

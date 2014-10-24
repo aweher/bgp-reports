@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28217,
+  "endAutnum" : 28217,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28217",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28217"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130430",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130430",
+    "eventActor" : "SIC27"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SCSI14-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SCSI14-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sim Conecte"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBragan?a Paulista, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bragan?a Paulista","SP","04578-000","BR"]],["email",{"type":"work"},"text","SIC27@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["SIM CONECTE - Solucoes Integradas de Multim?dia"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130430",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140409",
+      "eventActor" : "SIC27"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SIC27",
+        "value" : "http://rdap.labs.lacnic.net/entity/SIC27"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sim Conecte"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBragan?a Paulista, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bragan?a Paulista","","04578-000","BR"]],["email",{"type":"work"},"text","SIC27@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130430",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130430",
+        "eventActor" : "SIC27"
+      } ],
+      "entities" : [ ],
+      "handle" : "SIC27"
+    } ],
+    "handle" : "BR-SCSI14-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SIC27",
+      "value" : "http://rdap.labs.lacnic.net/entity/SIC27"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sim Conecte"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBragan?a Paulista, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bragan?a Paulista","","04578-000","BR"]],["email",{"type":"work"},"text","SIC27@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130430",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130430",
+      "eventActor" : "SIC27"
+    } ],
+    "entities" : [ ],
+    "handle" : "SIC27"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SIC27",
+      "value" : "http://rdap.labs.lacnic.net/entity/SIC27"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sim Conecte"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBragan?a Paulista, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bragan?a Paulista","","04578-000","BR"]],["email",{"type":"work"},"text","SIC27@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130430",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130430",
+      "eventActor" : "SIC27"
+    } ],
+    "entities" : [ ],
+    "handle" : "SIC27"
+  } ],
+  "type" : null,
+  "handle" : "28217-LACNIC",
+  "country" : "BR"
+}

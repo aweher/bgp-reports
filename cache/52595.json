@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52595,
+  "endAutnum" : 52595,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52595",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52595"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130314",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130314",
+    "eventActor" : "DVC6"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NVTI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NVTI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Vaz Cardoso"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPosse, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Posse","GO","04578-000","BR"]],["email",{"type":"work"},"text","DVC6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["org",{},"text",["Novas Vias Tecnologia da Informa??o Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130315",
+      "eventActor" : "DVC6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DVC6",
+        "value" : "http://rdap.labs.lacnic.net/entity/DVC6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Vaz Cardoso"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPosse, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Posse","GO","04578-000","BR"]],["email",{"type":"work"},"text","DVC6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DVC6"
+      } ],
+      "entities" : [ ],
+      "handle" : "DVC6"
+    } ],
+    "handle" : "BR-NVTI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DVC6",
+      "value" : "http://rdap.labs.lacnic.net/entity/DVC6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Vaz Cardoso"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPosse, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Posse","GO","04578-000","BR"]],["email",{"type":"work"},"text","DVC6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DVC6"
+    } ],
+    "entities" : [ ],
+    "handle" : "DVC6"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DVC6",
+      "value" : "http://rdap.labs.lacnic.net/entity/DVC6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Vaz Cardoso"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPosse, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Posse","GO","04578-000","BR"]],["email",{"type":"work"},"text","DVC6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DVC6"
+    } ],
+    "entities" : [ ],
+    "handle" : "DVC6"
+  } ],
+  "type" : null,
+  "handle" : "52595-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53164,
+  "endAutnum" : 53164,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53164",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53164"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100715",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "LCM5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-UFBA4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-UFBA4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luiz Claudio de Araujo Mendonca"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalvador, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salvador","BA","04578-000","BR"]],["email",{"type":"work"},"text","LCM5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["org",{},"text",["UNIVERSIDADE FEDERAL DA BAHIA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130309",
+      "eventActor" : "LCM5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LCM5",
+        "value" : "http://rdap.labs.lacnic.net/entity/LCM5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luiz Claudio de Araujo Mendonca"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalvador, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salvador","BA","04578-000","BR"]],["email",{"type":"work"},"text","LCM5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LCM5"
+      } ],
+      "entities" : [ ],
+      "handle" : "LCM5"
+    } ],
+    "handle" : "BR-UFBA4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LCM5",
+      "value" : "http://rdap.labs.lacnic.net/entity/LCM5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luiz Claudio de Araujo Mendonca"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalvador, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salvador","BA","04578-000","BR"]],["email",{"type":"work"},"text","LCM5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LCM5"
+    } ],
+    "entities" : [ ],
+    "handle" : "LCM5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LCM5",
+      "value" : "http://rdap.labs.lacnic.net/entity/LCM5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luiz Claudio de Araujo Mendonca"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalvador, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salvador","BA","04578-000","BR"]],["email",{"type":"work"},"text","LCM5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LCM5"
+    } ],
+    "entities" : [ ],
+    "handle" : "LCM5"
+  } ],
+  "type" : null,
+  "handle" : "53164-LACNIC",
+  "country" : "BR"
+}

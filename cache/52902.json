@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52902,
+  "endAutnum" : 52902,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52902",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52902"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120724",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MJL3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SLLT1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SLLT1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","M?RIO J. SOARES DE LIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAltamira, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Altamira","PA","04578-000","BR"]],["email",{"type":"work"},"text","MJL3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 93 55093511 ()"],["org",{},"text",["Link Telecom"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130523",
+      "eventActor" : "MJL3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MJL3",
+        "value" : "http://rdap.labs.lacnic.net/entity/MJL3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","M?RIO J. SOARES DE LIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAltamira, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Altamira","PA","04578-000","BR"]],["email",{"type":"work"},"text","MJL3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 93 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MJL3"
+      } ],
+      "entities" : [ ],
+      "handle" : "MJL3"
+    } ],
+    "handle" : "BR-SLLT1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MJL3",
+      "value" : "http://rdap.labs.lacnic.net/entity/MJL3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","M?RIO J. SOARES DE LIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAltamira, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Altamira","PA","04578-000","BR"]],["email",{"type":"work"},"text","MJL3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 93 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MJL3"
+    } ],
+    "entities" : [ ],
+    "handle" : "MJL3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MJL3",
+      "value" : "http://rdap.labs.lacnic.net/entity/MJL3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","M?RIO J. SOARES DE LIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAltamira, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Altamira","PA","04578-000","BR"]],["email",{"type":"work"},"text","MJL3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 93 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MJL3"
+    } ],
+    "entities" : [ ],
+    "handle" : "MJL3"
+  } ],
+  "type" : null,
+  "handle" : "52902-LACNIC",
+  "country" : "BR"
+}

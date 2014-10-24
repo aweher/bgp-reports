@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263420,
+  "endAutnum" : 263420,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263420",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263420"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140408",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140512",
+    "eventActor" : "ATL41"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ATLT95-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ATLT95-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Massa Web"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTe?filo Otoni, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Te?filo Otoni","MG","04578-000","BR"]],["email",{"type":"work"},"text","MAW31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 33 55093511 ()"],["org",{},"text",["ACX TELECOM LTDA."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140408",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140512",
+      "eventActor" : "MAW31"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MAW31",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAW31"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Massa Web"],["adr",{"label":"Av. das Nações Unidas 11541 (7º andar)\nMontes Claros, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Nações Unidas 11541 (7º andar)","Montes Claros","MG","04578-000","BR"]],["email",{"type":"work"},"text","MAW31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130718",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130718",
+        "eventActor" : "MAW31"
+      } ],
+      "entities" : [ ],
+      "handle" : "MAW31"
+    } ],
+    "handle" : "BR-ATLT95-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ATL41",
+      "value" : "http://rdap.labs.lacnic.net/entity/ATL41"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ACX TELECOM LTDA."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTe?filo Otoni, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Te?filo Otoni","MG","04578-000","BR"]],["email",{"type":"work"},"text","ATL41@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 33 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140512",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140512",
+      "eventActor" : "ATL41"
+    } ],
+    "entities" : [ ],
+    "handle" : "ATL41"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ATL41",
+      "value" : "http://rdap.labs.lacnic.net/entity/ATL41"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ACX TELECOM LTDA."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTe?filo Otoni, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Te?filo Otoni","MG","04578-000","BR"]],["email",{"type":"work"},"text","ATL41@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 33 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140512",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140512",
+      "eventActor" : "ATL41"
+    } ],
+    "entities" : [ ],
+    "handle" : "ATL41"
+  } ],
+  "type" : null,
+  "handle" : "263420-LACNIC",
+  "country" : "BR"
+}

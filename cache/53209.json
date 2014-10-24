@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53209,
+  "endAutnum" : 53209,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53209",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53209"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100927",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "FAB42"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MTLT28-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MTLT28-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Felipe de Assis Bodevan"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPassa Quatro, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Passa Quatro","MG","04578-000","BR"]],["email",{"type":"work"},"text","FAB42@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["org",{},"text",["Mantiqueira Tecnologia Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "FAB42"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FAB42",
+        "value" : "http://rdap.labs.lacnic.net/entity/FAB42"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Felipe de Assis Bodevan"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Louren?o, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Louren?o","MG","04578-000","BR"]],["email",{"type":"work"},"text","FAB42@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FAB42"
+      } ],
+      "entities" : [ ],
+      "handle" : "FAB42"
+    } ],
+    "handle" : "BR-MTLT28-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAB42",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAB42"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Felipe de Assis Bodevan"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Louren?o, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Louren?o","MG","04578-000","BR"]],["email",{"type":"work"},"text","FAB42@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FAB42"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAB42"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAB42",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAB42"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Felipe de Assis Bodevan"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Louren?o, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Louren?o","MG","04578-000","BR"]],["email",{"type":"work"},"text","FAB42@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FAB42"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAB42"
+  } ],
+  "type" : null,
+  "handle" : "53209-LACNIC",
+  "country" : "BR"
+}

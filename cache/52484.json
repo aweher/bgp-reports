@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52484",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52484"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CGSA8-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CGSA8-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CIUDAD GLOBAL SA"],["adr",{"label":"ING. LUIGGI 87 ()\nBAHIA BLANCA, BA B8000JUA\nAR","type":"work"},"text",["","","ING. LUIGGI 87 ()","BAHIA BLANCA","BA","B8000JUA","AR"]],["email",{"type":"work"},"text","noc@CIUDADGLOBAL.COM.AR"],["tel",{"type":"work"},"text","054 0291 4558448 ()"],["org",{},"text",["CIUDAD GLOBAL S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CGS",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CGS"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CIUDAD GLOBAL SA"],["adr",{"label":"ING. LUIGGI 87 ()\nBahia Blanca, BA B8000JUA\nAR","type":"work"},"text",["","","ING. LUIGGI 87 ()","Bahia Blanca","BA","B8000JUA","AR"]],["email",{"type":"work"},"text","noc@CIUDADGLOBAL.COM.AR"],["tel",{"type":"work"},"text","54 291 4558448 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050516",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130329",
+        "eventActor" : "CGS"
+      } ],
+      "handle" : "CGS"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120517",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "CGS"
+    } ],
+    "handle" : "AR-CGSA8-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CGS",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CGS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CIUDAD GLOBAL SA"],["adr",{"label":"ING. LUIGGI 87 ()\nBahia Blanca, BA B8000JUA\nAR","type":"work"},"text",["","","ING. LUIGGI 87 ()","Bahia Blanca","BA","B8000JUA","AR"]],["email",{"type":"work"},"text","noc@CIUDADGLOBAL.COM.AR"],["tel",{"type":"work"},"text","54 291 4558448 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050516",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130329",
+      "eventActor" : "CGS"
+    } ],
+    "handle" : "CGS"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CGS",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CGS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CIUDAD GLOBAL SA"],["adr",{"label":"ING. LUIGGI 87 ()\nBahia Blanca, BA B8000JUA\nAR","type":"work"},"text",["","","ING. LUIGGI 87 ()","Bahia Blanca","BA","B8000JUA","AR"]],["email",{"type":"work"},"text","noc@CIUDADGLOBAL.COM.AR"],["tel",{"type":"work"},"text","54 291 4558448 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050516",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130329",
+      "eventActor" : "CGS"
+    } ],
+    "handle" : "CGS"
+  } ],
+  "startAutnum" : 52484,
+  "endAutnum" : 52484,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130607",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130607",
+    "eventActor" : "CGS"
+  } ],
+  "type" : null,
+  "handle" : "52484-LACNIC",
+  "country" : "AR"
+}

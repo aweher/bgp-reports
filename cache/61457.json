@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61457,
+  "endAutnum" : 61457,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61457",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61457"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140710",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140710",
+    "eventActor" : "PAM73"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-LESA1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-LESA1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","COGCCS LACNIC"],["adr",{"label":"Carrerra 48 37-27 37-27 ()\nMedellin, AN -\nCO","type":"work"},"text",["","","Carrerra 48 37-27 37-27 ()","Medellin","AN","-","CO"]],["email",{"type":"work"},"text","lacnic_ancol@GLOBALCROSSING.COM"],["tel",{"type":"work"},"text","57 4 3848989 ()"],["org",{},"text",["Votre Passion S.A.S"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070521",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140710",
+      "eventActor" : "COL16"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/COL16",
+        "value" : "http://rdap.labs.lacnic.net/entity/COL16"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","COGCCS LACNIC"],["adr",{"label":"Autopista Norte No 122-35. Piso 7  ()\nBogotá, null 11001000\nCO","type":"work"},"text",["","","Autopista Norte No 122-35. Piso 7  ()","Bogotá","","11001000","CO"]],["email",{"type":"work"},"text","lacnic_ancol@GLOBALCROSSING.COM"],["tel",{"type":"work"},"text","57 1 6119000 (4088)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110913",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110913",
+        "eventActor" : "COL16"
+      } ],
+      "entities" : [ ],
+      "handle" : "COL16"
+    } ],
+    "handle" : "CO-LESA1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PAM73",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAM73"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","PAULA MONTOYA"],["adr",{"label":"CRA 48 37-27  ()\nMEDELLIN, N/ 0000\nCO","type":"work"},"text",["","","CRA 48 37-27  ()","MEDELLIN","N/","0000","CO"]],["email",{"type":"work"},"text","pmontoya@LEONISA.COM"],["tel",{"type":"work"},"text","57 4 3848989 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131120",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131120",
+      "eventActor" : "PAM73"
+    } ],
+    "entities" : [ ],
+    "handle" : "PAM73"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PAM73",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAM73"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","PAULA MONTOYA"],["adr",{"label":"CRA 48 37-27  ()\nMEDELLIN, N/ 0000\nCO","type":"work"},"text",["","","CRA 48 37-27  ()","MEDELLIN","N/","0000","CO"]],["email",{"type":"work"},"text","pmontoya@LEONISA.COM"],["tel",{"type":"work"},"text","57 4 3848989 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131120",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131120",
+      "eventActor" : "PAM73"
+    } ],
+    "entities" : [ ],
+    "handle" : "PAM73"
+  } ],
+  "type" : null,
+  "handle" : "61457-LACNIC",
+  "country" : "CO"
+}

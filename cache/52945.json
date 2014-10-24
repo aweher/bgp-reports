@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52945,
+  "endAutnum" : 52945,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52945",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52945"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120824",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140427",
+    "eventActor" : "EHH4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-EPSL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-EPSL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Thiago Rocha"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDomingos Martins, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Domingos Martins","ES","04578-000","BR"]],["email",{"type":"work"},"text","THR@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["org",{},"text",["E&L Producoes de Software Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140501",
+      "eventActor" : "THR"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/THR",
+        "value" : "http://rdap.labs.lacnic.net/entity/THR"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Thiago Rocha"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDomingos Martins, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Domingos Martins","ES","04578-000","BR"]],["email",{"type":"work"},"text","THR@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "THR"
+      } ],
+      "entities" : [ ],
+      "handle" : "THR"
+    } ],
+    "handle" : "BR-EPSL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EHH4",
+      "value" : "http://rdap.labs.lacnic.net/entity/EHH4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Estev?o Henrique Holz"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDomingos Martins, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Domingos Martins","ES","04578-000","BR"]],["email",{"type":"work"},"text","EHH4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131209",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131209",
+      "eventActor" : "EHH4"
+    } ],
+    "entities" : [ ],
+    "handle" : "EHH4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EHH4",
+      "value" : "http://rdap.labs.lacnic.net/entity/EHH4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Estev?o Henrique Holz"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDomingos Martins, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Domingos Martins","ES","04578-000","BR"]],["email",{"type":"work"},"text","EHH4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131209",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131209",
+      "eventActor" : "EHH4"
+    } ],
+    "entities" : [ ],
+    "handle" : "EHH4"
+  } ],
+  "type" : null,
+  "handle" : "52945-LACNIC",
+  "country" : "BR"
+}

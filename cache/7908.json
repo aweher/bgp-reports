@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 7908,
+  "endAutnum" : 7908,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/7908",
+    "value" : "http://rdap.labs.lacnic.net/autnum/7908"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19970212",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121129",
+    "eventActor" : "MAM4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VE-COVE4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/VE-COVE4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alejandro Acosta A"],["adr",{"label":"Av. Fco de Miranda, Torre Pqe Cristal, Torre Este Mzz 2 (Local 28)\nCaracas, DF 1060\nVE","type":"work"},"text",["","","Av. Fco de Miranda, Torre Pqe Cristal, Torre Este Mzz 2 (Local 28)","Caracas","DF","1060","VE"]],["email",{"type":"work"},"text","webmaster@BTLATAM.COM.VE"],["tel",{"type":"work"},"text","58 212 2854545 (2200)"],["org",{},"text",["BT LATAM Venezuela, S.A."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020925",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140326",
+      "eventActor" : "AAA"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/AAA",
+        "value" : "http://rdap.labs.lacnic.net/entity/AAA"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alejandro Acosta A"],["adr",{"label":"Av. Fco de Miranda, Torre Pqe Cristal, Torre Este 212 (2854545)\nCaracas, DF 1060\nVE","type":"work"},"text",["","","Av. Fco de Miranda, Torre Pqe Cristal, Torre Este 212 (2854545)","Caracas","DF","1060","VE"]],["email",{"type":"work"},"text","webmaster@BTLATAM.COM.VE"],["tel",{"type":"work"},"text","58 212 2854545 (2200)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20020909",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140509",
+        "eventActor" : "AAA"
+      } ],
+      "entities" : [ ],
+      "handle" : "AAA"
+    } ],
+    "handle" : "VE-COVE4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAM4",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAM4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP"],["adr",{"label":"Ortega 5500 (--)\nWilde, BA 1875\nAR","type":"work"},"text",["","","Ortega 5500 (--)","Wilde","BA","1875","AR"]],["email",{"type":"work"},"text","dc.ar@BT.COM"],["tel",{"type":"work"},"text","54 11 53546100 (6133)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030226",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140613",
+      "eventActor" : "MAM4"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAM4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAM4",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAM4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP"],["adr",{"label":"Ortega 5500 (--)\nWilde, BA 1875\nAR","type":"work"},"text",["","","Ortega 5500 (--)","Wilde","BA","1875","AR"]],["email",{"type":"work"},"text","dc.ar@BT.COM"],["tel",{"type":"work"},"text","54 11 53546100 (6133)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030226",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140613",
+      "eventActor" : "MAM4"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAM4"
+  } ],
+  "type" : null,
+  "handle" : "7908-LACNIC",
+  "country" : "VE"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/20305",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/20305"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-GBAR-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-GBAR-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andr?s Esteban Kasza"],["adr",{"label":"B. Mitre 480 ()\nBuenos Aires, CF C1036AAH\nAR","type":"work"},"text",["","","B. Mitre 480 ()","Buenos Aires","CF","C1036AAH","AR"]],["email",{"type":"work"},"text","akasza@BANCORIO.COM.AR"],["tel",{"type":"work"},"text","54 11 4341 1000 ()"],["org",{},"text",["Banco Rio de la Plata S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/AEK",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/AEK"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andr?s Esteban Kasza"],["adr",{"label":"Bartolom? Mitre 480 (Piso 2)\nBuenos Aires, CF C1036AAH\nAR","type":"work"},"text",["","","Bartolom? Mitre 480 (Piso 2)","Buenos Aires","CF","C1036AAH","AR"]],["email",{"type":"work"},"text","akasza@BANCORIO.COM.AR"],["tel",{"type":"work"},"text","54 11 4341 1101 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030324",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20030530",
+        "eventActor" : "AEK"
+      } ],
+      "handle" : "AEK"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030604",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20030609",
+      "eventActor" : "AEK"
+    } ],
+    "handle" : "AR-GBAR-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AEK",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AEK"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andr?s Esteban Kasza"],["adr",{"label":"Bartolom? Mitre 480 (Piso 2)\nBuenos Aires, CF C1036AAH\nAR","type":"work"},"text",["","","Bartolom? Mitre 480 (Piso 2)","Buenos Aires","CF","C1036AAH","AR"]],["email",{"type":"work"},"text","akasza@BANCORIO.COM.AR"],["tel",{"type":"work"},"text","54 11 4341 1101 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030324",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20030530",
+      "eventActor" : "AEK"
+    } ],
+    "handle" : "AEK"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AEK",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AEK"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andr?s Esteban Kasza"],["adr",{"label":"Bartolom? Mitre 480 (Piso 2)\nBuenos Aires, CF C1036AAH\nAR","type":"work"},"text",["","","Bartolom? Mitre 480 (Piso 2)","Buenos Aires","CF","C1036AAH","AR"]],["email",{"type":"work"},"text","akasza@BANCORIO.COM.AR"],["tel",{"type":"work"},"text","54 11 4341 1101 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030324",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20030530",
+      "eventActor" : "AEK"
+    } ],
+    "handle" : "AEK"
+  } ],
+  "startAutnum" : 20305,
+  "endAutnum" : 20305,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20010420",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20040217",
+    "eventActor" : "AEK"
+  } ],
+  "type" : null,
+  "handle" : "20305-LACNIC",
+  "country" : "AR"
+}

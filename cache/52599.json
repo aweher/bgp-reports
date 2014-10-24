@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52599,
+  "endAutnum" : 52599,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52599",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52599"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130319",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140130",
+    "eventActor" : "RAD28"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ASCL11-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ASCL11-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edimar Ferreira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBilac, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bilac","SP","04578-000","BR"]],["email",{"type":"work"},"text","EDF36@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["org",{},"text",["aRede Servi?os de Comunica??o Ltda - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "EDF36"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EDF36",
+        "value" : "http://rdap.labs.lacnic.net/entity/EDF36"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edimar Ferreira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBilac, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bilac","SP","04578-000","BR"]],["email",{"type":"work"},"text","EDF36@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EDF36"
+      } ],
+      "entities" : [ ],
+      "handle" : "EDF36"
+    } ],
+    "handle" : "BR-ASCL11-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RAD28",
+      "value" : "http://rdap.labs.lacnic.net/entity/RAD28"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael Agostinho Duarte"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBirig?i, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Birig?i","","04578-000","BR"]],["email",{"type":"work"},"text","RAD28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130319",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130319",
+      "eventActor" : "RAD28"
+    } ],
+    "entities" : [ ],
+    "handle" : "RAD28"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDF36",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDF36"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edimar Ferreira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBilac, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bilac","SP","04578-000","BR"]],["email",{"type":"work"},"text","EDF36@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EDF36"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDF36"
+  } ],
+  "type" : null,
+  "handle" : "52599-LACNIC",
+  "country" : "BR"
+}

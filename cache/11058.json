@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/11058",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/11058"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CCAB-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CCAB-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Fritz"],["adr",{"label":"Suipacha 128 (3 F)\nBuenos Aires,  C1008AAD\nAR","type":"work"},"text",["","","Suipacha 128 (3 F)","Buenos Aires","","C1008AAD","AR"]],["email",{"type":"work"},"text","pablo-lacnic@NAP.CABASE.ORG.AR"],["tel",{"type":"work"},"text","54 11 43260777 ()"],["org",{},"text",["CABASE Camara Arg de Base de Datos y Serv en Linea"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CTN3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CTN3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Fritz"],["adr",{"label":"Suipacha 128 (3 F)\nBuenos Aires,  C1008AAD\nAR","type":"work"},"text",["","","Suipacha 128 (3 F)","Buenos Aires","","C1008AAD","AR"]],["email",{"type":"work"},"text","pablo-lacnic@NAP.CABASE.ORG.AR"],["tel",{"type":"work"},"text","54 11 43260777 (111)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110322",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131216",
+        "eventActor" : "CTN3"
+      } ],
+      "handle" : "CTN3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040308",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110516",
+      "eventActor" : "CTN3"
+    } ],
+    "handle" : "AR-CCAB-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CTN3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CTN3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Fritz"],["adr",{"label":"Suipacha 128 (3 F)\nBuenos Aires,  C1008AAD\nAR","type":"work"},"text",["","","Suipacha 128 (3 F)","Buenos Aires","","C1008AAD","AR"]],["email",{"type":"work"},"text","pablo-lacnic@NAP.CABASE.ORG.AR"],["tel",{"type":"work"},"text","54 11 43260777 (111)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110322",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131216",
+      "eventActor" : "CTN3"
+    } ],
+    "handle" : "CTN3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CTN3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CTN3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Fritz"],["adr",{"label":"Suipacha 128 (3 F)\nBuenos Aires,  C1008AAD\nAR","type":"work"},"text",["","","Suipacha 128 (3 F)","Buenos Aires","","C1008AAD","AR"]],["email",{"type":"work"},"text","pablo-lacnic@NAP.CABASE.ORG.AR"],["tel",{"type":"work"},"text","54 11 43260777 (111)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110322",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131216",
+      "eventActor" : "CTN3"
+    } ],
+    "handle" : "CTN3"
+  } ],
+  "startAutnum" : 11058,
+  "endAutnum" : 11058,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19980325",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110322",
+    "eventActor" : "CTN3"
+  } ],
+  "type" : null,
+  "handle" : "11058-LACNIC",
+  "country" : "AR"
+}

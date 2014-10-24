@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262259",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262259"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-STAR4-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-STAR4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Fernando Rodr?guez"],["adr",{"label":"Pereyra 3928 ()\nMoreno, BA 1744\nAR","type":"work"},"text",["","","Pereyra 3928 ()","Moreno","BA","1744","AR"]],["email",{"type":"work"},"text","drodriguez@STARNETWORKS.COM.AR"],["tel",{"type":"work"},"text","54 237 4628819 ()"],["org",{},"text",["StarNetworks"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/DFR",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/DFR"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Fernando Rodr?guez"],["adr",{"label":"Av. Storni 1252 ()\nMoreno, BA 1744\nAR","type":"work"},"text",["","","Av. Storni 1252 ()","Moreno","BA","1744","AR"]],["email",{"type":"work"},"text","drodriguez@STARNETWORKS.COM.AR"],["tel",{"type":"work"},"text","54 11 32205923 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110810",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131210",
+        "eventActor" : "DFR"
+      } ],
+      "handle" : "DFR"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110810",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140226",
+      "eventActor" : "DFR"
+    } ],
+    "handle" : "AR-STAR4-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DFR",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DFR"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Fernando Rodr?guez"],["adr",{"label":"Av. Storni 1252 ()\nMoreno, BA 1744\nAR","type":"work"},"text",["","","Av. Storni 1252 ()","Moreno","BA","1744","AR"]],["email",{"type":"work"},"text","drodriguez@STARNETWORKS.COM.AR"],["tel",{"type":"work"},"text","54 11 32205923 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110810",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131210",
+      "eventActor" : "DFR"
+    } ],
+    "handle" : "DFR"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DFR",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DFR"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Fernando Rodr?guez"],["adr",{"label":"Av. Storni 1252 ()\nMoreno, BA 1744\nAR","type":"work"},"text",["","","Av. Storni 1252 ()","Moreno","BA","1744","AR"]],["email",{"type":"work"},"text","drodriguez@STARNETWORKS.COM.AR"],["tel",{"type":"work"},"text","54 11 32205923 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110810",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131210",
+      "eventActor" : "DFR"
+    } ],
+    "handle" : "DFR"
+  } ],
+  "startAutnum" : 262259,
+  "endAutnum" : 262259,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130118",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130118",
+    "eventActor" : "DFR"
+  } ],
+  "type" : null,
+  "handle" : "262259-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/10671",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/10671"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CNAE-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CNAE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Patricia Alvarez"],["adr",{"label":"Paseo Colon 751 ()\nBuenos Aires,  C1063ACH\nAR","type":"work"},"text",["","","Paseo Colon 751 ()","Buenos Aires","","C1063ACH","AR"]],["email",{"type":"work"},"text","si@CONAE.GOV.AR"],["tel",{"type":"work"},"text","54 11 4331-0074 (5298)"],["org",{},"text",["Comision Nacional de Actividades Espaciales"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/HUM",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/HUM"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Patricia Alvarez"],["adr",{"label":"Paseo Colon 751 ()\nBuenos Aires,  C1063ACH\nAR","type":"work"},"text",["","","Paseo Colon 751 ()","Buenos Aires","","C1063ACH","AR"]],["email",{"type":"work"},"text","si@CONAE.GOV.AR"],["tel",{"type":"work"},"text","54 11 4331-0074 (5298)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20021031",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100407",
+        "eventActor" : "HUM"
+      } ],
+      "handle" : "HUM"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021104",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100408",
+      "eventActor" : "HUM"
+    } ],
+    "handle" : "AR-CNAE-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HUM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HUM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Patricia Alvarez"],["adr",{"label":"Paseo Colon 751 ()\nBuenos Aires,  C1063ACH\nAR","type":"work"},"text",["","","Paseo Colon 751 ()","Buenos Aires","","C1063ACH","AR"]],["email",{"type":"work"},"text","si@CONAE.GOV.AR"],["tel",{"type":"work"},"text","54 11 4331-0074 (5298)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021031",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100407",
+      "eventActor" : "HUM"
+    } ],
+    "handle" : "HUM"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HUM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HUM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Patricia Alvarez"],["adr",{"label":"Paseo Colon 751 ()\nBuenos Aires,  C1063ACH\nAR","type":"work"},"text",["","","Paseo Colon 751 ()","Buenos Aires","","C1063ACH","AR"]],["email",{"type":"work"},"text","si@CONAE.GOV.AR"],["tel",{"type":"work"},"text","54 11 4331-0074 (5298)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021031",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100407",
+      "eventActor" : "HUM"
+    } ],
+    "handle" : "HUM"
+  } ],
+  "startAutnum" : 10671,
+  "endAutnum" : 10671,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19971021",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "19971021",
+    "eventActor" : "HUM"
+  } ],
+  "type" : null,
+  "handle" : "10671-LACNIC",
+  "country" : "AR"
+}

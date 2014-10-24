@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/10986",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/10986"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-ICSA5-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-ICSA5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Rain"],["adr",{"label":"Suipacha 128 (2?N)\nCiudad Aut?noma de Buenos A., BA C1008AAD\nAR","type":"work"},"text",["","","Suipacha 128 (2?N)","Ciudad Aut?noma de Buenos A.","BA","C1008AAD","AR"]],["email",{"type":"work"},"text","Network@INTERMEDIASP.COM"],["tel",{"type":"work"},"text","54 11 5032-9999 ()"],["org",{},"text",["Intermedia Comunicaciones S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PAS7",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PAS7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Rain"],["adr",{"label":"Suipacha 128 (2N)\nCapital Federal,  C1008AAD\nAR","type":"work"},"text",["","","Suipacha 128 (2N)","Capital Federal","","C1008AAD","AR"]],["email",{"type":"work"},"text","Network@INTERMEDIASP.COM"],["tel",{"type":"work"},"text","54 11 5032 (9999)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060608",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120831",
+        "eventActor" : "PAS7"
+      } ],
+      "handle" : "PAS7"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030307",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "PAS7"
+    } ],
+    "handle" : "AR-ICSA5-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAS7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAS7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Rain"],["adr",{"label":"Suipacha 128 (2N)\nCapital Federal,  C1008AAD\nAR","type":"work"},"text",["","","Suipacha 128 (2N)","Capital Federal","","C1008AAD","AR"]],["email",{"type":"work"},"text","Network@INTERMEDIASP.COM"],["tel",{"type":"work"},"text","54 11 5032 (9999)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060608",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120831",
+      "eventActor" : "PAS7"
+    } ],
+    "handle" : "PAS7"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAS7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAS7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Rain"],["adr",{"label":"Suipacha 128 (2N)\nCapital Federal,  C1008AAD\nAR","type":"work"},"text",["","","Suipacha 128 (2N)","Capital Federal","","C1008AAD","AR"]],["email",{"type":"work"},"text","Network@INTERMEDIASP.COM"],["tel",{"type":"work"},"text","54 11 5032 (9999)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060608",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120831",
+      "eventActor" : "PAS7"
+    } ],
+    "handle" : "PAS7"
+  } ],
+  "startAutnum" : 10986,
+  "endAutnum" : 10986,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19980225",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20060608",
+    "eventActor" : "PAS7"
+  } ],
+  "type" : null,
+  "handle" : "10986-LACNIC",
+  "country" : "AR"
+}

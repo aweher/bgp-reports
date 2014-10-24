@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52721,
+  "endAutnum" : 52721,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52721",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52721"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130116",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "TIL34"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TILT47-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TILT47-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TOLEDO INFO LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAragua?na, TO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aragua?na","TO","04578-000","BR"]],["email",{"type":"work"},"text","TIL34@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["org",{},"text",["TOLEDO INFO LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "TIL34"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/TIL34",
+        "value" : "http://rdap.labs.lacnic.net/entity/TIL34"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TOLEDO INFO LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAragua?na, TO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aragua?na","TO","04578-000","BR"]],["email",{"type":"work"},"text","TIL34@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "TIL34"
+      } ],
+      "entities" : [ ],
+      "handle" : "TIL34"
+    } ],
+    "handle" : "BR-TILT47-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TIL34",
+      "value" : "http://rdap.labs.lacnic.net/entity/TIL34"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TOLEDO INFO LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAragua?na, TO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aragua?na","TO","04578-000","BR"]],["email",{"type":"work"},"text","TIL34@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TIL34"
+    } ],
+    "entities" : [ ],
+    "handle" : "TIL34"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TIL34",
+      "value" : "http://rdap.labs.lacnic.net/entity/TIL34"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TOLEDO INFO LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAragua?na, TO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aragua?na","TO","04578-000","BR"]],["email",{"type":"work"},"text","TIL34@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TIL34"
+    } ],
+    "entities" : [ ],
+    "handle" : "TIL34"
+  } ],
+  "type" : null,
+  "handle" : "52721-LACNIC",
+  "country" : "BR"
+}

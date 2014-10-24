@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262504,
+  "endAutnum" : 262504,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262504",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262504"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110620",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "NRR"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NRTL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NRTL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NOVA REDE - REGISTRO.BR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRibeir?o das Neves, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ribeir?o das Neves","MG","04578-000","BR"]],["email",{"type":"work"},"text","NRR@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["org",{},"text",["Nova Rede de Telecomunica??es Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "NRR"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/NRR",
+        "value" : "http://rdap.labs.lacnic.net/entity/NRR"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NOVA REDE - REGISTRO.BR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRibeir?o das Neves, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ribeir?o das Neves","MG","04578-000","BR"]],["email",{"type":"work"},"text","NRR@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "NRR"
+      } ],
+      "entities" : [ ],
+      "handle" : "NRR"
+    } ],
+    "handle" : "BR-NRTL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NRR",
+      "value" : "http://rdap.labs.lacnic.net/entity/NRR"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NOVA REDE - REGISTRO.BR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRibeir?o das Neves, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ribeir?o das Neves","MG","04578-000","BR"]],["email",{"type":"work"},"text","NRR@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NRR"
+    } ],
+    "entities" : [ ],
+    "handle" : "NRR"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NRR",
+      "value" : "http://rdap.labs.lacnic.net/entity/NRR"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NOVA REDE - REGISTRO.BR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRibeir?o das Neves, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ribeir?o das Neves","MG","04578-000","BR"]],["email",{"type":"work"},"text","NRR@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NRR"
+    } ],
+    "entities" : [ ],
+    "handle" : "NRR"
+  } ],
+  "type" : null,
+  "handle" : "262504-LACNIC",
+  "country" : "BR"
+}

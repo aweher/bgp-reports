@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262426,
+  "endAutnum" : 262426,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262426",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262426"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110328",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ELG12"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-GSEI1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-GSEI1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMERSON LEANDRO GREGORIO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRondon?polis, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rondon?polis","MT","04578-000","BR"]],["email",{"type":"work"},"text","ELG12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["org",{},"text",["G3 Servi?os em Informatica Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "ELG12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ELG12",
+        "value" : "http://rdap.labs.lacnic.net/entity/ELG12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMERSON LEANDRO GREGORIO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRondon?polis, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rondon?polis","MT","04578-000","BR"]],["email",{"type":"work"},"text","ELG12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ELG12"
+      } ],
+      "entities" : [ ],
+      "handle" : "ELG12"
+    } ],
+    "handle" : "BR-GSEI1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ELG12",
+      "value" : "http://rdap.labs.lacnic.net/entity/ELG12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMERSON LEANDRO GREGORIO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRondon?polis, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rondon?polis","MT","04578-000","BR"]],["email",{"type":"work"},"text","ELG12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ELG12"
+    } ],
+    "entities" : [ ],
+    "handle" : "ELG12"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ELG12",
+      "value" : "http://rdap.labs.lacnic.net/entity/ELG12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMERSON LEANDRO GREGORIO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRondon?polis, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rondon?polis","MT","04578-000","BR"]],["email",{"type":"work"},"text","ELG12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ELG12"
+    } ],
+    "entities" : [ ],
+    "handle" : "ELG12"
+  } ],
+  "type" : null,
+  "handle" : "262426-LACNIC",
+  "country" : "BR"
+}

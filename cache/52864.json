@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52864,
+  "endAutnum" : 52864,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52864",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52864"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111222",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140422",
+    "eventActor" : "FJN4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-FCSL7-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-FCSL7-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonardo Viana"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCatu, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Catu","BA","04578-000","BR"]],["email",{"type":"work"},"text","LEV14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["org",{},"text",["Fillnet Com. e Ser. LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140422",
+      "eventActor" : "LEV14"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LEV14",
+        "value" : "http://rdap.labs.lacnic.net/entity/LEV14"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonardo Viana"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPojuca, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pojuca","BA","04578-000","BR"]],["email",{"type":"work"},"text","LEV14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LEV14"
+      } ],
+      "entities" : [ ],
+      "handle" : "LEV14"
+    } ],
+    "handle" : "BR-FCSL7-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FJN4",
+      "value" : "http://rdap.labs.lacnic.net/entity/FJN4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Jose Badaro Valente Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalvador, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salvador","BA","04578-000","BR"]],["email",{"type":"work"},"text","FJN4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FJN4"
+    } ],
+    "entities" : [ ],
+    "handle" : "FJN4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FJN4",
+      "value" : "http://rdap.labs.lacnic.net/entity/FJN4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Jose Badaro Valente Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalvador, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salvador","BA","04578-000","BR"]],["email",{"type":"work"},"text","FJN4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FJN4"
+    } ],
+    "entities" : [ ],
+    "handle" : "FJN4"
+  } ],
+  "type" : null,
+  "handle" : "52864-LACNIC",
+  "country" : "BR"
+}

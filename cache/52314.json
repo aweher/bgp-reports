@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52314",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52314"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-UNNB-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-UNNB-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Charne"],["adr",{"label":"Roque S?enz Pe?a 456 (-)\nJun?n, BA B6000FJJ\nAR","type":"work"},"text",["","","Roque S?enz Pe?a 456 (-)","Jun?n","BA","B6000FJJ","AR"]],["email",{"type":"work"},"text","javier@UNNOBA.EDU.AR"],["tel",{"type":"work"},"text","54 236 4407750 (11712)"],["org",{},"text",["Universidad Nacional del Noroeste de Buenos Aires (UNNOBA)"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JAC26",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JAC26"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Charne"],["adr",{"label":"Roque Saenz Pena 456 ()\nJun?n, BA B6000FJJ\nAR","type":"work"},"text",["","","Roque Saenz Pena 456 ()","Jun?n","BA","B6000FJJ","AR"]],["email",{"type":"work"},"text","javier@UNNOBA.EDU.AR"],["tel",{"type":"work"},"text","54 236 4407750 (11712)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090430",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131016",
+        "eventActor" : "JAC26"
+      } ],
+      "handle" : "JAC26"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101109",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130528",
+      "eventActor" : "JAC26"
+    } ],
+    "handle" : "AR-UNNB-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JAC26",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAC26"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Charne"],["adr",{"label":"Roque Saenz Pena 456 ()\nJun?n, BA B6000FJJ\nAR","type":"work"},"text",["","","Roque Saenz Pena 456 ()","Jun?n","BA","B6000FJJ","AR"]],["email",{"type":"work"},"text","javier@UNNOBA.EDU.AR"],["tel",{"type":"work"},"text","54 236 4407750 (11712)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090430",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131016",
+      "eventActor" : "JAC26"
+    } ],
+    "handle" : "JAC26"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JAC26",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAC26"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Charne"],["adr",{"label":"Roque Saenz Pena 456 ()\nJun?n, BA B6000FJJ\nAR","type":"work"},"text",["","","Roque Saenz Pena 456 ()","Jun?n","BA","B6000FJJ","AR"]],["email",{"type":"work"},"text","javier@UNNOBA.EDU.AR"],["tel",{"type":"work"},"text","54 236 4407750 (11712)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090430",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131016",
+      "eventActor" : "JAC26"
+    } ],
+    "handle" : "JAC26"
+  } ],
+  "startAutnum" : 52314,
+  "endAutnum" : 52314,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110207",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110207",
+    "eventActor" : "JAC26"
+  } ],
+  "type" : null,
+  "handle" : "52314-LACNIC",
+  "country" : "AR"
+}

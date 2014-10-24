@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/13316",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/13316"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-SSES-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-SSES-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Talevi"],["adr",{"label":"Espinosa 1045 ()\nBuenos Aires,  1405\nAR","type":"work"},"text",["","","Espinosa 1045 ()","Buenos Aires","","1405","AR"]],["email",{"type":"work"},"text","d.talevi@SES.COM.AR"],["tel",{"type":"work"},"text","54 11 5453-0000 (8478)"],["org",{},"text",["SES Sistemas Electr?nicos S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/DAT7",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAT7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Talevi"],["adr",{"label":"Espinosa 1045 ()\nBuenos Aires, null 1405\nAR","type":"work"},"text",["","","Espinosa 1045 ()","Buenos Aires","","1405","AR"]],["email",{"type":"work"},"text","d.talevi@SES.COM.AR"],["tel",{"type":"work"},"text","54 11 5453-0000 (8444)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080610",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20080610",
+        "eventActor" : "DAT7"
+      } ],
+      "handle" : "DAT7"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050616",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "DAT7"
+    } ],
+    "handle" : "AR-SSES-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DAT7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAT7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Talevi"],["adr",{"label":"Espinosa 1045 ()\nBuenos Aires, null 1405\nAR","type":"work"},"text",["","","Espinosa 1045 ()","Buenos Aires","","1405","AR"]],["email",{"type":"work"},"text","d.talevi@SES.COM.AR"],["tel",{"type":"work"},"text","54 11 5453-0000 (8444)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080610",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080610",
+      "eventActor" : "DAT7"
+    } ],
+    "handle" : "DAT7"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DAT7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAT7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Talevi"],["adr",{"label":"Espinosa 1045 ()\nBuenos Aires, null 1405\nAR","type":"work"},"text",["","","Espinosa 1045 ()","Buenos Aires","","1405","AR"]],["email",{"type":"work"},"text","d.talevi@SES.COM.AR"],["tel",{"type":"work"},"text","54 11 5453-0000 (8444)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080610",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080610",
+      "eventActor" : "DAT7"
+    } ],
+    "handle" : "DAT7"
+  } ],
+  "startAutnum" : 13316,
+  "endAutnum" : 13316,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19990414",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080926",
+    "eventActor" : "DAT7"
+  } ],
+  "type" : null,
+  "handle" : "13316-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/18941",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/18941"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-EMSA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-EMSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ramon Ribas"],["adr",{"label":"Santa Maria 5542 ()\nSantiago,  6671225\nCL","type":"work"},"text",["","","Santa Maria 5542 ()","Santiago","","6671225","CL"]],["email",{"type":"work"},"text","Rribas@MERCURIO.CL"],["tel",{"type":"work"},"text","56 2 3301244 ()"],["org",{},"text",["El Mercurio S.A.P."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/RAR2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/RAR2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ramon Ribas"],["adr",{"label":"Santa Maria 5542 ()\nSantiago,  766-0286\nCL","type":"work"},"text",["","","Santa Maria 5542 ()","Santiago","","766-0286","CL"]],["email",{"type":"work"},"text","Rribas@MERCURIO.CL"],["tel",{"type":"work"},"text","56 2 3301244 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030313",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20060628",
+        "eventActor" : "RAR2"
+      } ],
+      "handle" : "RAR2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031008",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20050810",
+      "eventActor" : "RAR2"
+    } ],
+    "handle" : "CL-EMSA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RAR2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RAR2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ramon Ribas"],["adr",{"label":"Santa Maria 5542 ()\nSantiago,  766-0286\nCL","type":"work"},"text",["","","Santa Maria 5542 ()","Santiago","","766-0286","CL"]],["email",{"type":"work"},"text","Rribas@MERCURIO.CL"],["tel",{"type":"work"},"text","56 2 3301244 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030313",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060628",
+      "eventActor" : "RAR2"
+    } ],
+    "handle" : "RAR2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RAR2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RAR2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ramon Ribas"],["adr",{"label":"Santa Maria 5542 ()\nSantiago,  766-0286\nCL","type":"work"},"text",["","","Santa Maria 5542 ()","Santiago","","766-0286","CL"]],["email",{"type":"work"},"text","Rribas@MERCURIO.CL"],["tel",{"type":"work"},"text","56 2 3301244 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030313",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060628",
+      "eventActor" : "RAR2"
+    } ],
+    "handle" : "RAR2"
+  } ],
+  "startAutnum" : 18941,
+  "endAutnum" : 18941,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20001030",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20060815",
+    "eventActor" : "RAR2"
+  } ],
+  "type" : null,
+  "handle" : "18941-LACNIC",
+  "country" : "CL"
+}

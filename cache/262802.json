@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262802,
+  "endAutnum" : 262802,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262802",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262802"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101013",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130930",
+    "eventActor" : "FCL26"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-FCML6-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-FCML6-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juliano Valentini"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTaquara, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Taquara","RS","04578-000","BR"]],["email",{"type":"work"},"text","JUV20@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["Flybyte Comunica??o Multimida Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "JUV20"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JUV20",
+        "value" : "http://rdap.labs.lacnic.net/entity/JUV20"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juliano Valentini"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTaquara, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Taquara","RS","04578-000","BR"]],["email",{"type":"work"},"text","JUV20@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JUV20"
+      } ],
+      "entities" : [ ],
+      "handle" : "JUV20"
+    } ],
+    "handle" : "BR-FCML6-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FCL26",
+      "value" : "http://rdap.labs.lacnic.net/entity/FCL26"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Flybyte Comunica??o Multim?dia Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTaquara, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Taquara","","04578-000","BR"]],["email",{"type":"work"},"text","FCL26@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130620",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130620",
+      "eventActor" : "FCL26"
+    } ],
+    "entities" : [ ],
+    "handle" : "FCL26"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JUV20",
+      "value" : "http://rdap.labs.lacnic.net/entity/JUV20"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juliano Valentini"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTaquara, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Taquara","RS","04578-000","BR"]],["email",{"type":"work"},"text","JUV20@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JUV20"
+    } ],
+    "entities" : [ ],
+    "handle" : "JUV20"
+  } ],
+  "type" : null,
+  "handle" : "262802-LACNIC",
+  "country" : "BR"
+}

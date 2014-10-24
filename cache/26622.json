@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 26622,
+  "endAutnum" : 26622,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/26622",
+    "value" : "http://rdap.labs.lacnic.net/autnum/26622"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20030828",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "GOT4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CCLT19-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CCLT19-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CommCorp Comunica??es Corporativas Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Alegre, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Alegre","RS","04578-000","BR"]],["email",{"type":"work"},"text","CCL37@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["COMMCORP COMUNICACOES LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CCL37"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CCL37",
+        "value" : "http://rdap.labs.lacnic.net/entity/CCL37"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CommCorp Comunica??es Corporativas Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Alegre, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Alegre","RS","04578-000","BR"]],["email",{"type":"work"},"text","CCL37@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CCL37"
+      } ],
+      "entities" : [ ],
+      "handle" : "CCL37"
+    } ],
+    "handle" : "BR-CCLT19-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GOT4",
+      "value" : "http://rdap.labs.lacnic.net/entity/GOT4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ger?ncia de Opera??es SIM Telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Alegre, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Alegre","RS","04578-000","BR"]],["email",{"type":"work"},"text","GOT4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GOT4"
+    } ],
+    "entities" : [ ],
+    "handle" : "GOT4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/STA9",
+      "value" : "http://rdap.labs.lacnic.net/entity/STA9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SIM Telecomunica??es S.A. - Abusos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Alegre, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Alegre","RS","04578-000","BR"]],["email",{"type":"work"},"text","STA9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "STA9"
+    } ],
+    "entities" : [ ],
+    "handle" : "STA9"
+  } ],
+  "type" : null,
+  "handle" : "26622-LACNIC",
+  "country" : "BR"
+}

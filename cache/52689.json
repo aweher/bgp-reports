@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52689,
+  "endAutnum" : 52689,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52689",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52689"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121214",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "SEM37"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DLXL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DLXL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Moraes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelford Roxo, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belford Roxo","RJ","04578-000","BR"]],["email",{"type":"work"},"text","SEM37@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["org",{},"text",["Digital do Lote XV LTDA."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140529",
+      "eventActor" : "SEM37"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SEM37",
+        "value" : "http://rdap.labs.lacnic.net/entity/SEM37"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Moraes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelford Roxo, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belford Roxo","RJ","04578-000","BR"]],["email",{"type":"work"},"text","SEM37@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SEM37"
+      } ],
+      "entities" : [ ],
+      "handle" : "SEM37"
+    } ],
+    "handle" : "BR-DLXL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SEM37",
+      "value" : "http://rdap.labs.lacnic.net/entity/SEM37"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Moraes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelford Roxo, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belford Roxo","RJ","04578-000","BR"]],["email",{"type":"work"},"text","SEM37@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SEM37"
+    } ],
+    "entities" : [ ],
+    "handle" : "SEM37"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SEM37",
+      "value" : "http://rdap.labs.lacnic.net/entity/SEM37"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Moraes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelford Roxo, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belford Roxo","RJ","04578-000","BR"]],["email",{"type":"work"},"text","SEM37@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SEM37"
+    } ],
+    "entities" : [ ],
+    "handle" : "SEM37"
+  } ],
+  "type" : null,
+  "handle" : "52689-LACNIC",
+  "country" : "BR"
+}

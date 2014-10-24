@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52753,
+  "endAutnum" : 52753,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52753",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52753"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120830",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "EDB30"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-RCST-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-RCST-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edison Bardasson"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCantagalo, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cantagalo","RJ","04578-000","BR"]],["email",{"type":"work"},"text","EDB30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["org",{},"text",["Rio Cable Servi?os de Telecom. Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "EDB30"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EDB30",
+        "value" : "http://rdap.labs.lacnic.net/entity/EDB30"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edison Bardasson"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCantagalo, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cantagalo","RJ","04578-000","BR"]],["email",{"type":"work"},"text","EDB30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EDB30"
+      } ],
+      "entities" : [ ],
+      "handle" : "EDB30"
+    } ],
+    "handle" : "BR-RCST-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDB30",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDB30"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edison Bardasson"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCantagalo, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cantagalo","RJ","04578-000","BR"]],["email",{"type":"work"},"text","EDB30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EDB30"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDB30"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDB30",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDB30"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edison Bardasson"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCantagalo, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cantagalo","RJ","04578-000","BR"]],["email",{"type":"work"},"text","EDB30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EDB30"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDB30"
+  } ],
+  "type" : null,
+  "handle" : "52753-LACNIC",
+  "country" : "BR"
+}

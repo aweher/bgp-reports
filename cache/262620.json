@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262620,
+  "endAutnum" : 262620,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262620",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262620"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111024",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131219",
+    "eventActor" : "PON3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PNTL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PNTL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pox network"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSorocaba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sorocaba","SP","04578-000","BR"]],["email",{"type":"work"},"text","PON3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["org",{},"text",["Pox Network Telecomunica??es Ltda-ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140630",
+      "eventActor" : "PON3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PON3",
+        "value" : "http://rdap.labs.lacnic.net/entity/PON3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pox network"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSorocaba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sorocaba","SP","04578-000","BR"]],["email",{"type":"work"},"text","PON3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PON3"
+      } ],
+      "entities" : [ ],
+      "handle" : "PON3"
+    } ],
+    "handle" : "BR-PNTL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PON3",
+      "value" : "http://rdap.labs.lacnic.net/entity/PON3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pox network"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSorocaba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sorocaba","SP","04578-000","BR"]],["email",{"type":"work"},"text","PON3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PON3"
+    } ],
+    "entities" : [ ],
+    "handle" : "PON3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JRG15",
+      "value" : "http://rdap.labs.lacnic.net/entity/JRG15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jo?o Ricardo Silv?rio Grillo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLondrina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Londrina","PR","04578-000","BR"]],["email",{"type":"work"},"text","JRG15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JRG15"
+    } ],
+    "entities" : [ ],
+    "handle" : "JRG15"
+  } ],
+  "type" : null,
+  "handle" : "262620-LACNIC",
+  "country" : "BR"
+}

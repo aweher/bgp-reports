@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28166,
+  "endAutnum" : 28166,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28166",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28166"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090623",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "SIT4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TSAS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TSAS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sing-Voip Telecomunica??es"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","SIT4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["Telecom South America S/A"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "SIT4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SIT4",
+        "value" : "http://rdap.labs.lacnic.net/entity/SIT4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sing-Voip Telecomunica??es"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Alegre, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Alegre","RS","04578-000","BR"]],["email",{"type":"work"},"text","SIT4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SIT4"
+      } ],
+      "entities" : [ ],
+      "handle" : "SIT4"
+    } ],
+    "handle" : "BR-TSAS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SIT4",
+      "value" : "http://rdap.labs.lacnic.net/entity/SIT4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sing-Voip Telecomunica??es"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Alegre, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Alegre","RS","04578-000","BR"]],["email",{"type":"work"},"text","SIT4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SIT4"
+    } ],
+    "entities" : [ ],
+    "handle" : "SIT4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SIT4",
+      "value" : "http://rdap.labs.lacnic.net/entity/SIT4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sing-Voip Telecomunica??es"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Alegre, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Alegre","RS","04578-000","BR"]],["email",{"type":"work"},"text","SIT4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SIT4"
+    } ],
+    "entities" : [ ],
+    "handle" : "SIT4"
+  } ],
+  "type" : null,
+  "handle" : "28166-LACNIC",
+  "country" : "BR"
+}

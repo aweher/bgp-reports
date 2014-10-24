@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262818,
+  "endAutnum" : 262818,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262818",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262818"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101027",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "GJP3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-GJPE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-GJPE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","george jacinto pereira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNatal, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Natal","RN","04578-000","BR"]],["email",{"type":"work"},"text","GJP3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["org",{},"text",["g j pereira"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "GJP3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GJP3",
+        "value" : "http://rdap.labs.lacnic.net/entity/GJP3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","george jacinto pereira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNatal, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Natal","RN","04578-000","BR"]],["email",{"type":"work"},"text","GJP3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "GJP3"
+      } ],
+      "entities" : [ ],
+      "handle" : "GJP3"
+    } ],
+    "handle" : "BR-GJPE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GJP3",
+      "value" : "http://rdap.labs.lacnic.net/entity/GJP3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","george jacinto pereira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNatal, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Natal","RN","04578-000","BR"]],["email",{"type":"work"},"text","GJP3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GJP3"
+    } ],
+    "entities" : [ ],
+    "handle" : "GJP3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GJP3",
+      "value" : "http://rdap.labs.lacnic.net/entity/GJP3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","george jacinto pereira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNatal, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Natal","RN","04578-000","BR"]],["email",{"type":"work"},"text","GJP3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GJP3"
+    } ],
+    "entities" : [ ],
+    "handle" : "GJP3"
+  } ],
+  "type" : null,
+  "handle" : "262818-LACNIC",
+  "country" : "BR"
+}

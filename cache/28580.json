@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28580,
+  "endAutnum" : 28580,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28580",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28580"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20050117",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "DZA2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CCIL18-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CCIL18-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Israel Arruda Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCerquilho, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cerquilho","SP","04578-000","BR"]],["email",{"type":"work"},"text","IAN@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["org",{},"text",["CILNET Comunicacao e Informatica LTDA."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "IAN"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/IAN",
+        "value" : "http://rdap.labs.lacnic.net/entity/IAN"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Israel Arruda Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCerquilho, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cerquilho","SP","04578-000","BR"]],["email",{"type":"work"},"text","IAN@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "IAN"
+      } ],
+      "entities" : [ ],
+      "handle" : "IAN"
+    } ],
+    "handle" : "BR-CCIL18-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DZA2",
+      "value" : "http://rdap.labs.lacnic.net/entity/DZA2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Zuaneti Arruda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCerquilho, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cerquilho","SP","04578-000","BR"]],["email",{"type":"work"},"text","DZA2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DZA2"
+    } ],
+    "entities" : [ ],
+    "handle" : "DZA2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GSF5",
+      "value" : "http://rdap.labs.lacnic.net/entity/GSF5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Grupo de Seguran?a Internet da Fasternet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCerquilho, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cerquilho","SP","04578-000","BR"]],["email",{"type":"work"},"text","GSF5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GSF5"
+    } ],
+    "entities" : [ ],
+    "handle" : "GSF5"
+  } ],
+  "type" : null,
+  "handle" : "28580-LACNIC",
+  "country" : "BR"
+}

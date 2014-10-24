@@ -1,0 +1,370 @@
+{"service" : {
+  "name" : "search"
+},
+"parameters" : {
+  "inverse-lookup" : { },
+  "type-filters" : { },
+  "flags" : { },
+  "query-strings" : {
+    "query-string" : [ {
+      "value" : "as37100"
+    } ]
+  },
+  "sources" : { }
+},
+"objects" : {
+  "object" : [ {
+    "type" : "as-block",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/as-block/AS36864 - AS37887"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS36864 - AS37887"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS36864 - AS37887"
+      }, {
+        "name" : "descr",
+        "value" : "AFRINIC ASN block"
+      }, {
+        "name" : "remarks",
+        "value" : "These AS numbers are assigned in the AFRINIC region."
+      }, {
+        "name" : "remarks",
+        "value" : "For registration information please use http://whois.afrinic.net/"
+      }, {
+        "name" : "remarks",
+        "value" : "aut-num objects within this block represent routing"
+      }, {
+        "name" : "remarks",
+        "value" : "policy published in the RIPE Database"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-DBM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-DBM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-RPSL-MNT"
+        },
+        "name" : "mnt-lower",
+        "value" : "RIPE-NCC-RPSL-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "aut-num",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/aut-num/AS37100"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS37100"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS37100"
+      }, {
+        "name" : "as-name",
+        "value" : "SEACOM-AS"
+      }, {
+        "name" : "descr",
+        "value" : "SEACOM Limited"
+      }, {
+        "name" : "descr",
+        "value" : "1st Floor, North Wing"
+      }, {
+        "name" : "descr",
+        "value" : "Orange Tower, Cybercity"
+      }, {
+        "name" : "descr",
+        "value" : "Ebene"
+      }, {
+        "name" : "descr",
+        "value" : "Mauritius"
+      }, {
+        "name" : "descr",
+        "value" : "+230 401 0915"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/SEA888-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "SEA888-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/MT991-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "MT991-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/SPM37-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "SPM37-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "name" : "remarks",
+        "value" : "For information on \"status:\" attribute read https://www.ripe.net/data-tools/db/faq/faq-status-values-legacy-resources"
+      }, {
+        "name" : "status",
+        "value" : "OTHER"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/SEACOM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "SEACOM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "import",
+        "value" : "from AS174 action pref=100; accept ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS1299 action pref=100; accept ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS2914 action pref=100; accept ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS3257 action pref=100; accept ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS3356 action pref=100; accept ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS6453 action pref=100; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS174 announce AS-SET-SEACOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS1299 announce AS-SET-SEACOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS2914 announce AS-SET-SEACOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS3257 announce AS-SET-SEACOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS3356 announce AS-SET-SEACOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS6453 announce AS-SET-SEACOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS-SET-SEACOM announce ANY"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "person",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/person/MT991-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "nic-hdl",
+        "value" : "MT991-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "person",
+        "value" : "Mark Tinka"
+      }, {
+        "name" : "address",
+        "value" : "SEACOM"
+      }, {
+        "name" : "address",
+        "value" : "2nd Floor, Imola Building"
+      }, {
+        "name" : "address",
+        "value" : "The Campus"
+      }, {
+        "name" : "address",
+        "value" : "57 Sloane Street, Bryanston"
+      }, {
+        "name" : "address",
+        "value" : "Gauteng, 2196"
+      }, {
+        "name" : "address",
+        "value" : "Johannesburg"
+      }, {
+        "name" : "address",
+        "value" : "South Africa"
+      }, {
+        "name" : "phone",
+        "value" : "+27 11 575 6914"
+      }, {
+        "name" : "nic-hdl",
+        "value" : "MT991-RIPE"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/GTI-MY-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "GTI-MY-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/SEACOM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "SEACOM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "person",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/person/SEA888-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "nic-hdl",
+        "value" : "SEA888-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "person",
+        "value" : "SEACOM Head Office"
+      }, {
+        "name" : "address",
+        "value" : "1st Floor, North Wing"
+      }, {
+        "name" : "address",
+        "value" : "Orange Tower, Cybercity"
+      }, {
+        "name" : "address",
+        "value" : "Ebene"
+      }, {
+        "name" : "address",
+        "value" : "Mauritius"
+      }, {
+        "name" : "phone",
+        "value" : "+230 401 0915"
+      }, {
+        "name" : "nic-hdl",
+        "value" : "SEA888-RIPE"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/SEACOM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "SEACOM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "person",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/person/SPM37-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "nic-hdl",
+        "value" : "SPM37-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "person",
+        "value" : "Simon Peter Mayoye"
+      }, {
+        "name" : "address",
+        "value" : "P O Box 25224"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/SEACOM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "SEACOM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-RPSL-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-RPSL-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "phone",
+        "value" : "+254722604072"
+      }, {
+        "name" : "nic-hdl",
+        "value" : "SPM37-RIPE"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  } ]
+},
+"terms-and-conditions" : {
+  "type" : "locator",
+  "href" : "http://www.ripe.net/db/support/db-terms-conditions.pdf"
+}
+}

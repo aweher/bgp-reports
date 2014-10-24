@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28009",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28009"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-DASA33-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-DASA33-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mario Carranza"],["adr",{"label":"Avenida Argentina 341 (-)\nNeuquen, Nq 8300\nAR","type":"work"},"text",["","","Avenida Argentina 341 (-)","Neuquen","Nq","8300","AR"]],["email",{"type":"work"},"text","mariocarranza@DAVITEL.COM.AR"],["tel",{"type":"work"},"text","54 299 4461088 ()"],["org",{},"text",["Davitel S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MAC38",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAC38"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mario Carranza"],["adr",{"label":"Avenida Argentina 341 ()\nNeuquen, NQ 8300\nAR","type":"work"},"text",["","","Avenida Argentina 341 ()","Neuquen","NQ","8300","AR"]],["email",{"type":"work"},"text","mariocarranza@DAVITEL.COM.AR"],["tel",{"type":"work"},"text","54 299 4461088 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080911",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140306",
+        "eventActor" : "MAC38"
+      } ],
+      "handle" : "MAC38"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080916",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130809",
+      "eventActor" : "MAC38"
+    } ],
+    "handle" : "AR-DASA33-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ROD32",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ROD32"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo Duran"],["adr",{"label":"Avenida Argentina 341 ()\nNeuquen, NQ 8300\nAR","type":"work"},"text",["","","Avenida Argentina 341 ()","Neuquen","NQ","8300","AR"]],["email",{"type":"work"},"text","rduran@DAVITEL.COM.AR"],["tel",{"type":"work"},"text","54 299 4461088 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140307",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140307",
+      "eventActor" : "ROD32"
+    } ],
+    "handle" : "ROD32"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ROD32",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ROD32"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo Duran"],["adr",{"label":"Avenida Argentina 341 ()\nNeuquen, NQ 8300\nAR","type":"work"},"text",["","","Avenida Argentina 341 ()","Neuquen","NQ","8300","AR"]],["email",{"type":"work"},"text","rduran@DAVITEL.COM.AR"],["tel",{"type":"work"},"text","54 299 4461088 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140307",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140307",
+      "eventActor" : "ROD32"
+    } ],
+    "handle" : "ROD32"
+  } ],
+  "startAutnum" : 28009,
+  "endAutnum" : 28009,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20081020",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140307",
+    "eventActor" : "ROD32"
+  } ],
+  "type" : null,
+  "handle" : "28009-LACNIC",
+  "country" : "AR"
+}

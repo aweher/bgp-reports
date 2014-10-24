@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27992,
+  "endAutnum" : 27992,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27992",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27992"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080821",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080821",
+    "eventActor" : "BIW"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-TERR1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-TERR1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Bill Williams"],["adr",{"label":"Zona Franca de Bogota -- ()\nBogota, BO --\nCO","type":"work"},"text",["","","Zona Franca de Bogota -- ()","Bogota","BO","--","CO"]],["email",{"type":"work"},"text","bwilliams@TERREMARK.COM"],["tel",{"type":"work"},"text","55 11 3046-2828 ()"],["org",{},"text",["Terremark Colombia Inc."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080813",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080822",
+      "eventActor" : "BIW"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/BIW",
+        "value" : "http://rdap.labs.lacnic.net/entity/BIW"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Bill Williams"],["adr",{"label":"Rua Fid?ncio Ramos, 195 - 8o andar, conj. 81 81 ()\nSao Paolo, SP 04551-010\nBR","type":"work"},"text",["","","Rua Fid?ncio Ramos, 195 - 8o andar, conj. 81 81 ()","Sao Paolo","SP","04551-010","BR"]],["email",{"type":"work"},"text","bwilliams@TERREMARK.COM"],["tel",{"type":"work"},"text","55 11 3046-2828 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20040218",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20060105",
+        "eventActor" : "BIW"
+      } ],
+      "entities" : [ ],
+      "handle" : "BIW"
+    } ],
+    "handle" : "CO-TERR1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BIW",
+      "value" : "http://rdap.labs.lacnic.net/entity/BIW"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Bill Williams"],["adr",{"label":"Rua Fid?ncio Ramos, 195 - 8o andar, conj. 81 81 ()\nSao Paolo, SP 04551-010\nBR","type":"work"},"text",["","","Rua Fid?ncio Ramos, 195 - 8o andar, conj. 81 81 ()","Sao Paolo","SP","04551-010","BR"]],["email",{"type":"work"},"text","bwilliams@TERREMARK.COM"],["tel",{"type":"work"},"text","55 11 3046-2828 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040218",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060105",
+      "eventActor" : "BIW"
+    } ],
+    "entities" : [ ],
+    "handle" : "BIW"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BIW",
+      "value" : "http://rdap.labs.lacnic.net/entity/BIW"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Bill Williams"],["adr",{"label":"Rua Fid?ncio Ramos, 195 - 8o andar, conj. 81 81 ()\nSao Paolo, SP 04551-010\nBR","type":"work"},"text",["","","Rua Fid?ncio Ramos, 195 - 8o andar, conj. 81 81 ()","Sao Paolo","SP","04551-010","BR"]],["email",{"type":"work"},"text","bwilliams@TERREMARK.COM"],["tel",{"type":"work"},"text","55 11 3046-2828 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040218",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060105",
+      "eventActor" : "BIW"
+    } ],
+    "entities" : [ ],
+    "handle" : "BIW"
+  } ],
+  "type" : null,
+  "handle" : "27992-LACNIC",
+  "country" : "CO"
+}

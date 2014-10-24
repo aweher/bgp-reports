@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27888",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27888"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-ARCC-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-ARCC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Antonio Franco Merino"],["adr",{"label":"Huerfanos 521 ()\nSantiago, RM 8320150\nCL","type":"work"},"text",["","","Huerfanos 521 ()","Santiago","RM","8320150","CL"]],["email",{"type":"work"},"text","jfranco@LAARAUCANA.CL"],["tel",{"type":"work"},"text","56 2 4228291 ()"],["org",{},"text",["Caja de Compensaci?n de Asignaci?n Familiar La Araucana"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JAM15",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JAM15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Antonio Franco Merino"],["adr",{"label":"Huerfanos 521 ()\nSantiago, M 8320150\nCL","type":"work"},"text",["","","Huerfanos 521 ()","Santiago","M","8320150","CL"]],["email",{"type":"work"},"text","jfranco@LAARAUCANA.CL"],["tel",{"type":"work"},"text","56 2 4228291 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20070212",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110704",
+        "eventActor" : "JAM15"
+      } ],
+      "handle" : "JAM15"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070214",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070327",
+      "eventActor" : "JAM15"
+    } ],
+    "handle" : "CL-ARCC-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JAM15",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAM15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Antonio Franco Merino"],["adr",{"label":"Huerfanos 521 ()\nSantiago, M 8320150\nCL","type":"work"},"text",["","","Huerfanos 521 ()","Santiago","M","8320150","CL"]],["email",{"type":"work"},"text","jfranco@LAARAUCANA.CL"],["tel",{"type":"work"},"text","56 2 4228291 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070212",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110704",
+      "eventActor" : "JAM15"
+    } ],
+    "handle" : "JAM15"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JAM15",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAM15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Antonio Franco Merino"],["adr",{"label":"Huerfanos 521 ()\nSantiago, M 8320150\nCL","type":"work"},"text",["","","Huerfanos 521 ()","Santiago","M","8320150","CL"]],["email",{"type":"work"},"text","jfranco@LAARAUCANA.CL"],["tel",{"type":"work"},"text","56 2 4228291 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070212",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110704",
+      "eventActor" : "JAM15"
+    } ],
+    "handle" : "JAM15"
+  } ],
+  "startAutnum" : 27888,
+  "endAutnum" : 27888,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070326",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20070326",
+    "eventActor" : "JAM15"
+  } ],
+  "type" : null,
+  "handle" : "27888-LACNIC",
+  "country" : "CL"
+}

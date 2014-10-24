@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263255,
+  "endAutnum" : 263255,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263255",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263255"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140522",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140522",
+    "eventActor" : "PCA12"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ISIL2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ISIL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador Net2 Networks"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Franco, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Franco","","04578-000","BR"]],["email",{"type":"work"},"text","ANN12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 99 55093511 ()"],["org",{},"text",["INFOTECNET SOLUCOES E INTERNET LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "ANN12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ANN12",
+        "value" : "http://rdap.labs.lacnic.net/entity/ANN12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador Net2 Networks"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBel?m, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bel?m","PA","04578-000","BR"]],["email",{"type":"work"},"text","ANN12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 91 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ANN12"
+      } ],
+      "entities" : [ ],
+      "handle" : "ANN12"
+    } ],
+    "handle" : "BR-ISIL2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PCA12",
+      "value" : "http://rdap.labs.lacnic.net/entity/PCA12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","paulo cesar martins de almeida"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Franco, MA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Franco","MA","04578-000","BR"]],["email",{"type":"work"},"text","PCA12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 99 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140411",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140411",
+      "eventActor" : "PCA12"
+    } ],
+    "entities" : [ ],
+    "handle" : "PCA12"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PCA12",
+      "value" : "http://rdap.labs.lacnic.net/entity/PCA12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","paulo cesar martins de almeida"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Franco, MA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Franco","MA","04578-000","BR"]],["email",{"type":"work"},"text","PCA12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 99 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140411",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140411",
+      "eventActor" : "PCA12"
+    } ],
+    "entities" : [ ],
+    "handle" : "PCA12"
+  } ],
+  "type" : null,
+  "handle" : "263255-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52394",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52394"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-INSA17-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-INSA17-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gerardo Quintela"],["adr",{"label":"Florida 32 ()\nBuenos Aires, CF -\nAR","type":"work"},"text",["","","Florida 32 ()","Buenos Aires","CF","-","AR"]],["email",{"type":"work"},"text","gquintela@INTERBANKING.COM.AR"],["tel",{"type":"work"},"text","54 11 43382834 ()"],["org",{},"text",["INTERBANKING S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GEQ",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GEQ"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gerardo Quintela"],["adr",{"label":"Florida 32 (piso 2?)\nBuenos Aires,  C1005AAB\nAR","type":"work"},"text",["","","Florida 32 (piso 2?)","Buenos Aires","","C1005AAB","AR"]],["email",{"type":"work"},"text","gquintela@INTERBANKING.COM.AR"],["tel",{"type":"work"},"text","011  55542834 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050223",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120312",
+        "eventActor" : "GEQ"
+      } ],
+      "handle" : "GEQ"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041222",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121116",
+      "eventActor" : "GEQ"
+    } ],
+    "handle" : "AR-INSA17-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GEQ",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GEQ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gerardo Quintela"],["adr",{"label":"Florida 32 (piso 2?)\nBuenos Aires,  C1005AAB\nAR","type":"work"},"text",["","","Florida 32 (piso 2?)","Buenos Aires","","C1005AAB","AR"]],["email",{"type":"work"},"text","gquintela@INTERBANKING.COM.AR"],["tel",{"type":"work"},"text","011  55542834 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050223",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120312",
+      "eventActor" : "GEQ"
+    } ],
+    "handle" : "GEQ"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GEQ",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GEQ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gerardo Quintela"],["adr",{"label":"Florida 32 (piso 2?)\nBuenos Aires,  C1005AAB\nAR","type":"work"},"text",["","","Florida 32 (piso 2?)","Buenos Aires","","C1005AAB","AR"]],["email",{"type":"work"},"text","gquintela@INTERBANKING.COM.AR"],["tel",{"type":"work"},"text","011  55542834 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050223",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120312",
+      "eventActor" : "GEQ"
+    } ],
+    "handle" : "GEQ"
+  } ],
+  "startAutnum" : 52394,
+  "endAutnum" : 52394,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120831",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121116",
+    "eventActor" : "GEQ"
+  } ],
+  "type" : null,
+  "handle" : "52394-LACNIC",
+  "country" : "AR"
+}

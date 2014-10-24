@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52353",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52353"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-CAYC15-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-CAYC15-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andres del Villar Leon"],["adr",{"label":"Avenida el Golf 150 (piso 14, comuna las Condes)\nSantiago, RM 7550107\nCL","type":"work"},"text",["","","Avenida el Golf 150 (piso 14, comuna las Condes)","Santiago","RM","7550107","CL"]],["email",{"type":"work"},"text","andres.delvillar@ARAUCO.CL"],["tel",{"type":"work"},"text","56 02 4617383 ()"],["org",{},"text",["Celulosa Arauco y Constitucion S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JTO3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JTO3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andres del Villar Leon"],["adr",{"label":"Avenida El Golf 150 (Piso 14)\nSantiago,  7550107\nCL","type":"work"},"text",["","","Avenida El Golf 150 (Piso 14)","Santiago","","7550107","CL"]],["email",{"type":"work"},"text","andres.delvillar@ARAUCO.CL"],["tel",{"type":"work"},"text","56 02 24617450 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110712",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140417",
+        "eventActor" : "JTO3"
+      } ],
+      "handle" : "JTO3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110324",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111005",
+      "eventActor" : "JTO3"
+    } ],
+    "handle" : "CL-CAYC15-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JTO3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JTO3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andres del Villar Leon"],["adr",{"label":"Avenida El Golf 150 (Piso 14)\nSantiago,  7550107\nCL","type":"work"},"text",["","","Avenida El Golf 150 (Piso 14)","Santiago","","7550107","CL"]],["email",{"type":"work"},"text","andres.delvillar@ARAUCO.CL"],["tel",{"type":"work"},"text","56 02 24617450 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110712",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140417",
+      "eventActor" : "JTO3"
+    } ],
+    "handle" : "JTO3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JTO3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JTO3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andres del Villar Leon"],["adr",{"label":"Avenida El Golf 150 (Piso 14)\nSantiago,  7550107\nCL","type":"work"},"text",["","","Avenida El Golf 150 (Piso 14)","Santiago","","7550107","CL"]],["email",{"type":"work"},"text","andres.delvillar@ARAUCO.CL"],["tel",{"type":"work"},"text","56 02 24617450 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110712",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140417",
+      "eventActor" : "JTO3"
+    } ],
+    "handle" : "JTO3"
+  } ],
+  "startAutnum" : 52353,
+  "endAutnum" : 52353,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111118",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20111118",
+    "eventActor" : "JTO3"
+  } ],
+  "type" : null,
+  "handle" : "52353-LACNIC",
+  "country" : "CL"
+}

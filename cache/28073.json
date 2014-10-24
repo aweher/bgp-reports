@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28073",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28073"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CTLA2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CTLA2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Federico Urtizberea"],["adr",{"label":"Gregorio Cuello 475 (Trenque Lauq)\nBuenos Aires, - -\nAR","type":"work"},"text",["","","Gregorio Cuello 475 (Trenque Lauq)","Buenos Aires","-","-","AR"]],["email",{"type":"work"},"text","furtizberea@CETL.COM.AR"],["tel",{"type":"work"},"text","054 2392 15620430 (-)"],["org",{},"text",["Cooperativa Electrica Trenque Lauquen"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FEU",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FEU"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Federico Urtizberea"],["adr",{"label":"Gregorio Cuello 451 ()\nTrenque Lauquen, BA 6400\nAR","type":"work"},"text",["","","Gregorio Cuello 451 ()","Trenque Lauquen","BA","6400","AR"]],["email",{"type":"work"},"text","furtizberea@CETL.COM.AR"],["tel",{"type":"work"},"text","54 2392 410005 (FEU)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090428",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20090429",
+        "eventActor" : "FEU"
+      } ],
+      "handle" : "FEU"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090619",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "FEU"
+    } ],
+    "handle" : "AR-CTLA2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEU",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEU"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Federico Urtizberea"],["adr",{"label":"Gregorio Cuello 451 ()\nTrenque Lauquen, BA 6400\nAR","type":"work"},"text",["","","Gregorio Cuello 451 ()","Trenque Lauquen","BA","6400","AR"]],["email",{"type":"work"},"text","furtizberea@CETL.COM.AR"],["tel",{"type":"work"},"text","54 2392 410005 (FEU)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090428",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090429",
+      "eventActor" : "FEU"
+    } ],
+    "handle" : "FEU"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEU",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEU"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Federico Urtizberea"],["adr",{"label":"Gregorio Cuello 451 ()\nTrenque Lauquen, BA 6400\nAR","type":"work"},"text",["","","Gregorio Cuello 451 ()","Trenque Lauquen","BA","6400","AR"]],["email",{"type":"work"},"text","furtizberea@CETL.COM.AR"],["tel",{"type":"work"},"text","54 2392 410005 (FEU)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090428",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090429",
+      "eventActor" : "FEU"
+    } ],
+    "handle" : "FEU"
+  } ],
+  "startAutnum" : 28073,
+  "endAutnum" : 28073,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090803",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090904",
+    "eventActor" : "FEU"
+  } ],
+  "type" : null,
+  "handle" : "28073-LACNIC",
+  "country" : "AR"
+}

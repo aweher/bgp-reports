@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28116",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28116"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-UAIB-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-UAIB-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Riquelme Godoy"],["adr",{"label":"Diagonal Las Torres 2640 (Penalolen)\nSantiago,  7941169\nCL","type":"work"},"text",["","","Diagonal Las Torres 2640 (Penalolen)","Santiago","","7941169","CL"]],["email",{"type":"work"},"text","sriquelme@UAI.CL"],["tel",{"type":"work"},"text","56 2 3693600 (3670)"],["org",{},"text",["Universidad de Adolfo Ibanez"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GAT3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GAT3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Riquelme Godoy"],["adr",{"label":"Diagonal Las Torres 1625 ()\nSantiago,  794-1169\nCL","type":"work"},"text",["","","Diagonal Las Torres 1625 ()","Santiago","","794-1169","CL"]],["email",{"type":"work"},"text","sriquelme@UAI.CL"],["tel",{"type":"work"},"text","56 2 3311404 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050111",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100219",
+        "eventActor" : "GAT3"
+      } ],
+      "handle" : "GAT3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050428",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "GAT3"
+    } ],
+    "handle" : "CL-UAIB-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GAT3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GAT3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Riquelme Godoy"],["adr",{"label":"Diagonal Las Torres 1625 ()\nSantiago,  794-1169\nCL","type":"work"},"text",["","","Diagonal Las Torres 1625 ()","Santiago","","794-1169","CL"]],["email",{"type":"work"},"text","sriquelme@UAI.CL"],["tel",{"type":"work"},"text","56 2 3311404 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050111",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100219",
+      "eventActor" : "GAT3"
+    } ],
+    "handle" : "GAT3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GAT3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GAT3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Riquelme Godoy"],["adr",{"label":"Diagonal Las Torres 1625 ()\nSantiago,  794-1169\nCL","type":"work"},"text",["","","Diagonal Las Torres 1625 ()","Santiago","","794-1169","CL"]],["email",{"type":"work"},"text","sriquelme@UAI.CL"],["tel",{"type":"work"},"text","56 2 3311404 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050111",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100219",
+      "eventActor" : "GAT3"
+    } ],
+    "handle" : "GAT3"
+  } ],
+  "startAutnum" : 28116,
+  "endAutnum" : 28116,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100205",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100205",
+    "eventActor" : "GAT3"
+  } ],
+  "type" : null,
+  "handle" : "28116-LACNIC",
+  "country" : "CL"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/676",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/676"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-UNDP-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-UNDP-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador de Red - Comunicaciones"],["adr",{"label":"Esmeralda 1212 (3er Piso - Informatica)\nBuenos Aires,  1007\nAR","type":"work"},"text",["","","Esmeralda 1212 (3er Piso - Informatica)","Buenos Aires","","1007","AR"]],["email",{"type":"work"},"text","noc-ar@MRECIC.GOV.AR"],["tel",{"type":"work"},"text","54 11 48197262 ()"],["org",{},"text",["United Nations Development Programme"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ARC3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ARC3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador de Red - Comunicaciones"],["adr",{"label":"Esmeralda 1212 (3er Piso - Informatica)\nBuenos Aires, null 1007\nAR","type":"work"},"text",["","","Esmeralda 1212 (3er Piso - Informatica)","Buenos Aires","","1007","AR"]],["email",{"type":"work"},"text","noc-ar@MRECIC.GOV.AR"],["tel",{"type":"work"},"text","54 11 48197262 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100408",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100408",
+        "eventActor" : "ARC3"
+      } ],
+      "handle" : "ARC3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100412",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130607",
+      "eventActor" : "ARC3"
+    } ],
+    "handle" : "AR-UNDP-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ARC3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ARC3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador de Red - Comunicaciones"],["adr",{"label":"Esmeralda 1212 (3er Piso - Informatica)\nBuenos Aires, null 1007\nAR","type":"work"},"text",["","","Esmeralda 1212 (3er Piso - Informatica)","Buenos Aires","","1007","AR"]],["email",{"type":"work"},"text","noc-ar@MRECIC.GOV.AR"],["tel",{"type":"work"},"text","54 11 48197262 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100408",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100408",
+      "eventActor" : "ARC3"
+    } ],
+    "handle" : "ARC3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ARC3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ARC3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador de Red - Comunicaciones"],["adr",{"label":"Esmeralda 1212 (3er Piso - Informatica)\nBuenos Aires, null 1007\nAR","type":"work"},"text",["","","Esmeralda 1212 (3er Piso - Informatica)","Buenos Aires","","1007","AR"]],["email",{"type":"work"},"text","noc-ar@MRECIC.GOV.AR"],["tel",{"type":"work"},"text","54 11 48197262 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100408",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100408",
+      "eventActor" : "ARC3"
+    } ],
+    "handle" : "ARC3"
+  } ],
+  "startAutnum" : 676,
+  "endAutnum" : 676,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19900523",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20000530",
+    "eventActor" : "ARC3"
+  } ],
+  "type" : null,
+  "handle" : "676-LACNIC",
+  "country" : "AR"
+}

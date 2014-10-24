@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263163,
+  "endAutnum" : 263163,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263163",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263163"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140521",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140521",
+    "eventActor" : "NOV3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-JLPI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-JLPI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hugo Ismael Carvalho do Nascimento"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPetrolina, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Petrolina","","04578-000","BR"]],["email",{"type":"work"},"text","HIN2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 87 55093511 ()"],["org",{},"text",["JR Link Provedor de Internet Via R?dio Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130617",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130617",
+      "eventActor" : "HIN2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/HIN2",
+        "value" : "http://rdap.labs.lacnic.net/entity/HIN2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hugo Ismael Carvalho do Nascimento"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPetrolina, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Petrolina","","04578-000","BR"]],["email",{"type":"work"},"text","HIN2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130617",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130617",
+        "eventActor" : "HIN2"
+      } ],
+      "entities" : [ ],
+      "handle" : "HIN2"
+    } ],
+    "handle" : "BR-JLPI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NOV3",
+      "value" : "http://rdap.labs.lacnic.net/entity/NOV3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NETWORK OPERATIONS CENTER DA SOLNET VSF"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPetrolina, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Petrolina","PE","04578-000","BR"]],["email",{"type":"work"},"text","NOV3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 87 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140325",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140325",
+      "eventActor" : "NOV3"
+    } ],
+    "entities" : [ ],
+    "handle" : "NOV3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NOV3",
+      "value" : "http://rdap.labs.lacnic.net/entity/NOV3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NETWORK OPERATIONS CENTER DA SOLNET VSF"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPetrolina, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Petrolina","PE","04578-000","BR"]],["email",{"type":"work"},"text","NOV3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 87 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140325",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140325",
+      "eventActor" : "NOV3"
+    } ],
+    "entities" : [ ],
+    "handle" : "NOV3"
+  } ],
+  "type" : null,
+  "handle" : "263163-LACNIC",
+  "country" : "BR"
+}

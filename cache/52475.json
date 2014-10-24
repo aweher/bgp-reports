@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52475",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52475"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-OPSA4-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-OPSA4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Telefonica de Argentina"],["adr",{"label":"Barcala 132 ()\nSan Rafael, MZ 5600\nAR","type":"work"},"text",["","","Barcala 132 ()","San Rafael","MZ","5600","AR"]],["email",{"type":"work"},"text","tasamail.ar@TELEFONICA.COM"],["tel",{"type":"work"},"text","54 11 43260777 (113)"],["org",{},"text",["OFICINA PYME S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/TEA",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/TEA"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Telefonica de Argentina"],["adr",{"label":"AV. ING. HUERGO 723 ()\nCapital Federal, BA 1065\nAR","type":"work"},"text",["","","AV. ING. HUERGO 723 ()","Capital Federal","BA","1065","AR"]],["email",{"type":"work"},"text","tasamail.ar@TELEFONICA.COM"],["tel",{"type":"work"},"text","54 11 43335000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030618",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110603",
+        "eventActor" : "TEA"
+      } ],
+      "handle" : "TEA"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120530",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "TEA"
+    } ],
+    "handle" : "AR-OPSA4-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ANB22",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ANB22"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andres Bianchi"],["adr",{"label":"Barcala 182 ()\nSan Rafael, null 5600\nAR","type":"work"},"text",["","","Barcala 182 ()","San Rafael","","5600","AR"]],["email",{"type":"work"},"text","soporte@OFICINAPYME.COM"],["tel",{"type":"work"},"text","54 11 43335000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130206",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130206",
+      "eventActor" : "ANB22"
+    } ],
+    "handle" : "ANB22"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ANB22",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ANB22"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andres Bianchi"],["adr",{"label":"Barcala 182 ()\nSan Rafael, null 5600\nAR","type":"work"},"text",["","","Barcala 182 ()","San Rafael","","5600","AR"]],["email",{"type":"work"},"text","soporte@OFICINAPYME.COM"],["tel",{"type":"work"},"text","54 11 43335000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130206",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130206",
+      "eventActor" : "ANB22"
+    } ],
+    "handle" : "ANB22"
+  } ],
+  "startAutnum" : 52475,
+  "endAutnum" : 52475,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130520",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130520",
+    "eventActor" : "ANB22"
+  } ],
+  "type" : null,
+  "handle" : "52475-LACNIC",
+  "country" : "AR"
+}

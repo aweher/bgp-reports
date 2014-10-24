@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52520,
+  "endAutnum" : 52520,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52520",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52520"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130520",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130520",
+    "eventActor" : "RTB3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SESA11-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SESA11-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael Thomazi Bratti"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJoinville, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Joinville","SC","04578-000","BR"]],["email",{"type":"work"},"text","RTB3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["org",{},"text",["Sociedade Educacional Santo Ant?nio"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130521",
+      "eventActor" : "RTB3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RTB3",
+        "value" : "http://rdap.labs.lacnic.net/entity/RTB3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael Thomazi Bratti"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJoinville, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Joinville","SC","04578-000","BR"]],["email",{"type":"work"},"text","RTB3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "RTB3"
+      } ],
+      "entities" : [ ],
+      "handle" : "RTB3"
+    } ],
+    "handle" : "BR-SESA11-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RTB3",
+      "value" : "http://rdap.labs.lacnic.net/entity/RTB3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael Thomazi Bratti"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJoinville, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Joinville","SC","04578-000","BR"]],["email",{"type":"work"},"text","RTB3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RTB3"
+    } ],
+    "entities" : [ ],
+    "handle" : "RTB3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RTB3",
+      "value" : "http://rdap.labs.lacnic.net/entity/RTB3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael Thomazi Bratti"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJoinville, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Joinville","SC","04578-000","BR"]],["email",{"type":"work"},"text","RTB3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RTB3"
+    } ],
+    "entities" : [ ],
+    "handle" : "RTB3"
+  } ],
+  "type" : null,
+  "handle" : "52520-LACNIC",
+  "country" : "BR"
+}

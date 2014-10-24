@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263579,
+  "endAutnum" : 263579,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263579",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263579"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130814",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131011",
+    "eventActor" : "CMS25"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NTIL9-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NTIL9-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Iyudi Izui"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaring?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maring?","","04578-000","BR"]],["email",{"type":"work"},"text","FII4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["org",{},"text",["NTTBR TELECOMUNICACOES INFO LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "FII4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FII4",
+        "value" : "http://rdap.labs.lacnic.net/entity/FII4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Iyudi Izui"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMarialva, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Marialva","PR","04578-000","BR"]],["email",{"type":"work"},"text","FII4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FII4"
+      } ],
+      "entities" : [ ],
+      "handle" : "FII4"
+    } ],
+    "handle" : "BR-NTIL9-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CMS25",
+      "value" : "http://rdap.labs.lacnic.net/entity/CMS25"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Marcelo Siena"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMarialva, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Marialva","PR","04578-000","BR"]],["email",{"type":"work"},"text","CMS25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CMS25"
+    } ],
+    "entities" : [ ],
+    "handle" : "CMS25"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CMS25",
+      "value" : "http://rdap.labs.lacnic.net/entity/CMS25"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Marcelo Siena"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMarialva, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Marialva","PR","04578-000","BR"]],["email",{"type":"work"},"text","CMS25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CMS25"
+    } ],
+    "entities" : [ ],
+    "handle" : "CMS25"
+  } ],
+  "type" : null,
+  "handle" : "263579-LACNIC",
+  "country" : "BR"
+}

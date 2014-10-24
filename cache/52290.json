@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52290",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52290"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-PCSA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-PCSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Luis Painceira"],["adr",{"label":"Av. Juramento 2089 (of. 511)\nBuenos Aires, CF C1428DNG\nAR","type":"work"},"text",["","","Av. Juramento 2089 (of. 511)","Buenos Aires","CF","C1428DNG","AR"]],["email",{"type":"work"},"text","jose@PCCP.NET.AR"],["tel",{"type":"work"},"text","54 11 52580200 (130)"],["org",{},"text",["PCCP S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JLP",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JLP"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Luis Painceira"],["adr",{"label":"Av. Juramento 2089 (of. 511)\nBuenos Aires, CF C1428DNG\nAR","type":"work"},"text",["","","Av. Juramento 2089 (of. 511)","Buenos Aires","CF","C1428DNG","AR"]],["email",{"type":"work"},"text","jose@PCCP.NET.AR"],["tel",{"type":"work"},"text","54 11 52580200 (130)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030529",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100921",
+        "eventActor" : "JLP"
+      } ],
+      "handle" : "JLP"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100921",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "JLP"
+    } ],
+    "handle" : "AR-PCSA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JLP",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JLP"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Luis Painceira"],["adr",{"label":"Av. Juramento 2089 (of. 511)\nBuenos Aires, CF C1428DNG\nAR","type":"work"},"text",["","","Av. Juramento 2089 (of. 511)","Buenos Aires","CF","C1428DNG","AR"]],["email",{"type":"work"},"text","jose@PCCP.NET.AR"],["tel",{"type":"work"},"text","54 11 52580200 (130)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030529",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100921",
+      "eventActor" : "JLP"
+    } ],
+    "handle" : "JLP"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JLP",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JLP"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Luis Painceira"],["adr",{"label":"Av. Juramento 2089 (of. 511)\nBuenos Aires, CF C1428DNG\nAR","type":"work"},"text",["","","Av. Juramento 2089 (of. 511)","Buenos Aires","CF","C1428DNG","AR"]],["email",{"type":"work"},"text","jose@PCCP.NET.AR"],["tel",{"type":"work"},"text","54 11 52580200 (130)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030529",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100921",
+      "eventActor" : "JLP"
+    } ],
+    "handle" : "JLP"
+  } ],
+  "startAutnum" : 52290,
+  "endAutnum" : 52290,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101021",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20101116",
+    "eventActor" : "JLP"
+  } ],
+  "type" : null,
+  "handle" : "52290-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 11896,
+  "endAutnum" : 11896,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/11896",
+    "value" : "http://rdap.labs.lacnic.net/autnum/11896"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19991118",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "SRM3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MILT4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MILT4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","WebMaster SecrelNet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","CE","04578-000","BR"]],["email",{"type":"work"},"text","WES9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["org",{},"text",["MCA INFORMATICA LTDA."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WES9"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/WES9",
+        "value" : "http://rdap.labs.lacnic.net/entity/WES9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","WebMaster SecrelNet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","CE","04578-000","BR"]],["email",{"type":"work"},"text","WES9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "WES9"
+      } ],
+      "entities" : [ ],
+      "handle" : "WES9"
+    } ],
+    "handle" : "BR-MILT4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SRM3",
+      "value" : "http://rdap.labs.lacnic.net/entity/SRM3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Roberto Mapurunga de Miranda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVi?osa do Cear?, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vi?osa do Cear?","CE","04578-000","BR"]],["email",{"type":"work"},"text","SRM3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SRM3"
+    } ],
+    "entities" : [ ],
+    "handle" : "SRM3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SRM3",
+      "value" : "http://rdap.labs.lacnic.net/entity/SRM3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Roberto Mapurunga de Miranda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVi?osa do Cear?, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vi?osa do Cear?","CE","04578-000","BR"]],["email",{"type":"work"},"text","SRM3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SRM3"
+    } ],
+    "entities" : [ ],
+    "handle" : "SRM3"
+  } ],
+  "type" : null,
+  "handle" : "11896-LACNIC",
+  "country" : "BR"
+}

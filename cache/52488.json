@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52488,
+  "endAutnum" : 52488,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52488",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52488"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130620",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130620",
+    "eventActor" : "ALL12"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-UPBO-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-UPBO-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alvaro Le?n Ortega L?pez"],["adr",{"label":"Circular 1 70-01 (Bloque 6 Oficina 605)\nMedellin, AN 56006\nCO","type":"work"},"text",["","","Circular 1 70-01 (Bloque 6 Oficina 605)","Medellin","AN","56006","CO"]],["email",{"type":"work"},"text","alvaro.ortega@UPB.EDU.CO"],["tel",{"type":"work"},"text","57 4 3544529 (13232)"],["org",{},"text",["Universidad Pontificia Bolivariana"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060731",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130819",
+      "eventActor" : "ALL12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ALL12",
+        "value" : "http://rdap.labs.lacnic.net/entity/ALL12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alvaro Le?n Ortega L?pez"],["adr",{"label":"Circular 1ra 70-01 (Bloque 6 of. 605)\nMedell?n,  56006\nCO","type":"work"},"text",["","","Circular 1ra 70-01 (Bloque 6 of. 605)","Medell?n","","56006","CO"]],["email",{"type":"work"},"text","alvaro.ortega@UPB.EDU.CO"],["tel",{"type":"work"},"text","57 4 3544529 (13232)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20101130",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120305",
+        "eventActor" : "ALL12"
+      } ],
+      "entities" : [ ],
+      "handle" : "ALL12"
+    } ],
+    "handle" : "CO-UPBO-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALL12",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALL12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alvaro Le?n Ortega L?pez"],["adr",{"label":"Circular 1ra 70-01 (Bloque 6 of. 605)\nMedell?n,  56006\nCO","type":"work"},"text",["","","Circular 1ra 70-01 (Bloque 6 of. 605)","Medell?n","","56006","CO"]],["email",{"type":"work"},"text","alvaro.ortega@UPB.EDU.CO"],["tel",{"type":"work"},"text","57 4 3544529 (13232)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101130",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120305",
+      "eventActor" : "ALL12"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALL12"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALL12",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALL12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alvaro Le?n Ortega L?pez"],["adr",{"label":"Circular 1ra 70-01 (Bloque 6 of. 605)\nMedell?n,  56006\nCO","type":"work"},"text",["","","Circular 1ra 70-01 (Bloque 6 of. 605)","Medell?n","","56006","CO"]],["email",{"type":"work"},"text","alvaro.ortega@UPB.EDU.CO"],["tel",{"type":"work"},"text","57 4 3544529 (13232)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101130",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120305",
+      "eventActor" : "ALL12"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALL12"
+  } ],
+  "type" : null,
+  "handle" : "52488-LACNIC",
+  "country" : "CO"
+}

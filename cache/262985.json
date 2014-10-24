@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262985,
+  "endAutnum" : 262985,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262985",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262985"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120510",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "LSP3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-GNTI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-GNTI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","luciano silveira pereira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCachoeirinha, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cachoeirinha","RS","04578-000","BR"]],["email",{"type":"work"},"text","LSP3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["global networks telecomunica??es e informatica ltd"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "LSP3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LSP3",
+        "value" : "http://rdap.labs.lacnic.net/entity/LSP3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","luciano silveira pereira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCachoeirinha, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cachoeirinha","RS","04578-000","BR"]],["email",{"type":"work"},"text","LSP3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LSP3"
+      } ],
+      "entities" : [ ],
+      "handle" : "LSP3"
+    } ],
+    "handle" : "BR-GNTI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LSP3",
+      "value" : "http://rdap.labs.lacnic.net/entity/LSP3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","luciano silveira pereira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCachoeirinha, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cachoeirinha","RS","04578-000","BR"]],["email",{"type":"work"},"text","LSP3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LSP3"
+    } ],
+    "entities" : [ ],
+    "handle" : "LSP3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LSP3",
+      "value" : "http://rdap.labs.lacnic.net/entity/LSP3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","luciano silveira pereira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCachoeirinha, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cachoeirinha","RS","04578-000","BR"]],["email",{"type":"work"},"text","LSP3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LSP3"
+    } ],
+    "entities" : [ ],
+    "handle" : "LSP3"
+  } ],
+  "type" : null,
+  "handle" : "262985-LACNIC",
+  "country" : "BR"
+}

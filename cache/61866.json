@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61866,
+  "endAutnum" : 61866,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61866",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61866"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140710",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140710",
+    "eventActor" : "INS19"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ISIT-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ISIT-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Intelbras S/A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos?","SC","04578-000","BR"]],["email",{"type":"work"},"text","INS19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["org",{},"text",["INTELBRAS S.A. INDUSTRIA DE TELECOMUNICACAO ELETRO"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140711",
+      "eventActor" : "INS19"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/INS19",
+        "value" : "http://rdap.labs.lacnic.net/entity/INS19"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Intelbras S/A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos?","SC","04578-000","BR"]],["email",{"type":"work"},"text","INS19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "INS19"
+      } ],
+      "entities" : [ ],
+      "handle" : "INS19"
+    } ],
+    "handle" : "BR-ISIT-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/INS19",
+      "value" : "http://rdap.labs.lacnic.net/entity/INS19"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Intelbras S/A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos?","SC","04578-000","BR"]],["email",{"type":"work"},"text","INS19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "INS19"
+    } ],
+    "entities" : [ ],
+    "handle" : "INS19"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/INS19",
+      "value" : "http://rdap.labs.lacnic.net/entity/INS19"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Intelbras S/A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos?","SC","04578-000","BR"]],["email",{"type":"work"},"text","INS19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "INS19"
+    } ],
+    "entities" : [ ],
+    "handle" : "INS19"
+  } ],
+  "type" : null,
+  "handle" : "61866-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262600,
+  "endAutnum" : 262600,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262600",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262600"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110928",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131126",
+    "eventActor" : "ASN15"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-WTLM3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-WTLM3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ulisses Costa de Almeida"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCastro Alves, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Castro Alves","BA","04578-000","BR"]],["email",{"type":"work"},"text","UCA4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["org",{},"text",["ASE TELECOMUNICA?OES LTDA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131126",
+      "eventActor" : "UCA4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/UCA4",
+        "value" : "http://rdap.labs.lacnic.net/entity/UCA4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ulisses Costa de Almeida"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCastro Alves, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Castro Alves","BA","04578-000","BR"]],["email",{"type":"work"},"text","UCA4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "UCA4"
+      } ],
+      "entities" : [ ],
+      "handle" : "UCA4"
+    } ],
+    "handle" : "BR-WTLM3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ASN15",
+      "value" : "http://rdap.labs.lacnic.net/entity/ASN15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexsandro Soares Nascimento"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCastro Alves, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Castro Alves","BA","04578-000","BR"]],["email",{"type":"work"},"text","ASN15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131125",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131125",
+      "eventActor" : "ASN15"
+    } ],
+    "entities" : [ ],
+    "handle" : "ASN15"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ASN15",
+      "value" : "http://rdap.labs.lacnic.net/entity/ASN15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexsandro Soares Nascimento"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCastro Alves, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Castro Alves","BA","04578-000","BR"]],["email",{"type":"work"},"text","ASN15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131125",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131125",
+      "eventActor" : "ASN15"
+    } ],
+    "entities" : [ ],
+    "handle" : "ASN15"
+  } ],
+  "type" : null,
+  "handle" : "262600-LACNIC",
+  "country" : "BR"
+}

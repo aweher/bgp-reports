@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61929,
+  "endAutnum" : 61929,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61929",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61929"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140603",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140603",
+    "eventActor" : "LOC11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-RNLM1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-RNLM1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonir Oliveira Candido"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNer?polis, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ner?polis","GO","04578-000","BR"]],["email",{"type":"work"},"text","LOC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["org",{},"text",["RODRIGUES E NECKEL LTDA - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140516",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140516",
+      "eventActor" : "LOC11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LOC11",
+        "value" : "http://rdap.labs.lacnic.net/entity/LOC11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonir Oliveira Candido"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNer?polis, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ner?polis","","04578-000","BR"]],["email",{"type":"work"},"text","LOC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130426",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130426",
+        "eventActor" : "LOC11"
+      } ],
+      "entities" : [ ],
+      "handle" : "LOC11"
+    } ],
+    "handle" : "BR-RNLM1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LOC11",
+      "value" : "http://rdap.labs.lacnic.net/entity/LOC11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonir Oliveira Candido"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNer?polis, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ner?polis","","04578-000","BR"]],["email",{"type":"work"},"text","LOC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130426",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130426",
+      "eventActor" : "LOC11"
+    } ],
+    "entities" : [ ],
+    "handle" : "LOC11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LOC11",
+      "value" : "http://rdap.labs.lacnic.net/entity/LOC11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonir Oliveira Candido"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNer?polis, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ner?polis","","04578-000","BR"]],["email",{"type":"work"},"text","LOC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130426",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130426",
+      "eventActor" : "LOC11"
+    } ],
+    "entities" : [ ],
+    "handle" : "LOC11"
+  } ],
+  "type" : null,
+  "handle" : "61929-LACNIC",
+  "country" : "BR"
+}

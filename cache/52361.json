@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52361",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52361"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-EASS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-EASS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","IP Administrator"],["adr",{"label":"Av. Del Libertador 498 (Piso 21)\nCABA, BA C1001ABR\nAR","type":"work"},"text",["","","Av. Del Libertador 498 (Piso 21)","CABA","BA","C1001ABR","AR"]],["email",{"type":"work"},"text","ipadmin@ARSAT.COM.AR"],["tel",{"type":"work"},"text","54 11 58112600 (111)"],["org",{},"text",["ARSAT - Empresa Argentina de Soluciones Satelitales S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FED8",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FED8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","IP Administrator"],["adr",{"label":"Avenida del Libertador 498 (Piso 21)\nBuenos Aires,  C1001ABR\nAR","type":"work"},"text",["","","Avenida del Libertador 498 (Piso 21)","Buenos Aires","","C1001ABR","AR"]],["email",{"type":"work"},"text","ipadmin@ARSAT.COM.AR"],["tel",{"type":"work"},"text","54 11 58112600 (111)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110824",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131024",
+        "eventActor" : "FED8"
+      } ],
+      "handle" : "FED8"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101102",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130813",
+      "eventActor" : "FED8"
+    } ],
+    "handle" : "AR-EASS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FED8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FED8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","IP Administrator"],["adr",{"label":"Avenida del Libertador 498 (Piso 21)\nBuenos Aires,  C1001ABR\nAR","type":"work"},"text",["","","Avenida del Libertador 498 (Piso 21)","Buenos Aires","","C1001ABR","AR"]],["email",{"type":"work"},"text","ipadmin@ARSAT.COM.AR"],["tel",{"type":"work"},"text","54 11 58112600 (111)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110824",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131024",
+      "eventActor" : "FED8"
+    } ],
+    "handle" : "FED8"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FED8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FED8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","IP Administrator"],["adr",{"label":"Avenida del Libertador 498 (Piso 21)\nBuenos Aires,  C1001ABR\nAR","type":"work"},"text",["","","Avenida del Libertador 498 (Piso 21)","Buenos Aires","","C1001ABR","AR"]],["email",{"type":"work"},"text","ipadmin@ARSAT.COM.AR"],["tel",{"type":"work"},"text","54 11 58112600 (111)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110824",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131024",
+      "eventActor" : "FED8"
+    } ],
+    "handle" : "FED8"
+  } ],
+  "startAutnum" : 52361,
+  "endAutnum" : 52361,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120229",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120229",
+    "eventActor" : "FED8"
+  } ],
+  "type" : null,
+  "handle" : "52361-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/10697",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/10697"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-INSR5-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-INSR5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Interlink S.R.L."],["adr",{"label":"Corrientes 161 ()\nRosario, SF 2000\nAR","type":"work"},"text",["","","Corrientes 161 ()","Rosario","SF","2000","AR"]],["email",{"type":"work"},"text","netmanager@CABLENET.NET.AR"],["tel",{"type":"work"},"text","54 341 4248123 (131)"],["org",{},"text",["Interlink S.R.L."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/INS3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/INS3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Interlink S.R.L."],["adr",{"label":"Corrientes 161 ()\nRosario, SF 2000\nAR","type":"work"},"text",["","","Corrientes 161 ()","Rosario","SF","2000","AR"]],["email",{"type":"work"},"text","netmanager@CABLENET.NET.AR"],["tel",{"type":"work"},"text","54 341 4248123 (104)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20021209",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100805",
+        "eventActor" : "INS3"
+      } ],
+      "handle" : "INS3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021220",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "INS3"
+    } ],
+    "handle" : "AR-INSR5-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/INS3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/INS3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Interlink S.R.L."],["adr",{"label":"Corrientes 161 ()\nRosario, SF 2000\nAR","type":"work"},"text",["","","Corrientes 161 ()","Rosario","SF","2000","AR"]],["email",{"type":"work"},"text","netmanager@CABLENET.NET.AR"],["tel",{"type":"work"},"text","54 341 4248123 (104)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021209",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100805",
+      "eventActor" : "INS3"
+    } ],
+    "handle" : "INS3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/INS3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/INS3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Interlink S.R.L."],["adr",{"label":"Corrientes 161 ()\nRosario, SF 2000\nAR","type":"work"},"text",["","","Corrientes 161 ()","Rosario","SF","2000","AR"]],["email",{"type":"work"},"text","netmanager@CABLENET.NET.AR"],["tel",{"type":"work"},"text","54 341 4248123 (104)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021209",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100805",
+      "eventActor" : "INS3"
+    } ],
+    "handle" : "INS3"
+  } ],
+  "startAutnum" : 10697,
+  "endAutnum" : 10697,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19971029",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20011130",
+    "eventActor" : "INS3"
+  } ],
+  "type" : null,
+  "handle" : "10697-LACNIC",
+  "country" : "AR"
+}

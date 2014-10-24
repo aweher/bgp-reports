@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262870,
+  "endAutnum" : 262870,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262870",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262870"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101222",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "FAC39"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ATLT47-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ATLT47-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Fernando de Oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNovo Horizonte, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Novo Horizonte","SP","04578-000","BR"]],["email",{"type":"work"},"text","LFO8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["org",{},"text",["Ajaxtel Telecomunica??es LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "LFO8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LFO8",
+        "value" : "http://rdap.labs.lacnic.net/entity/LFO8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Fernando de Oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNovo Horizonte, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Novo Horizonte","SP","04578-000","BR"]],["email",{"type":"work"},"text","LFO8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LFO8"
+      } ],
+      "entities" : [ ],
+      "handle" : "LFO8"
+    } ],
+    "handle" : "BR-ATLT47-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAC39",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAC39"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","FANTASMINHA CAMARADA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOl?mpia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ol?mpia","SP","04578-000","BR"]],["email",{"type":"work"},"text","FAC39@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 99 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FAC39"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAC39"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAC39",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAC39"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","FANTASMINHA CAMARADA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOl?mpia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ol?mpia","SP","04578-000","BR"]],["email",{"type":"work"},"text","FAC39@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 99 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FAC39"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAC39"
+  } ],
+  "type" : null,
+  "handle" : "262870-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28140,
+  "endAutnum" : 28140,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28140",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28140"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090318",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ACF5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MIPR1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MIPR1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pedro Sergio Rigolo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJundia?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jundia?","SP","04578-000","BR"]],["email",{"type":"work"},"text","PSR7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["Maxiweb Internet Provider"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PSR7"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PSR7",
+        "value" : "http://rdap.labs.lacnic.net/entity/PSR7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pedro Sergio Rigolo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJundia?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jundia?","SP","04578-000","BR"]],["email",{"type":"work"},"text","PSR7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PSR7"
+      } ],
+      "entities" : [ ],
+      "handle" : "PSR7"
+    } ],
+    "handle" : "BR-MIPR1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ACF5",
+      "value" : "http://rdap.labs.lacnic.net/entity/ACF5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre Chaves Fonseca"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJundia?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jundia?","SP","04578-000","BR"]],["email",{"type":"work"},"text","ACF5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ACF5"
+    } ],
+    "entities" : [ ],
+    "handle" : "ACF5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ACF5",
+      "value" : "http://rdap.labs.lacnic.net/entity/ACF5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre Chaves Fonseca"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJundia?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jundia?","SP","04578-000","BR"]],["email",{"type":"work"},"text","ACF5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ACF5"
+    } ],
+    "entities" : [ ],
+    "handle" : "ACF5"
+  } ],
+  "type" : null,
+  "handle" : "28140-LACNIC",
+  "country" : "BR"
+}

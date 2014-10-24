@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 22431,
+  "endAutnum" : 22431,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/22431",
+    "value" : "http://rdap.labs.lacnic.net/autnum/22431"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20011018",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ARA46"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ASTD-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ASTD-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Arnaldo de Andrade"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMar?lia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mar?lia","SP","04578-000","BR"]],["email",{"type":"work"},"text","ARA46@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["org",{},"text",["ABASE - SERVICOS TELECOM DES E COM SOFT LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130902",
+      "eventActor" : "ARA46"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ARA46",
+        "value" : "http://rdap.labs.lacnic.net/entity/ARA46"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Arnaldo de Andrade"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMar?lia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mar?lia","SP","04578-000","BR"]],["email",{"type":"work"},"text","ARA46@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ARA46"
+      } ],
+      "entities" : [ ],
+      "handle" : "ARA46"
+    } ],
+    "handle" : "BR-ASTD-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ARA46",
+      "value" : "http://rdap.labs.lacnic.net/entity/ARA46"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Arnaldo de Andrade"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMar?lia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mar?lia","SP","04578-000","BR"]],["email",{"type":"work"},"text","ARA46@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ARA46"
+    } ],
+    "entities" : [ ],
+    "handle" : "ARA46"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/THM10",
+      "value" : "http://rdap.labs.lacnic.net/entity/THM10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Thiago Martins"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMar?lia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mar?lia","SP","04578-000","BR"]],["email",{"type":"work"},"text","THM10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "THM10"
+    } ],
+    "entities" : [ ],
+    "handle" : "THM10"
+  } ],
+  "type" : null,
+  "handle" : "22431-LACNIC",
+  "country" : "BR"
+}

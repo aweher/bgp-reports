@@ -1,0 +1,3303 @@
+{"service" : {
+  "name" : "search"
+},
+"parameters" : {
+  "inverse-lookup" : { },
+  "type-filters" : { },
+  "flags" : { },
+  "query-strings" : {
+    "query-string" : [ {
+      "value" : "as6762"
+    } ]
+  },
+  "sources" : { }
+},
+"objects" : {
+  "object" : [ {
+    "type" : "as-block",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/as-block/AS6714 - AS6878"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS6714 - AS6878"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS6714 - AS6878"
+      }, {
+        "name" : "descr",
+        "value" : "RIPE NCC ASN block"
+      }, {
+        "name" : "remarks",
+        "value" : "These AS Numbers are assigned to network operators in the RIPE NCC service region."
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "aut-num",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/aut-num/AS6762"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS6762"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS6762"
+      }, {
+        "name" : "as-name",
+        "value" : "SEABONE-NET"
+      }, {
+        "name" : "descr",
+        "value" : "TELECOM ITALIA SPARKLE S.p.A."
+      }, {
+        "name" : "remarks",
+        "value" : "International Internet Backbone"
+      }, {
+        "name" : "remarks",
+        "value" : "=================================Customers:"
+      }, {
+        "name" : "import",
+        "value" : "from AS260 action pref=50; accept AS260"
+      }, {
+        "name" : "import",
+        "value" : "from AS1241 action pref=50; accept AS-FORTHNET"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS1241 action pref=50; accept AS-FORTHNET-V6"
+      }, {
+        "name" : "import",
+        "value" : "from AS1680 action pref=50; accept AS-NV"
+      }, {
+        "name" : "import",
+        "value" : "from AS2609 action pref=50; accept AS2609"
+      }, {
+        "name" : "import",
+        "value" : "from AS3216 action pref=50; accept AS-SOVAM"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS3216 action pref=50; accept AS-SOVAM-V6"
+      }, {
+        "name" : "import",
+        "value" : "from AS3225 action pref=50; accept AS3225"
+      }, {
+        "name" : "import",
+        "value" : "from AS3269 action pref=50; accept AS3269 AS6664 AS-IBSCUST"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS3269 action pref=50; accept AS3269"
+      }, {
+        "name" : "import",
+        "value" : "from AS3302 action pref=50; accept AS-TIPNETIT"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS3302 action pref=50; accept AS-TIPNETIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS3329 action pref=50; accept AS-HOLTR"
+      }, {
+        "name" : "import",
+        "value" : "from AS3731 action pref=50; accept AS-AFNCA"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS3731 action pref=50; accept AS-AFNCA"
+      }, {
+        "name" : "import",
+        "value" : "from AS4230 action pref=50; accept AS4230"
+      }, {
+        "name" : "import",
+        "value" : "from AS4651 action pref=50; accept AS-THIX"
+      }, {
+        "name" : "import",
+        "value" : "from AS4657 action pref=50; accept AS4657 AS10091"
+      }, {
+        "name" : "import",
+        "value" : "from AS4761 action pref=50; accept AS4761"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS4761 action pref=50; accept AS4761"
+      }, {
+        "name" : "import",
+        "value" : "from AS5391 action pref=50; accept AS-HRHINET"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS5391 action pref=50; accept AS-HRHINET"
+      }, {
+        "name" : "import",
+        "value" : "from AS5602 action pref=50; accept AS-KQIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5609 action pref=50; accept AS5609"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS5609 action pref=50; accept AS5609"
+      }, {
+        "name" : "import",
+        "value" : "from AS5610 action pref=50; accept AS-CTIOL"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS5610 action pref=50; accept AS-CTIOL"
+      }, {
+        "name" : "import",
+        "value" : "from AS5639 action pref=50; accept AS5639 AS27789"
+      }, {
+        "name" : "import",
+        "value" : "from AS6057 action pref=50; accept AS6057"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS6057 action pref=50; accept AS1794 AS1797 AS3943 AS14234 AS28000"
+      }, {
+        "name" : "import",
+        "value" : "from AS6306 action pref=50; accept AS6057 AS27872"
+      }, {
+        "name" : "import",
+        "value" : "from AS6429 action pref=50; accept AS6429 AS13643 AS16742 AS17147 AS19632 AS20191 AS25718 AS26604 AS27678"
+      }, {
+        "name" : "import",
+        "value" : "from AS6568 action pref=50; accept AS6568 AS22541 AS25620 AS27722"
+      }, {
+        "name" : "import",
+        "value" : "from AS6697 action pref=50; accept AS-BELPAK"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS6697 action pref=50; accept AS-BELPAK"
+      }, {
+        "name" : "import",
+        "value" : "from AS6713 action pref=50; accept AS6713"
+      }, {
+        "name" : "import",
+        "value" : "from AS6758 action pref=50; accept AS6758"
+      }, {
+        "name" : "import",
+        "value" : "from AS6854 action pref=50; accept AS-SYNTERRA"
+      }, {
+        "name" : "import",
+        "value" : "from AS6855 action pref=50; accept AS-SLOVAK"
+      }, {
+        "name" : "import",
+        "value" : "from AS6866 action pref=50; accept AS-CYTANET"
+      }, {
+        "name" : "import",
+        "value" : "from AS6910 action pref=50; accept AS-DIALTELECOMRO"
+      }, {
+        "name" : "import",
+        "value" : "from AS7270 action pref=50; accept AS7270"
+      }, {
+        "name" : "import",
+        "value" : "from AS7303 action pref=50; accept AS-TELINTARUON"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS7303 action pref=50; accept AS7303"
+      }, {
+        "name" : "import",
+        "value" : "from AS7568 action pref=50; accept AS7568"
+      }, {
+        "name" : "import",
+        "value" : "from AS7642 action pref=50; accept AS7642 AS24184"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS7642 action pref=50; accept AS7642"
+      }, {
+        "name" : "import",
+        "value" : "from AS7713 action pref=50; accept AS7713 AS17974 AS-TELKOM-TRANSIT"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS7713 action pref=50; accept AS-TELKOM-TRANSIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS7738 action pref=50; accept AS6543 AS7063 AS7365 AS8055 AS10670 AS10938 AS10954 AS11993 AS13914 AS14723 AS15201 AS16397 AS16712 AS16891 AS17222 AS20044 AS22407 AS22515 AS23106 AS23456 AS25832 AS26218 AS26592 AS26602 AS26616 AS26622 AS27724 AS28128 AS28133 AS28144 AS28171 AS28179 AS28179 AS28186 AS28187 AS28200 AS28217 AS28249 AS28255 AS28261 AS28282 AS28308 AS28322 AS28328 AS28331 AS28336 AS28338 AS28347 AS28355 AS28580 AS28582 AS28590 AS28333 AS28598 AS28606 AS28619 AS28624 AS28643 AS28645 AS28652 AS28658 AS28661 AS53059"
+      }, {
+        "name" : "import",
+        "value" : "from AS8002 action pref=50; accept AS8002 AS7270 AS39944"
+      }, {
+        "name" : "import",
+        "value" : "from AS8048 action pref=50; accept AS8048 AS17287 AS19192 AS20312 AS23146 AS27686"
+      }, {
+        "name" : "import",
+        "value" : "from AS8055 action pref=50; accept AS8055 AS14204 AS22356 AS28576"
+      }, {
+        "name" : "import",
+        "value" : "from AS8068 action pref=50; accept AS-MICROSOFTEU"
+      }, {
+        "name" : "import",
+        "value" : "from AS8069 action pref=50; accept AS8069 AS-MICROSOFT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8075 action pref=50; accept AS-MICROSOFT"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS8075 action pref=50; accept AS8075"
+      }, {
+        "name" : "import",
+        "value" : "from AS8167 action pref=50; accept AS8167"
+      }, {
+        "name" : "import",
+        "value" : "from AS8190 action pref=50; accept AS-VIATEL"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS8190 action pref=50; accept AS8190"
+      }, {
+        "name" : "import",
+        "value" : "from AS8244 action pref=50; accept AS8244"
+      }, {
+        "name" : "import",
+        "value" : "from AS8280 action pref=50; accept AS8280 AS12960 AS30858 AS38918 AS44015"
+      }, {
+        "name" : "import",
+        "value" : "from AS8400 action pref=50; accept AS-TELEKOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS45758 action pref=50; accept AS-TRIPLETNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS8402 action pref=50; accept AS-CORBINA"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS8402 action pref=50; accept AS-CORBINA"
+      }, {
+        "name" : "import",
+        "value" : "from AS8447 action pref=50; accept AS-PTA"
+      }, {
+        "name" : "import",
+        "value" : "from AS8452 action pref=50; accept AS-TEDATA"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS8452 action pref=50; accept AS23456 AS31065"
+      }, {
+        "name" : "import",
+        "value" : "from AS8487 action pref=50; accept AS-PHIBEE-TELECOM"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS8487 action pref=50; accept AS-PHIBEE-TELECOM-IPV6"
+      }, {
+        "name" : "import",
+        "value" : "from AS8513 action pref=50; accept AS-SKYVISION"
+      }, {
+        "name" : "import",
+        "value" : "from AS8661 action pref=50; accept AS8661"
+      }, {
+        "name" : "import",
+        "value" : "from AS8674 action pref=50; accept AS-NETNOD"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS8674 action pref=50; accept AS8674"
+      }, {
+        "name" : "import",
+        "value" : "from AS8732 action pref=50; accept AS-COMCOR"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS8732 action pref=50; accept AS-COMCOR"
+      }, {
+        "name" : "import",
+        "value" : "from AS8866 action pref=50; accept AS8866"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS8866 action pref=50; accept AS8866"
+      }, {
+        "name" : "import",
+        "value" : "from AS8895 action pref=50; accept AS-SET-SAUDI"
+      }, {
+        "name" : "import",
+        "value" : "from AS8953 action pref=50; accept AS-ORANGERO"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS8953 action pref=50; accept AS8953"
+      }, {
+        "name" : "import",
+        "value" : "from AS8966 action pref=50; accept AS-EMIX"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS8966 action pref=50; accept AS-EMIX"
+      }, {
+        "name" : "import",
+        "value" : "from AS9035 action pref=50; accept AS-INFOSTRADA"
+      }, {
+        "name" : "import",
+        "value" : "from AS9038 action pref=50; accept AS9038"
+      }, {
+        "name" : "import",
+        "value" : "from AS9050 action pref=50; accept AS-RTD"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS9050 action pref=50; accept AS-RTD"
+      }, {
+        "name" : "import",
+        "value" : "from AS9086 action pref=50; accept AS9086"
+      }, {
+        "name" : "import",
+        "value" : "from AS9116 action pref=50; accept AS-GOLDEN"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS9116 action pref=50; accept AS-GOLDEN"
+      }, {
+        "name" : "import",
+        "value" : "from AS9145 action pref=50; accept AS-EWETEL"
+      }, {
+        "name" : "import",
+        "value" : "from AS9146 action pref=50; accept AS-BIHNET-ALL"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS9146 action pref=50; accept AS-BIHNET-ALL"
+      }, {
+        "name" : "import",
+        "value" : "from AS9151 action pref=50; accept AS9151"
+      }, {
+        "name" : "import",
+        "value" : "from AS9269 action pref=50; accept AS-CTI-Telecom"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS9269 action pref=50; accept AS-CTI-Telecom"
+      }, {
+        "name" : "import",
+        "value" : "from AS9329 action pref=50; accept AS9329 AS5087 AS7642 AS17470 AS17904 AS38039 AS38229 AS38573"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS9329 action pref=50; accept AS9329"
+      }, {
+        "name" : "import",
+        "value" : "from AS9381 action pref=50; accept AS9381 AS-9381"
+      }, {
+        "name" : "import",
+        "value" : "from AS9498 action pref=50; accept AS9498 AS10106 AS17495 AS17632 AS17810 AS17817"
+      }, {
+        "name" : "import",
+        "value" : "from AS9534 action pref=50; accept AS9534"
+      }, {
+        "name" : "import",
+        "value" : "from AS9584 action pref=50; accept AS-DIYIXIAN"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS9584 action pref=50; accept AS-DIYIXIAN"
+      }, {
+        "name" : "import",
+        "value" : "from AS9587 action pref=50; accept AS-DTN"
+      }, {
+        "name" : "import",
+        "value" : "from AS10026 action pref=50; accept AS10026"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS10026 action pref=50; accept AS10026"
+      }, {
+        "name" : "import",
+        "value" : "from AS10102 action pref=50; accept AS-10102"
+      }, {
+        "name" : "import",
+        "value" : "from AS10318 action pref=50; accept AS10318"
+      }, {
+        "name" : "import",
+        "value" : "from AS11014 action pref=50; accept AS11014"
+      }, {
+        "name" : "import",
+        "value" : "from AS11556 action pref=50; accept AS11556 AS3551 AS6193 AS18747 AS22010 AS22382 AS23360 AS23414 AS26608 AS27649 AS26679 AS27687 AS27716 AS27760 AS27764 AS27786 AS27796 AS27802 AS27812 AS27819 AS27832 AS27842 AS27854 AS27873 AS27913 AS27930 AS27936 AS27938 AS27959 AS27972"
+      }, {
+        "name" : "import",
+        "value" : "from AS11835 action pref=50; accept AS11835"
+      }, {
+        "name" : "import",
+        "value" : "from AS12252 action pref=50; accept AS12252"
+      }, {
+        "name" : "import",
+        "value" : "from AS12389 action pref=50; accept AS12389 AS-ROSTELECOM"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS12389 action pref=50; accept AS12389 AS-ROSTELECOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12455 action pref=50; accept AS12455 rs-TKL"
+      }, {
+        "name" : "import",
+        "value" : "from AS12486 action pref=50; accept AS12486"
+      }, {
+        "name" : "import",
+        "value" : "from AS12491 action pref=50; accept AS12491"
+      }, {
+        "name" : "import",
+        "value" : "from AS12566 action pref=50; accept AS-JETMULTIMEDIA"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS12566 action pref=50; accept AS-JETMULTIMEDIA"
+      }, {
+        "name" : "import",
+        "value" : "from AS12653 action pref=50; accept AS12653 AS16022 AS28718 AS31126 AS35582 AS35459"
+      }, {
+        "name" : "import",
+        "value" : "from AS12654 action pref=50; accept AS12654:RS-RIS"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS12654 action pref=50; accept AS12654:RS-RIS"
+      }, {
+        "name" : "import",
+        "value" : "from AS12779 action pref=50; accept AS-HOTNET-IL"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS12779 action pref=50; accept AS12779:AS-CUSTOMERS-V6"
+      }, {
+        "name" : "import",
+        "value" : "from AS12850 action pref=50; accept AS12850:AS-ENTER"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS12850 action pref=50; accept AS12850:AS-ENTER"
+      }, {
+        "name" : "import",
+        "value" : "from AS12874 action pref=50; accept AS-FASTWEB"
+      }, {
+        "name" : "import",
+        "value" : "from AS12880 action pref=50; accept AS12880 AS-DCI"
+      }, {
+        "name" : "import",
+        "value" : "from AS12883 action pref=50; accept AS-UCOMLINE"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS12883 action pref=50; accept AS-UCOMLINE"
+      }, {
+        "name" : "import",
+        "value" : "from AS12956 action pref=50; accept AS12956"
+      }, {
+        "name" : "import",
+        "value" : "from AS12975 action pref=50; accept AS-PALTEL"
+      }, {
+        "name" : "import",
+        "value" : "from AS12989 action pref=50; accept AS-HIGHWINDS"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS12989 action pref=50; accept AS-HIGHWINDS"
+      }, {
+        "name" : "import",
+        "value" : "from AS13153 action pref=50; accept AS13153"
+      }, {
+        "name" : "import",
+        "value" : "from AS13248 action pref=50; accept AS13248"
+      }, {
+        "name" : "import",
+        "value" : "from AS14259 action pref=50; accept AS14259"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS14259 action pref=50; accept AS14259 AS27678"
+      }, {
+        "name" : "import",
+        "value" : "from AS14522 action pref=50; accept AS14522"
+      }, {
+        "name" : "import",
+        "value" : "from AS15133 action pref=50; accept AS-EDGECAST"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS15133 action pref=50; accept AS-EDGECAST"
+      }, {
+        "name" : "import",
+        "value" : "from AS15430 action pref=50; accept AS15430"
+      }, {
+        "name" : "import",
+        "value" : "from AS15433 action pref=50; accept AS15433"
+      }, {
+        "name" : "import",
+        "value" : "from AS15469 action pref=50; accept RS-WARINET-V4"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS15469 action pref=50; accept RS-WARINET-V6"
+      }, {
+        "name" : "import",
+        "value" : "from AS15557 action pref=50; accept AS-LDCOMNET"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS15557 action pref=50; accept AS-LDCOMNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS15706 action pref=50; accept AS15706"
+      }, {
+        "name" : "import",
+        "value" : "from AS15735 action pref=50; accept AS-GOM-TIS"
+      }, {
+        "name" : "import",
+        "value" : "from AS15808 action pref=50; accept AS-ACCESSKENYA"
+      }, {
+        "name" : "import",
+        "value" : "from AS15943 action pref=50; accept AS-WITNET"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS15943 action pref=50; accept AS-WITNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS15964 action pref=50; accept AS-CAMNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS16016 action pref=50; accept AS-VOLJATEL"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS16016 action pref=50; accept AS-VOLJATEL6"
+      }, {
+        "name" : "import",
+        "value" : "from AS16097 action pref=50; accept AS16097 AS-HLKOMM"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS16097 action pref=50; accept AS-HLKOMM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16206 action pref=50; accept AS16206 AS-ABRARED"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS16206 action pref=50; accept AS-ABRARED"
+      }, {
+        "name" : "import",
+        "value" : "from AS16265 action pref=50; accept AS16265 AS-LEASEWEB"
+      }, {
+        "name" : "import",
+        "value" : "from AS16276 action pref=50; accept AS-OVH"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS16276 action pref=50; accept AS-OVH"
+      }, {
+        "name" : "import",
+        "value" : "from AS16397 action pref=50; accept AS16397"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS16397 action pref=50; accept AS16397"
+      }, {
+        "name" : "import",
+        "value" : "from AS16509 action pref=50; accept AS-AMAZON"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS16509 action pref=50; accept AS-AMAZON"
+      }, {
+        "name" : "import",
+        "value" : "from AS16735 action pref=50; accept AS16735"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS16735 action pref=50; accept AS16735"
+      }, {
+        "name" : "import",
+        "value" : "from AS17379 action pref=50; accept AS17379 AS17379:AS-CUSTOMERS"
+      }, {
+        "name" : "import",
+        "value" : "from AS17444 action pref=50; accept AS17444"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS17444 action pref=50; accept AS17444"
+      }, {
+        "name" : "import",
+        "value" : "from AS17494 action pref=50; accept AS17494:AS-CUSTOMERS"
+      }, {
+        "name" : "import",
+        "value" : "from AS17557 action pref=50; accept AS-SETPTCL"
+      }, {
+        "name" : "import",
+        "value" : "from AS17806 action pref=50; accept AS17806"
+      }, {
+        "name" : "import",
+        "value" : "from AS18001 action pref=50; accept AS-18001_TRANSIT"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS18001 action pref=50; accept AS-18001_TRANSIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS18106 action pref=50; accept AS18106"
+      }, {
+        "name" : "import",
+        "value" : "from AS18678 action pref=50; accept AS18678"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS18678 action pref=50; accept AS18678"
+      }, {
+        "name" : "import",
+        "value" : "from AS18695 action pref=50; accept AS18695"
+      }, {
+        "name" : "import",
+        "value" : "from AS19180 action pref=50; accept AS19180"
+      }, {
+        "name" : "import",
+        "value" : "from AS20485 action pref=50; accept AS20485 AS-TTK"
+      }, {
+        "name" : "import",
+        "value" : "from AS20507 action pref=50; accept AS-INTERNLNET"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS20507 action pref=50; accept AS20507"
+      }, {
+        "name" : "import",
+        "value" : "from AS20541 action pref=50; accept AS20541"
+      }, {
+        "name" : "import",
+        "value" : "from AS20640 action pref=50; accept AS-TITANNET"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS20640 action pref=50; accept AS-TITANNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS20819 action pref=50; accept AS20819"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS20819 action pref=50; accept AS20819"
+      }, {
+        "name" : "import",
+        "value" : "from AS20836 action pref=50; accept AS-CDLAN"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS20836 action pref=50; accept AS-CDLAN"
+      }, {
+        "name" : "import",
+        "value" : "from AS20928 action pref=50; accept AS-NOOR"
+      }, {
+        "name" : "import",
+        "value" : "from AS20959 action pref=50; accept AS-DATACOM AS20959"
+      }, {
+        "name" : "import",
+        "value" : "from AS21003 action pref=50; accept AS21003"
+      }, {
+        "name" : "import",
+        "value" : "from AS21284 action pref=50; accept AS-VIVODI"
+      }, {
+        "name" : "import",
+        "value" : "from AS21488 action pref=50; accept AS-EMPLOT"
+      }, {
+        "name" : "import",
+        "value" : "from AS22356 action pref=50; accept AS22356"
+      }, {
+        "name" : "import",
+        "value" : "from AS22822 action pref=50; accept AS22822"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS22822 action pref=50; accept AS22822"
+      }, {
+        "name" : "import",
+        "value" : "from AS23889 action pref=50; accept AS23889"
+      }, {
+        "name" : "import",
+        "value" : "from AS23936 action pref=50; accept AS23936"
+      }, {
+        "name" : "import",
+        "value" : "from AS24077 action pref=50; accept AS-TMHK"
+      }, {
+        "name" : "import",
+        "value" : "from AS24218 action pref=50; accept AS-SET-GTI-PIP"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS24218 action pref=50; accept AS-SET-GTI-PIP"
+      }, {
+        "name" : "import",
+        "value" : "from AS24608 action pref=50; accept AS24608"
+      }, {
+        "name" : "import",
+        "value" : "from AS24691 action pref=50; accept AS24691"
+      }, {
+        "name" : "import",
+        "value" : "from AS24863 action pref=50; accept AS-LINKDOTNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS25145 action pref=50; accept AS25145"
+      }, {
+        "name" : "import",
+        "value" : "from AS25152 action pref=50; accept AS25152"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS25152 action pref=50; accept RS-KROOT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25187 action pref=50; accept AS25187"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS25187 action pref=50; accept AS25187"
+      }, {
+        "name" : "import",
+        "value" : "from AS25229 action pref=50; accept AS-25229:AS-CUST"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS25229 action pref=50; accept AS-25229:AS-CUST"
+      }, {
+        "name" : "import",
+        "value" : "from AS25250 action pref=50; accept AS25250"
+      }, {
+        "name" : "import",
+        "value" : "from AS25818 action pref=50; accept AS-CMCNETWORKS"
+      }, {
+        "name" : "import",
+        "value" : "from AS26615 action pref=50; accept AS26615"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS26615 action pref=50; accept AS26615"
+      }, {
+        "name" : "import",
+        "value" : "from AS27017 action pref=50; accept AS27017"
+      }, {
+        "name" : "import",
+        "value" : "from AS27589 action pref=50; accept AS27589"
+      }, {
+        "name" : "import",
+        "value" : "from AS27648 action pref=50; accept AS27648"
+      }, {
+        "name" : "import",
+        "value" : "from AS27747 action pref=50; accept AS27747"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS27747 action pref=50; accept AS27747"
+      }, {
+        "name" : "import",
+        "value" : "from AS27755 action pref=50; accept AS27755"
+      }, {
+        "name" : "import",
+        "value" : "from AS27757 action pref=50; accept AS27757 AS6140 AS14420 AS14522 AS19582 AS22724 AS23487 AS26124 AS26613 AS27668 AS27738 AS27784 AS27814 AS27844 AS27868 AS27902"
+      }, {
+        "name" : "import",
+        "value" : "from AS27882 action pref=50; accept AS27882"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS27882 action pref=50; accept AS27882"
+      }, {
+        "name" : "import",
+        "value" : "from AS27986 action pref=50; accept AS27986"
+      }, {
+        "name" : "import",
+        "value" : "from AS28024 action pref=50; accept AS28024"
+      }, {
+        "name" : "import",
+        "value" : "from AS28122 action pref=50; accept AS28122"
+      }, {
+        "name" : "import",
+        "value" : "from AS28168 action pref=50; accept AS28168"
+      }, {
+        "name" : "import",
+        "value" : "from AS28338 action pref=50; accept AS28338 AS21571 AS28174 AS28255 AS28594 AS28658 AS28666 AS53211 AS262403 AS262663 AS262813"
+      }, {
+        "name" : "import",
+        "value" : "from AS28346 action pref=50; accept AS28346"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS28346 action pref=50; accept AS28346"
+      }, {
+        "name" : "import",
+        "value" : "from AS28625 action pref=50; accept AS28625"
+      }, {
+        "name" : "import",
+        "value" : "from AS28590 action pref=50; accept AS28590"
+      }, {
+        "name" : "import",
+        "value" : "from AS28676 action pref=50; accept AS28676 AS-WITCOM"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS28676 action pref=50; accept AS28676 AS-WITCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29049 action pref=50; accept AS29049"
+      }, {
+        "name" : "import",
+        "value" : "from AS29075 action pref=50; accept AS29075 AS-IELO"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS29075 action pref=50; accept AS29075 AS-IELO"
+      }, {
+        "name" : "import",
+        "value" : "from AS29386 action pref=50; accept AS29386"
+      }, {
+        "name" : "import",
+        "value" : "from AS29527 action pref=50; accept AS-OTHELLOTECH"
+      }, {
+        "name" : "import",
+        "value" : "from AS29562 action pref=50; accept AS-KABELBW"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS29562 action pref=50; accept AS-KABELBW"
+      }, {
+        "name" : "import",
+        "value" : "from AS30663 action pref=50; accept AS-LEASEWEB-US"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS30663 action pref=50; accept AS-LEASEWEB-US"
+      }, {
+        "name" : "import",
+        "value" : "from AS30844 action pref=50; accept AS30844 AS-ECS RS-ECS"
+      }, {
+        "name" : "import",
+        "value" : "from AS30848 action pref=50; accept AS30848"
+      }, {
+        "name" : "import",
+        "value" : "from AS30990 action pref=50; accept AS-ADJIB"
+      }, {
+        "name" : "import",
+        "value" : "from AS31133 action pref=50; accept AS31133 AS-MF-MGSM"
+      }, {
+        "name" : "import",
+        "value" : "from AS31252 action pref=50; accept AS-STARNET"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS31252 action pref=50; accept AS-STARNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS31404 action pref=50; accept AS31404"
+      }, {
+        "name" : "import",
+        "value" : "from AS31463 action pref=50; accept AS-4D-DC-Customers"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS31463 action pref=50; accept AS-4D-DC-Customers"
+      }, {
+        "name" : "import",
+        "value" : "from AS32934 action pref=50; accept AS-FACEBOOK"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS32934 action pref=50; accept AS-FACEBOOK"
+      }, {
+        "name" : "import",
+        "value" : "from AS33774 action pref=50; accept AS33774"
+      }, {
+        "name" : "import",
+        "value" : "from AS34216 action pref=50; accept AS34216"
+      }, {
+        "name" : "import",
+        "value" : "from AS34224 action pref=50; accept AS-NETERRA-INT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34347 action pref=50; accept AS-CNHAT"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS34347 action pref=50; accept AS-CNHAT-V6"
+      }, {
+        "name" : "import",
+        "value" : "from AS34400 action pref=50; accept AS34400"
+      }, {
+        "name" : "import",
+        "value" : "from AS34695 action pref=50; accept AS34695:AS-TRANSIT"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS34695 action pref=50; accept AS34695:AS-TRANSIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34984 action pref=50; accept AS34984:AS-TELLCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS35170 action pref=50; accept AS35170"
+      }, {
+        "name" : "import",
+        "value" : "from AS35415 action pref=50; accept AS-IPTRANSIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35662 action pref=50; accept AS-ORIGINS"
+      }, {
+        "name" : "import",
+        "value" : "from AS36408 action pref=50; accept AS-PANTHER"
+      }, {
+        "name" : "import",
+        "value" : "from AS36866 action pref=50; accept AS-JTL"
+      }, {
+        "name" : "import",
+        "value" : "from AS36879 action pref=50; accept AS-SLC_SER"
+      }, {
+        "name" : "import",
+        "value" : "from AS36890 action pref=50; accept AS36890"
+      }, {
+        "name" : "import",
+        "value" : "from AS62041 action pref=50; accept AS-TELEGRAM"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS62041 action pref=50; accept AS-TELEGRAM"
+      }, {
+        "name" : "import",
+        "value" : "from AS36947 action pref=50; accept AS36947"
+      }, {
+        "name" : "import",
+        "value" : "from AS36992 action pref=50; accept AS36992"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS36992 action pref=50; accept AS36992"
+      }, {
+        "name" : "import",
+        "value" : "from AS37035 action pref=50; accept AS37035"
+      }, {
+        "name" : "import",
+        "value" : "from AS37204 action pref=50; accept AS37204 AS27576 AS30969"
+      }, {
+        "name" : "import",
+        "value" : "from AS37168 action pref=50; accept AS37168 RS-CELLC"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS37168 action pref=50; accept RS-CELLC"
+      }, {
+        "name" : "import",
+        "value" : "from AS37219 action pref=50; accept AS37219"
+      }, {
+        "name" : "import",
+        "value" : "from AS37233 action pref=50; accept AS37233"
+      }, {
+        "name" : "import",
+        "value" : "from AS37273 action pref=50; accept AS37273 rs-37273"
+      }, {
+        "name" : "import",
+        "value" : "from AS37305 action pref=50; accept AS37305"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS37305 action pref=50; accept AS37305"
+      }, {
+        "name" : "import",
+        "value" : "from AS38040 action pref=50; accept AS38040:AS-customers"
+      }, {
+        "name" : "import",
+        "value" : "from AS38193 action pref=50; accept AS38193"
+      }, {
+        "name" : "import",
+        "value" : "from AS39386 action pref=50; accept AS-IGW-SET"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS39386 action pref=50; accept AS-IGW-SET"
+      }, {
+        "name" : "import",
+        "value" : "from AS39802 action pref=50; accept AS39802"
+      }, {
+        "name" : "import",
+        "value" : "from AS39912 action pref=50; accept AS-I3B-TRANSIT-V4"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS39912 action pref=50; accept AS-I3B-TRANSIT-V6"
+      }, {
+        "name" : "import",
+        "value" : "from AS41458 action pref=50; accept AS41458"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS41458 action pref=50; accept AS41458"
+      }, {
+        "name" : "import",
+        "value" : "from AS41697 action pref=50; accept AS41697"
+      }, {
+        "name" : "import",
+        "value" : "from AS41711 action pref=50; accept AS41711"
+      }, {
+        "name" : "import",
+        "value" : "from AS41920 action pref=50; accept AS-ONTELECOMS"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS47408 action pref=50; accept AS-ONTELECOMS"
+      }, {
+        "name" : "import",
+        "value" : "from AS42313 action pref=50; accept AS42313"
+      }, {
+        "name" : "import",
+        "value" : "from AS42473 action pref=50; accept AS-ANEXIA"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS42473 action pref=50; accept AS-ANEXIA"
+      }, {
+        "name" : "import",
+        "value" : "from AS43009 action pref=50; accept AS43009"
+      }, {
+        "name" : "import",
+        "value" : "from AS43279 action pref=50; accept AS43279"
+      }, {
+        "name" : "import",
+        "value" : "from AS43338 action pref=50; accept AS43338"
+      }, {
+        "name" : "import",
+        "value" : "from AS43890 action pref=50; accept AS-NETSERV-RO"
+      }, {
+        "name" : "import",
+        "value" : "from AS44160 action pref=50; accept AS44160:AS-CUSTOMERS"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS44160 action pref=50; accept AS44160:AS-CUSTOMERS"
+      }, {
+        "name" : "import",
+        "value" : "from AS44227 action pref=50; accept AS-JUSTNET"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS44227 action pref=50; accept AS-JUSTNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS44356 action pref=50; accept AS-44356-CUSTOMERS"
+      }, {
+        "name" : "import",
+        "value" : "from AS44939 action pref=50; accept AS44939"
+      }, {
+        "name" : "import",
+        "value" : "from AS45334 action pref=50; accept AS45334:AS-DWL"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS45334 action pref=50; accept AS45334:AS-DWL"
+      }, {
+        "name" : "import",
+        "value" : "from AS45356 action pref=50; accept AS45356"
+      }, {
+        "name" : "import",
+        "value" : "from AS45530 action pref=50; accept AS45530"
+      }, {
+        "name" : "import",
+        "value" : "from AS45558 action pref=50; accept AS45558 AS9988 AS18399"
+      }, {
+        "name" : "import",
+        "value" : "from AS45561 action pref=50; accept AS45561"
+      }, {
+        "name" : "import",
+        "value" : "from AS46786 action pref=50; accept AS-IPTRANSIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS47123 action pref=50; accept AS47123"
+      }, {
+        "name" : "import",
+        "value" : "from AS47136 action pref=50; accept AS47136"
+      }, {
+        "name" : "import",
+        "value" : "from AS47143 action pref=50; accept AS-TODAYHOST"
+      }, {
+        "name" : "import",
+        "value" : "from AS47358 action pref=50; accept AS-NTRNET-SET"
+      }, {
+        "name" : "import",
+        "value" : "from AS47408 action pref=50; accept AS47408"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS47408 action pref=50; accept AS-MANDARIN"
+      }, {
+        "name" : "import",
+        "value" : "from AS47541 action pref=50; accept AS-VKONTAKTE"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS47541 action pref=50; accept AS-VKONTAKTE"
+      }, {
+        "name" : "import",
+        "value" : "from AS47714 action pref=50; accept AS47714"
+      }, {
+        "name" : "import",
+        "value" : "from AS47764 action pref=50; accept AS-MAILRU"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS47764 action pref=50; accept AS-MAILRU"
+      }, {
+        "name" : "import",
+        "value" : "from AS48159 action pref=50; accept AS-TICIR"
+      }, {
+        "name" : "import",
+        "value" : "from AS48518 action pref=50; accept AS48518"
+      }, {
+        "name" : "import",
+        "value" : "from AS48832 action pref=50; accept AS48832"
+      }, {
+        "name" : "import",
+        "value" : "from AS49025 action pref=50; accept AS-PROZETA-NET"
+      }, {
+        "name" : "import",
+        "value" : "from AS49431 action pref=50; accept AS-KPMG-IT"
+      }, {
+        "name" : "import",
+        "value" : "from AS49466 action pref=50; accept AS49466"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS49466 action pref=50; accept AS49466"
+      }, {
+        "name" : "import",
+        "value" : "from AS49582 action pref=50; accept AS49582"
+      }, {
+        "name" : "import",
+        "value" : "from AS50173 action pref=50; accept AS-VTESSE"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS50173 action pref=50; accept AS-VTESSE"
+      }, {
+        "name" : "import",
+        "value" : "from AS51269 action pref=50; accept AS-HEXATOM"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS51269 action pref=50; accept AS-HEXATOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS52280 action pref=50; accept AS52280"
+      }, {
+        "name" : "import",
+        "value" : "from AS52925 action pref=50; accept AS52925"
+      }, {
+        "name" : "import",
+        "value" : "from AS55103 action pref=50; accept AS55103"
+      }, {
+        "name" : "import",
+        "value" : "from AS58135 action pref=50; accept AS58165"
+      }, {
+        "name" : "import",
+        "value" : "from AS58601 action pref=50; accept AS-AAMRA-ATL-BD"
+      }, {
+        "name" : "import",
+        "value" : "from AS58629 action pref=50; accept AS58629"
+      }, {
+        "name" : "import",
+        "value" : "from AS58656 action pref=50; accept AS-BDHUB"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS58656 action pref=50; accept AS-BDHUB"
+      }, {
+        "name" : "import",
+        "value" : "from AS58668 action pref=50; accept AS58668"
+      }, {
+        "name" : "import",
+        "value" : "from AS58711 action pref=50; accept AS-58711"
+      }, {
+        "name" : "import",
+        "value" : "from AS59507 action pref=50; accept AS-TLN"
+      }, {
+        "name" : "import",
+        "value" : "from AS60476 action pref=50; accept AS60476"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS60476 action pref=50; accept AS60476"
+      }, {
+        "name" : "import",
+        "value" : "from AS131165 action pref=50; accept AS131165"
+      }, {
+        "name" : "import",
+        "value" : "from AS132602 action pref=50; accept AS-SET-BSCCL"
+      }, {
+        "name" : "import",
+        "value" : "from AS132837 action pref=50; accept AS132837"
+      }, {
+        "name" : "import",
+        "value" : "from AS197290 action pref=50; accept AS197290"
+      }, {
+        "name" : "import",
+        "value" : "from AS197330 action pref=50; accept AS197330"
+      }, {
+        "name" : "import",
+        "value" : "from AS197985 action pref=50; accept AS197985"
+      }, {
+        "name" : "import",
+        "value" : "from AS198792 action pref=50; accept AS-DSTORAGE"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS198792 action pref=50; accept AS-DSTORAGE"
+      }, {
+        "name" : "import",
+        "value" : "from AS199058 action pref=50; accept AS199058"
+      }, {
+        "name" : "import",
+        "value" : "from AS199308 action pref=50; accept AS199308"
+      }, {
+        "name" : "import",
+        "value" : "from AS200068 action pref=50; accept AS200068"
+      }, {
+        "name" : "import",
+        "value" : "from AS201770 action pref=50; accept RS-SYMACOM-001"
+      }, {
+        "name" : "import",
+        "value" : "from AS262165 action pref=50; accept AS262165"
+      }, {
+        "name" : "import",
+        "value" : "from AS262195 action pref=50; accept AS262195"
+      }, {
+        "name" : "import",
+        "value" : "from AS262210 action pref=50; accept AS262210"
+      }, {
+        "name" : "import",
+        "value" : "from AS262589 action pref=50; accept AS262589"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS262589 action pref=50; accept AS262589"
+      }, {
+        "name" : "import",
+        "value" : "from AS262686 action pref=50; accept AS262686"
+      }, {
+        "name" : "import",
+        "value" : "from AS262901 action pref=50; accept AS262901"
+      }, {
+        "name" : "remarks",
+        "value" : "====================================Peerings:"
+      }, {
+        "name" : "import",
+        "value" : "from AS174 action pref=80; accept AS174:AS-COGENT"
+      }, {
+        "name" : "import",
+        "value" : "from AS286 action pref=80; accept AS-KPN"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS286 action pref=80; accept AS286"
+      }, {
+        "name" : "import",
+        "value" : "from AS577 action pref=80; accept AS577"
+      }, {
+        "name" : "import",
+        "value" : "from AS701 action pref=80; accept AS701"
+      }, {
+        "name" : "import",
+        "value" : "from AS702 action pref=80; accept AS702:RS-EURO AS702:RS-CUSTOMER"
+      }, {
+        "name" : "import",
+        "value" : "from AS852 action pref=80; accept AS852"
+      }, {
+        "name" : "import",
+        "value" : "from AS1200 action pref=80; accept AS1200"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS1200 action pref=80; accept AS1200"
+      }, {
+        "name" : "import",
+        "value" : "from AS1239 action pref=80; accept AS1239"
+      }, {
+        "name" : "import",
+        "value" : "from AS1257 action pref=80; accept AS-SWIPNET"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS1257 action pref=80; accept AS1257"
+      }, {
+        "name" : "import",
+        "value" : "from AS1273 action pref=80; accept AS-CW"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS1273 action pref=80; accept AS-CW6"
+      }, {
+        "name" : "import",
+        "value" : "from AS1299 action pref=80; accept AS-TELIANET"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS1299 action pref=80; accept AS1299"
+      }, {
+        "name" : "import",
+        "value" : "from AS1668 action pref=80; accept AS1668"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS1752 action pref=80; accept AS1752"
+      }, {
+        "name" : "import",
+        "value" : "from AS2516 action pref=80; accept AS-KDDCUSTOMER"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS2516 action pref=80; accept AS2516"
+      }, {
+        "name" : "import",
+        "value" : "from AS2686 action pref=80; accept AS-IGNEMEA"
+      }, {
+        "name" : "import",
+        "value" : "from AS2828 action pref=80; accept AS2828"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS2828 action pref=80; accept AS2828"
+      }, {
+        "name" : "import",
+        "value" : "from AS2856 action pref=80; accept AS-BTGB"
+      }, {
+        "name" : "import",
+        "value" : "from AS2914 action pref=80; accept AS-VERIO"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS2914 action pref=80; accept AS2914"
+      }, {
+        "name" : "import",
+        "value" : "from AS3257 action pref=80; accept AS-TISCALI"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS3257 action pref=80; accept AS3257"
+      }, {
+        "name" : "import",
+        "value" : "from AS3292 action pref=80; accept AS-TDCNET"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS3292 action pref=80; accept AS3292"
+      }, {
+        "name" : "import",
+        "value" : "from AS3303 action pref=80; accept AS-SWCMGLOBAL"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS3303 action pref=80; accept AS3303"
+      }, {
+        "name" : "import",
+        "value" : "from AS3320 action pref=80; accept AS-DTAG"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS3320 action pref=80; accept AS3320:AS-DTAG-V6"
+      }, {
+        "name" : "import",
+        "value" : "from AS3333 action pref=80; accept AS3333"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS3333 action pref=80; accept AS3333"
+      }, {
+        "name" : "import",
+        "value" : "from AS3356 action pref=80; accept AS-LEVELTHREEEU"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS3356 action pref=80; accept AS3356"
+      }, {
+        "name" : "import",
+        "value" : "from AS3491 action pref=80; accept AS-CAIS"
+      }, {
+        "name" : "import",
+        "value" : "from AS3549 action pref=80; accept AS-GBLX"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS3549 action pref=80; accept AS3549"
+      }, {
+        "name" : "import",
+        "value" : "from AS3561 action pref=80; accept AS-SAVVIS-TRANSIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS4134 action pref=80; accept AS4134"
+      }, {
+        "name" : "import",
+        "value" : "from AS4323 action pref=80; accept AS-TWTC"
+      }, {
+        "name" : "import",
+        "value" : "from AS4436 action pref=80; accept AS-NLAYER"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS4436 action pref=80; accept AS4436"
+      }, {
+        "name" : "import",
+        "value" : "from AS4559 action pref=80; accept AS4559"
+      }, {
+        "name" : "import",
+        "value" : "from AS4637 action pref=80; accept AS-REACH-CUSTOMERS"
+      }, {
+        "name" : "import",
+        "value" : "from AS4725 action pref=80; accept AS-JAPAN-TELECOM"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS4725 action pref=80; accept AS4725"
+      }, {
+        "name" : "import",
+        "value" : "from AS4766 action pref=80; accept AS-KORNETRE"
+      }, {
+        "name" : "import",
+        "value" : "from AS5400 action pref=80; accept AS-BT-EU"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS5400 action pref=80; accept AS5400"
+      }, {
+        "name" : "import",
+        "value" : "from AS5459 action pref=80; accept AS-LINX"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS5459 action pref=80; accept AS5459"
+      }, {
+        "name" : "import",
+        "value" : "from AS5511 action pref=80; accept AS-OPENTRANSIT"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS5511 action pref=80; accept AS5511"
+      }, {
+        "name" : "import",
+        "value" : "from AS6128 action pref=80; accept AS6128"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS6175 action pref=100; accept ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS6453 action pref=80; accept AS-GLOBEINTERNET"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS6453 action pref=80; accept AS6453"
+      }, {
+        "name" : "import",
+        "value" : "from AS6461 action pref=80; accept AS6461"
+      }, {
+        "name" : "import",
+        "value" : "from AS6695 action pref=80; accept AS-DECIX"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS6695 action pref=80; accept AS-DECIX-V6"
+      }, {
+        "name" : "import",
+        "value" : "from AS6774 action pref=80; accept AS-BELBONETOPEERS"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS6774 action pref=80; accept AS6774"
+      }, {
+        "name" : "import",
+        "value" : "from AS6830 action pref=80; accept AS-AORTA"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS6830 action pref=80; accept AS6830"
+      }, {
+        "name" : "import",
+        "value" : "from AS6939 action pref=80; accept AS-HURRICANE"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS6939 action pref=80; accept AS6939"
+      }, {
+        "name" : "import",
+        "value" : "from AS7018 action pref=80; accept AS7018"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS7018 action pref=80; accept AS7018"
+      }, {
+        "name" : "import",
+        "value" : "from AS7132 action pref=80; accept AS-SBCIS-7132"
+      }, {
+        "name" : "import",
+        "value" : "from AS7473 action pref=80; accept AS-SINGTEL-IX RS-SINGTEL"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS7473 action pref=80; accept AS7473"
+      }, {
+        "name" : "import",
+        "value" : "from AS7575 action pref=80; accept AS7575"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS7575 action pref=80; accept AS7575"
+      }, {
+        "name" : "import",
+        "value" : "from AS7922 action pref=80; accept AS7922"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS7922 action pref=80; accept AS7922"
+      }, {
+        "name" : "import",
+        "value" : "from AS8657 action pref=80; accept AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS10310 action pref=80; accept AS10310 AS7233"
+      }, {
+        "name" : "import",
+        "value" : "from AS12654 action pref=80; accept AS12654"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS12654 action pref=80; accept AS12654"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS12702 action pref=80; accept AS12702"
+      }, {
+        "name" : "import",
+        "value" : "from AS12956 action pref=80; accept AS-TDATANETEU AS12956"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS12956 action pref=50; accept AS12956 AS3352 AS766 AS27664 AS22548 AS16735"
+      }, {
+        "name" : "import",
+        "value" : "from AS15169 action pref=80; accept AS15169"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS15169 action pref=80; accept AS15169"
+      }, {
+        "name" : "import",
+        "value" : "from AS15412 action pref=80; accept AS-FLAGP"
+      }, {
+        "name" : "import",
+        "value" : "from AS15635 action pref=80; accept AS-YAHOOEU"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS17419 action pref=80; accept AS17419"
+      }, {
+        "name" : "import",
+        "value" : "from AS22773 action pref=80; accept AS22773"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS30071 action pref=80; accept AS-OCCAID6"
+      }, {
+        "name" : "import",
+        "value" : "from AS31800 action pref=80; accept AS31800"
+      }, {
+        "name" : "import",
+        "value" : "from AS37558 action pref=50; accept AS37558"
+      }, {
+        "name" : "import",
+        "value" : "from AS21219 action pref=50; accept AS-FF-TRANSIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20764 action pref=50; accept AS-RASCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS38742 action pref=50; accept AS38742"
+      }, {
+        "name" : "import",
+        "value" : "from AS55330 action pref=50; accept AS-SET-55330"
+      }, {
+        "name" : "import",
+        "value" : "from AS197650 action pref=50; accept AS197650"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS34419 action pref=80; accept AS34419 AS12956 AS15480 AS-VODAFONE-V6"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS20764 action pref=50; accept AS-RASCOM"
+      }, {
+        "name" : "remarks",
+        "value" : "================================================="
+      }, {
+        "name" : "export",
+        "value" : "to AS260 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS174 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS286 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS286 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS577 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS701 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS702 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS852 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS1200 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS1200 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS1239 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS1241 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS1241 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS1257 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS1257 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS1273 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS1273 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS1299 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS1299 announce AS-SEABONE-V6"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS1752 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS1668 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS1680 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS2516 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS2516 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS2609 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS2686 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS2828 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS2828 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS2856 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS2914 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS2914 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS3216 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS3216 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS3225 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS3257 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS3257 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS3269 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS3269 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS3292 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS3292 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS3302 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS3302 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS3303 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS3303 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS3320 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS3320 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS3329 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS3333 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS3333 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS3356 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS3356 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS3491 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS3549 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS3549 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS3561 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS3731 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS3731 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS4134 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS4230 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS4323 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS4436 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS4436 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS4559 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS4637 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS4651 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS4657 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS4725 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS4725 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS4761 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS4761 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS4766 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS5391 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS5391 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS5400 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS5400 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS5459 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS5459 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS5511 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS5511 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS5602 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS5609 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS5609 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS5610 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS5610 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS5639 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS6057 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS6057 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS6128 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS6175 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS6306 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS6429 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS6453 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS6453 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS6461 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS6568 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS6695 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS6695 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS6697 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS6697 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS6713 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS6758 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS6774 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS6774 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS6830 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS6830 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS6854 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS6855 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS6866 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS6910 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS6939 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS6939 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS7018 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS7018 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS7132 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS7270 announce AS6762"
+      }, {
+        "name" : "export",
+        "value" : "to AS7303 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS7303 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS7473 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS7473 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS7575 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS7575 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS7642 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS7642 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS7713 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS7713 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS7738 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS7922 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS7922 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS8002 announce AS6762"
+      }, {
+        "name" : "export",
+        "value" : "to AS8048 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8055 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8068 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS8069 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS8075 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS8075 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS8167 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8190 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS8190 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS8244 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8280 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8400 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS45758 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS8402 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS8402 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8447 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8452 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS8452 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS8487 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS8487 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS8513 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8657 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS8661 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8674 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS8674 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS8732 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS8732 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8866 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS8866 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8895 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8953 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS8953 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS8966 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS8966 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS9035 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS9038 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS9050 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS9050 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS9086 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS9116 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS9116 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS9145 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS9146 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS9146 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS9151 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS9269 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS9269 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS9329 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS9329 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS9381 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS9498 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS9534 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS9584 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS9584 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS9587 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS10026 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS10026 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS10102 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS10310 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS10318 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS11014 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS11556 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS11835 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12252 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12389 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS112389 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12486 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12491 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12455 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12566 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS12566 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12653 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12654 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS12654 announce AS-SEABONE-V6"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS12702 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS12779 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS12779 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12850 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS12850 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12874 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12880 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12883 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS12883 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12975 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS12956 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS12956 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12989 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS12989 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS13153 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS13248 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS14259 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS14259 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS14522 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS14259 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15133 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS15133 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15169 announce AS-SEABONE"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS15169 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS15412 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS15430 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15433 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15469 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS15469 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15557 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS15557 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15635 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS15706 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15735 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15808 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15943 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS15943 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15964 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS16016 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS16016 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS16097 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS16097 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS16206 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS16206 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS16265 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS17419 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS16276 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS16276 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS16397 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS16397 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS16509 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS16509 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS16735 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS17379 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS17444 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS17444 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS17494 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS17557 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS18001 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS18001 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS18106 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS18678 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS18678 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS18695 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS19180 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS20485 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS20507 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS20507 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS20541 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS20640 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS20640 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS20819 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS20819 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS20836 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS20836 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS20928 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS20959 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21003 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21284 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21488 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS22356 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS22822 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS22822 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS22773 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS23889 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS23936 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS24077 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS24218 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS24218 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS24608 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS24691 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS24863 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS25145 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS25152 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS25152 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS25187 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS25187 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS25229 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS25229 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS25250 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS25818 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS26615 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS26615 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS27017 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS27589 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS27648 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS27747 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS27747 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS27755 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS27757 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS27882 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS27882 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS27986 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS28024 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS28122 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS28168 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS28338 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS28346 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS28346 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS28590 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS28625 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS28676 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS28676 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS29049 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS29075 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS29075 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS29386 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS29527 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS29562 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS29562 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS30071 announce AS-SEABONE-V6"
+      }, {
+        "name" : "export",
+        "value" : "to AS30663 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS30663 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS30844 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS30848 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS30990 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31133 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31252 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS31252 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31404 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31463 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS31463 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31800 announce AS-SEABONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS32934 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS32934 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS33774 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34216 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34224 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34347 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS34347 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34400 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34695 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS34695 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34984 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35170 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35415 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35662 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS35662 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS36408 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS36866 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS36879 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS36890 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS62041 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS62041 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS36947 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS36992 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS37035 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS37168 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS37168 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS37204 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS37219 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS37233 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS37273 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS37305 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS37305 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS38040 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS38193 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39386 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS39386 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39802 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39912 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS39912 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41458 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS41458 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41697 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41711 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41920 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS41920 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42313 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42473 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS42473 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43009 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43279 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43338 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43890 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44160 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS44160 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44227 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS44227 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44356 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44939 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS45334 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS45334 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS45356 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS45530 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS45558 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS45561 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS46786 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47123 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47136 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47143 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47358 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47408 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS47408 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47541 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS47541 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47714 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47764 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS47764 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48159 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48518 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48832 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49025 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49431 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49466 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS49466 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49582 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50173 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS50173 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51269 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS512693 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS52280 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS52925 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS55103 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS58165 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS58601 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS58629 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS58656 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS58656 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS58668 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS58711 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS59507 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS60476 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS60476 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS131165 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS132602 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS132837 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS197290 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS197330 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS197985 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS198792 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS198792 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS199058 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS199308 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS200068 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS201770 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS262165 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS262195 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS262210 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS262589 announce ANY"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS262589 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS262686 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS262901 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS37558 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21219 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS20764 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS38742 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS55330 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS197650 announce ANY"
+      }, {
+        "name" : "remarks",
+        "value" : "================================================="
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "For Internet Abuse & Spam reports:"
+      }, {
+        "name" : "remarks",
+        "value" : "abuse@seabone.net"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "================================================="
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "Peering requests: peering@seabone.net"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "Please see peering.seabone.net for more informations"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "================================================="
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "BGP Communities support"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "Please see"
+      }, {
+        "name" : "remarks",
+        "value" : "http://etabeta.noc.seabone.net/communities.html"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "================================================="
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/organisation/ORG-TIIO1-RIPE"
+        },
+        "name" : "org",
+        "value" : "ORG-TIIO1-RIPE",
+        "referenced-type" : "organisation"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/SEA6-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "SEA6-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/SEA6-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "SEA6-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "name" : "remarks",
+        "value" : "For information on \"status:\" attribute read https://www.ripe.net/data-tools/db/faq/faq-status-values-legacy-resources"
+      }, {
+        "name" : "status",
+        "value" : "ASSIGNED"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-END-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-END-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/AS6762-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "AS6762-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    },
+    "tags" : {
+      "tag" : [ {
+        "id" : "RIPE-REGISTRY-RESOURCE",
+        "data" : null
+      } ]
+    }
+  }, {
+    "type" : "organisation",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/organisation/ORG-TIIO1-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "organisation",
+        "value" : "ORG-TIIO1-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "organisation",
+        "value" : "ORG-TIIO1-RIPE"
+      }, {
+        "name" : "org-name",
+        "value" : "TELECOM ITALIA SPARKLE S.p.A."
+      }, {
+        "name" : "org-type",
+        "value" : "LIR"
+      }, {
+        "name" : "address",
+        "value" : "Telecom Italia Sparkle S.p.A."
+      }, {
+        "name" : "address",
+        "value" : "Ufficio Legale"
+      }, {
+        "name" : "address",
+        "value" : "Via Cristoforo Colombo 142"
+      }, {
+        "name" : "address",
+        "value" : "00147"
+      }, {
+        "name" : "address",
+        "value" : "Rome"
+      }, {
+        "name" : "address",
+        "value" : "ITALY"
+      }, {
+        "name" : "phone",
+        "value" : "+390652744944"
+      }, {
+        "name" : "fax-no",
+        "value" : "+390652744610"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/AS6762-MNT"
+        },
+        "name" : "mnt-ref",
+        "value" : "AS6762-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-ref",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/FC347-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "FC347-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/SDG255-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "SDG255-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/SC11119-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "SC11119-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/GL4758-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "GL4758-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/AF5240-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "AF5240-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/LDG308-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "LDG308-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "name" : "abuse-mailbox",
+        "value" : "abuse@seabone.net"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/AD10960-RIPE"
+        },
+        "name" : "abuse-c",
+        "value" : "AD10960-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "role",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/role/SEA6-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "nic-hdl",
+        "value" : "SEA6-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "role",
+        "value" : "Seabone 2nd Level Support"
+      }, {
+        "name" : "address",
+        "value" : "Telecom Italia Sparkle"
+      }, {
+        "name" : "address",
+        "value" : "Via di Macchia Palocco 223"
+      }, {
+        "name" : "address",
+        "value" : "00125 Roma"
+      }, {
+        "name" : "address",
+        "value" : "Italy"
+      }, {
+        "name" : "abuse-mailbox",
+        "value" : "abuse@seabone.net"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/AF5240-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "AF5240-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/FC347-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "FC347-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/GL4758-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "GL4758-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/AF5240-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "AF5240-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/SC11119-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "SC11119-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/NU197-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "NU197-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "name" : "nic-hdl",
+        "value" : "SEA6-RIPE"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/AS6762-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "AS6762-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  } ]
+},
+"terms-and-conditions" : {
+  "type" : "locator",
+  "href" : "http://www.ripe.net/db/support/db-terms-conditions.pdf"
+}
+}

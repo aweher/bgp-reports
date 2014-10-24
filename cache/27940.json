@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27940",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27940"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CCCA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CCCA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cooperativa de Serv. Pub. de C.C. y J.M."],["adr",{"label":"J. Alice y Don Bosco xxx ()\nColonia Caroya,  5223\nAR","type":"work"},"text",["","","J. Alice y Don Bosco xxx ()","Colonia Caroya","","5223","AR"]],["email",{"type":"work"},"text","soptec@COOP5.COM.AR"],["tel",{"type":"work"},"text","54 3525 469129 (9172)"],["org",{},"text",["Cooperativa Colonia Caroya"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CSJ",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CSJ"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cooperativa de Serv. Pub. de C.C. y J.M."],["adr",{"label":"Avda. San Martin 138 ()\nColonia Caroya,  5223\nAR","type":"work"},"text",["","","Avda. San Martin 138 ()","Colonia Caroya","","5223","AR"]],["email",{"type":"work"},"text","soptec@COOP5.COM.AR"],["tel",{"type":"work"},"text","054 3525 469100 (129)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20031114",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130627",
+        "eventActor" : "CSJ"
+      } ],
+      "handle" : "CSJ"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030219",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "CSJ"
+    } ],
+    "handle" : "AR-CCCA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CSJ",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CSJ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cooperativa de Serv. Pub. de C.C. y J.M."],["adr",{"label":"Avda. San Martin 138 ()\nColonia Caroya,  5223\nAR","type":"work"},"text",["","","Avda. San Martin 138 ()","Colonia Caroya","","5223","AR"]],["email",{"type":"work"},"text","soptec@COOP5.COM.AR"],["tel",{"type":"work"},"text","054 3525 469100 (129)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031114",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130627",
+      "eventActor" : "CSJ"
+    } ],
+    "handle" : "CSJ"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CSJ",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CSJ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cooperativa de Serv. Pub. de C.C. y J.M."],["adr",{"label":"Avda. San Martin 138 ()\nColonia Caroya,  5223\nAR","type":"work"},"text",["","","Avda. San Martin 138 ()","Colonia Caroya","","5223","AR"]],["email",{"type":"work"},"text","soptec@COOP5.COM.AR"],["tel",{"type":"work"},"text","054 3525 469100 (129)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031114",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130627",
+      "eventActor" : "CSJ"
+    } ],
+    "handle" : "CSJ"
+  } ],
+  "startAutnum" : 27940,
+  "endAutnum" : 27940,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20071030",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20071030",
+    "eventActor" : "CSJ"
+  } ],
+  "type" : null,
+  "handle" : "27940-LACNIC",
+  "country" : "AR"
+}

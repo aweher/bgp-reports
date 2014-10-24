@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53183,
+  "endAutnum" : 53183,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53183",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53183"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100818",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "LCF13"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-QTSL1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-QTSL1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","LUIZ CLAUDIO RIBEIRO FARIA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVolta Grande, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Volta Grande","MG","04578-000","BR"]],["email",{"type":"work"},"text","LCF13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["org",{},"text",["QoS Tecnologia e Sistemas Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "LCF13"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LCF13",
+        "value" : "http://rdap.labs.lacnic.net/entity/LCF13"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","LUIZ CLAUDIO RIBEIRO FARIA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVolta Grande, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Volta Grande","MG","04578-000","BR"]],["email",{"type":"work"},"text","LCF13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LCF13"
+      } ],
+      "entities" : [ ],
+      "handle" : "LCF13"
+    } ],
+    "handle" : "BR-QTSL1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LCF13",
+      "value" : "http://rdap.labs.lacnic.net/entity/LCF13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","LUIZ CLAUDIO RIBEIRO FARIA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVolta Grande, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Volta Grande","MG","04578-000","BR"]],["email",{"type":"work"},"text","LCF13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LCF13"
+    } ],
+    "entities" : [ ],
+    "handle" : "LCF13"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LCF13",
+      "value" : "http://rdap.labs.lacnic.net/entity/LCF13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","LUIZ CLAUDIO RIBEIRO FARIA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVolta Grande, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Volta Grande","MG","04578-000","BR"]],["email",{"type":"work"},"text","LCF13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LCF13"
+    } ],
+    "entities" : [ ],
+    "handle" : "LCF13"
+  } ],
+  "type" : null,
+  "handle" : "53183-LACNIC",
+  "country" : "BR"
+}

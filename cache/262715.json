@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262715,
+  "endAutnum" : 262715,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262715",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262715"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100127",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "DFD"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CCEL31-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CCEL31-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Fernando Dutra"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Sebasti?o do Ca?, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Sebasti?o do Ca?","RS","04578-000","BR"]],["email",{"type":"work"},"text","DFD@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["Caezar Provedor de Internet LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130730",
+      "eventActor" : "DFD"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DFD",
+        "value" : "http://rdap.labs.lacnic.net/entity/DFD"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Fernando Dutra"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Sebasti?o Do Ca?, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Sebasti?o Do Ca?","RS","04578-000","BR"]],["email",{"type":"work"},"text","DFD@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DFD"
+      } ],
+      "entities" : [ ],
+      "handle" : "DFD"
+    } ],
+    "handle" : "BR-CCEL31-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DFD",
+      "value" : "http://rdap.labs.lacnic.net/entity/DFD"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Fernando Dutra"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Sebasti?o Do Ca?, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Sebasti?o Do Ca?","RS","04578-000","BR"]],["email",{"type":"work"},"text","DFD@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DFD"
+    } ],
+    "entities" : [ ],
+    "handle" : "DFD"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DFD",
+      "value" : "http://rdap.labs.lacnic.net/entity/DFD"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Fernando Dutra"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Sebasti?o Do Ca?, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Sebasti?o Do Ca?","RS","04578-000","BR"]],["email",{"type":"work"},"text","DFD@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DFD"
+    } ],
+    "entities" : [ ],
+    "handle" : "DFD"
+  } ],
+  "type" : null,
+  "handle" : "262715-LACNIC",
+  "country" : "BR"
+}

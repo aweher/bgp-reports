@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262998,
+  "endAutnum" : 262998,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262998",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262998"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120516",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130608",
+    "eventActor" : "ALA79"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-LNSC-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-LNSC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Elizeu Jose Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBaixo Guandu, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Baixo Guandu","ES","04578-000","BR"]],["email",{"type":"work"},"text","EJS14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["org",{},"text",["Logos Net Servicos de Comunicacao Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "EJS14"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EJS14",
+        "value" : "http://rdap.labs.lacnic.net/entity/EJS14"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Elizeu Jose Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBaixo Guandu, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Baixo Guandu","ES","04578-000","BR"]],["email",{"type":"work"},"text","EJS14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130506",
+        "eventActor" : "EJS14"
+      } ],
+      "entities" : [ ],
+      "handle" : "EJS14"
+    } ],
+    "handle" : "BR-LNSC-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALA79",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALA79"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andreas Leo Assimakopoulos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBaixo Guandu, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Baixo Guandu","","04578-000","BR"]],["email",{"type":"work"},"text","ALA79@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130325",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130325",
+      "eventActor" : "ALA79"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALA79"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EJS14",
+      "value" : "http://rdap.labs.lacnic.net/entity/EJS14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Elizeu Jose Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBaixo Guandu, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Baixo Guandu","ES","04578-000","BR"]],["email",{"type":"work"},"text","EJS14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130506",
+      "eventActor" : "EJS14"
+    } ],
+    "entities" : [ ],
+    "handle" : "EJS14"
+  } ],
+  "type" : null,
+  "handle" : "262998-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262760,
+  "endAutnum" : 262760,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262760",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262760"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100728",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "STT2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SVTL5-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SVTL5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Tadashi Takagaki"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","FTT2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["Smart Voip Telecomunicacoes Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "FTT2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FTT2",
+        "value" : "http://rdap.labs.lacnic.net/entity/FTT2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Tadashi Takagaki"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMogi das Cruzes, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mogi das Cruzes","SP","04578-000","BR"]],["email",{"type":"work"},"text","FTT2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FTT2"
+      } ],
+      "entities" : [ ],
+      "handle" : "FTT2"
+    } ],
+    "handle" : "BR-SVTL5-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/STT2",
+      "value" : "http://rdap.labs.lacnic.net/entity/STT2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Smart Telecom Abuse Team"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMogi das Cruzes, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mogi das Cruzes","SP","04578-000","BR"]],["email",{"type":"work"},"text","STT2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "STT2"
+    } ],
+    "entities" : [ ],
+    "handle" : "STT2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/STT5",
+      "value" : "http://rdap.labs.lacnic.net/entity/STT5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Smart Telecom Security Team"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMogi das Cruzes, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mogi das Cruzes","SP","04578-000","BR"]],["email",{"type":"work"},"text","STT5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "STT5"
+    } ],
+    "entities" : [ ],
+    "handle" : "STT5"
+  } ],
+  "type" : null,
+  "handle" : "262760-LACNIC",
+  "country" : "BR"
+}

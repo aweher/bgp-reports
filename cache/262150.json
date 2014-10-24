@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262150",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262150"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-EPEC2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-EPEC2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mart?n Aguilera"],["adr",{"label":"Tablada 350 ()\nCordoba, CB X5000FEJ\nAR","type":"work"},"text",["","","Tablada 350 ()","Cordoba","CB","X5000FEJ","AR"]],["email",{"type":"work"},"text","maguilera@EPEC.COM.AR"],["tel",{"type":"work"},"text","54 351 4296000 ()"],["org",{},"text",["Empresa Provincial de Energia de Cordoba"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MAA34",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAA34"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mart?n Aguilera"],["adr",{"label":"Av. Richeri 3850 (B? Jard?n)\nC?rdoba,  X5000FEJ\nAR","type":"work"},"text",["","","Av. Richeri 3850 (B? Jard?n)","C?rdoba","","X5000FEJ","AR"]],["email",{"type":"work"},"text","maguilera@EPEC.COM.AR"],["tel",{"type":"work"},"text","0054 351 4296500 (6493)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090126",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110105",
+        "eventActor" : "MAA34"
+      } ],
+      "handle" : "MAA34"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070628",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "MAA34"
+    } ],
+    "handle" : "AR-EPEC2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAA34",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAA34"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mart?n Aguilera"],["adr",{"label":"Av. Richeri 3850 (B? Jard?n)\nC?rdoba,  X5000FEJ\nAR","type":"work"},"text",["","","Av. Richeri 3850 (B? Jard?n)","C?rdoba","","X5000FEJ","AR"]],["email",{"type":"work"},"text","maguilera@EPEC.COM.AR"],["tel",{"type":"work"},"text","0054 351 4296500 (6493)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090126",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110105",
+      "eventActor" : "MAA34"
+    } ],
+    "handle" : "MAA34"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAA34",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAA34"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mart?n Aguilera"],["adr",{"label":"Av. Richeri 3850 (B? Jard?n)\nC?rdoba,  X5000FEJ\nAR","type":"work"},"text",["","","Av. Richeri 3850 (B? Jard?n)","C?rdoba","","X5000FEJ","AR"]],["email",{"type":"work"},"text","maguilera@EPEC.COM.AR"],["tel",{"type":"work"},"text","0054 351 4296500 (6493)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090126",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110105",
+      "eventActor" : "MAA34"
+    } ],
+    "handle" : "MAA34"
+  } ],
+  "startAutnum" : 262150,
+  "endAutnum" : 262150,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110112",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110112",
+    "eventActor" : "MAA34"
+  } ],
+  "type" : null,
+  "handle" : "262150-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28109",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28109"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-FSPE-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-FSPE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CARLOS MATRANGOLO"],["adr",{"label":"12 DE OCTUBRE 1842 ()\nBAHIA BLANCA, BA 8000\nAR","type":"work"},"text",["","","12 DE OCTUBRE 1842 ()","BAHIA BLANCA","BA","8000","AR"]],["email",{"type":"work"},"text","symatran@CRIBA.EDU.AR"],["tel",{"type":"work"},"text","54 291 4861666 (345)"],["org",{},"text",["FUNDACION DEL SUR PARA EL DESARROLLO TECNOLOGICO (FUNDASUR)"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CAM15",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CAM15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CARLOS MATRANGOLO"],["adr",{"label":"Camino La Carrindanga Km.7 ()\nBAHIA BLANCA, BA 8000\nAR","type":"work"},"text",["","","Camino La Carrindanga Km.7 ()","BAHIA BLANCA","BA","8000","AR"]],["email",{"type":"work"},"text","symatran@CRIBA.EDU.AR"],["tel",{"type":"work"},"text","54 291 4861666 (345)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20070420",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20101207",
+        "eventActor" : "CAM15"
+      } ],
+      "handle" : "CAM15"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091214",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110510",
+      "eventActor" : "CAM15"
+    } ],
+    "handle" : "AR-FSPE-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CAM15",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAM15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CARLOS MATRANGOLO"],["adr",{"label":"Camino La Carrindanga Km.7 ()\nBAHIA BLANCA, BA 8000\nAR","type":"work"},"text",["","","Camino La Carrindanga Km.7 ()","BAHIA BLANCA","BA","8000","AR"]],["email",{"type":"work"},"text","symatran@CRIBA.EDU.AR"],["tel",{"type":"work"},"text","54 291 4861666 (345)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070420",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101207",
+      "eventActor" : "CAM15"
+    } ],
+    "handle" : "CAM15"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CAM15",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAM15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CARLOS MATRANGOLO"],["adr",{"label":"Camino La Carrindanga Km.7 ()\nBAHIA BLANCA, BA 8000\nAR","type":"work"},"text",["","","Camino La Carrindanga Km.7 ()","BAHIA BLANCA","BA","8000","AR"]],["email",{"type":"work"},"text","symatran@CRIBA.EDU.AR"],["tel",{"type":"work"},"text","54 291 4861666 (345)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070420",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101207",
+      "eventActor" : "CAM15"
+    } ],
+    "handle" : "CAM15"
+  } ],
+  "startAutnum" : 28109,
+  "endAutnum" : 28109,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100104",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100104",
+    "eventActor" : "CAM15"
+  } ],
+  "type" : null,
+  "handle" : "28109-LACNIC",
+  "country" : "AR"
+}

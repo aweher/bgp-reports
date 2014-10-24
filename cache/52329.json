@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52329",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52329"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-RABE-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-RABE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Raul Bertani"],["adr",{"label":"General Lopez 943 ()\nCa?ada Rosquin, SF 2454\nAR","type":"work"},"text",["","","General Lopez 943 ()","Ca?ada Rosquin","SF","2454","AR"]],["email",{"type":"work"},"text","raulbertani@VELOSAT.COM.AR"],["tel",{"type":"work"},"text","54 3401 470393 ()"],["org",{},"text",["Raul Alberto Bertani"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/RAB14",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/RAB14"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Raul Bertani"],["adr",{"label":"Buenos Aires 485 ()\nCañada Rosquin, null 2454\nAR","type":"work"},"text",["","","Buenos Aires 485 ()","Cañada Rosquin","","2454","AR"]],["email",{"type":"work"},"text","raulbertani@VELOSAT.COM.AR"],["tel",{"type":"work"},"text","54 3401 470393 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110802",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110802",
+        "eventActor" : "RAB14"
+      } ],
+      "handle" : "RAB14"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110908",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "RAB14"
+    } ],
+    "handle" : "AR-RABE-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RAB14",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RAB14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Raul Bertani"],["adr",{"label":"Buenos Aires 485 ()\nCañada Rosquin, null 2454\nAR","type":"work"},"text",["","","Buenos Aires 485 ()","Cañada Rosquin","","2454","AR"]],["email",{"type":"work"},"text","raulbertani@VELOSAT.COM.AR"],["tel",{"type":"work"},"text","54 3401 470393 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110802",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110802",
+      "eventActor" : "RAB14"
+    } ],
+    "handle" : "RAB14"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RAB14",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RAB14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Raul Bertani"],["adr",{"label":"Buenos Aires 485 ()\nCañada Rosquin, null 2454\nAR","type":"work"},"text",["","","Buenos Aires 485 ()","Cañada Rosquin","","2454","AR"]],["email",{"type":"work"},"text","raulbertani@VELOSAT.COM.AR"],["tel",{"type":"work"},"text","54 3401 470393 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110802",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110802",
+      "eventActor" : "RAB14"
+    } ],
+    "handle" : "RAB14"
+  } ],
+  "startAutnum" : 52329,
+  "endAutnum" : 52329,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111014",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20111104",
+    "eventActor" : "RAB14"
+  } ],
+  "type" : null,
+  "handle" : "52329-LACNIC",
+  "country" : "AR"
+}

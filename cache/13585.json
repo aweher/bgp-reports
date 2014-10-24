@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/13585",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/13585"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-PVSA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-PVSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Domain Admin - PowerVT"],["adr",{"label":"Chacabuco 520 ()\nCordoba, CO 5000\nAR","type":"work"},"text",["","","Chacabuco 520 ()","Cordoba","CO","5000","AR"]],["email",{"type":"work"},"text","dominios@POWERVT.COM.AR"],["tel",{"type":"work"},"text","54 351 5890000 ()"],["org",{},"text",["Power VT S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/DAP21",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAP21"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Domain Admin - PowerVT"],["adr",{"label":"Chacabuco 520 ()\nCordoba, CB 5000\nAR","type":"work"},"text",["","","Chacabuco 520 ()","Cordoba","CB","5000","AR"]],["email",{"type":"work"},"text","dominios@POWERVT.COM.AR"],["tel",{"type":"work"},"text","54 351 5890000 (3232)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20111019",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121012",
+        "eventActor" : "DAP21"
+      } ],
+      "handle" : "DAP21"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020925",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "DAP21"
+    } ],
+    "handle" : "AR-PVSA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DAP21",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAP21"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Domain Admin - PowerVT"],["adr",{"label":"Chacabuco 520 ()\nCordoba, CB 5000\nAR","type":"work"},"text",["","","Chacabuco 520 ()","Cordoba","CB","5000","AR"]],["email",{"type":"work"},"text","dominios@POWERVT.COM.AR"],["tel",{"type":"work"},"text","54 351 5890000 (3232)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20111019",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121012",
+      "eventActor" : "DAP21"
+    } ],
+    "handle" : "DAP21"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DAP21",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAP21"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Domain Admin - PowerVT"],["adr",{"label":"Chacabuco 520 ()\nCordoba, CB 5000\nAR","type":"work"},"text",["","","Chacabuco 520 ()","Cordoba","CB","5000","AR"]],["email",{"type":"work"},"text","dominios@POWERVT.COM.AR"],["tel",{"type":"work"},"text","54 351 5890000 (3232)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20111019",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121012",
+      "eventActor" : "DAP21"
+    } ],
+    "handle" : "DAP21"
+  } ],
+  "startAutnum" : 13585,
+  "endAutnum" : 13585,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19990711",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20111019",
+    "eventActor" : "DAP21"
+  } ],
+  "type" : null,
+  "handle" : "13585-LACNIC",
+  "country" : "AR"
+}

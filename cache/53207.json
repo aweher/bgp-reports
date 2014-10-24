@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53207,
+  "endAutnum" : 53207,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53207",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53207"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100915",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "FSZ2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TPDS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TPDS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Frank Silvestre Zequim"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nUMUARAMA, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","UMUARAMA","PR","04578-000","BR"]],["email",{"type":"work"},"text","FSZ2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 04 455093511 ()"],["org",{},"text",["TVC DO PARANA DISTRIB. DE SINAIS DE TELEVISAO LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "FSZ2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FSZ2",
+        "value" : "http://rdap.labs.lacnic.net/entity/FSZ2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Frank Silvestre Zequim"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nUmuarama, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Umuarama","PR","04578-000","BR"]],["email",{"type":"work"},"text","FSZ2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FSZ2"
+      } ],
+      "entities" : [ ],
+      "handle" : "FSZ2"
+    } ],
+    "handle" : "BR-TPDS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FSZ2",
+      "value" : "http://rdap.labs.lacnic.net/entity/FSZ2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Frank Silvestre Zequim"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nUmuarama, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Umuarama","PR","04578-000","BR"]],["email",{"type":"work"},"text","FSZ2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FSZ2"
+    } ],
+    "entities" : [ ],
+    "handle" : "FSZ2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FSZ2",
+      "value" : "http://rdap.labs.lacnic.net/entity/FSZ2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Frank Silvestre Zequim"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nUmuarama, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Umuarama","PR","04578-000","BR"]],["email",{"type":"work"},"text","FSZ2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FSZ2"
+    } ],
+    "entities" : [ ],
+    "handle" : "FSZ2"
+  } ],
+  "type" : null,
+  "handle" : "53207-LACNIC",
+  "country" : "BR"
+}

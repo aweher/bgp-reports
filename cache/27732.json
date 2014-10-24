@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27732",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27732"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-AHSA1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-AHSA1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rigoberto Jorquera"],["adr",{"label":"Avda Providencia 1909 ()\nSantiago, RM 6640714\nCL","type":"work"},"text",["","","Avda Providencia 1909 ()","Santiago","RM","6640714","CL"]],["email",{"type":"work"},"text","telcosistemas@AFPHABITAT.CL"],["tel",{"type":"work"},"text","56 2 3782518 ()"],["org",{},"text",["A.F.P. Habitat S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/LUP",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/LUP"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rigoberto Jorquera"],["adr",{"label":"Avda. Providencia 1909 ()\nSantiago, RM 6640714\nCL","type":"work"},"text",["","","Avda. Providencia 1909 ()","Santiago","RM","6640714","CL"]],["email",{"type":"work"},"text","telcosistemas@AFPHABITAT.CL"],["tel",{"type":"work"},"text","56 2 3782518 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20040113",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20070314",
+        "eventActor" : "LUP"
+      } ],
+      "handle" : "LUP"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040113",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060920",
+      "eventActor" : "LUP"
+    } ],
+    "handle" : "CL-AHSA1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/LUP",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/LUP"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rigoberto Jorquera"],["adr",{"label":"Avda. Providencia 1909 ()\nSantiago, RM 6640714\nCL","type":"work"},"text",["","","Avda. Providencia 1909 ()","Santiago","RM","6640714","CL"]],["email",{"type":"work"},"text","telcosistemas@AFPHABITAT.CL"],["tel",{"type":"work"},"text","56 2 3782518 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040113",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070314",
+      "eventActor" : "LUP"
+    } ],
+    "handle" : "LUP"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/LUP",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/LUP"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rigoberto Jorquera"],["adr",{"label":"Avda. Providencia 1909 ()\nSantiago, RM 6640714\nCL","type":"work"},"text",["","","Avda. Providencia 1909 ()","Santiago","RM","6640714","CL"]],["email",{"type":"work"},"text","telcosistemas@AFPHABITAT.CL"],["tel",{"type":"work"},"text","56 2 3782518 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040113",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070314",
+      "eventActor" : "LUP"
+    } ],
+    "handle" : "LUP"
+  } ],
+  "startAutnum" : 27732,
+  "endAutnum" : 27732,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20040322",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20040322",
+    "eventActor" : "LUP"
+  } ],
+  "type" : null,
+  "handle" : "27732-LACNIC",
+  "country" : "CL"
+}

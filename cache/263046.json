@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263046,
+  "endAutnum" : 263046,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263046",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263046"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120308",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131004",
+    "eventActor" : "JOD17"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NTLM2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NTLM2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JOELSON DOTTA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIbicar?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ibicar?","SC","04578-000","BR"]],["email",{"type":"work"},"text","JOD17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["org",{},"text",["NOVANET TELECOMUNICA??ES LTDA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131004",
+      "eventActor" : "JOD17"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JOD17",
+        "value" : "http://rdap.labs.lacnic.net/entity/JOD17"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JOELSON DOTTA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIbicar?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ibicar?","SC","04578-000","BR"]],["email",{"type":"work"},"text","JOD17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JOD17"
+      } ],
+      "entities" : [ ],
+      "handle" : "JOD17"
+    } ],
+    "handle" : "BR-NTLM2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JOD17",
+      "value" : "http://rdap.labs.lacnic.net/entity/JOD17"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JOELSON DOTTA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIbicar?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ibicar?","SC","04578-000","BR"]],["email",{"type":"work"},"text","JOD17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JOD17"
+    } ],
+    "entities" : [ ],
+    "handle" : "JOD17"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RAS93",
+      "value" : "http://rdap.labs.lacnic.net/entity/RAS93"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael de Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLuzerna, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Luzerna","SC","04578-000","BR"]],["email",{"type":"work"},"text","RAS93@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131004",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131004",
+      "eventActor" : "RAS93"
+    } ],
+    "entities" : [ ],
+    "handle" : "RAS93"
+  } ],
+  "type" : null,
+  "handle" : "263046-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262857,
+  "endAutnum" : 262857,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262857",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262857"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101215",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "SIU2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-UFRG3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-UFRG3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Superintend?ncia de Inform?tica - UFRN"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNatal, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Natal","RN","04578-000","BR"]],["email",{"type":"work"},"text","SIU2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["org",{},"text",["UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "SIU2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SIU2",
+        "value" : "http://rdap.labs.lacnic.net/entity/SIU2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Superintend?ncia de Inform?tica - UFRN"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNatal, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Natal","RN","04578-000","BR"]],["email",{"type":"work"},"text","SIU2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 08 455093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SIU2"
+      } ],
+      "entities" : [ ],
+      "handle" : "SIU2"
+    } ],
+    "handle" : "BR-UFRG3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SIU2",
+      "value" : "http://rdap.labs.lacnic.net/entity/SIU2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Superintend?ncia de Inform?tica - UFRN"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNatal, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Natal","RN","04578-000","BR"]],["email",{"type":"work"},"text","SIU2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 08 455093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SIU2"
+    } ],
+    "entities" : [ ],
+    "handle" : "SIU2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SIU2",
+      "value" : "http://rdap.labs.lacnic.net/entity/SIU2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Superintend?ncia de Inform?tica - UFRN"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNatal, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Natal","RN","04578-000","BR"]],["email",{"type":"work"},"text","SIU2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 08 455093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SIU2"
+    } ],
+    "entities" : [ ],
+    "handle" : "SIU2"
+  } ],
+  "type" : null,
+  "handle" : "262857-LACNIC",
+  "country" : "BR"
+}

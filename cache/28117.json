@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28117",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28117"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CIAS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CIAS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Santiago Segura"],["adr",{"label":"Av del Libertador 1969 (piso 2)\nBuenos Aires,  B1638BGF\nAR","type":"work"},"text",["","","Av del Libertador 1969 (piso 2)","Buenos Aires","","B1638BGF","AR"]],["email",{"type":"work"},"text","ssegura@IREVNA.COM"],["tel",{"type":"work"},"text","54 11 48377645 ()"],["org",{},"text",["Crisil Irevna Argentina S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SAS9",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SAS9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Santiago Segura"],["adr",{"label":"Av. del Libertador 1969 (piso 2)\nBuenos Aires, null B1638BGF\nAR","type":"work"},"text",["","","Av. del Libertador 1969 (piso 2)","Buenos Aires","","B1638BGF","AR"]],["email",{"type":"work"},"text","ssegura@IREVNA.COM"],["tel",{"type":"work"},"text","54 11 4837 (7645)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100121",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100121",
+        "eventActor" : "SAS9"
+      } ],
+      "handle" : "SAS9"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100127",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "SAS9"
+    } ],
+    "handle" : "AR-CIAS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SAS9",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SAS9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Santiago Segura"],["adr",{"label":"Av. del Libertador 1969 (piso 2)\nBuenos Aires, null B1638BGF\nAR","type":"work"},"text",["","","Av. del Libertador 1969 (piso 2)","Buenos Aires","","B1638BGF","AR"]],["email",{"type":"work"},"text","ssegura@IREVNA.COM"],["tel",{"type":"work"},"text","54 11 4837 (7645)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100121",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100121",
+      "eventActor" : "SAS9"
+    } ],
+    "handle" : "SAS9"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SAS9",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SAS9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Santiago Segura"],["adr",{"label":"Av. del Libertador 1969 (piso 2)\nBuenos Aires, null B1638BGF\nAR","type":"work"},"text",["","","Av. del Libertador 1969 (piso 2)","Buenos Aires","","B1638BGF","AR"]],["email",{"type":"work"},"text","ssegura@IREVNA.COM"],["tel",{"type":"work"},"text","54 11 4837 (7645)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100121",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100121",
+      "eventActor" : "SAS9"
+    } ],
+    "handle" : "SAS9"
+  } ],
+  "startAutnum" : 28117,
+  "endAutnum" : 28117,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100210",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100213",
+    "eventActor" : "SAS9"
+  } ],
+  "type" : null,
+  "handle" : "28117-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52371",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52371"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-XCSA1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-XCSA1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Segio Castillo"],["adr",{"label":"AV.RIOJA SUR 599 (-)\nSAN JUAN,  5400\nAR","type":"work"},"text",["","","AV.RIOJA SUR 599 (-)","SAN JUAN","","5400","AR"]],["email",{"type":"work"},"text","scastillo@XFCOMUNICACIONES.COM.AR"],["tel",{"type":"work"},"text","54 264 4201413 ()"],["org",{},"text",["XF Comunicaciones S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SEC7",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SEC7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Segio Castillo"],["adr",{"label":"Av Rioja Sur 599 ()\nSan Juan, SJ 5400\nAR","type":"work"},"text",["","","Av Rioja Sur 599 ()","San Juan","SJ","5400","AR"]],["email",{"type":"work"},"text","scastillo@XFCOMUNICACIONES.COM.AR"],["tel",{"type":"work"},"text","54 264 4201413 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080326",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131125",
+        "eventActor" : "SEC7"
+      } ],
+      "handle" : "SEC7"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080528",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "SEC7"
+    } ],
+    "handle" : "AR-XCSA1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SEC7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SEC7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Segio Castillo"],["adr",{"label":"Av Rioja Sur 599 ()\nSan Juan, SJ 5400\nAR","type":"work"},"text",["","","Av Rioja Sur 599 ()","San Juan","SJ","5400","AR"]],["email",{"type":"work"},"text","scastillo@XFCOMUNICACIONES.COM.AR"],["tel",{"type":"work"},"text","54 264 4201413 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080326",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131125",
+      "eventActor" : "SEC7"
+    } ],
+    "handle" : "SEC7"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SEC7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SEC7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Segio Castillo"],["adr",{"label":"Av Rioja Sur 599 ()\nSan Juan, SJ 5400\nAR","type":"work"},"text",["","","Av Rioja Sur 599 ()","San Juan","SJ","5400","AR"]],["email",{"type":"work"},"text","scastillo@XFCOMUNICACIONES.COM.AR"],["tel",{"type":"work"},"text","54 264 4201413 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080326",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131125",
+      "eventActor" : "SEC7"
+    } ],
+    "handle" : "SEC7"
+  } ],
+  "startAutnum" : 52371,
+  "endAutnum" : 52371,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120523",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120523",
+    "eventActor" : "SEC7"
+  } ],
+  "type" : null,
+  "handle" : "52371-LACNIC",
+  "country" : "AR"
+}

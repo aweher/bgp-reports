@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263621,
+  "endAutnum" : 263621,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263621",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263621"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130918",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130918",
+    "eventActor" : "JMI4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PCAP-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PCAP-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","J. Malucelli Tecnologia da Informa??o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","","04578-000","BR"]],["email",{"type":"work"},"text","JMI4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["org",{},"text",["PORTO DE CIMA ADM., PARTICIPACAO E SERVICOS S/A"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "JMI4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JMI4",
+        "value" : "http://rdap.labs.lacnic.net/entity/JMI4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","J. Malucelli Tecnologia da Informa??o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","PR","04578-000","BR"]],["email",{"type":"work"},"text","JMI4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JMI4"
+      } ],
+      "entities" : [ ],
+      "handle" : "JMI4"
+    } ],
+    "handle" : "BR-PCAP-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JMI4",
+      "value" : "http://rdap.labs.lacnic.net/entity/JMI4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","J. Malucelli Tecnologia da Informa??o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","PR","04578-000","BR"]],["email",{"type":"work"},"text","JMI4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JMI4"
+    } ],
+    "entities" : [ ],
+    "handle" : "JMI4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JMI4",
+      "value" : "http://rdap.labs.lacnic.net/entity/JMI4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","J. Malucelli Tecnologia da Informa??o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","PR","04578-000","BR"]],["email",{"type":"work"},"text","JMI4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JMI4"
+    } ],
+    "entities" : [ ],
+    "handle" : "JMI4"
+  } ],
+  "type" : null,
+  "handle" : "263621-LACNIC",
+  "country" : "BR"
+}

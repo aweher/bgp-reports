@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27865",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27865"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TWSA3-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TWSA3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Ariel Santos"],["adr",{"label":"Av. Belgrano 430 (10? Oficin D)\nBuenos Aires, CF C1092AAR\nAR","type":"work"},"text",["","","Av. Belgrano 430 (10? Oficin D)","Buenos Aires","CF","C1092AAR","AR"]],["email",{"type":"work"},"text","noc@WORKOUT.COM.AR"],["tel",{"type":"work"},"text","54 11 48784450 (118)"],["org",{},"text",["Tecnologia WorkOut S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/TWS",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/TWS"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Ariel Santos"],["adr",{"label":"Av. Belgrano 430 (10?)\nCAPITAL, BA C1092AAR\nAR","type":"work"},"text",["","","Av. Belgrano 430 (10?)","CAPITAL","BA","C1092AAR","AR"]],["email",{"type":"work"},"text","noc@WORKOUT.COM.AR"],["tel",{"type":"work"},"text","054 011 55521050 (141)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060921",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110616",
+        "eventActor" : "TWS"
+      } ],
+      "handle" : "TWS"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20061002",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "TWS"
+    } ],
+    "handle" : "AR-TWSA3-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/TWS",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/TWS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Ariel Santos"],["adr",{"label":"Av. Belgrano 430 (10?)\nCAPITAL, BA C1092AAR\nAR","type":"work"},"text",["","","Av. Belgrano 430 (10?)","CAPITAL","BA","C1092AAR","AR"]],["email",{"type":"work"},"text","noc@WORKOUT.COM.AR"],["tel",{"type":"work"},"text","054 011 55521050 (141)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060921",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110616",
+      "eventActor" : "TWS"
+    } ],
+    "handle" : "TWS"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/TWS",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/TWS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Ariel Santos"],["adr",{"label":"Av. Belgrano 430 (10?)\nCAPITAL, BA C1092AAR\nAR","type":"work"},"text",["","","Av. Belgrano 430 (10?)","CAPITAL","BA","C1092AAR","AR"]],["email",{"type":"work"},"text","noc@WORKOUT.COM.AR"],["tel",{"type":"work"},"text","054 011 55521050 (141)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060921",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110616",
+      "eventActor" : "TWS"
+    } ],
+    "handle" : "TWS"
+  } ],
+  "startAutnum" : 27865,
+  "endAutnum" : 27865,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20061017",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120117",
+    "eventActor" : "TWS"
+  } ],
+  "type" : null,
+  "handle" : "27865-LACNIC",
+  "country" : "AR"
+}

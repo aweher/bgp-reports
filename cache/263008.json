@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263008,
+  "endAutnum" : 263008,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263008",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263008"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120522",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130903",
+    "eventActor" : "WIO5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-UTIL2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-UTIL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonardo Vitor Souza e Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVolta Redonda, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Volta Redonda","RJ","04578-000","BR"]],["email",{"type":"work"},"text","LVS4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["org",{},"text",["UNIREDES TELECOMUNICACOES E INFORMATICA LTDA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "LVS4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LVS4",
+        "value" : "http://rdap.labs.lacnic.net/entity/LVS4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonardo Vitor Souza e Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVolta Redonda, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Volta Redonda","RJ","04578-000","BR"]],["email",{"type":"work"},"text","LVS4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131126",
+        "eventActor" : "LVS4"
+      } ],
+      "entities" : [ ],
+      "handle" : "LVS4"
+    } ],
+    "handle" : "BR-UTIL2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WIO5",
+      "value" : "http://rdap.labs.lacnic.net/entity/WIO5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","wildes oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio de Janeiro, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio de Janeiro","RJ","04578-000","BR"]],["email",{"type":"work"},"text","WIO5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WIO5"
+    } ],
+    "entities" : [ ],
+    "handle" : "WIO5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LVS4",
+      "value" : "http://rdap.labs.lacnic.net/entity/LVS4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonardo Vitor Souza e Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVolta Redonda, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Volta Redonda","RJ","04578-000","BR"]],["email",{"type":"work"},"text","LVS4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131126",
+      "eventActor" : "LVS4"
+    } ],
+    "entities" : [ ],
+    "handle" : "LVS4"
+  } ],
+  "type" : null,
+  "handle" : "263008-LACNIC",
+  "country" : "BR"
+}

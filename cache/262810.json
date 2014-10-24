@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262810,
+  "endAutnum" : 262810,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262810",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262810"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101018",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "CRB28"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CRBC-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CRBC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Clovis Ricardo Bardi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLOANDA, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","LOANDA","PR","04578-000","BR"]],["email",{"type":"work"},"text","CRB28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["org",{},"text",["C. R. BARDI & CIA LTDA - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "CRB28"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CRB28",
+        "value" : "http://rdap.labs.lacnic.net/entity/CRB28"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Clovis Ricardo Bardi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLoanda, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Loanda","PR","04578-000","BR"]],["email",{"type":"work"},"text","CRB28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CRB28"
+      } ],
+      "entities" : [ ],
+      "handle" : "CRB28"
+    } ],
+    "handle" : "BR-CRBC-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CRB28",
+      "value" : "http://rdap.labs.lacnic.net/entity/CRB28"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Clovis Ricardo Bardi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLoanda, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Loanda","PR","04578-000","BR"]],["email",{"type":"work"},"text","CRB28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CRB28"
+    } ],
+    "entities" : [ ],
+    "handle" : "CRB28"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CRB28",
+      "value" : "http://rdap.labs.lacnic.net/entity/CRB28"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Clovis Ricardo Bardi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLoanda, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Loanda","PR","04578-000","BR"]],["email",{"type":"work"},"text","CRB28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CRB28"
+    } ],
+    "entities" : [ ],
+    "handle" : "CRB28"
+  } ],
+  "type" : null,
+  "handle" : "262810-LACNIC",
+  "country" : "BR"
+}

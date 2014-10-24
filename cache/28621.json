@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28621,
+  "endAutnum" : 28621,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28621",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28621"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130508",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130508",
+    "eventActor" : "SIB20"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BCEI1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BCEI1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sidnei Batistella"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jorge DOeste, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jorge DOeste","PR","04578-000","BR"]],["email",{"type":"work"},"text","SIB20@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["org",{},"text",["NetOeste Telecomunica??es Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130509",
+      "eventActor" : "SIB20"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SIB20",
+        "value" : "http://rdap.labs.lacnic.net/entity/SIB20"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sidnei Batistella"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jorge DOeste, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jorge DOeste","PR","04578-000","BR"]],["email",{"type":"work"},"text","SIB20@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SIB20"
+      } ],
+      "entities" : [ ],
+      "handle" : "SIB20"
+    } ],
+    "handle" : "BR-BCEI1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SIB20",
+      "value" : "http://rdap.labs.lacnic.net/entity/SIB20"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sidnei Batistella"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jorge DOeste, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jorge DOeste","PR","04578-000","BR"]],["email",{"type":"work"},"text","SIB20@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SIB20"
+    } ],
+    "entities" : [ ],
+    "handle" : "SIB20"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SIB20",
+      "value" : "http://rdap.labs.lacnic.net/entity/SIB20"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sidnei Batistella"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jorge DOeste, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jorge DOeste","PR","04578-000","BR"]],["email",{"type":"work"},"text","SIB20@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SIB20"
+    } ],
+    "entities" : [ ],
+    "handle" : "SIB20"
+  } ],
+  "type" : null,
+  "handle" : "28621-LACNIC",
+  "country" : "BR"
+}

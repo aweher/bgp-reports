@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52335,
+  "endAutnum" : 52335,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52335",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52335"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110722",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110723",
+    "eventActor" : "SOT5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-COHO-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-COHO-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose David Bravo Alvarez"],["adr",{"label":"Calle 64 Norte 5b146 (Oficina 305G)\nCali,  00572\nCO","type":"work"},"text",["","","Calle 64 Norte 5b146 (Oficina 305G)","Cali","","00572","CO"]],["email",{"type":"work"},"text","ipadmin@COLOMBIAHOSTING.COM.CO"],["tel",{"type":"work"},"text","57 2 4854089 ()"],["org",{},"text",["Colombia Hosting"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110720",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "SOT5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SOT5",
+        "value" : "http://rdap.labs.lacnic.net/entity/SOT5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose David Bravo Alvarez"],["adr",{"label":"Cra 45 #103-40 307 ()\nBogota, DC 110111\nCO","type":"work"},"text",["","","Cra 45 #103-40 307 ()","Bogota","DC","110111","CO"]],["email",{"type":"work"},"text","ipadmin@COLOMBIAHOSTING.COM.CO"],["tel",{"type":"work"},"text","57 1 7428885 (120)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110718",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130926",
+        "eventActor" : "SOT5"
+      } ],
+      "entities" : [ ],
+      "handle" : "SOT5"
+    } ],
+    "handle" : "CO-COHO-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SOT5",
+      "value" : "http://rdap.labs.lacnic.net/entity/SOT5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose David Bravo Alvarez"],["adr",{"label":"Cra 45 #103-40 307 ()\nBogota, DC 110111\nCO","type":"work"},"text",["","","Cra 45 #103-40 307 ()","Bogota","DC","110111","CO"]],["email",{"type":"work"},"text","ipadmin@COLOMBIAHOSTING.COM.CO"],["tel",{"type":"work"},"text","57 1 7428885 (120)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110718",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130926",
+      "eventActor" : "SOT5"
+    } ],
+    "entities" : [ ],
+    "handle" : "SOT5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SOT5",
+      "value" : "http://rdap.labs.lacnic.net/entity/SOT5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose David Bravo Alvarez"],["adr",{"label":"Cra 45 #103-40 307 ()\nBogota, DC 110111\nCO","type":"work"},"text",["","","Cra 45 #103-40 307 ()","Bogota","DC","110111","CO"]],["email",{"type":"work"},"text","ipadmin@COLOMBIAHOSTING.COM.CO"],["tel",{"type":"work"},"text","57 1 7428885 (120)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110718",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130926",
+      "eventActor" : "SOT5"
+    } ],
+    "entities" : [ ],
+    "handle" : "SOT5"
+  } ],
+  "type" : null,
+  "handle" : "52335-LACNIC",
+  "country" : "CO"
+}

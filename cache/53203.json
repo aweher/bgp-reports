@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53203,
+  "endAutnum" : 53203,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53203",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53203"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100909",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "FAM36"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-EPDE1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-EPDE1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Modenese"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVit?ria, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vit?ria","ES","04578-000","BR"]],["email",{"type":"work"},"text","FAM36@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["org",{},"text",["Emp Proc de Dados do Estado do ES"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140328",
+      "eventActor" : "FAM36"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FAM36",
+        "value" : "http://rdap.labs.lacnic.net/entity/FAM36"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Modenese"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVit?ria, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vit?ria","ES","04578-000","BR"]],["email",{"type":"work"},"text","FAM36@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FAM36"
+      } ],
+      "entities" : [ ],
+      "handle" : "FAM36"
+    } ],
+    "handle" : "BR-EPDE1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAM36",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAM36"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Modenese"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVit?ria, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vit?ria","ES","04578-000","BR"]],["email",{"type":"work"},"text","FAM36@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FAM36"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAM36"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAM36",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAM36"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Modenese"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVit?ria, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vit?ria","ES","04578-000","BR"]],["email",{"type":"work"},"text","FAM36@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FAM36"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAM36"
+  } ],
+  "type" : null,
+  "handle" : "53203-LACNIC",
+  "country" : "BR"
+}

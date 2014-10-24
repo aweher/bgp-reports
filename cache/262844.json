@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262844,
+  "endAutnum" : 262844,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262844",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262844"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101202",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "TPM"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TPLT29-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TPLT29-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Turbonet Provedor Ltda - Me"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConc?rdia, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Conc?rdia","SC","04578-000","BR"]],["email",{"type":"work"},"text","TPM@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["org",{},"text",["Turbonet Provedor Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TPM"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/TPM",
+        "value" : "http://rdap.labs.lacnic.net/entity/TPM"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Turbonet Provedor Ltda - Me"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConc?rdia, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Conc?rdia","SC","04578-000","BR"]],["email",{"type":"work"},"text","TPM@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "TPM"
+      } ],
+      "entities" : [ ],
+      "handle" : "TPM"
+    } ],
+    "handle" : "BR-TPLT29-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TPM",
+      "value" : "http://rdap.labs.lacnic.net/entity/TPM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Turbonet Provedor Ltda - Me"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConc?rdia, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Conc?rdia","SC","04578-000","BR"]],["email",{"type":"work"},"text","TPM@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TPM"
+    } ],
+    "entities" : [ ],
+    "handle" : "TPM"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TPL18",
+      "value" : "http://rdap.labs.lacnic.net/entity/TPL18"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TurboNet Provedor LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConc?rdia, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Conc?rdia","SC","04578-000","BR"]],["email",{"type":"work"},"text","TPL18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TPL18"
+    } ],
+    "entities" : [ ],
+    "handle" : "TPL18"
+  } ],
+  "type" : null,
+  "handle" : "262844-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28318",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28318"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CYBE7-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CYBE7-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","RICARDO FEDERICO"],["adr",{"label":"Av. San Martin 195 ()\nTapalque,  7303\nAR","type":"work"},"text",["","","Av. San Martin 195 ()","Tapalque","","7303","AR"]],["email",{"type":"work"},"text","tapalcapo@HOTMAIL.COM"],["tel",{"type":"work"},"text","54 2283 430621 ()"],["org",{},"text",["CYBERTAP"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/RIF8",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/RIF8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","RICARDO FEDERICO"],["adr",{"label":"Av. San Martin 98 ()\nTapalque, null 7303\nAR","type":"work"},"text",["","","Av. San Martin 98 ()","Tapalque","","7303","AR"]],["email",{"type":"work"},"text","tapalcapo@HOTMAIL.COM"],["tel",{"type":"work"},"text","54 11 54004538 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110914",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110914",
+        "eventActor" : "RIF8"
+      } ],
+      "handle" : "RIF8"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110922",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "RIF8"
+    } ],
+    "handle" : "AR-CYBE7-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RIF8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RIF8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","RICARDO FEDERICO"],["adr",{"label":"Av. San Martin 98 ()\nTapalque, null 7303\nAR","type":"work"},"text",["","","Av. San Martin 98 ()","Tapalque","","7303","AR"]],["email",{"type":"work"},"text","tapalcapo@HOTMAIL.COM"],["tel",{"type":"work"},"text","54 11 54004538 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110914",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110914",
+      "eventActor" : "RIF8"
+    } ],
+    "handle" : "RIF8"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RIF8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RIF8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","RICARDO FEDERICO"],["adr",{"label":"Av. San Martin 98 ()\nTapalque, null 7303\nAR","type":"work"},"text",["","","Av. San Martin 98 ()","Tapalque","","7303","AR"]],["email",{"type":"work"},"text","tapalcapo@HOTMAIL.COM"],["tel",{"type":"work"},"text","54 11 54004538 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110914",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110914",
+      "eventActor" : "RIF8"
+    } ],
+    "handle" : "RIF8"
+  } ],
+  "startAutnum" : 28318,
+  "endAutnum" : 28318,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140321",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140321",
+    "eventActor" : "RIF8"
+  } ],
+  "type" : null,
+  "handle" : "28318-LACNIC",
+  "country" : "AR"
+}

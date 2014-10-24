@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52844,
+  "endAutnum" : 52844,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52844",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52844"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121106",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MRS39"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TTLT37-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TTLT37-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Rog?rio M?ller da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEldorado do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Eldorado do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","MRS39@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["Teracom Telem?tica SA."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140604",
+      "eventActor" : "MRS39"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MRS39",
+        "value" : "http://rdap.labs.lacnic.net/entity/MRS39"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Rog?rio M?ller da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEldorado do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Eldorado do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","MRS39@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130625",
+        "eventActor" : "MRS39"
+      } ],
+      "entities" : [ ],
+      "handle" : "MRS39"
+    } ],
+    "handle" : "BR-TTLT37-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MRS39",
+      "value" : "http://rdap.labs.lacnic.net/entity/MRS39"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Rog?rio M?ller da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEldorado do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Eldorado do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","MRS39@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130625",
+      "eventActor" : "MRS39"
+    } ],
+    "entities" : [ ],
+    "handle" : "MRS39"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MRS39",
+      "value" : "http://rdap.labs.lacnic.net/entity/MRS39"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Rog?rio M?ller da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEldorado do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Eldorado do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","MRS39@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130625",
+      "eventActor" : "MRS39"
+    } ],
+    "entities" : [ ],
+    "handle" : "MRS39"
+  } ],
+  "type" : null,
+  "handle" : "52844-LACNIC",
+  "country" : "BR"
+}

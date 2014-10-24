@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262772,
+  "endAutnum" : 262772,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262772",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262772"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100830",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "NOC11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-GTIN-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-GTIN-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Network Operation Center"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","PR","04578-000","BR"]],["email",{"type":"work"},"text","NOC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["org",{},"text",["GTV Internet"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "NOC11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/NOC11",
+        "value" : "http://rdap.labs.lacnic.net/entity/NOC11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Network Operation Center"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","PR","04578-000","BR"]],["email",{"type":"work"},"text","NOC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "NOC11"
+      } ],
+      "entities" : [ ],
+      "handle" : "NOC11"
+    } ],
+    "handle" : "BR-GTIN-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NOC11",
+      "value" : "http://rdap.labs.lacnic.net/entity/NOC11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Network Operation Center"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","PR","04578-000","BR"]],["email",{"type":"work"},"text","NOC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NOC11"
+    } ],
+    "entities" : [ ],
+    "handle" : "NOC11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NOC11",
+      "value" : "http://rdap.labs.lacnic.net/entity/NOC11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Network Operation Center"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","PR","04578-000","BR"]],["email",{"type":"work"},"text","NOC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NOC11"
+    } ],
+    "entities" : [ ],
+    "handle" : "NOC11"
+  } ],
+  "type" : null,
+  "handle" : "262772-LACNIC",
+  "country" : "BR"
+}

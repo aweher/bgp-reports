@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262625,
+  "endAutnum" : 262625,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262625",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262625"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111027",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "AIN5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ACEI1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ACEI1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Aita Net"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRos?rio do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ros?rio do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","AIN5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["org",{},"text",["Aita Comercio de Equipamentos de Inform?tica LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "AIN5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/AIN5",
+        "value" : "http://rdap.labs.lacnic.net/entity/AIN5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Aita Net"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRos?rio do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ros?rio do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","AIN5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "AIN5"
+      } ],
+      "entities" : [ ],
+      "handle" : "AIN5"
+    } ],
+    "handle" : "BR-ACEI1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AIN5",
+      "value" : "http://rdap.labs.lacnic.net/entity/AIN5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Aita Net"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRos?rio do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ros?rio do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","AIN5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AIN5"
+    } ],
+    "entities" : [ ],
+    "handle" : "AIN5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AIN5",
+      "value" : "http://rdap.labs.lacnic.net/entity/AIN5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Aita Net"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRos?rio do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ros?rio do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","AIN5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AIN5"
+    } ],
+    "entities" : [ ],
+    "handle" : "AIN5"
+  } ],
+  "type" : null,
+  "handle" : "262625-LACNIC",
+  "country" : "BR"
+}

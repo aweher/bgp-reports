@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 10954,
+  "endAutnum" : 10954,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/10954",
+    "value" : "http://rdap.labs.lacnic.net/autnum/10954"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19991117",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131008",
+    "eventActor" : "ADF25"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SFPD-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SFPD-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre dos Santos Ferreira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBras?lia, DF 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bras?lia","DF","04578-000","BR"]],["email",{"type":"work"},"text","ADF25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["org",{},"text",["SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140403",
+      "eventActor" : "ADF25"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ADF25",
+        "value" : "http://rdap.labs.lacnic.net/entity/ADF25"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre dos Santos Ferreira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","PR","04578-000","BR"]],["email",{"type":"work"},"text","ADF25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ADF25"
+      } ],
+      "entities" : [ ],
+      "handle" : "ADF25"
+    } ],
+    "handle" : "BR-SFPD-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ADF25",
+      "value" : "http://rdap.labs.lacnic.net/entity/ADF25"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre dos Santos Ferreira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","PR","04578-000","BR"]],["email",{"type":"work"},"text","ADF25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ADF25"
+    } ],
+    "entities" : [ ],
+    "handle" : "ADF25"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RDC11",
+      "value" : "http://rdap.labs.lacnic.net/entity/RDC11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo dos Santos Oliveira de Carvalho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBras?lia, DF 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bras?lia","DF","04578-000","BR"]],["email",{"type":"work"},"text","RDC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131008",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131008",
+      "eventActor" : "RDC11"
+    } ],
+    "entities" : [ ],
+    "handle" : "RDC11"
+  } ],
+  "type" : null,
+  "handle" : "10954-LACNIC",
+  "country" : "BR"
+}

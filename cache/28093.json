@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28093",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28093"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CEYS10-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CEYS10-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Caffaratti"],["adr",{"label":"Belgrano 844 ()\nArroyito, CO X2434APF\nAR","type":"work"},"text",["","","Belgrano 844 ()","Arroyito","CO","X2434APF","AR"]],["email",{"type":"work"},"text","lacnic-tecnica@CESCOM.NET.AR"],["tel",{"type":"work"},"text","54 3576 421473 ()"],["org",{},"text",["Cooperativa de Electricidad y Servicios Publicos de Arroyito Ltda"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ILB",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ILB"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Caffaratti"],["adr",{"label":"Belgrano 844 ()\nArroyito, CB X2434APF\nAR","type":"work"},"text",["","","Belgrano 844 ()","Arroyito","CB","X2434APF","AR"]],["email",{"type":"work"},"text","lacnic-tecnica@CESCOM.NET.AR"],["tel",{"type":"work"},"text","54 3576 450001 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090703",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130610",
+        "eventActor" : "ILB"
+      } ],
+      "handle" : "ILB"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090811",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130610",
+      "eventActor" : "ILB"
+    } ],
+    "handle" : "AR-CEYS10-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ILB",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ILB"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Caffaratti"],["adr",{"label":"Belgrano 844 ()\nArroyito, CB X2434APF\nAR","type":"work"},"text",["","","Belgrano 844 ()","Arroyito","CB","X2434APF","AR"]],["email",{"type":"work"},"text","lacnic-tecnica@CESCOM.NET.AR"],["tel",{"type":"work"},"text","54 3576 450001 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090703",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130610",
+      "eventActor" : "ILB"
+    } ],
+    "handle" : "ILB"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ILB",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ILB"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Caffaratti"],["adr",{"label":"Belgrano 844 ()\nArroyito, CB X2434APF\nAR","type":"work"},"text",["","","Belgrano 844 ()","Arroyito","CB","X2434APF","AR"]],["email",{"type":"work"},"text","lacnic-tecnica@CESCOM.NET.AR"],["tel",{"type":"work"},"text","54 3576 450001 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090703",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130610",
+      "eventActor" : "ILB"
+    } ],
+    "handle" : "ILB"
+  } ],
+  "startAutnum" : 28093,
+  "endAutnum" : 28093,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091104",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20091104",
+    "eventActor" : "ILB"
+  } ],
+  "type" : null,
+  "handle" : "28093-LACNIC",
+  "country" : "AR"
+}

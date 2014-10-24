@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27934",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27934"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-JSSA1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-JSSA1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Piorno"],["adr",{"label":"San Martin 607 ()\nAmerica,  6237\nAR","type":"work"},"text",["","","San Martin 607 ()","America","","6237","AR"]],["email",{"type":"work"},"text","jsnetsa@JSNET.COM.AR"],["tel",{"type":"work"},"text","54 2337 453651 ()"],["org",{},"text",["JSNet S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JUP6",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JUP6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Piorno"],["adr",{"label":"Espa?a 62 ()\nAmerica,  6237\nAR","type":"work"},"text",["","","Espa?a 62 ()","America","","6237","AR"]],["email",{"type":"work"},"text","jsnetsa@JSNET.COM.AR"],["tel",{"type":"work"},"text","54 2337 453651 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20041012",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121116",
+        "eventActor" : "JUP6"
+      } ],
+      "handle" : "JUP6"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041012",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "JUP6"
+    } ],
+    "handle" : "AR-JSSA1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JUP6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JUP6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Piorno"],["adr",{"label":"Espa?a 62 ()\nAmerica,  6237\nAR","type":"work"},"text",["","","Espa?a 62 ()","America","","6237","AR"]],["email",{"type":"work"},"text","jsnetsa@JSNET.COM.AR"],["tel",{"type":"work"},"text","54 2337 453651 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041012",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121116",
+      "eventActor" : "JUP6"
+    } ],
+    "handle" : "JUP6"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JUP6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JUP6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Piorno"],["adr",{"label":"Espa?a 62 ()\nAmerica,  6237\nAR","type":"work"},"text",["","","Espa?a 62 ()","America","","6237","AR"]],["email",{"type":"work"},"text","jsnetsa@JSNET.COM.AR"],["tel",{"type":"work"},"text","54 2337 453651 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041012",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121116",
+      "eventActor" : "JUP6"
+    } ],
+    "handle" : "JUP6"
+  } ],
+  "startAutnum" : 27934,
+  "endAutnum" : 27934,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20071009",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20071010",
+    "eventActor" : "JUP6"
+  } ],
+  "type" : null,
+  "handle" : "27934-LACNIC",
+  "country" : "AR"
+}

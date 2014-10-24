@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27790",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27790"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-UNCO-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-UNCO-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Prosecretario de Inform?tica"],["adr",{"label":"Haya de la Torre S/N (Pabellon Arg)\nCordoba,  5000\nAR","type":"work"},"text",["","","Haya de la Torre S/N (Pabellon Arg)","Cordoba","","5000","AR"]],["email",{"type":"work"},"text","prosecretario@PSI.UNC.EDU.AR"],["tel",{"type":"work"},"text","54 351 4333046 ()"],["org",{},"text",["Universidad Nacional de Cordoba"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SUI",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SUI"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Prosecretario de Inform?tica"],["adr",{"label":"Haya de la Torre S/N (Pabell?n Argentina 1? Piso, Ciudad Universitaria)\nC?rdoba,  5000\nAR","type":"work"},"text",["","","Haya de la Torre S/N (Pabell?n Argentina 1? Piso, Ciudad Universitaria)","C?rdoba","","5000","AR"]],["email",{"type":"work"},"text","prosecretario@PSI.UNC.EDU.AR"],["tel",{"type":"work"},"text","54 351 4333046 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20021031",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130809",
+        "eventActor" : "SUI"
+      } ],
+      "handle" : "SUI"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021125",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130809",
+      "eventActor" : "SUI"
+    } ],
+    "handle" : "AR-UNCO-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SUI",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SUI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Prosecretario de Inform?tica"],["adr",{"label":"Haya de la Torre S/N (Pabell?n Argentina 1? Piso, Ciudad Universitaria)\nC?rdoba,  5000\nAR","type":"work"},"text",["","","Haya de la Torre S/N (Pabell?n Argentina 1? Piso, Ciudad Universitaria)","C?rdoba","","5000","AR"]],["email",{"type":"work"},"text","prosecretario@PSI.UNC.EDU.AR"],["tel",{"type":"work"},"text","54 351 4333046 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021031",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130809",
+      "eventActor" : "SUI"
+    } ],
+    "handle" : "SUI"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SUI",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SUI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Prosecretario de Inform?tica"],["adr",{"label":"Haya de la Torre S/N (Pabell?n Argentina 1? Piso, Ciudad Universitaria)\nC?rdoba,  5000\nAR","type":"work"},"text",["","","Haya de la Torre S/N (Pabell?n Argentina 1? Piso, Ciudad Universitaria)","C?rdoba","","5000","AR"]],["email",{"type":"work"},"text","prosecretario@PSI.UNC.EDU.AR"],["tel",{"type":"work"},"text","54 351 4333046 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021031",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130809",
+      "eventActor" : "SUI"
+    } ],
+    "handle" : "SUI"
+  } ],
+  "startAutnum" : 27790,
+  "endAutnum" : 27790,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20051006",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20051006",
+    "eventActor" : "SUI"
+  } ],
+  "type" : null,
+  "handle" : "27790-LACNIC",
+  "country" : "AR"
+}

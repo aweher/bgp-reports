@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52707,
+  "endAutnum" : 52707,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52707",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52707"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121227",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140521",
+    "eventActor" : "MPO5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NMLM1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NMLM1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","LAZARO CUSTODIO DE AGUIAR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFeira de Santana, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Feira de Santana","BA","04578-000","BR"]],["email",{"type":"work"},"text","LCA9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["org",{},"text",["NANOBIT MULTIMIDIA LTDA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "LCA9"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LCA9",
+        "value" : "http://rdap.labs.lacnic.net/entity/LCA9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","LAZARO CUSTODIO DE AGUIAR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFeira de Santana, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Feira de Santana","BA","04578-000","BR"]],["email",{"type":"work"},"text","LCA9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LCA9"
+      } ],
+      "entities" : [ ],
+      "handle" : "LCA9"
+    } ],
+    "handle" : "BR-NMLM1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MPO5",
+      "value" : "http://rdap.labs.lacnic.net/entity/MPO5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MARCOS PEDRO REIS DOURADO OLIVEIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMorro do Chap?u, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Morro do Chap?u","BA","04578-000","BR"]],["email",{"type":"work"},"text","MPO5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130910",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130910",
+      "eventActor" : "MPO5"
+    } ],
+    "entities" : [ ],
+    "handle" : "MPO5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MPO5",
+      "value" : "http://rdap.labs.lacnic.net/entity/MPO5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MARCOS PEDRO REIS DOURADO OLIVEIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMorro do Chap?u, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Morro do Chap?u","BA","04578-000","BR"]],["email",{"type":"work"},"text","MPO5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130910",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130910",
+      "eventActor" : "MPO5"
+    } ],
+    "entities" : [ ],
+    "handle" : "MPO5"
+  } ],
+  "type" : null,
+  "handle" : "52707-LACNIC",
+  "country" : "BR"
+}

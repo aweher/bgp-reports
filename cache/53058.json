@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53058,
+  "endAutnum" : 53058,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53058",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53058"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090814",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "SMB10"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ANSE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ANSE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Samyr Musse Moreira Bechelane"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAbaet?, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Abaet?","MG","04578-000","BR"]],["email",{"type":"work"},"text","SMB10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["org",{},"text",["ABAETE NET SERVI?OS EM TECNOL. DE INFORM?TICA LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SMB10"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SMB10",
+        "value" : "http://rdap.labs.lacnic.net/entity/SMB10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Samyr Musse Moreira Bechelane"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMateus Leme, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mateus Leme","MG","04578-000","BR"]],["email",{"type":"work"},"text","SMB10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SMB10"
+      } ],
+      "entities" : [ ],
+      "handle" : "SMB10"
+    } ],
+    "handle" : "BR-ANSE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SMB10",
+      "value" : "http://rdap.labs.lacnic.net/entity/SMB10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Samyr Musse Moreira Bechelane"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMateus Leme, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mateus Leme","MG","04578-000","BR"]],["email",{"type":"work"},"text","SMB10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SMB10"
+    } ],
+    "entities" : [ ],
+    "handle" : "SMB10"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SMB10",
+      "value" : "http://rdap.labs.lacnic.net/entity/SMB10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Samyr Musse Moreira Bechelane"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMateus Leme, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mateus Leme","MG","04578-000","BR"]],["email",{"type":"work"},"text","SMB10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SMB10"
+    } ],
+    "entities" : [ ],
+    "handle" : "SMB10"
+  } ],
+  "type" : null,
+  "handle" : "53058-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262258",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262258"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-SITR-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-SITR-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Agust?n Alejandro Do?a"],["adr",{"label":"Alsina 2250 (Godoy Cruz)\nMendoza,  5501\nAR","type":"work"},"text",["","","Alsina 2250 (Godoy Cruz)","Mendoza","","5501","AR"]],["email",{"type":"work"},"text","hostmaster@SITRACK.COM"],["tel",{"type":"work"},"text","54 261 4611100 (206)"],["org",{},"text",["SITRACK.COM"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PSD2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PSD2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Agust?n Alejandro Do?a"],["adr",{"label":"Alsina 2250 ()\nGodoy Cruz, MZ 5501\nAR","type":"work"},"text",["","","Alsina 2250 ()","Godoy Cruz","MZ","5501","AR"]],["email",{"type":"work"},"text","hostmaster@SITRACK.COM"],["tel",{"type":"work"},"text","54 261 4611100 (206)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20031216",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130206",
+        "eventActor" : "PSD2"
+      } ],
+      "handle" : "PSD2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20111014",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130206",
+      "eventActor" : "PSD2"
+    } ],
+    "handle" : "AR-SITR-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PSD2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PSD2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Agust?n Alejandro Do?a"],["adr",{"label":"Alsina 2250 ()\nGodoy Cruz, MZ 5501\nAR","type":"work"},"text",["","","Alsina 2250 ()","Godoy Cruz","MZ","5501","AR"]],["email",{"type":"work"},"text","hostmaster@SITRACK.COM"],["tel",{"type":"work"},"text","54 261 4611100 (206)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031216",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130206",
+      "eventActor" : "PSD2"
+    } ],
+    "handle" : "PSD2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PSD2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PSD2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Agust?n Alejandro Do?a"],["adr",{"label":"Alsina 2250 ()\nGodoy Cruz, MZ 5501\nAR","type":"work"},"text",["","","Alsina 2250 ()","Godoy Cruz","MZ","5501","AR"]],["email",{"type":"work"},"text","hostmaster@SITRACK.COM"],["tel",{"type":"work"},"text","54 261 4611100 (206)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031216",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130206",
+      "eventActor" : "PSD2"
+    } ],
+    "handle" : "PSD2"
+  } ],
+  "startAutnum" : 262258,
+  "endAutnum" : 262258,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130109",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130109",
+    "eventActor" : "PSD2"
+  } ],
+  "type" : null,
+  "handle" : "262258-LACNIC",
+  "country" : "AR"
+}

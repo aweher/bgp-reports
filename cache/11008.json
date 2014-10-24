@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/11008",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/11008"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-NESA7-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-NESA7-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Netverk IP"],["adr",{"label":"Calle 38 11 ()\nla plata,  1900\nAR","type":"work"},"text",["","","Calle 38 11 ()","la plata","","1900","AR"]],["email",{"type":"work"},"text","netverk_ip@NETVERK.COM"],["tel",{"type":"work"},"text","054 0221 4241049 ()"],["org",{},"text",["Netverk S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/NEI",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/NEI"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Netverk IP"],["adr",{"label":"Plaza Olazabal (calle 38 entre 6 y la plaza) 11 ()\nLa Plata,  1900\nAR","type":"work"},"text",["","","Plaza Olazabal (calle 38 entre 6 y la plaza) 11 ()","La Plata","","1900","AR"]],["email",{"type":"work"},"text","netverk_ip@NETVERK.COM"],["tel",{"type":"work"},"text","54 221 4241049 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20020930",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130104",
+        "eventActor" : "NEI"
+      } ],
+      "handle" : "NEI"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021008",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "NEI"
+    } ],
+    "handle" : "AR-NESA7-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NEI",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NEI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Netverk IP"],["adr",{"label":"Plaza Olazabal (calle 38 entre 6 y la plaza) 11 ()\nLa Plata,  1900\nAR","type":"work"},"text",["","","Plaza Olazabal (calle 38 entre 6 y la plaza) 11 ()","La Plata","","1900","AR"]],["email",{"type":"work"},"text","netverk_ip@NETVERK.COM"],["tel",{"type":"work"},"text","54 221 4241049 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020930",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130104",
+      "eventActor" : "NEI"
+    } ],
+    "handle" : "NEI"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NEI",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NEI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Netverk IP"],["adr",{"label":"Plaza Olazabal (calle 38 entre 6 y la plaza) 11 ()\nLa Plata,  1900\nAR","type":"work"},"text",["","","Plaza Olazabal (calle 38 entre 6 y la plaza) 11 ()","La Plata","","1900","AR"]],["email",{"type":"work"},"text","netverk_ip@NETVERK.COM"],["tel",{"type":"work"},"text","54 221 4241049 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020930",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130104",
+      "eventActor" : "NEI"
+    } ],
+    "handle" : "NEI"
+  } ],
+  "startAutnum" : 11008,
+  "endAutnum" : 11008,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19980305",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "19981231",
+    "eventActor" : "NEI"
+  } ],
+  "type" : null,
+  "handle" : "11008-LACNIC",
+  "country" : "AR"
+}

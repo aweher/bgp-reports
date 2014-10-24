@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263305,
+  "endAutnum" : 263305,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263305",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263305"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140213",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140213",
+    "eventActor" : "NET14"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NTLT54-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NTLT54-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael de Almeida Barreto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOuro Fino, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ouro Fino","MG","04578-000","BR"]],["email",{"type":"work"},"text","RAB50@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["org",{},"text",["NET.COM TELECOMUNICACOES LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131015",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131015",
+      "eventActor" : "RAB50"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RAB50",
+        "value" : "http://rdap.labs.lacnic.net/entity/RAB50"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael de Almeida Barreto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOuro Fino, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ouro Fino","MG","04578-000","BR"]],["email",{"type":"work"},"text","RAB50@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20131015",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131015",
+        "eventActor" : "RAB50"
+      } ],
+      "entities" : [ ],
+      "handle" : "RAB50"
+    } ],
+    "handle" : "BR-NTLT54-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NET14",
+      "value" : "http://rdap.labs.lacnic.net/entity/NET14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NETCOM TELECOMUNICACOES"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOuro Fino, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ouro Fino","MG","04578-000","BR"]],["email",{"type":"work"},"text","NET14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131218",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131218",
+      "eventActor" : "NET14"
+    } ],
+    "entities" : [ ],
+    "handle" : "NET14"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NET14",
+      "value" : "http://rdap.labs.lacnic.net/entity/NET14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NETCOM TELECOMUNICACOES"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOuro Fino, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ouro Fino","MG","04578-000","BR"]],["email",{"type":"work"},"text","NET14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131218",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131218",
+      "eventActor" : "NET14"
+    } ],
+    "entities" : [ ],
+    "handle" : "NET14"
+  } ],
+  "type" : null,
+  "handle" : "263305-LACNIC",
+  "country" : "BR"
+}

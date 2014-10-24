@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53061,
+  "endAutnum" : 53061,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53061",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53061"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090821",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ALG69"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-GSPL1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-GSPL1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCaxias do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Caxias do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","ALS112@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["org",{},"text",["G2NET SUL PROVEDOR LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131127",
+      "eventActor" : "ALS112"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ALS112",
+        "value" : "http://rdap.labs.lacnic.net/entity/ALS112"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCaxias do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Caxias do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","ALS112@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ALS112"
+      } ],
+      "entities" : [ ],
+      "handle" : "ALS112"
+    } ],
+    "handle" : "BR-GSPL1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALG69",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALG69"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre Grifante"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCaxias do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Caxias do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","ALG69@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ALG69"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALG69"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALG69",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALG69"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre Grifante"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCaxias do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Caxias do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","ALG69@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ALG69"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALG69"
+  } ],
+  "type" : null,
+  "handle" : "53061-LACNIC",
+  "country" : "BR"
+}

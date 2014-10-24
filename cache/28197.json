@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28197,
+  "endAutnum" : 28197,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28197",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28197"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080328",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ROL51"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ETIC1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ETIC1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Raimundo Osman Lima"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","CE","04578-000","BR"]],["email",{"type":"work"},"text","ROL51@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["org",{},"text",["EMPRESA DE TECNOLOGIA DA INFORMACAO DO CEARA-ETICE"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ROL51"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ROL51",
+        "value" : "http://rdap.labs.lacnic.net/entity/ROL51"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Raimundo Osman Lima"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","CE","04578-000","BR"]],["email",{"type":"work"},"text","ROL51@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ROL51"
+      } ],
+      "entities" : [ ],
+      "handle" : "ROL51"
+    } ],
+    "handle" : "BR-ETIC1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ROL51",
+      "value" : "http://rdap.labs.lacnic.net/entity/ROL51"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Raimundo Osman Lima"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","CE","04578-000","BR"]],["email",{"type":"work"},"text","ROL51@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ROL51"
+    } ],
+    "entities" : [ ],
+    "handle" : "ROL51"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GSE6",
+      "value" : "http://rdap.labs.lacnic.net/entity/GSE6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","GSeguran?a Etice"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","CE","04578-000","BR"]],["email",{"type":"work"},"text","GSE6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GSE6"
+    } ],
+    "entities" : [ ],
+    "handle" : "GSE6"
+  } ],
+  "type" : null,
+  "handle" : "28197-LACNIC",
+  "country" : "BR"
+}

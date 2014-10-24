@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28175,
+  "endAutnum" : 28175,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28175",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28175"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080103",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140606",
+    "eventActor" : "WLN4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-OTII-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-OTII-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Online Telecomunica??es e Inform?tica Lt"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","MG","04578-000","BR"]],["email",{"type":"work"},"text","OTL9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["org",{},"text",["Online Telecomunica??es, Info e internet Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140703",
+      "eventActor" : "OTL9"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/OTL9",
+        "value" : "http://rdap.labs.lacnic.net/entity/OTL9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Online Telecomunica??es e Inform?tica Lt"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","MG","04578-000","BR"]],["email",{"type":"work"},"text","OTL9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "OTL9"
+      } ],
+      "entities" : [ ],
+      "handle" : "OTL9"
+    } ],
+    "handle" : "BR-OTII-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WLN4",
+      "value" : "http://rdap.labs.lacnic.net/entity/WLN4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Wagner Luiz Neiva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","MG","04578-000","BR"]],["email",{"type":"work"},"text","WLN4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140606",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140606",
+      "eventActor" : "WLN4"
+    } ],
+    "entities" : [ ],
+    "handle" : "WLN4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WLN4",
+      "value" : "http://rdap.labs.lacnic.net/entity/WLN4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Wagner Luiz Neiva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","MG","04578-000","BR"]],["email",{"type":"work"},"text","WLN4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140606",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140606",
+      "eventActor" : "WLN4"
+    } ],
+    "entities" : [ ],
+    "handle" : "WLN4"
+  } ],
+  "type" : null,
+  "handle" : "28175-LACNIC",
+  "country" : "BR"
+}

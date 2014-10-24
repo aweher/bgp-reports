@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262270,
+  "endAutnum" : 262270,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262270",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262270"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120619",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MUR4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-EISA5-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-EISA5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Murilo Ribeiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNova Lima, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Nova Lima","MG","04578-000","BR"]],["email",{"type":"work"},"text","MUR4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["org",{},"text",["Engetec Tecnologia SA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140320",
+      "eventActor" : "MUR4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MUR4",
+        "value" : "http://rdap.labs.lacnic.net/entity/MUR4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Murilo Ribeiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","MG","04578-000","BR"]],["email",{"type":"work"},"text","MUR4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MUR4"
+      } ],
+      "entities" : [ ],
+      "handle" : "MUR4"
+    } ],
+    "handle" : "BR-EISA5-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MUR4",
+      "value" : "http://rdap.labs.lacnic.net/entity/MUR4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Murilo Ribeiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","MG","04578-000","BR"]],["email",{"type":"work"},"text","MUR4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MUR4"
+    } ],
+    "entities" : [ ],
+    "handle" : "MUR4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MUR4",
+      "value" : "http://rdap.labs.lacnic.net/entity/MUR4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Murilo Ribeiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","MG","04578-000","BR"]],["email",{"type":"work"},"text","MUR4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MUR4"
+    } ],
+    "entities" : [ ],
+    "handle" : "MUR4"
+  } ],
+  "type" : null,
+  "handle" : "262270-LACNIC",
+  "country" : "BR"
+}

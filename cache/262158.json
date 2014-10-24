@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262158,
+  "endAutnum" : 262158,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262158",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262158"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120223",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120223",
+    "eventActor" : "JSB"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-FUAA4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-FUAA4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Santos Guevara Baquero"],["adr",{"label":"CARRERA 14A 69 (35)\nBOGOTA, CU 0000\nCO","type":"work"},"text",["","","CARRERA 14A 69 (35)","BOGOTA","CU","0000","CO"]],["email",{"type":"work"},"text","jguevara@AREANDINA.EDU.CO"],["tel",{"type":"work"},"text","057 300 5671878 ()"],["org",{},"text",["FUNDACION UNIVERSITARIA DEL ?REA ANDINA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100427",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120224",
+      "eventActor" : "JSB"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JSB",
+        "value" : "http://rdap.labs.lacnic.net/entity/JSB"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Santos Guevara Baquero"],["adr",{"label":"CARRERA 14A No. 69-35  ()\nBogota, null 57\nCO","type":"work"},"text",["","","CARRERA 14A No. 69-35  ()","Bogota","","57","CO"]],["email",{"type":"work"},"text","jguevara@AREANDINA.EDU.CO"],["tel",{"type":"work"},"text","57 1 2172045 (119)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110824",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110824",
+        "eventActor" : "JSB"
+      } ],
+      "entities" : [ ],
+      "handle" : "JSB"
+    } ],
+    "handle" : "CO-FUAA4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JSB",
+      "value" : "http://rdap.labs.lacnic.net/entity/JSB"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Santos Guevara Baquero"],["adr",{"label":"CARRERA 14A No. 69-35  ()\nBogota, null 57\nCO","type":"work"},"text",["","","CARRERA 14A No. 69-35  ()","Bogota","","57","CO"]],["email",{"type":"work"},"text","jguevara@AREANDINA.EDU.CO"],["tel",{"type":"work"},"text","57 1 2172045 (119)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110824",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110824",
+      "eventActor" : "JSB"
+    } ],
+    "entities" : [ ],
+    "handle" : "JSB"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JSB",
+      "value" : "http://rdap.labs.lacnic.net/entity/JSB"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Santos Guevara Baquero"],["adr",{"label":"CARRERA 14A No. 69-35  ()\nBogota, null 57\nCO","type":"work"},"text",["","","CARRERA 14A No. 69-35  ()","Bogota","","57","CO"]],["email",{"type":"work"},"text","jguevara@AREANDINA.EDU.CO"],["tel",{"type":"work"},"text","57 1 2172045 (119)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110824",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110824",
+      "eventActor" : "JSB"
+    } ],
+    "entities" : [ ],
+    "handle" : "JSB"
+  } ],
+  "type" : null,
+  "handle" : "262158-LACNIC",
+  "country" : "CO"
+}

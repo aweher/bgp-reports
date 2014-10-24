@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 10881,
+  "endAutnum" : 10881,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/10881",
+    "value" : "http://rdap.labs.lacnic.net/autnum/10881"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19991215",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "REP4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-FFUP-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-FFUP-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Registro POP-PR.RNP.BR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","PR","04578-000","BR"]],["email",{"type":"work"},"text","REP4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["org",{},"text",["FUNPAR - Fundacao da UFPR para o DCTC"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "REP4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/REP4",
+        "value" : "http://rdap.labs.lacnic.net/entity/REP4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Registro POP-PR.RNP.BR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","PR","04578-000","BR"]],["email",{"type":"work"},"text","REP4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "REP4"
+      } ],
+      "entities" : [ ],
+      "handle" : "REP4"
+    } ],
+    "handle" : "BR-FFUP-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/REP4",
+      "value" : "http://rdap.labs.lacnic.net/entity/REP4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Registro POP-PR.RNP.BR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","PR","04578-000","BR"]],["email",{"type":"work"},"text","REP4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "REP4"
+    } ],
+    "entities" : [ ],
+    "handle" : "REP4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/REP4",
+      "value" : "http://rdap.labs.lacnic.net/entity/REP4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Registro POP-PR.RNP.BR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","PR","04578-000","BR"]],["email",{"type":"work"},"text","REP4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "REP4"
+    } ],
+    "entities" : [ ],
+    "handle" : "REP4"
+  } ],
+  "type" : null,
+  "handle" : "10881-LACNIC",
+  "country" : "BR"
+}

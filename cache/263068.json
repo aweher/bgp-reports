@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263068,
+  "endAutnum" : 263068,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263068",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263068"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120326",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "DAF28"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ESTL2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ESTL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Antonio Passos Franco"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPrimavera do Leste, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Primavera do Leste","MT","04578-000","BR"]],["email",{"type":"work"},"text","DAF28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["org",{},"text",["ELIG SERVI?OS DE TELECOMUNICA?OES LTDA-ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "DAF28"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DAF28",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAF28"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Antonio Passos Franco"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAracaju, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aracaju","SE","04578-000","BR"]],["email",{"type":"work"},"text","DAF28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DAF28"
+      } ],
+      "entities" : [ ],
+      "handle" : "DAF28"
+    } ],
+    "handle" : "BR-ESTL2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DAF28",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAF28"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Antonio Passos Franco"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAracaju, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aracaju","SE","04578-000","BR"]],["email",{"type":"work"},"text","DAF28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DAF28"
+    } ],
+    "entities" : [ ],
+    "handle" : "DAF28"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DAF28",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAF28"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Antonio Passos Franco"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAracaju, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aracaju","SE","04578-000","BR"]],["email",{"type":"work"},"text","DAF28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DAF28"
+    } ],
+    "entities" : [ ],
+    "handle" : "DAF28"
+  } ],
+  "type" : null,
+  "handle" : "263068-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52771,
+  "endAutnum" : 52771,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52771",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52771"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120911",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "SGN2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-GBPS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-GBPS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sidiney Gon?alves Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCol?der, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Col?der","MT","04578-000","BR"]],["email",{"type":"work"},"text","SGN2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["org",{},"text",["Giga Byte Prod. e Serv. Inform. Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "SGN2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SGN2",
+        "value" : "http://rdap.labs.lacnic.net/entity/SGN2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sidiney Gon?alves Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCol?der, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Col?der","MT","04578-000","BR"]],["email",{"type":"work"},"text","SGN2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SGN2"
+      } ],
+      "entities" : [ ],
+      "handle" : "SGN2"
+    } ],
+    "handle" : "BR-GBPS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SGN2",
+      "value" : "http://rdap.labs.lacnic.net/entity/SGN2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sidiney Gon?alves Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCol?der, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Col?der","MT","04578-000","BR"]],["email",{"type":"work"},"text","SGN2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SGN2"
+    } ],
+    "entities" : [ ],
+    "handle" : "SGN2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SGN2",
+      "value" : "http://rdap.labs.lacnic.net/entity/SGN2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sidiney Gon?alves Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCol?der, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Col?der","MT","04578-000","BR"]],["email",{"type":"work"},"text","SGN2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SGN2"
+    } ],
+    "entities" : [ ],
+    "handle" : "SGN2"
+  } ],
+  "type" : null,
+  "handle" : "52771-LACNIC",
+  "country" : "BR"
+}

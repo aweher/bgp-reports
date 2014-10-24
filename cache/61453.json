@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/61453",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61453"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TASA15-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TASA15-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador Abuse"],["adr",{"label":"Uriarte 1512 (-)\nCapital Federal, null -\nAR","type":"work"},"text",["","","Uriarte 1512 (-)","Capital Federal","","-","AR"]],["email",{"type":"work"},"text","abuse@TA.TELECOM.COM.AR"],["tel",{"type":"work"},"text","54 11 5167-0240 ()"],["org",{},"text",["TELEMEDIA ARGENTINA SA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ADA",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ADA"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador Abuse"],["adr",{"label":"Alicia Moreau de Justo 50 (-)\nCiudad Aut?noma de Buenos Aires,  1107\nAR","type":"work"},"text",["","","Alicia Moreau de Justo 50 (-)","Ciudad Aut?noma de Buenos Aires","","1107","AR"]],["email",{"type":"work"},"text","abuse@TA.TELECOM.COM.AR"],["tel",{"type":"work"},"text","54 11 49684000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030211",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110316",
+        "eventActor" : "ADA"
+      } ],
+      "handle" : "ADA"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070131",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070131",
+      "eventActor" : "ADA"
+    } ],
+    "handle" : "AR-TASA15-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/LET14",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/LET14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leandro Tenorio"],["adr",{"label":"Uriarte 1520 ()\nCapital Federal, BA 1414\nAR","type":"work"},"text",["","","Uriarte 1520 ()","Capital Federal","BA","1414","AR"]],["email",{"type":"work"},"text","ltenorio@TELEMEDIALA.COM"],["tel",{"type":"work"},"text","54 11 51670200 (240)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140516",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140516",
+      "eventActor" : "LET14"
+    } ],
+    "handle" : "LET14"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/LET14",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/LET14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leandro Tenorio"],["adr",{"label":"Uriarte 1520 ()\nCapital Federal, BA 1414\nAR","type":"work"},"text",["","","Uriarte 1520 ()","Capital Federal","BA","1414","AR"]],["email",{"type":"work"},"text","ltenorio@TELEMEDIALA.COM"],["tel",{"type":"work"},"text","54 11 51670200 (240)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140516",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140516",
+      "eventActor" : "LET14"
+    } ],
+    "handle" : "LET14"
+  } ],
+  "startAutnum" : 61453,
+  "endAutnum" : 61453,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140703",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140703",
+    "eventActor" : "LET14"
+  } ],
+  "type" : null,
+  "handle" : "61453-LACNIC",
+  "country" : "AR"
+}

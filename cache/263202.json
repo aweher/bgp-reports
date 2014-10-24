@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263202,
+  "endAutnum" : 263202,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263202",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263202"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140102",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140103",
+    "eventActor" : "LGS21"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-BASA13-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-BASA13-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Guillermo Sandoval"],["adr",{"label":"Cll 57 27 (683)\nBogota, CU 111211\nCO","type":"work"},"text",["","","Cll 57 27 (683)","Bogota","CU","111211","CO"]],["email",{"type":"work"},"text","lgsandoval@BANSAT.CO"],["tel",{"type":"work"},"text","57 2 1728888 ()"],["org",{},"text",["BANSAT SAS"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131226",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131226",
+      "eventActor" : "LGS21"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LGS21",
+        "value" : "http://rdap.labs.lacnic.net/entity/LGS21"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Guillermo Sandoval"],["adr",{"label":"Cll 57 No. 27 - 68  ()\nBogota, CU 111311\nCO","type":"work"},"text",["","","Cll 57 No. 27 - 68  ()","Bogota","CU","111311","CO"]],["email",{"type":"work"},"text","lgsandoval@BANSAT.CO"],["tel",{"type":"work"},"text","57 1 2172888 (228)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20131128",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131128",
+        "eventActor" : "LGS21"
+      } ],
+      "entities" : [ ],
+      "handle" : "LGS21"
+    } ],
+    "handle" : "CO-BASA13-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LGS21",
+      "value" : "http://rdap.labs.lacnic.net/entity/LGS21"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Guillermo Sandoval"],["adr",{"label":"Cll 57 No. 27 - 68  ()\nBogota, CU 111311\nCO","type":"work"},"text",["","","Cll 57 No. 27 - 68  ()","Bogota","CU","111311","CO"]],["email",{"type":"work"},"text","lgsandoval@BANSAT.CO"],["tel",{"type":"work"},"text","57 1 2172888 (228)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131128",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131128",
+      "eventActor" : "LGS21"
+    } ],
+    "entities" : [ ],
+    "handle" : "LGS21"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LGS21",
+      "value" : "http://rdap.labs.lacnic.net/entity/LGS21"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Guillermo Sandoval"],["adr",{"label":"Cll 57 No. 27 - 68  ()\nBogota, CU 111311\nCO","type":"work"},"text",["","","Cll 57 No. 27 - 68  ()","Bogota","CU","111311","CO"]],["email",{"type":"work"},"text","lgsandoval@BANSAT.CO"],["tel",{"type":"work"},"text","57 1 2172888 (228)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131128",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131128",
+      "eventActor" : "LGS21"
+    } ],
+    "entities" : [ ],
+    "handle" : "LGS21"
+  } ],
+  "type" : null,
+  "handle" : "263202-LACNIC",
+  "country" : "CO"
+}

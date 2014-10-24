@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28066",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28066"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CMAC-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CMAC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Tealdi Saad"],["adr",{"label":"Super? 660 ()\nMariano Acosta - Merlo, BA 1723\nAR","type":"work"},"text",["","","Super? 660 ()","Mariano Acosta - Merlo","BA","1723","AR"]],["email",{"type":"work"},"text","eduardots@AMC.COM.AR"],["tel",{"type":"work"},"text","54 220 499-8100 (120)"],["org",{},"text",["COOP. MARIANO ACOSTA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ETS2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ETS2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Tealdi Saad"],["adr",{"label":"Superi 660 ()\nMariano Acosta, BA 1723\nAR","type":"work"},"text",["","","Superi 660 ()","Mariano Acosta","BA","1723","AR"]],["email",{"type":"work"},"text","eduardots@AMC.COM.AR"],["tel",{"type":"work"},"text","54 220 4998100 (120)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090505",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110804",
+        "eventActor" : "ETS2"
+      } ],
+      "handle" : "ETS2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060119",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "ETS2"
+    } ],
+    "handle" : "AR-CMAC-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ETS2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ETS2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Tealdi Saad"],["adr",{"label":"Superi 660 ()\nMariano Acosta, BA 1723\nAR","type":"work"},"text",["","","Superi 660 ()","Mariano Acosta","BA","1723","AR"]],["email",{"type":"work"},"text","eduardots@AMC.COM.AR"],["tel",{"type":"work"},"text","54 220 4998100 (120)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090505",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110804",
+      "eventActor" : "ETS2"
+    } ],
+    "handle" : "ETS2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ETS2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ETS2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Tealdi Saad"],["adr",{"label":"Superi 660 ()\nMariano Acosta, BA 1723\nAR","type":"work"},"text",["","","Superi 660 ()","Mariano Acosta","BA","1723","AR"]],["email",{"type":"work"},"text","eduardots@AMC.COM.AR"],["tel",{"type":"work"},"text","54 220 4998100 (120)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090505",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110804",
+      "eventActor" : "ETS2"
+    } ],
+    "handle" : "ETS2"
+  } ],
+  "startAutnum" : 28066,
+  "endAutnum" : 28066,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090703",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090704",
+    "eventActor" : "ETS2"
+  } ],
+  "type" : null,
+  "handle" : "28066-LACNIC",
+  "country" : "AR"
+}

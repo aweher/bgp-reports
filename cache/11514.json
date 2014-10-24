@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/11514",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/11514"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TRAN5-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TRAN5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Diab"],["adr",{"label":"Av. Cordoba 1452 (Piso 11)\nRosaro, SF 2000\nAR","type":"work"},"text",["","","Av. Cordoba 1452 (Piso 11)","Rosaro","SF","2000","AR"]],["email",{"type":"work"},"text","sdiab@TRANSDATOS.COM.AR"],["tel",{"type":"work"},"text","54 341 494767 ()"],["org",{},"text",["Transdatos"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SED2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SED2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Diab"],["adr",{"label":"Cordoba 1452 (Piso 11)\nRosario, null 2000\nAR","type":"work"},"text",["","","Cordoba 1452 (Piso 11)","Rosario","","2000","AR"]],["email",{"type":"work"},"text","sdiab@TRANSDATOS.COM.AR"],["tel",{"type":"work"},"text","54 341 4495049 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20071219",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20071219",
+        "eventActor" : "SED2"
+      } ],
+      "handle" : "SED2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080602",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "SED2"
+    } ],
+    "handle" : "AR-TRAN5-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SED2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SED2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Diab"],["adr",{"label":"Cordoba 1452 (Piso 11)\nRosario, null 2000\nAR","type":"work"},"text",["","","Cordoba 1452 (Piso 11)","Rosario","","2000","AR"]],["email",{"type":"work"},"text","sdiab@TRANSDATOS.COM.AR"],["tel",{"type":"work"},"text","54 341 4495049 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071219",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20071219",
+      "eventActor" : "SED2"
+    } ],
+    "handle" : "SED2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SED2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SED2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Diab"],["adr",{"label":"Cordoba 1452 (Piso 11)\nRosario, null 2000\nAR","type":"work"},"text",["","","Cordoba 1452 (Piso 11)","Rosario","","2000","AR"]],["email",{"type":"work"},"text","sdiab@TRANSDATOS.COM.AR"],["tel",{"type":"work"},"text","54 341 4495049 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071219",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20071219",
+      "eventActor" : "SED2"
+    } ],
+    "handle" : "SED2"
+  } ],
+  "startAutnum" : 11514,
+  "endAutnum" : 11514,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19980915",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20101005",
+    "eventActor" : "SED2"
+  } ],
+  "type" : null,
+  "handle" : "11514-LACNIC",
+  "country" : "AR"
+}

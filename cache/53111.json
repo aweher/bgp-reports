@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53111,
+  "endAutnum" : 53111,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53111",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53111"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090622",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130419",
+    "eventActor" : "HOC2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CENS1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CENS1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hostmaster CensaNET"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampos dos Goytacazes, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campos dos Goytacazes","RJ","04578-000","BR"]],["email",{"type":"work"},"text","HOC2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["org",{},"text",["Centro Educacional Nossa Senhora Auxiliadora"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "HOC2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/HOC2",
+        "value" : "http://rdap.labs.lacnic.net/entity/HOC2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hostmaster CensaNET"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampos dos Goytacazes, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campos dos Goytacazes","RJ","04578-000","BR"]],["email",{"type":"work"},"text","HOC2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "HOC2"
+      } ],
+      "entities" : [ ],
+      "handle" : "HOC2"
+    } ],
+    "handle" : "BR-CENS1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HOC2",
+      "value" : "http://rdap.labs.lacnic.net/entity/HOC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hostmaster CensaNET"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampos dos Goytacazes, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campos dos Goytacazes","RJ","04578-000","BR"]],["email",{"type":"work"},"text","HOC2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "HOC2"
+    } ],
+    "entities" : [ ],
+    "handle" : "HOC2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/INC28",
+      "value" : "http://rdap.labs.lacnic.net/entity/INC28"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Infraestrutura Censanet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampos dos Goytacazes, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campos dos Goytacazes","","04578-000","BR"]],["email",{"type":"work"},"text","INC28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130419",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130419",
+      "eventActor" : "INC28"
+    } ],
+    "entities" : [ ],
+    "handle" : "INC28"
+  } ],
+  "type" : null,
+  "handle" : "53111-LACNIC",
+  "country" : "BR"
+}

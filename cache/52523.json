@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52523,
+  "endAutnum" : 52523,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52523",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52523"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130521",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130521",
+    "eventActor" : "ERZ8"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CPFL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CPFL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Evandro Roberto Von Zuben"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampinas, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campinas","SP","04578-000","BR"]],["email",{"type":"work"},"text","ERZ8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["Companhia Paulista de For?a e Luz"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130522",
+      "eventActor" : "ERZ8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ERZ8",
+        "value" : "http://rdap.labs.lacnic.net/entity/ERZ8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Evandro Roberto Von Zuben"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampinas, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campinas","SP","04578-000","BR"]],["email",{"type":"work"},"text","ERZ8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ERZ8"
+      } ],
+      "entities" : [ ],
+      "handle" : "ERZ8"
+    } ],
+    "handle" : "BR-CPFL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ERZ8",
+      "value" : "http://rdap.labs.lacnic.net/entity/ERZ8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Evandro Roberto Von Zuben"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampinas, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campinas","SP","04578-000","BR"]],["email",{"type":"work"},"text","ERZ8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ERZ8"
+    } ],
+    "entities" : [ ],
+    "handle" : "ERZ8"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ERZ8",
+      "value" : "http://rdap.labs.lacnic.net/entity/ERZ8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Evandro Roberto Von Zuben"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampinas, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campinas","SP","04578-000","BR"]],["email",{"type":"work"},"text","ERZ8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ERZ8"
+    } ],
+    "entities" : [ ],
+    "handle" : "ERZ8"
+  } ],
+  "type" : null,
+  "handle" : "52523-LACNIC",
+  "country" : "BR"
+}

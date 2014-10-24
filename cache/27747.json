@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27747",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27747"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TESA26-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TESA26-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador de Direcciones"],["adr",{"label":"Coronel Apolinario Figueroa 254 ()\nBuenos Aires, BA C1414EDF\nAR","type":"work"},"text",["","","Coronel Apolinario Figueroa 254 ()","Buenos Aires","BA","C1414EDF","AR"]],["email",{"type":"work"},"text","ipadmin@TELECENTRO.NET.AR"],["tel",{"type":"work"},"text","54 11 6380-9500 ()"],["org",{},"text",["Telecentro S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FRH",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FRH"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador de Direcciones"],["adr",{"label":"Coronel Apolinario Figueroa 254 ()\nBuenos Aires,  C1414EDF\nAR","type":"work"},"text",["","","Coronel Apolinario Figueroa 254 ()","Buenos Aires","","C1414EDF","AR"]],["email",{"type":"work"},"text","ipadmin@TELECENTRO.NET.AR"],["tel",{"type":"work"},"text","54 11 63809500 (0)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060731",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120919",
+        "eventActor" : "FRH"
+      } ],
+      "handle" : "FRH"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030828",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "FRH"
+    } ],
+    "handle" : "AR-TESA26-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FRH",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FRH"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador de Direcciones"],["adr",{"label":"Coronel Apolinario Figueroa 254 ()\nBuenos Aires,  C1414EDF\nAR","type":"work"},"text",["","","Coronel Apolinario Figueroa 254 ()","Buenos Aires","","C1414EDF","AR"]],["email",{"type":"work"},"text","ipadmin@TELECENTRO.NET.AR"],["tel",{"type":"work"},"text","54 11 63809500 (0)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060731",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120919",
+      "eventActor" : "FRH"
+    } ],
+    "handle" : "FRH"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FRH",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FRH"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador de Direcciones"],["adr",{"label":"Coronel Apolinario Figueroa 254 ()\nBuenos Aires,  C1414EDF\nAR","type":"work"},"text",["","","Coronel Apolinario Figueroa 254 ()","Buenos Aires","","C1414EDF","AR"]],["email",{"type":"work"},"text","ipadmin@TELECENTRO.NET.AR"],["tel",{"type":"work"},"text","54 11 63809500 (0)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060731",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120919",
+      "eventActor" : "FRH"
+    } ],
+    "handle" : "FRH"
+  } ],
+  "startAutnum" : 27747,
+  "endAutnum" : 27747,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20040706",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20061207",
+    "eventActor" : "FRH"
+  } ],
+  "type" : null,
+  "handle" : "27747-LACNIC",
+  "country" : "AR"
+}

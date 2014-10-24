@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28060",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28060"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-PCSA14-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-PCSA14-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Aroldo Mendez Urrutia"],["adr",{"label":"San Francisco de Borja 235 ()\nEstacion Central, RM 9160053\nCL","type":"work"},"text",["","","San Francisco de Borja 235 ()","Estacion Central","RM","9160053","CL"]],["email",{"type":"work"},"text","lmendez@PULLMAN.CL"],["tel",{"type":"work"},"text","56 2 5603838 ()"],["org",{},"text",["Pullman Cargo S.A"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/LAU2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/LAU2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Aroldo Mendez Urrutia"],["adr",{"label":"San Francisco de Borja 235 235 ()\nEstacion Central, null 9160053\nCL","type":"work"},"text",["","","San Francisco de Borja 235 235 ()","Estacion Central","","9160053","CL"]],["email",{"type":"work"},"text","lmendez@PULLMAN.CL"],["tel",{"type":"work"},"text","56 2 5603838 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20081104",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20081104",
+        "eventActor" : "LAU2"
+      } ],
+      "handle" : "LAU2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081229",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090602",
+      "eventActor" : "LAU2"
+    } ],
+    "handle" : "CL-PCSA14-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/LAU2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/LAU2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Aroldo Mendez Urrutia"],["adr",{"label":"San Francisco de Borja 235 235 ()\nEstacion Central, null 9160053\nCL","type":"work"},"text",["","","San Francisco de Borja 235 235 ()","Estacion Central","","9160053","CL"]],["email",{"type":"work"},"text","lmendez@PULLMAN.CL"],["tel",{"type":"work"},"text","56 2 5603838 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081104",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20081104",
+      "eventActor" : "LAU2"
+    } ],
+    "handle" : "LAU2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/LAU2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/LAU2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Aroldo Mendez Urrutia"],["adr",{"label":"San Francisco de Borja 235 235 ()\nEstacion Central, null 9160053\nCL","type":"work"},"text",["","","San Francisco de Borja 235 235 ()","Estacion Central","","9160053","CL"]],["email",{"type":"work"},"text","lmendez@PULLMAN.CL"],["tel",{"type":"work"},"text","56 2 5603838 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081104",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20081104",
+      "eventActor" : "LAU2"
+    } ],
+    "handle" : "LAU2"
+  } ],
+  "startAutnum" : 28060,
+  "endAutnum" : 28060,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090601",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090601",
+    "eventActor" : "LAU2"
+  } ],
+  "type" : null,
+  "handle" : "28060-LACNIC",
+  "country" : "CL"
+}

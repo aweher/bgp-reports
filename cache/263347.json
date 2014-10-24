@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263347,
+  "endAutnum" : 263347,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263347",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263347"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140314",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140314",
+    "eventActor" : "CPL33"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CPIL9-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CPIL9-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Alberto Delafiori"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nChavantes, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Chavantes","","04578-000","BR"]],["email",{"type":"work"},"text","CAD29@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["org",{},"text",["CEDNET PROVEDOR DE INTERNET LTDA."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "CAD29"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CAD29",
+        "value" : "http://rdap.labs.lacnic.net/entity/CAD29"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Alberto Delafiori"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nChavantes, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Chavantes","SP","04578-000","BR"]],["email",{"type":"work"},"text","CAD29@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CAD29"
+      } ],
+      "entities" : [ ],
+      "handle" : "CAD29"
+    } ],
+    "handle" : "BR-CPIL9-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CPL33",
+      "value" : "http://rdap.labs.lacnic.net/entity/CPL33"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CEDNET PROVEDOR DE INTERNET LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nChavantes, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Chavantes","SP","04578-000","BR"]],["email",{"type":"work"},"text","CPL33@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140221",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140221",
+      "eventActor" : "CPL33"
+    } ],
+    "entities" : [ ],
+    "handle" : "CPL33"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CPL33",
+      "value" : "http://rdap.labs.lacnic.net/entity/CPL33"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CEDNET PROVEDOR DE INTERNET LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nChavantes, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Chavantes","SP","04578-000","BR"]],["email",{"type":"work"},"text","CPL33@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140221",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140221",
+      "eventActor" : "CPL33"
+    } ],
+    "entities" : [ ],
+    "handle" : "CPL33"
+  } ],
+  "type" : null,
+  "handle" : "263347-LACNIC",
+  "country" : "BR"
+}

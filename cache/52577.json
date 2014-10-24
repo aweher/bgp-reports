@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52577,
+  "endAutnum" : 52577,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52577",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52577"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130222",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140417",
+    "eventActor" : "GVM4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MRDS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MRDS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Micheli Rodrigues dos Santos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmeira, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmeira","PR","04578-000","BR"]],["email",{"type":"work"},"text","MRS11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["org",{},"text",["Vianna Mehl Servi?os de Telecomunica??es Voip Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140416",
+      "eventActor" : "MRS11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MRS11",
+        "value" : "http://rdap.labs.lacnic.net/entity/MRS11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Micheli Rodrigues dos Santos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmeira, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmeira","PR","04578-000","BR"]],["email",{"type":"work"},"text","MRS11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MRS11"
+      } ],
+      "entities" : [ ],
+      "handle" : "MRS11"
+    } ],
+    "handle" : "BR-MRDS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GVM4",
+      "value" : "http://rdap.labs.lacnic.net/entity/GVM4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Glauco Vianna Mehl"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmeira, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmeira","PR","04578-000","BR"]],["email",{"type":"work"},"text","GVM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140415",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140415",
+      "eventActor" : "GVM4"
+    } ],
+    "entities" : [ ],
+    "handle" : "GVM4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GVM4",
+      "value" : "http://rdap.labs.lacnic.net/entity/GVM4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Glauco Vianna Mehl"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmeira, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmeira","PR","04578-000","BR"]],["email",{"type":"work"},"text","GVM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140415",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140415",
+      "eventActor" : "GVM4"
+    } ],
+    "entities" : [ ],
+    "handle" : "GVM4"
+  } ],
+  "type" : null,
+  "handle" : "52577-LACNIC",
+  "country" : "BR"
+}

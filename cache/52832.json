@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52832,
+  "endAutnum" : 52832,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52832",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52832"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121018",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ELJ"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PCLT10-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PCLT10-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ISAAC NASCIMENTO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAracaju, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aracaju","SE","04578-000","BR"]],["email",{"type":"work"},"text","ISN9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["org",{},"text",["Petrox Comercial Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "ISN9"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ISN9",
+        "value" : "http://rdap.labs.lacnic.net/entity/ISN9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ISAAC NASCIMENTO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAracaju, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aracaju","SE","04578-000","BR"]],["email",{"type":"work"},"text","ISN9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ISN9"
+      } ],
+      "entities" : [ ],
+      "handle" : "ISN9"
+    } ],
+    "handle" : "BR-PCLT10-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ELJ",
+      "value" : "http://rdap.labs.lacnic.net/entity/ELJ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emanuel Linoan Ferreira Junior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAracaju, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aracaju","SE","04578-000","BR"]],["email",{"type":"work"},"text","ELJ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ELJ"
+    } ],
+    "entities" : [ ],
+    "handle" : "ELJ"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ISN9",
+      "value" : "http://rdap.labs.lacnic.net/entity/ISN9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ISAAC NASCIMENTO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAracaju, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aracaju","SE","04578-000","BR"]],["email",{"type":"work"},"text","ISN9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ISN9"
+    } ],
+    "entities" : [ ],
+    "handle" : "ISN9"
+  } ],
+  "type" : null,
+  "handle" : "52832-LACNIC",
+  "country" : "BR"
+}

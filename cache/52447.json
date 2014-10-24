@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52447",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52447"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-COLT4-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-COLT4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Axel Christian Mori"],["adr",{"label":"VENECIA 1101 ()\nSANTA CLARA DEL MAR, BA 7609\nAR","type":"work"},"text",["","","VENECIA 1101 ()","SANTA CLARA DEL MAR","BA","7609","AR"]],["email",{"type":"work"},"text","sistemas@COOTELSER.COM.AR"],["tel",{"type":"work"},"text","54 0223 4602359 (32)"],["org",{},"text",["Cooperativa Telefonica y Otros Servicios de Santa Clara del Mar Limitada Cootelser Ltda."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ACM6",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ACM6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Axel Christian Mori"],["adr",{"label":"Venecia 1101 ()\nSanta Clara del Mar, BA 7609\nAR","type":"work"},"text",["","","Venecia 1101 ()","Santa Clara del Mar","BA","7609","AR"]],["email",{"type":"work"},"text","sistemas@COOTELSER.COM.AR"],["tel",{"type":"work"},"text","54 223 4602359 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20121114",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131213",
+        "eventActor" : "ACM6"
+      } ],
+      "handle" : "ACM6"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060111",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "ACM6"
+    } ],
+    "handle" : "AR-COLT4-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ACM6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ACM6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Axel Christian Mori"],["adr",{"label":"Venecia 1101 ()\nSanta Clara del Mar, BA 7609\nAR","type":"work"},"text",["","","Venecia 1101 ()","Santa Clara del Mar","BA","7609","AR"]],["email",{"type":"work"},"text","sistemas@COOTELSER.COM.AR"],["tel",{"type":"work"},"text","54 223 4602359 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20121114",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131213",
+      "eventActor" : "ACM6"
+    } ],
+    "handle" : "ACM6"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ACM6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ACM6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Axel Christian Mori"],["adr",{"label":"Venecia 1101 ()\nSanta Clara del Mar, BA 7609\nAR","type":"work"},"text",["","","Venecia 1101 ()","Santa Clara del Mar","BA","7609","AR"]],["email",{"type":"work"},"text","sistemas@COOTELSER.COM.AR"],["tel",{"type":"work"},"text","54 223 4602359 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20121114",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131213",
+      "eventActor" : "ACM6"
+    } ],
+    "handle" : "ACM6"
+  } ],
+  "startAutnum" : 52447,
+  "endAutnum" : 52447,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130301",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130301",
+    "eventActor" : "ACM6"
+  } ],
+  "type" : null,
+  "handle" : "52447-LACNIC",
+  "country" : "AR"
+}

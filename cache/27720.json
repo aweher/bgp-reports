@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27720,
+  "endAutnum" : 27720,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27720",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27720"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130422",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130422",
+    "eventActor" : "CIT4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CTLT72-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CTLT72-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Citta Telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio de Janeiro, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio de Janeiro","RJ","04578-000","BR"]],["email",{"type":"work"},"text","CIT4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["org",{},"text",["CITTA TELECOM LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130422",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140115",
+      "eventActor" : "CIT4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CIT4",
+        "value" : "http://rdap.labs.lacnic.net/entity/CIT4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Citta Telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio de Janeiro, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio de Janeiro","","04578-000","BR"]],["email",{"type":"work"},"text","CIT4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130405",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130405",
+        "eventActor" : "CIT4"
+      } ],
+      "entities" : [ ],
+      "handle" : "CIT4"
+    } ],
+    "handle" : "BR-CTLT72-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CIT4",
+      "value" : "http://rdap.labs.lacnic.net/entity/CIT4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Citta Telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio de Janeiro, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio de Janeiro","","04578-000","BR"]],["email",{"type":"work"},"text","CIT4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130405",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130405",
+      "eventActor" : "CIT4"
+    } ],
+    "entities" : [ ],
+    "handle" : "CIT4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CIT4",
+      "value" : "http://rdap.labs.lacnic.net/entity/CIT4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Citta Telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio de Janeiro, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio de Janeiro","","04578-000","BR"]],["email",{"type":"work"},"text","CIT4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130405",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130405",
+      "eventActor" : "CIT4"
+    } ],
+    "entities" : [ ],
+    "handle" : "CIT4"
+  } ],
+  "type" : null,
+  "handle" : "27720-LACNIC",
+  "country" : "BR"
+}

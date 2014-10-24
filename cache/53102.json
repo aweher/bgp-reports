@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53102,
+  "endAutnum" : 53102,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53102",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53102"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091126",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "DFP3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-STCA4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-STCA4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Deivis Fernandes Pirani"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nHortol?ndia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Hortol?ndia","SP","04578-000","BR"]],["email",{"type":"work"},"text","DFP3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["SI TELEINFOTMATICA CONS. ASS. INFO. TELECOM LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "DFP3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DFP3",
+        "value" : "http://rdap.labs.lacnic.net/entity/DFP3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Deivis Fernandes Pirani"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampinas, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campinas","SP","04578-000","BR"]],["email",{"type":"work"},"text","DFP3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DFP3"
+      } ],
+      "entities" : [ ],
+      "handle" : "DFP3"
+    } ],
+    "handle" : "BR-STCA4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DFP3",
+      "value" : "http://rdap.labs.lacnic.net/entity/DFP3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Deivis Fernandes Pirani"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampinas, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campinas","SP","04578-000","BR"]],["email",{"type":"work"},"text","DFP3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DFP3"
+    } ],
+    "entities" : [ ],
+    "handle" : "DFP3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DFP3",
+      "value" : "http://rdap.labs.lacnic.net/entity/DFP3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Deivis Fernandes Pirani"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampinas, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campinas","SP","04578-000","BR"]],["email",{"type":"work"},"text","DFP3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DFP3"
+    } ],
+    "entities" : [ ],
+    "handle" : "DFP3"
+  } ],
+  "type" : null,
+  "handle" : "53102-LACNIC",
+  "country" : "BR"
+}

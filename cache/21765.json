@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/21765",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/21765"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-MASA3-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-MASA3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Miguel Villar"],["adr",{"label":"Badajoz 130 (16th floor)\nSantiago, RM 7560908\nCL","type":"work"},"text",["","","Badajoz 130 (16th floor)","Santiago","RM","7560908","CL"]],["email",{"type":"work"},"text","mavillar@REDVOISS.NET"],["tel",{"type":"work"},"text","56 2 2408500 ()"],["org",{},"text",["VOISSNET S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MIV4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MIV4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Miguel Villar"],["adr",{"label":"Badajoz 130 (Piso 16)\nSantiago, null 7560908\nCL","type":"work"},"text",["","","Badajoz 130 (Piso 16)","Santiago","","7560908","CL"]],["email",{"type":"work"},"text","mavillar@REDVOISS.NET"],["tel",{"type":"work"},"text","56 2 2408581 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120731",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120731",
+        "eventActor" : "MIV4"
+      } ],
+      "handle" : "MIV4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120904",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121019",
+      "eventActor" : "MIV4"
+    } ],
+    "handle" : "CL-MASA3-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MIV4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MIV4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Miguel Villar"],["adr",{"label":"Badajoz 130 (Piso 16)\nSantiago, null 7560908\nCL","type":"work"},"text",["","","Badajoz 130 (Piso 16)","Santiago","","7560908","CL"]],["email",{"type":"work"},"text","mavillar@REDVOISS.NET"],["tel",{"type":"work"},"text","56 2 2408581 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120731",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120731",
+      "eventActor" : "MIV4"
+    } ],
+    "handle" : "MIV4"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MIV4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MIV4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Miguel Villar"],["adr",{"label":"Badajoz 130 (Piso 16)\nSantiago, null 7560908\nCL","type":"work"},"text",["","","Badajoz 130 (Piso 16)","Santiago","","7560908","CL"]],["email",{"type":"work"},"text","mavillar@REDVOISS.NET"],["tel",{"type":"work"},"text","56 2 2408581 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120731",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120731",
+      "eventActor" : "MIV4"
+    } ],
+    "handle" : "MIV4"
+  } ],
+  "startAutnum" : 21765,
+  "endAutnum" : 21765,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20010618",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20040415",
+    "eventActor" : "MIV4"
+  } ],
+  "type" : null,
+  "handle" : "21765-LACNIC",
+  "country" : "CL"
+}

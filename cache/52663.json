@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52663,
+  "endAutnum" : 52663,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52663",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52663"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121121",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "FGA2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TBTE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TBTE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabiano garcia auta santos anjo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBuritis, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Buritis","MG","04578-000","BR"]],["email",{"type":"work"},"text","FGA2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["org",{},"text",["Turbo BSB Tecnologias em Rede Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "FGA2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FGA2",
+        "value" : "http://rdap.labs.lacnic.net/entity/FGA2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabiano garcia auta santos anjo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBras?lia, DF 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bras?lia","DF","04578-000","BR"]],["email",{"type":"work"},"text","FGA2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FGA2"
+      } ],
+      "entities" : [ ],
+      "handle" : "FGA2"
+    } ],
+    "handle" : "BR-TBTE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FGA2",
+      "value" : "http://rdap.labs.lacnic.net/entity/FGA2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabiano garcia auta santos anjo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBras?lia, DF 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bras?lia","DF","04578-000","BR"]],["email",{"type":"work"},"text","FGA2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FGA2"
+    } ],
+    "entities" : [ ],
+    "handle" : "FGA2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FGA2",
+      "value" : "http://rdap.labs.lacnic.net/entity/FGA2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabiano garcia auta santos anjo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBras?lia, DF 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bras?lia","DF","04578-000","BR"]],["email",{"type":"work"},"text","FGA2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FGA2"
+    } ],
+    "entities" : [ ],
+    "handle" : "FGA2"
+  } ],
+  "type" : null,
+  "handle" : "52663-LACNIC",
+  "country" : "BR"
+}

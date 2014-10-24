@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262523,
+  "endAutnum" : 262523,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262523",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262523"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110707",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140204",
+    "eventActor" : "MCP27"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-HDNT-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-HDNT-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Thiago Camargo GOmes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAnicuns, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Anicuns","GO","04578-000","BR"]],["email",{"type":"work"},"text","TCG4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 64 55093511 ()"],["org",{},"text",["HELP DESK NET TELECOMUNICACOES LTDA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140204",
+      "eventActor" : "TCG4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/TCG4",
+        "value" : "http://rdap.labs.lacnic.net/entity/TCG4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Thiago Camargo GOmes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAn?polis, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","An?polis","GO","04578-000","BR"]],["email",{"type":"work"},"text","TCG4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "TCG4"
+      } ],
+      "entities" : [ ],
+      "handle" : "TCG4"
+    } ],
+    "handle" : "BR-HDNT-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MCP27",
+      "value" : "http://rdap.labs.lacnic.net/entity/MCP27"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marisley Cunha Pereira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAnicuns, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Anicuns","GO","04578-000","BR"]],["email",{"type":"work"},"text","MCP27@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 64 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140204",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140204",
+      "eventActor" : "MCP27"
+    } ],
+    "entities" : [ ],
+    "handle" : "MCP27"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MCP27",
+      "value" : "http://rdap.labs.lacnic.net/entity/MCP27"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marisley Cunha Pereira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAnicuns, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Anicuns","GO","04578-000","BR"]],["email",{"type":"work"},"text","MCP27@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 64 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140204",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140204",
+      "eventActor" : "MCP27"
+    } ],
+    "entities" : [ ],
+    "handle" : "MCP27"
+  } ],
+  "type" : null,
+  "handle" : "262523-LACNIC",
+  "country" : "BR"
+}

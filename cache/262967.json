@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262967,
+  "endAutnum" : 262967,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262967",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262967"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130710",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131106",
+    "eventActor" : "CBS15"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CSLT17-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CSLT17-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Darlan Segalin"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nChapec?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Chapec?","","04578-000","BR"]],["email",{"type":"work"},"text","DAS54@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["org",{},"text",["CBA Sistemas LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "DAS54"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DAS54",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAS54"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Darlan Segalin"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nChapec?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Chapec?","SC","04578-000","BR"]],["email",{"type":"work"},"text","DAS54@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DAS54"
+      } ],
+      "entities" : [ ],
+      "handle" : "DAS54"
+    } ],
+    "handle" : "BR-CSLT17-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CBS15",
+      "value" : "http://rdap.labs.lacnic.net/entity/CBS15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CBA Sistemas"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nChapec?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Chapec?","SC","04578-000","BR"]],["email",{"type":"work"},"text","CBS15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CBS15"
+    } ],
+    "entities" : [ ],
+    "handle" : "CBS15"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CBS15",
+      "value" : "http://rdap.labs.lacnic.net/entity/CBS15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CBA Sistemas"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nChapec?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Chapec?","SC","04578-000","BR"]],["email",{"type":"work"},"text","CBS15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CBS15"
+    } ],
+    "entities" : [ ],
+    "handle" : "CBS15"
+  } ],
+  "type" : null,
+  "handle" : "262967-LACNIC",
+  "country" : "BR"
+}

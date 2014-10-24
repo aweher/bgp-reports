@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263311,
+  "endAutnum" : 263311,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263311",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263311"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140220",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140220",
+    "eventActor" : "GBC5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VSET1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VSET1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gleydson Barbosa Carneiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","CE","04578-000","BR"]],["email",{"type":"work"},"text","GBC5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["org",{},"text",["Via Cast Solucoes em Telecomunicacoes Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140508",
+      "eventActor" : "GBC5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GBC5",
+        "value" : "http://rdap.labs.lacnic.net/entity/GBC5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gleydson Barbosa Carneiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","CE","04578-000","BR"]],["email",{"type":"work"},"text","GBC5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "GBC5"
+      } ],
+      "entities" : [ ],
+      "handle" : "GBC5"
+    } ],
+    "handle" : "BR-VSET1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GBC5",
+      "value" : "http://rdap.labs.lacnic.net/entity/GBC5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gleydson Barbosa Carneiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","CE","04578-000","BR"]],["email",{"type":"work"},"text","GBC5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GBC5"
+    } ],
+    "entities" : [ ],
+    "handle" : "GBC5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GBC5",
+      "value" : "http://rdap.labs.lacnic.net/entity/GBC5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gleydson Barbosa Carneiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","CE","04578-000","BR"]],["email",{"type":"work"},"text","GBC5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GBC5"
+    } ],
+    "entities" : [ ],
+    "handle" : "GBC5"
+  } ],
+  "type" : null,
+  "handle" : "263311-LACNIC",
+  "country" : "BR"
+}

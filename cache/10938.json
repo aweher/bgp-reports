@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 10938,
+  "endAutnum" : 10938,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/10938",
+    "value" : "http://rdap.labs.lacnic.net/autnum/10938"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20000216",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "AEI6"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-AETI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-AETI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","AGENCIA ESTADUAL DE TECNOLOGIA DA INFORM"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRecife, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Recife","PE","04578-000","BR"]],["email",{"type":"work"},"text","AEI6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["org",{},"text",["AGENCIA ESTADUAL DE TECNOLOGIA DA INFORMACAO - ATI"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AEI6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/AEI6",
+        "value" : "http://rdap.labs.lacnic.net/entity/AEI6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","AGENCIA ESTADUAL DE TECNOLOGIA DA INFORM"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRecife, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Recife","PE","04578-000","BR"]],["email",{"type":"work"},"text","AEI6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "AEI6"
+      } ],
+      "entities" : [ ],
+      "handle" : "AEI6"
+    } ],
+    "handle" : "BR-AETI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AEI6",
+      "value" : "http://rdap.labs.lacnic.net/entity/AEI6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","AGENCIA ESTADUAL DE TECNOLOGIA DA INFORM"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRecife, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Recife","PE","04578-000","BR"]],["email",{"type":"work"},"text","AEI6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AEI6"
+    } ],
+    "entities" : [ ],
+    "handle" : "AEI6"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AEI6",
+      "value" : "http://rdap.labs.lacnic.net/entity/AEI6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","AGENCIA ESTADUAL DE TECNOLOGIA DA INFORM"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRecife, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Recife","PE","04578-000","BR"]],["email",{"type":"work"},"text","AEI6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AEI6"
+    } ],
+    "entities" : [ ],
+    "handle" : "AEI6"
+  } ],
+  "type" : null,
+  "handle" : "10938-LACNIC",
+  "country" : "BR"
+}

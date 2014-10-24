@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262296,
+  "endAutnum" : 262296,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262296",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262296"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120713",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ALE16"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-WINE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-WINE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alessandro Estev?o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMarata?zes, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Marata?zes","ES","04578-000","BR"]],["email",{"type":"work"},"text","ALE16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 28 55093511 ()"],["org",{},"text",["Windx Networks"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "ALE16"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ALE16",
+        "value" : "http://rdap.labs.lacnic.net/entity/ALE16"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alessandro Estev?o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMarata?zes, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Marata?zes","ES","04578-000","BR"]],["email",{"type":"work"},"text","ALE16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 28 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ALE16"
+      } ],
+      "entities" : [ ],
+      "handle" : "ALE16"
+    } ],
+    "handle" : "BR-WINE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALE16",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALE16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alessandro Estev?o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMarata?zes, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Marata?zes","ES","04578-000","BR"]],["email",{"type":"work"},"text","ALE16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 28 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ALE16"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALE16"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALE16",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALE16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alessandro Estev?o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMarata?zes, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Marata?zes","ES","04578-000","BR"]],["email",{"type":"work"},"text","ALE16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 28 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ALE16"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALE16"
+  } ],
+  "type" : null,
+  "handle" : "262296-LACNIC",
+  "country" : "BR"
+}

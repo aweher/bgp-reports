@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53173,
+  "endAutnum" : 53173,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53173",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53173"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100730",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MQG3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ATCS4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ATCS4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","marcel queiroz gurgel"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLimoeiro do Norte, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Limoeiro do Norte","CE","04578-000","BR"]],["email",{"type":"work"},"text","MQG3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 88 55093511 ()"],["org",{},"text",["ARENANET TEL COM E SERV EM INF LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "MQG3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MQG3",
+        "value" : "http://rdap.labs.lacnic.net/entity/MQG3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","marcel queiroz gurgel"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLimoeiro do Norte, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Limoeiro do Norte","CE","04578-000","BR"]],["email",{"type":"work"},"text","MQG3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 88 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MQG3"
+      } ],
+      "entities" : [ ],
+      "handle" : "MQG3"
+    } ],
+    "handle" : "BR-ATCS4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MQG3",
+      "value" : "http://rdap.labs.lacnic.net/entity/MQG3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","marcel queiroz gurgel"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLimoeiro do Norte, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Limoeiro do Norte","CE","04578-000","BR"]],["email",{"type":"work"},"text","MQG3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 88 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MQG3"
+    } ],
+    "entities" : [ ],
+    "handle" : "MQG3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FSS6",
+      "value" : "http://rdap.labs.lacnic.net/entity/FSS6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","FRANCISCO SOARES DA SILVA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nChorozinho, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Chorozinho","CE","04578-000","BR"]],["email",{"type":"work"},"text","FSS6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 88 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140529",
+      "eventActor" : "FSS6"
+    } ],
+    "entities" : [ ],
+    "handle" : "FSS6"
+  } ],
+  "type" : null,
+  "handle" : "53173-LACNIC",
+  "country" : "BR"
+}

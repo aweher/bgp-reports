@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28288,
+  "endAutnum" : 28288,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28288",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28288"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070518",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ATS23"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ATCS3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ATCS3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Adatel TV e Comunica??es Osasco S/A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos?","SC","04578-000","BR"]],["email",{"type":"work"},"text","ATS23@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["org",{},"text",["Adatel TV e Comunicacoes Sao Jose S/A"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ATS23"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ATS23",
+        "value" : "http://rdap.labs.lacnic.net/entity/ATS23"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Adatel TV e Comunica??es Osasco S/A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOsasco, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Osasco","SP","04578-000","BR"]],["email",{"type":"work"},"text","ATS23@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ATS23"
+      } ],
+      "entities" : [ ],
+      "handle" : "ATS23"
+    } ],
+    "handle" : "BR-ATCS3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ATS23",
+      "value" : "http://rdap.labs.lacnic.net/entity/ATS23"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Adatel TV e Comunica??es Osasco S/A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOsasco, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Osasco","SP","04578-000","BR"]],["email",{"type":"work"},"text","ATS23@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ATS23"
+    } ],
+    "entities" : [ ],
+    "handle" : "ATS23"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ATS23",
+      "value" : "http://rdap.labs.lacnic.net/entity/ATS23"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Adatel TV e Comunica??es Osasco S/A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOsasco, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Osasco","SP","04578-000","BR"]],["email",{"type":"work"},"text","ATS23@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ATS23"
+    } ],
+    "entities" : [ ],
+    "handle" : "ATS23"
+  } ],
+  "type" : null,
+  "handle" : "28288-LACNIC",
+  "country" : "BR"
+}

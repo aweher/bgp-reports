@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52246",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52246"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-EISA2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-EISA2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Empresas Indexa S.A."],["adr",{"label":"ROSAL 327 ()\nSantiago, RM 8320144\nCL","type":"work"},"text",["","","ROSAL 327 ()","Santiago","RM","8320144","CL"]],["email",{"type":"work"},"text","admred@INDEXA.CL"],["tel",{"type":"work"},"text","56 2 3458600 ()"],["org",{},"text",["EMPRESAS INDEXA S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/EIS",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/EIS"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Empresas Indexa S.A."],["adr",{"label":"Rosal 327 ()\nSantiago, null 8320144\nCL","type":"work"},"text",["","","Rosal 327 ()","Santiago","","8320144","CL"]],["email",{"type":"work"},"text","admred@INDEXA.CL"],["tel",{"type":"work"},"text","56 2 3458600 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100408",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100408",
+        "eventActor" : "EIS"
+      } ],
+      "handle" : "EIS"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100423",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "EIS"
+    } ],
+    "handle" : "CL-EISA2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/EIS",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/EIS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Empresas Indexa S.A."],["adr",{"label":"Rosal 327 ()\nSantiago, null 8320144\nCL","type":"work"},"text",["","","Rosal 327 ()","Santiago","","8320144","CL"]],["email",{"type":"work"},"text","admred@INDEXA.CL"],["tel",{"type":"work"},"text","56 2 3458600 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100408",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100408",
+      "eventActor" : "EIS"
+    } ],
+    "handle" : "EIS"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/EIS",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/EIS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Empresas Indexa S.A."],["adr",{"label":"Rosal 327 ()\nSantiago, null 8320144\nCL","type":"work"},"text",["","","Rosal 327 ()","Santiago","","8320144","CL"]],["email",{"type":"work"},"text","admred@INDEXA.CL"],["tel",{"type":"work"},"text","56 2 3458600 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100408",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100408",
+      "eventActor" : "EIS"
+    } ],
+    "handle" : "EIS"
+  } ],
+  "startAutnum" : 52246,
+  "endAutnum" : 52246,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100507",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100508",
+    "eventActor" : "EIS"
+  } ],
+  "type" : null,
+  "handle" : "52246-LACNIC",
+  "country" : "CL"
+}

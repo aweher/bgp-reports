@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52900,
+  "endAutnum" : 52900,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52900",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52900"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120720",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "UTS3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-QTSC-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-QTSC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Uilian Ted Nobre da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSinop, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sinop","MT","04578-000","BR"]],["email",{"type":"work"},"text","UTS3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["org",{},"text",["QUALITY TELECOM SERVI?OS DE COMUNICA??O LTDA EPP"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "UTS3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/UTS3",
+        "value" : "http://rdap.labs.lacnic.net/entity/UTS3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Uilian Ted Nobre da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSinop, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sinop","MT","04578-000","BR"]],["email",{"type":"work"},"text","UTS3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "UTS3"
+      } ],
+      "entities" : [ ],
+      "handle" : "UTS3"
+    } ],
+    "handle" : "BR-QTSC-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/UTS3",
+      "value" : "http://rdap.labs.lacnic.net/entity/UTS3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Uilian Ted Nobre da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSinop, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sinop","MT","04578-000","BR"]],["email",{"type":"work"},"text","UTS3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "UTS3"
+    } ],
+    "entities" : [ ],
+    "handle" : "UTS3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/UTS3",
+      "value" : "http://rdap.labs.lacnic.net/entity/UTS3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Uilian Ted Nobre da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSinop, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sinop","MT","04578-000","BR"]],["email",{"type":"work"},"text","UTS3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "UTS3"
+    } ],
+    "entities" : [ ],
+    "handle" : "UTS3"
+  } ],
+  "type" : null,
+  "handle" : "52900-LACNIC",
+  "country" : "BR"
+}

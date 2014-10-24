@@ -1,0 +1,78 @@
+{"service" : {
+  "name" : "search"
+},
+"parameters" : {
+  "inverse-lookup" : { },
+  "type-filters" : { },
+  "flags" : { },
+  "query-strings" : {
+    "query-string" : [ {
+      "value" : "as9700"
+    } ]
+  },
+  "sources" : { }
+},
+"objects" : {
+  "object" : [ {
+    "type" : "as-block",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/as-block/AS9216 - AS10239"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS9216 - AS10239"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS9216 - AS10239"
+      }, {
+        "name" : "descr",
+        "value" : "APNIC ASN block"
+      }, {
+        "name" : "remarks",
+        "value" : "These AS numbers are assigned in the APNIC region."
+      }, {
+        "name" : "remarks",
+        "value" : "For registration information please use http://www.apnic.net/whois"
+      }, {
+        "name" : "remarks",
+        "value" : "aut-num objects within this block represent routing"
+      }, {
+        "name" : "remarks",
+        "value" : "policy published in the RIPE Database"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-DBM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-DBM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-RPSL-MNT"
+        },
+        "name" : "mnt-lower",
+        "value" : "RIPE-NCC-RPSL-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  } ]
+},
+"terms-and-conditions" : {
+  "type" : "locator",
+  "href" : "http://www.ripe.net/db/support/db-terms-conditions.pdf"
+}
+}

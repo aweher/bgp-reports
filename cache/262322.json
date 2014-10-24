@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262322,
+  "endAutnum" : 262322,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262322",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262322"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111220",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MRM4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MPIL9-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MPIL9-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Ricardo Martelozzi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMandagua?u, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mandagua?u","PR","04578-000","BR"]],["email",{"type":"work"},"text","MRM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["org",{},"text",["MMER Provedor de Internet Ltda - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "MRM4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MRM4",
+        "value" : "http://rdap.labs.lacnic.net/entity/MRM4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Ricardo Martelozzi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMandaguacu, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mandaguacu","PR","04578-000","BR"]],["email",{"type":"work"},"text","MRM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 04 455093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MRM4"
+      } ],
+      "entities" : [ ],
+      "handle" : "MRM4"
+    } ],
+    "handle" : "BR-MPIL9-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MRM4",
+      "value" : "http://rdap.labs.lacnic.net/entity/MRM4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Ricardo Martelozzi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMandaguacu, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mandaguacu","PR","04578-000","BR"]],["email",{"type":"work"},"text","MRM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 04 455093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MRM4"
+    } ],
+    "entities" : [ ],
+    "handle" : "MRM4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MRM4",
+      "value" : "http://rdap.labs.lacnic.net/entity/MRM4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Ricardo Martelozzi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMandaguacu, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mandaguacu","PR","04578-000","BR"]],["email",{"type":"work"},"text","MRM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 04 455093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MRM4"
+    } ],
+    "entities" : [ ],
+    "handle" : "MRM4"
+  } ],
+  "type" : null,
+  "handle" : "262322-LACNIC",
+  "country" : "BR"
+}

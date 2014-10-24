@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28120",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28120"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-ARLT1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-ARLT1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Crist?bal Mu?oz Vial"],["adr",{"label":"Hernando de Aguirre 906 (Providencia)\nSantiago, RM 7510274\nCL","type":"work"},"text",["","","Hernando de Aguirre 906 (Providencia)","Santiago","RM","7510274","CL"]],["email",{"type":"work"},"text","cmunoz@DATABYTECHILE.COM"],["tel",{"type":"work"},"text","56 2 9192372 ()"],["org",{},"text",["Arquicomp Ltda."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CMV",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CMV"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Crist?bal Mu?oz Vial"],["adr",{"label":"Hernando de Aguirre 906 (Providencia)\nSantiago, RM 7510274\nCL","type":"work"},"text",["","","Hernando de Aguirre 906 (Providencia)","Santiago","RM","7510274","CL"]],["email",{"type":"work"},"text","cmunoz@DATABYTECHILE.COM"],["tel",{"type":"work"},"text","56 2 24957415 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090515",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140506",
+        "eventActor" : "CMV"
+      } ],
+      "handle" : "CMV"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090616",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "CMV"
+    } ],
+    "handle" : "CL-ARLT1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CMV",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CMV"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Crist?bal Mu?oz Vial"],["adr",{"label":"Hernando de Aguirre 906 (Providencia)\nSantiago, RM 7510274\nCL","type":"work"},"text",["","","Hernando de Aguirre 906 (Providencia)","Santiago","RM","7510274","CL"]],["email",{"type":"work"},"text","cmunoz@DATABYTECHILE.COM"],["tel",{"type":"work"},"text","56 2 24957415 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090515",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140506",
+      "eventActor" : "CMV"
+    } ],
+    "handle" : "CMV"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CMV",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CMV"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Crist?bal Mu?oz Vial"],["adr",{"label":"Hernando de Aguirre 906 (Providencia)\nSantiago, RM 7510274\nCL","type":"work"},"text",["","","Hernando de Aguirre 906 (Providencia)","Santiago","RM","7510274","CL"]],["email",{"type":"work"},"text","cmunoz@DATABYTECHILE.COM"],["tel",{"type":"work"},"text","56 2 24957415 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090515",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140506",
+      "eventActor" : "CMV"
+    } ],
+    "handle" : "CMV"
+  } ],
+  "startAutnum" : 28120,
+  "endAutnum" : 28120,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090918",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20101221",
+    "eventActor" : "CMV"
+  } ],
+  "type" : null,
+  "handle" : "28120-LACNIC",
+  "country" : "CL"
+}

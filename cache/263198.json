@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/263198",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263198"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-INVI1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-INVI1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sandra Leo"],["adr",{"label":"San Mart?n 430 ()\nMendoza,  5500\nAR","type":"work"},"text",["","","San Mart?n 430 ()","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","sleo@INV.GOV.AR"],["tel",{"type":"work"},"text","54 0261 4496600 ()"],["org",{},"text",["Instituto Nacional de Vitivinicultura"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SAL7",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SAL7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sandra Leo"],["adr",{"label":"San Martin 430 ()\nMendoza, null 5500\nAR","type":"work"},"text",["","","San Martin 430 ()","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","sleo@INV.GOV.AR"],["tel",{"type":"work"},"text","54 0261 5216678 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20091126",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20091126",
+        "eventActor" : "SAL7"
+      } ],
+      "handle" : "SAL7"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030929",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131219",
+      "eventActor" : "SAL7"
+    } ],
+    "handle" : "AR-INVI1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/INV7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/INV7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Instituto Nacional de Vitivinicultura"],["adr",{"label":"San Martin 430 ()\nMendoza,  5500\nAR","type":"work"},"text",["","","San Martin 430 ()","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","dnsadmin@INV.GOV.AR"],["tel",{"type":"work"},"text","54 261 5931078 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130726",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130726",
+      "eventActor" : "INV7"
+    } ],
+    "handle" : "INV7"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/INV7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/INV7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Instituto Nacional de Vitivinicultura"],["adr",{"label":"San Martin 430 ()\nMendoza,  5500\nAR","type":"work"},"text",["","","San Martin 430 ()","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","dnsadmin@INV.GOV.AR"],["tel",{"type":"work"},"text","54 261 5931078 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130726",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130726",
+      "eventActor" : "INV7"
+    } ],
+    "handle" : "INV7"
+  } ],
+  "startAutnum" : 263198,
+  "endAutnum" : 263198,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131218",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131218",
+    "eventActor" : "INV7"
+  } ],
+  "type" : null,
+  "handle" : "263198-LACNIC",
+  "country" : "AR"
+}

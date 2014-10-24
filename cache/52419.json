@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52419",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52419"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CTSB1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CTSB1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Nestor Barros"],["adr",{"label":"Mitre 2660 (-)\nSan Bernardo, BA 7111\nAR","type":"work"},"text",["","","Mitre 2660 (-)","San Bernardo","BA","7111","AR"]],["email",{"type":"work"},"text","nbarros@COTEL.COM.AR"],["tel",{"type":"work"},"text","54 2255 570210 ()"],["org",{},"text",["CESOP"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/NEB2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/NEB2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Nestor Barros"],["adr",{"label":"Paseo 113 y Av. 3  ()\nVilla Gesell, Bu 7165\nAR","type":"work"},"text",["","","Paseo 113 y Av. 3  ()","Villa Gesell","Bu","7165","AR"]],["email",{"type":"work"},"text","nbarros@COTEL.COM.AR"],["tel",{"type":"work"},"text","54 2255 570210 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120723",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120808",
+        "eventActor" : "NEB2"
+      } ],
+      "handle" : "NEB2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031117",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130607",
+      "eventActor" : "NEB2"
+    } ],
+    "handle" : "AR-CTSB1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NEB2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NEB2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Nestor Barros"],["adr",{"label":"Paseo 113 y Av. 3  ()\nVilla Gesell, Bu 7165\nAR","type":"work"},"text",["","","Paseo 113 y Av. 3  ()","Villa Gesell","Bu","7165","AR"]],["email",{"type":"work"},"text","nbarros@COTEL.COM.AR"],["tel",{"type":"work"},"text","54 2255 570210 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120723",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120808",
+      "eventActor" : "NEB2"
+    } ],
+    "handle" : "NEB2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NEB2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NEB2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Nestor Barros"],["adr",{"label":"Paseo 113 y Av. 3  ()\nVilla Gesell, Bu 7165\nAR","type":"work"},"text",["","","Paseo 113 y Av. 3  ()","Villa Gesell","Bu","7165","AR"]],["email",{"type":"work"},"text","nbarros@COTEL.COM.AR"],["tel",{"type":"work"},"text","54 2255 570210 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120723",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120808",
+      "eventActor" : "NEB2"
+    } ],
+    "handle" : "NEB2"
+  } ],
+  "startAutnum" : 52419,
+  "endAutnum" : 52419,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121105",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130607",
+    "eventActor" : "NEB2"
+  } ],
+  "type" : null,
+  "handle" : "52419-LACNIC",
+  "country" : "AR"
+}

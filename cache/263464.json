@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263464,
+  "endAutnum" : 263464,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263464",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263464"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131216",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131216",
+    "eventActor" : "EDS82"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SCEE2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SCEE2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ANDERSON L DE OLIVEIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJaguaquara, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jaguaquara","BA","04578-000","BR"]],["email",{"type":"work"},"text","ALO42@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["org",{},"text",["Souza Cortes Elet. Elet. Ltda ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130927",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130927",
+      "eventActor" : "ALO42"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ALO42",
+        "value" : "http://rdap.labs.lacnic.net/entity/ALO42"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ANDERSON L DE OLIVEIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta Cruz do Rio Pardo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa Cruz do Rio Pardo","SP","04578-000","BR"]],["email",{"type":"work"},"text","ALO42@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130927",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130927",
+        "eventActor" : "ALO42"
+      } ],
+      "entities" : [ ],
+      "handle" : "ALO42"
+    } ],
+    "handle" : "BR-SCEE2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDS82",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDS82"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edvaldo Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJaguaquara, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jaguaquara","BA","04578-000","BR"]],["email",{"type":"work"},"text","EDS82@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 73 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131011",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131011",
+      "eventActor" : "EDS82"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDS82"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDS82",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDS82"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edvaldo Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJaguaquara, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jaguaquara","BA","04578-000","BR"]],["email",{"type":"work"},"text","EDS82@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 73 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131011",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131011",
+      "eventActor" : "EDS82"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDS82"
+  } ],
+  "type" : null,
+  "handle" : "263464-LACNIC",
+  "country" : "BR"
+}

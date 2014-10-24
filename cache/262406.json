@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262406,
+  "endAutnum" : 262406,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262406",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262406"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110224",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "EHM2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NTSC-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NTSC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Esmarlei Henrique de Carvalho Melfi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJales, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jales","SP","04578-000","BR"]],["email",{"type":"work"},"text","EHM2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["org",{},"text",["National Telecom S. de Comunica?ao Multimidia LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "EHM2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EHM2",
+        "value" : "http://rdap.labs.lacnic.net/entity/EHM2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Esmarlei Henrique de Carvalho Melfi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJales, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jales","SP","04578-000","BR"]],["email",{"type":"work"},"text","EHM2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EHM2"
+      } ],
+      "entities" : [ ],
+      "handle" : "EHM2"
+    } ],
+    "handle" : "BR-NTSC-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EHM2",
+      "value" : "http://rdap.labs.lacnic.net/entity/EHM2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Esmarlei Henrique de Carvalho Melfi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJales, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jales","SP","04578-000","BR"]],["email",{"type":"work"},"text","EHM2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EHM2"
+    } ],
+    "entities" : [ ],
+    "handle" : "EHM2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EHM2",
+      "value" : "http://rdap.labs.lacnic.net/entity/EHM2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Esmarlei Henrique de Carvalho Melfi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJales, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jales","SP","04578-000","BR"]],["email",{"type":"work"},"text","EHM2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EHM2"
+    } ],
+    "entities" : [ ],
+    "handle" : "EHM2"
+  } ],
+  "type" : null,
+  "handle" : "262406-LACNIC",
+  "country" : "BR"
+}

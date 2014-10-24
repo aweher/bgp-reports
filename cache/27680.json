@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27680",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27680"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-TMCS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-TMCS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Guillermo Aracena"],["adr",{"label":"Miraflores 130 (Piso 11)\nSantiago,  8320215\nCL","type":"work"},"text",["","","Miraflores 130 (Piso 11)","Santiago","","8320215","CL"]],["email",{"type":"work"},"text","lacnic.cl@TELEFONICA.COM"],["tel",{"type":"work"},"text","56 2 6616815 ()"],["org",{},"text",["TELEFONICA MOVIL DE CHILE S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GUA2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GUA2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Guillermo Aracena"],["adr",{"label":"Providencia 111 (Piso 9)\nProvidencia,  7500824\nCL","type":"work"},"text",["","","Providencia 111 (Piso 9)","Providencia","","7500824","CL"]],["email",{"type":"work"},"text","lacnic.cl@TELEFONICA.COM"],["tel",{"type":"work"},"text","56 2 26912548 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030227",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140325",
+        "eventActor" : "GUA2"
+      } ],
+      "handle" : "GUA2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030328",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "GUA2"
+    } ],
+    "handle" : "CL-TMCS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GUA2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GUA2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Guillermo Aracena"],["adr",{"label":"Providencia 111 (Piso 9)\nProvidencia,  7500824\nCL","type":"work"},"text",["","","Providencia 111 (Piso 9)","Providencia","","7500824","CL"]],["email",{"type":"work"},"text","lacnic.cl@TELEFONICA.COM"],["tel",{"type":"work"},"text","56 2 26912548 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030227",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140325",
+      "eventActor" : "GUA2"
+    } ],
+    "handle" : "GUA2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GUA2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GUA2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Guillermo Aracena"],["adr",{"label":"Providencia 111 (Piso 9)\nProvidencia,  7500824\nCL","type":"work"},"text",["","","Providencia 111 (Piso 9)","Providencia","","7500824","CL"]],["email",{"type":"work"},"text","lacnic.cl@TELEFONICA.COM"],["tel",{"type":"work"},"text","56 2 26912548 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030227",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140325",
+      "eventActor" : "GUA2"
+    } ],
+    "handle" : "GUA2"
+  } ],
+  "startAutnum" : 27680,
+  "endAutnum" : 27680,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20030603",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20050407",
+    "eventActor" : "GUA2"
+  } ],
+  "type" : null,
+  "handle" : "27680-LACNIC",
+  "country" : "CL"
+}

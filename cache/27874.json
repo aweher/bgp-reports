@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27874",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27874"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-EENP1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-EENP1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Vargas Avila"],["adr",{"label":"Av. Vitacura 2736 (25)\nSantiago,  56\nCL","type":"work"},"text",["","","Av. Vitacura 2736 (25)","Santiago","","56","CL"]],["email",{"type":"work"},"text","fvargas@ENAP.CL"],["tel",{"type":"work"},"text","56 2 2803000 ()"],["org",{},"text",["ENAP - Empresa Nacional del Petroleos Chile"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FVA2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FVA2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Vargas Avila"],["adr",{"label":"Vitacura 2736 -00 ()\nSantiago,  562\nCL","type":"work"},"text",["","","Vitacura 2736 -00 ()","Santiago","","562","CL"]],["email",{"type":"work"},"text","fvargas@ENAP.CL"],["tel",{"type":"work"},"text","56 2 2803000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060411",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20090206",
+        "eventActor" : "FVA2"
+      } ],
+      "handle" : "FVA2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060412",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070110",
+      "eventActor" : "FVA2"
+    } ],
+    "handle" : "CL-EENP1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FVA2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FVA2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Vargas Avila"],["adr",{"label":"Vitacura 2736 -00 ()\nSantiago,  562\nCL","type":"work"},"text",["","","Vitacura 2736 -00 ()","Santiago","","562","CL"]],["email",{"type":"work"},"text","fvargas@ENAP.CL"],["tel",{"type":"work"},"text","56 2 2803000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060411",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090206",
+      "eventActor" : "FVA2"
+    } ],
+    "handle" : "FVA2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FVA2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FVA2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Vargas Avila"],["adr",{"label":"Vitacura 2736 -00 ()\nSantiago,  562\nCL","type":"work"},"text",["","","Vitacura 2736 -00 ()","Santiago","","562","CL"]],["email",{"type":"work"},"text","fvargas@ENAP.CL"],["tel",{"type":"work"},"text","56 2 2803000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060411",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090206",
+      "eventActor" : "FVA2"
+    } ],
+    "handle" : "FVA2"
+  } ],
+  "startAutnum" : 27874,
+  "endAutnum" : 27874,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070109",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20070109",
+    "eventActor" : "FVA2"
+  } ],
+  "type" : null,
+  "handle" : "27874-LACNIC",
+  "country" : "CL"
+}

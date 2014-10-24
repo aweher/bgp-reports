@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52747,
+  "endAutnum" : 52747,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52747",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52747"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130205",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140526",
+    "eventActor" : "JPZ"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-WSTL4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-WSTL4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jeferson Pinow Zaminhan"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSantar?m, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santar?m","PA","04578-000","BR"]],["email",{"type":"work"},"text","JPZ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 93 55093511 ()"],["org",{},"text",["Wsp Servi?os de Telecomunica??es Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "JPZ"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JPZ",
+        "value" : "http://rdap.labs.lacnic.net/entity/JPZ"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jeferson Pinow Zaminhan"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSantar?m, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santar?m","PA","04578-000","BR"]],["email",{"type":"work"},"text","JPZ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 93 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JPZ"
+      } ],
+      "entities" : [ ],
+      "handle" : "JPZ"
+    } ],
+    "handle" : "BR-WSTL4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JPZ",
+      "value" : "http://rdap.labs.lacnic.net/entity/JPZ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jeferson Pinow Zaminhan"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSantar?m, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santar?m","PA","04578-000","BR"]],["email",{"type":"work"},"text","JPZ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 93 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JPZ"
+    } ],
+    "entities" : [ ],
+    "handle" : "JPZ"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MVM19",
+      "value" : "http://rdap.labs.lacnic.net/entity/MVM19"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Vinicius Malachias"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAra?atuba, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ara?atuba","","04578-000","BR"]],["email",{"type":"work"},"text","MVM19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130419",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130419",
+      "eventActor" : "MVM19"
+    } ],
+    "entities" : [ ],
+    "handle" : "MVM19"
+  } ],
+  "type" : null,
+  "handle" : "52747-LACNIC",
+  "country" : "BR"
+}

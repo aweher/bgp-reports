@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262682,
+  "endAutnum" : 262682,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262682",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262682"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090826",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "GRR2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-RPIL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-RPIL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Deuclesia Verola dos Santos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlfenas, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alfenas","MG","04578-000","BR"]],["email",{"type":"work"},"text","DVS@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["org",{},"text",["REDE POPULAR DE INTERNET LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131022",
+      "eventActor" : "DVS"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DVS",
+        "value" : "http://rdap.labs.lacnic.net/entity/DVS"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Deuclesia Verola dos Santos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlfenas, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alfenas","MG","04578-000","BR"]],["email",{"type":"work"},"text","DVS@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DVS"
+      } ],
+      "entities" : [ ],
+      "handle" : "DVS"
+    } ],
+    "handle" : "BR-RPIL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GRR2",
+      "value" : "http://rdap.labs.lacnic.net/entity/GRR2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Rodrigues Cravo Roxo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlfenas, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alfenas","MG","04578-000","BR"]],["email",{"type":"work"},"text","GRR2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GRR2"
+    } ],
+    "entities" : [ ],
+    "handle" : "GRR2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GRR2",
+      "value" : "http://rdap.labs.lacnic.net/entity/GRR2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Rodrigues Cravo Roxo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlfenas, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alfenas","MG","04578-000","BR"]],["email",{"type":"work"},"text","GRR2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GRR2"
+    } ],
+    "entities" : [ ],
+    "handle" : "GRR2"
+  } ],
+  "type" : null,
+  "handle" : "262682-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/10617",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/10617"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-SISA8-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-SISA8-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Oliva"],["adr",{"label":"AV. Cabildo 2677 (Piso 7)\nCapital Federal, BA 1428\nAR","type":"work"},"text",["","","AV. Cabildo 2677 (Piso 7)","Capital Federal","BA","1428","AR"]],["email",{"type":"work"},"text","foliva@SION.COM"],["tel",{"type":"work"},"text","54 11 41102525 ()"],["org",{},"text",["SION S.A"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FEO",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FEO"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Oliva"],["adr",{"label":"Cabildo 2677 (Piso 7)\nBuenos Aires,  1428\nAR","type":"work"},"text",["","","Cabildo 2677 (Piso 7)","Buenos Aires","","1428","AR"]],["email",{"type":"work"},"text","foliva@SION.COM"],["tel",{"type":"work"},"text","54 11 39602580 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20020925",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140220",
+        "eventActor" : "FEO"
+      } ],
+      "handle" : "FEO"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030226",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "FEO"
+    } ],
+    "handle" : "AR-SISA8-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEO",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEO"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Oliva"],["adr",{"label":"Cabildo 2677 (Piso 7)\nBuenos Aires,  1428\nAR","type":"work"},"text",["","","Cabildo 2677 (Piso 7)","Buenos Aires","","1428","AR"]],["email",{"type":"work"},"text","foliva@SION.COM"],["tel",{"type":"work"},"text","54 11 39602580 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020925",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140220",
+      "eventActor" : "FEO"
+    } ],
+    "handle" : "FEO"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEO",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEO"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Oliva"],["adr",{"label":"Cabildo 2677 (Piso 7)\nBuenos Aires,  1428\nAR","type":"work"},"text",["","","Cabildo 2677 (Piso 7)","Buenos Aires","","1428","AR"]],["email",{"type":"work"},"text","foliva@SION.COM"],["tel",{"type":"work"},"text","54 11 39602580 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020925",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140220",
+      "eventActor" : "FEO"
+    } ],
+    "handle" : "FEO"
+  } ],
+  "startAutnum" : 10617,
+  "endAutnum" : 10617,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19971006",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "19971006",
+    "eventActor" : "FEO"
+  } ],
+  "type" : null,
+  "handle" : "10617-LACNIC",
+  "country" : "AR"
+}

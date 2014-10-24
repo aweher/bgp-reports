@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262317,
+  "endAutnum" : 262317,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262317",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262317"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111216",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "VHM9"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ROSA3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ROSA3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo Orlandeli Sanches"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRegente Feij?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Regente Feij?","SP","04578-000","BR"]],["email",{"type":"work"},"text","ROS30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["org",{},"text",["Rodrigo Orlandeli Sanches"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131205",
+      "eventActor" : "ROS30"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ROS30",
+        "value" : "http://rdap.labs.lacnic.net/entity/ROS30"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo Orlandeli Sanches"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRegente Feij?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Regente Feij?","SP","04578-000","BR"]],["email",{"type":"work"},"text","ROS30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ROS30"
+      } ],
+      "entities" : [ ],
+      "handle" : "ROS30"
+    } ],
+    "handle" : "BR-ROSA3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VHM9",
+      "value" : "http://rdap.labs.lacnic.net/entity/VHM9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","VICTOR HUGO REBOLLO DE MOURA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto Anast?cio, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo Anast?cio","SP","04578-000","BR"]],["email",{"type":"work"},"text","VHM9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VHM9"
+    } ],
+    "entities" : [ ],
+    "handle" : "VHM9"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VHM9",
+      "value" : "http://rdap.labs.lacnic.net/entity/VHM9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","VICTOR HUGO REBOLLO DE MOURA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto Anast?cio, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo Anast?cio","SP","04578-000","BR"]],["email",{"type":"work"},"text","VHM9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VHM9"
+    } ],
+    "entities" : [ ],
+    "handle" : "VHM9"
+  } ],
+  "type" : null,
+  "handle" : "262317-LACNIC",
+  "country" : "BR"
+}

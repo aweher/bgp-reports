@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/10964",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/10964"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-RCCO-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-RCCO-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Presta"],["adr",{"label":"Av Corrientes 5233 (piso 1 Of 11)\nCapital Federal,  C1414AJF\nAR","type":"work"},"text",["","","Av Corrientes 5233 (piso 1 Of 11)","Capital Federal","","C1414AJF","AR"]],["email",{"type":"work"},"text","rpresta@RCC.COOP"],["tel",{"type":"work"},"text","54 11 48577195 ()"],["org",{},"text",["Red Cooperativa de Comunicaciones"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/RIP4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/RIP4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Presta"],["adr",{"label":"Av Corrientes 5233 (1er Of 118)\nCapital Federal,  C1414AJF\nAR","type":"work"},"text",["","","Av Corrientes 5233 (1er Of 118)","Capital Federal","","C1414AJF","AR"]],["email",{"type":"work"},"text","rpresta@RCC.COOP"],["tel",{"type":"work"},"text","54 11 48577195 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20040415",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20050411",
+        "eventActor" : "RIP4"
+      } ],
+      "handle" : "RIP4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040415",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "RIP4"
+    } ],
+    "handle" : "AR-RCCO-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RIP4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RIP4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Presta"],["adr",{"label":"Av Corrientes 5233 (1er Of 118)\nCapital Federal,  C1414AJF\nAR","type":"work"},"text",["","","Av Corrientes 5233 (1er Of 118)","Capital Federal","","C1414AJF","AR"]],["email",{"type":"work"},"text","rpresta@RCC.COOP"],["tel",{"type":"work"},"text","54 11 48577195 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040415",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20050411",
+      "eventActor" : "RIP4"
+    } ],
+    "handle" : "RIP4"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RIP4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RIP4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Presta"],["adr",{"label":"Av Corrientes 5233 (1er Of 118)\nCapital Federal,  C1414AJF\nAR","type":"work"},"text",["","","Av Corrientes 5233 (1er Of 118)","Capital Federal","","C1414AJF","AR"]],["email",{"type":"work"},"text","rpresta@RCC.COOP"],["tel",{"type":"work"},"text","54 11 48577195 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040415",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20050411",
+      "eventActor" : "RIP4"
+    } ],
+    "handle" : "RIP4"
+  } ],
+  "startAutnum" : 10964,
+  "endAutnum" : 10964,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19980217",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20041117",
+    "eventActor" : "RIP4"
+  } ],
+  "type" : null,
+  "handle" : "10964-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52352",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52352"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TVSA2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TVSA2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonardo Siano"],["adr",{"label":"Hipolito Irigoyen 332 (-)\nMar de Ajo (Bs.As.), BA 7109\nAR","type":"work"},"text",["","","Hipolito Irigoyen 332 (-)","Mar de Ajo (Bs.As.)","BA","7109","AR"]],["email",{"type":"work"},"text","leo@TVC5SA.COM.AR"],["tel",{"type":"work"},"text","54 2257 421767 ()"],["org",{},"text",["TVC5 S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/LES6",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/LES6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonardo Siano"],["adr",{"label":"H. Yrigoyen 332 ()\nMar de Ajo, BA 7109\nAR","type":"work"},"text",["","","H. Yrigoyen 332 ()","Mar de Ajo","BA","7109","AR"]],["email",{"type":"work"},"text","leo@TVC5SA.COM.AR"],["tel",{"type":"work"},"text","54 2257 421767 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110127",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110211",
+        "eventActor" : "LES6"
+      } ],
+      "handle" : "LES6"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060518",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "LES6"
+    } ],
+    "handle" : "AR-TVSA2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/LES6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/LES6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonardo Siano"],["adr",{"label":"H. Yrigoyen 332 ()\nMar de Ajo, BA 7109\nAR","type":"work"},"text",["","","H. Yrigoyen 332 ()","Mar de Ajo","BA","7109","AR"]],["email",{"type":"work"},"text","leo@TVC5SA.COM.AR"],["tel",{"type":"work"},"text","54 2257 421767 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110127",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110211",
+      "eventActor" : "LES6"
+    } ],
+    "handle" : "LES6"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/LES6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/LES6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonardo Siano"],["adr",{"label":"H. Yrigoyen 332 ()\nMar de Ajo, BA 7109\nAR","type":"work"},"text",["","","H. Yrigoyen 332 ()","Mar de Ajo","BA","7109","AR"]],["email",{"type":"work"},"text","leo@TVC5SA.COM.AR"],["tel",{"type":"work"},"text","54 2257 421767 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110127",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110211",
+      "eventActor" : "LES6"
+    } ],
+    "handle" : "LES6"
+  } ],
+  "startAutnum" : 52352,
+  "endAutnum" : 52352,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111101",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20111101",
+    "eventActor" : "LES6"
+  } ],
+  "type" : null,
+  "handle" : "52352-LACNIC",
+  "country" : "AR"
+}

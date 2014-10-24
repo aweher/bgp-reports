@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 19723,
+  "endAutnum" : 19723,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/19723",
+    "value" : "http://rdap.labs.lacnic.net/autnum/19723"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20010308",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ADC36"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CTIC1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CTIC1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administracao Dominios Celepar"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","PR","04578-000","BR"]],["email",{"type":"work"},"text","ADC36@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 04 155093511 ()"],["org",{},"text",["CIA. DE TECNOL. DA INFOR. E COMUNICA??O DO PARAN?"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "ADC36"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ADC36",
+        "value" : "http://rdap.labs.lacnic.net/entity/ADC36"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administracao Dominios Celepar"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","PR","04578-000","BR"]],["email",{"type":"work"},"text","ADC36@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ADC36"
+      } ],
+      "entities" : [ ],
+      "handle" : "ADC36"
+    } ],
+    "handle" : "BR-CTIC1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ADC36",
+      "value" : "http://rdap.labs.lacnic.net/entity/ADC36"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administracao Dominios Celepar"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","PR","04578-000","BR"]],["email",{"type":"work"},"text","ADC36@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ADC36"
+    } ],
+    "entities" : [ ],
+    "handle" : "ADC36"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RAC57",
+      "value" : "http://rdap.labs.lacnic.net/entity/RAC57"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Resposta a Incidentes Seguranca CELEPAR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","PR","04578-000","BR"]],["email",{"type":"work"},"text","RAC57@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RAC57"
+    } ],
+    "entities" : [ ],
+    "handle" : "RAC57"
+  } ],
+  "type" : null,
+  "handle" : "19723-LACNIC",
+  "country" : "BR"
+}

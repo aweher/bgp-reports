@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28114",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28114"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-ATSA17-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-ATSA17-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christophe Ngo Van Duc"],["adr",{"label":"Calle Tucuman 1 (Piso 4)\nBuenos Aires, CF C1049AAA\nAR","type":"work"},"text",["","","Calle Tucuman 1 (Piso 4)","Buenos Aires","CF","C1049AAA","AR"]],["email",{"type":"work"},"text","Christophe.Duc@SKY.COM.BR"],["tel",{"type":"work"},"text","54 11 43216367 ()"],["org",{},"text",["Alpha Tel S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CND2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CND2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christophe Ngo Van Duc"],["adr",{"label":"San Martin 439 (Piso 10)\nBuenos Aires, CF C1004AAI\nAR","type":"work"},"text",["","","San Martin 439 (Piso 10)","Buenos Aires","CF","C1004AAI","AR"]],["email",{"type":"work"},"text","Christophe.Duc@SKY.COM.BR"],["tel",{"type":"work"},"text","55 61 81788749 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20091013",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130208",
+        "eventActor" : "CND2"
+      } ],
+      "handle" : "CND2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091016",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "CND2"
+    } ],
+    "handle" : "AR-ATSA17-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CND2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CND2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christophe Ngo Van Duc"],["adr",{"label":"San Martin 439 (Piso 10)\nBuenos Aires, CF C1004AAI\nAR","type":"work"},"text",["","","San Martin 439 (Piso 10)","Buenos Aires","CF","C1004AAI","AR"]],["email",{"type":"work"},"text","Christophe.Duc@SKY.COM.BR"],["tel",{"type":"work"},"text","55 61 81788749 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091013",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130208",
+      "eventActor" : "CND2"
+    } ],
+    "handle" : "CND2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CND2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CND2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christophe Ngo Van Duc"],["adr",{"label":"San Martin 439 (Piso 10)\nBuenos Aires, CF C1004AAI\nAR","type":"work"},"text",["","","San Martin 439 (Piso 10)","Buenos Aires","CF","C1004AAI","AR"]],["email",{"type":"work"},"text","Christophe.Duc@SKY.COM.BR"],["tel",{"type":"work"},"text","55 61 81788749 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091013",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130208",
+      "eventActor" : "CND2"
+    } ],
+    "handle" : "CND2"
+  } ],
+  "startAutnum" : 28114,
+  "endAutnum" : 28114,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100201",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100201",
+    "eventActor" : "CND2"
+  } ],
+  "type" : null,
+  "handle" : "28114-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262819,
+  "endAutnum" : 262819,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262819",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262819"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101028",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "LUP24"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-LNPA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-LNPA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciana Prado"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLimeira, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Limeira","SP","04578-000","BR"]],["email",{"type":"work"},"text","LUP24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["LINKTECK NET PROVEDOR DE ACESSO A REDES DE TELECOM"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "LUP24"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LUP24",
+        "value" : "http://rdap.labs.lacnic.net/entity/LUP24"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciana Prado"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLimeira, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Limeira","SP","04578-000","BR"]],["email",{"type":"work"},"text","LUP24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LUP24"
+      } ],
+      "entities" : [ ],
+      "handle" : "LUP24"
+    } ],
+    "handle" : "BR-LNPA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LUP24",
+      "value" : "http://rdap.labs.lacnic.net/entity/LUP24"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciana Prado"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLimeira, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Limeira","SP","04578-000","BR"]],["email",{"type":"work"},"text","LUP24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LUP24"
+    } ],
+    "entities" : [ ],
+    "handle" : "LUP24"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALS113",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALS113"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Allison Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLimeira, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Limeira","SP","04578-000","BR"]],["email",{"type":"work"},"text","ALS113@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ALS113"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALS113"
+  } ],
+  "type" : null,
+  "handle" : "262819-LACNIC",
+  "country" : "BR"
+}

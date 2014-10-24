@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27955",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27955"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CPSP3-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CPSP3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Enrique Wizenfeld"],["adr",{"label":"Moreno 1160 ()\nTortuguitas - Malvinas AR, BA 1667\nAR","type":"work"},"text",["","","Moreno 1160 ()","Tortuguitas - Malvinas AR","BA","1667","AR"]],["email",{"type":"work"},"text","ew@COOPTORTU.COM.AR"],["tel",{"type":"work"},"text","54 2320 491111 ()"],["org",{},"text",["Cooperativa de Provisi?n de Servicios Publicos de Tortuguitas"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CST2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CST2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Enrique Wizenfeld"],["adr",{"label":"Moreno 1160 - Tortuguitas- Prov. de Bs.As. 1160 ()\nTortuguitas, Bs B1667LDD\nAR","type":"work"},"text",["","","Moreno 1160 - Tortuguitas- Prov. de Bs.As. 1160 ()","Tortuguitas","Bs","B1667LDD","AR"]],["email",{"type":"work"},"text","ew@COOPTORTU.COM.AR"],["tel",{"type":"work"},"text","54 2320 491111 (125)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050414",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110301",
+        "eventActor" : "CST2"
+      } ],
+      "handle" : "CST2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070824",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "CST2"
+    } ],
+    "handle" : "AR-CPSP3-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CST2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CST2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Enrique Wizenfeld"],["adr",{"label":"Moreno 1160 - Tortuguitas- Prov. de Bs.As. 1160 ()\nTortuguitas, Bs B1667LDD\nAR","type":"work"},"text",["","","Moreno 1160 - Tortuguitas- Prov. de Bs.As. 1160 ()","Tortuguitas","Bs","B1667LDD","AR"]],["email",{"type":"work"},"text","ew@COOPTORTU.COM.AR"],["tel",{"type":"work"},"text","54 2320 491111 (125)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050414",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110301",
+      "eventActor" : "CST2"
+    } ],
+    "handle" : "CST2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CST2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CST2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Enrique Wizenfeld"],["adr",{"label":"Moreno 1160 - Tortuguitas- Prov. de Bs.As. 1160 ()\nTortuguitas, Bs B1667LDD\nAR","type":"work"},"text",["","","Moreno 1160 - Tortuguitas- Prov. de Bs.As. 1160 ()","Tortuguitas","Bs","B1667LDD","AR"]],["email",{"type":"work"},"text","ew@COOPTORTU.COM.AR"],["tel",{"type":"work"},"text","54 2320 491111 (125)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050414",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110301",
+      "eventActor" : "CST2"
+    } ],
+    "handle" : "CST2"
+  } ],
+  "startAutnum" : 27955,
+  "endAutnum" : 27955,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080130",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080130",
+    "eventActor" : "CST2"
+  } ],
+  "type" : null,
+  "handle" : "27955-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/16849",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/16849"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-NESA4-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-NESA4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ariel Mu?oz Cort?s"],["adr",{"label":"Los Conquistadores 2366 (Providencia)\nSantiago, RM 000\nCL","type":"work"},"text",["","","Los Conquistadores 2366 (Providencia)","Santiago","RM","000","CL"]],["email",{"type":"work"},"text","Ariel.Munoz@NEWPLANET.CL"],["tel",{"type":"work"},"text","56 2 3331116 (202)"],["org",{},"text",["NewPlanet S.A"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/AMC",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/AMC"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ariel Mu?oz Cort?s"],["adr",{"label":"Los Conquistadores 2366 (Providencia)\nSantiago, RM 753-0041\nCL","type":"work"},"text",["","","Los Conquistadores 2366 (Providencia)","Santiago","RM","753-0041","CL"]],["email",{"type":"work"},"text","Ariel.Munoz@NEWPLANET.CL"],["tel",{"type":"work"},"text","56 2 3332810 (202)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030127",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131209",
+        "eventActor" : "AMC"
+      } ],
+      "handle" : "AMC"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030110",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "AMC"
+    } ],
+    "handle" : "CL-NESA4-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AMC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AMC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ariel Mu?oz Cort?s"],["adr",{"label":"Los Conquistadores 2366 (Providencia)\nSantiago, RM 753-0041\nCL","type":"work"},"text",["","","Los Conquistadores 2366 (Providencia)","Santiago","RM","753-0041","CL"]],["email",{"type":"work"},"text","Ariel.Munoz@NEWPLANET.CL"],["tel",{"type":"work"},"text","56 2 3332810 (202)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030127",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131209",
+      "eventActor" : "AMC"
+    } ],
+    "handle" : "AMC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AMC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AMC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ariel Mu?oz Cort?s"],["adr",{"label":"Los Conquistadores 2366 (Providencia)\nSantiago, RM 753-0041\nCL","type":"work"},"text",["","","Los Conquistadores 2366 (Providencia)","Santiago","RM","753-0041","CL"]],["email",{"type":"work"},"text","Ariel.Munoz@NEWPLANET.CL"],["tel",{"type":"work"},"text","56 2 3332810 (202)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030127",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131209",
+      "eventActor" : "AMC"
+    } ],
+    "handle" : "AMC"
+  } ],
+  "startAutnum" : 16849,
+  "endAutnum" : 16849,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20000620",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20030624",
+    "eventActor" : "AMC"
+  } ],
+  "type" : null,
+  "handle" : "16849-LACNIC",
+  "country" : "CL"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27853",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27853"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-ABFM-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-ABFM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CRISTIAN ZENTENO MU?OZ"],["adr",{"label":"Agustinas 975 (Ofi. 501)\nSantiago,  6500595\nCL","type":"work"},"text",["","","Agustinas 975 (Ofi. 501)","Santiago","","6500595","CL"]],["email",{"type":"work"},"text","CRISTIAN.ZENTENO@BANCHILE.CL"],["tel",{"type":"work"},"text","56 2 6612186 ()"],["org",{},"text",["Administradora BANCHILE de Fondos Mutuos"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JAM",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JAM"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CRISTIAN ZENTENO MU?OZ"],["adr",{"label":"ESTADO 91 (PISO 4)\nSantiago,  8320256\nCL","type":"work"},"text",["","","ESTADO 91 (PISO 4)","Santiago","","8320256","CL"]],["email",{"type":"work"},"text","CRISTIAN.ZENTENO@BANCHILE.CL"],["tel",{"type":"work"},"text","56 2 6612318 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20021112",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110816",
+        "eventActor" : "JAM"
+      } ],
+      "handle" : "JAM"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021113",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "JAM"
+    } ],
+    "handle" : "CL-ABFM-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JAM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CRISTIAN ZENTENO MU?OZ"],["adr",{"label":"ESTADO 91 (PISO 4)\nSantiago,  8320256\nCL","type":"work"},"text",["","","ESTADO 91 (PISO 4)","Santiago","","8320256","CL"]],["email",{"type":"work"},"text","CRISTIAN.ZENTENO@BANCHILE.CL"],["tel",{"type":"work"},"text","56 2 6612318 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021112",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110816",
+      "eventActor" : "JAM"
+    } ],
+    "handle" : "JAM"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JAM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CRISTIAN ZENTENO MU?OZ"],["adr",{"label":"ESTADO 91 (PISO 4)\nSantiago,  8320256\nCL","type":"work"},"text",["","","ESTADO 91 (PISO 4)","Santiago","","8320256","CL"]],["email",{"type":"work"},"text","CRISTIAN.ZENTENO@BANCHILE.CL"],["tel",{"type":"work"},"text","56 2 6612318 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021112",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110816",
+      "eventActor" : "JAM"
+    } ],
+    "handle" : "JAM"
+  } ],
+  "startAutnum" : 27853,
+  "endAutnum" : 27853,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060922",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20060922",
+    "eventActor" : "JAM"
+  } ],
+  "type" : null,
+  "handle" : "27853-LACNIC",
+  "country" : "CL"
+}

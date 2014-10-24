@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27751",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27751"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-NESA19-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-NESA19-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Alcaraz"],["adr",{"label":"Bolivia 132 (.)\nCentenario (Neuquen),  8309\nAR","type":"work"},"text",["","","Bolivia 132 (.)","Centenario (Neuquen)","","8309","AR"]],["email",{"type":"work"},"text","lalcaraz@NEUNET.COM.AR"],["tel",{"type":"work"},"text","54 299 4898000 ()"],["org",{},"text",["Neunet S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CTC",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CTC"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Alcaraz"],["adr",{"label":"San Martin 275 ()\nCentenario, nq 8309\nAR","type":"work"},"text",["","","San Martin 275 ()","Centenario","nq","8309","AR"]],["email",{"type":"work"},"text","lalcaraz@NEUNET.COM.AR"],["tel",{"type":"work"},"text","54 299 4898000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20031118",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130920",
+        "eventActor" : "CTC"
+      } ],
+      "handle" : "CTC"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031124",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "CTC"
+    } ],
+    "handle" : "AR-NESA19-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CTC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CTC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Alcaraz"],["adr",{"label":"San Martin 275 ()\nCentenario, nq 8309\nAR","type":"work"},"text",["","","San Martin 275 ()","Centenario","nq","8309","AR"]],["email",{"type":"work"},"text","lalcaraz@NEUNET.COM.AR"],["tel",{"type":"work"},"text","54 299 4898000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031118",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130920",
+      "eventActor" : "CTC"
+    } ],
+    "handle" : "CTC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CTC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CTC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Alcaraz"],["adr",{"label":"San Martin 275 ()\nCentenario, nq 8309\nAR","type":"work"},"text",["","","San Martin 275 ()","Centenario","nq","8309","AR"]],["email",{"type":"work"},"text","lalcaraz@NEUNET.COM.AR"],["tel",{"type":"work"},"text","54 299 4898000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031118",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130920",
+      "eventActor" : "CTC"
+    } ],
+    "handle" : "CTC"
+  } ],
+  "startAutnum" : 27751,
+  "endAutnum" : 27751,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20040712",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20041118",
+    "eventActor" : "CTC"
+  } ],
+  "type" : null,
+  "handle" : "27751-LACNIC",
+  "country" : "AR"
+}

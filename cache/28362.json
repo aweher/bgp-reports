@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28362,
+  "endAutnum" : 28362,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28362",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28362"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20071123",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "HOI8"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ONIN-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ONIN-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hostmaster ONDA INTERNET"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSacramento, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sacramento","MG","04578-000","BR"]],["email",{"type":"work"},"text","HOI8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["org",{},"text",["Onda Internet"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "HOI8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/HOI8",
+        "value" : "http://rdap.labs.lacnic.net/entity/HOI8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hostmaster ONDA INTERNET"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSacramento, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sacramento","MG","04578-000","BR"]],["email",{"type":"work"},"text","HOI8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "HOI8"
+      } ],
+      "entities" : [ ],
+      "handle" : "HOI8"
+    } ],
+    "handle" : "BR-ONIN-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HOI8",
+      "value" : "http://rdap.labs.lacnic.net/entity/HOI8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hostmaster ONDA INTERNET"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSacramento, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sacramento","MG","04578-000","BR"]],["email",{"type":"work"},"text","HOI8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "HOI8"
+    } ],
+    "entities" : [ ],
+    "handle" : "HOI8"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CGI",
+      "value" : "http://rdap.labs.lacnic.net/entity/CGI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Centro de Gerencia de Rede Onda Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSacramento, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sacramento","MG","04578-000","BR"]],["email",{"type":"work"},"text","CGI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CGI"
+    } ],
+    "entities" : [ ],
+    "handle" : "CGI"
+  } ],
+  "type" : null,
+  "handle" : "28362-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263372,
+  "endAutnum" : 263372,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263372",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263372"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140320",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140328",
+    "eventActor" : "ARJ18"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-RSLT23-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-RSLT23-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","francisco solonilzo de sousa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTenente Ananias, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tenente Ananias","RN","04578-000","BR"]],["email",{"type":"work"},"text","FSS18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["org",{},"text",["RODRIGUES & SARMENTO LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140310",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140310",
+      "eventActor" : "FSS18"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FSS18",
+        "value" : "http://rdap.labs.lacnic.net/entity/FSS18"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","francisco solonilzo de sousa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCajazeiras, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cajazeiras","PB","04578-000","BR"]],["email",{"type":"work"},"text","FSS18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20140310",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140310",
+        "eventActor" : "FSS18"
+      } ],
+      "entities" : [ ],
+      "handle" : "FSS18"
+    } ],
+    "handle" : "BR-RSLT23-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ARJ18",
+      "value" : "http://rdap.labs.lacnic.net/entity/ARJ18"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Arimatea Junior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPau dos Ferros, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pau dos Ferros","RN","04578-000","BR"]],["email",{"type":"work"},"text","ARJ18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ARJ18"
+    } ],
+    "entities" : [ ],
+    "handle" : "ARJ18"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FSS18",
+      "value" : "http://rdap.labs.lacnic.net/entity/FSS18"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","francisco solonilzo de sousa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCajazeiras, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cajazeiras","PB","04578-000","BR"]],["email",{"type":"work"},"text","FSS18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140310",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140310",
+      "eventActor" : "FSS18"
+    } ],
+    "entities" : [ ],
+    "handle" : "FSS18"
+  } ],
+  "type" : null,
+  "handle" : "263372-LACNIC",
+  "country" : "BR"
+}

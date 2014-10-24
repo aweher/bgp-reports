@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52566,
+  "endAutnum" : 52566,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52566",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52566"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130215",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140604",
+    "eventActor" : "ALT30"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SICS10-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SICS10-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre Tinti"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConcei??o do Coit?, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Concei??o do Coit?","BA","04578-000","BR"]],["email",{"type":"work"},"text","ALT30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["org",{},"text",["SISALWEB INTERNET"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130524",
+      "eventActor" : "ALT30"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ALT30",
+        "value" : "http://rdap.labs.lacnic.net/entity/ALT30"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre Tinti"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConcei??o do Coit?, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Concei??o do Coit?","BA","04578-000","BR"]],["email",{"type":"work"},"text","ALT30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ALT30"
+      } ],
+      "entities" : [ ],
+      "handle" : "ALT30"
+    } ],
+    "handle" : "BR-SICS10-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALT30",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALT30"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre Tinti"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConcei??o do Coit?, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Concei??o do Coit?","BA","04578-000","BR"]],["email",{"type":"work"},"text","ALT30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ALT30"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALT30"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FJN4",
+      "value" : "http://rdap.labs.lacnic.net/entity/FJN4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Jose Badaro Valente Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalvador, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salvador","BA","04578-000","BR"]],["email",{"type":"work"},"text","FJN4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FJN4"
+    } ],
+    "entities" : [ ],
+    "handle" : "FJN4"
+  } ],
+  "type" : null,
+  "handle" : "52566-LACNIC",
+  "country" : "BR"
+}

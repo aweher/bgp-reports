@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28341,
+  "endAutnum" : 28341,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28341",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28341"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070914",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "NSL9"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-WSIS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-WSIS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Novanet Servicos de Informatica S/C Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? do Rio Preto, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? do Rio Preto","SP","04578-000","BR"]],["email",{"type":"work"},"text","NSL9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["org",{},"text",["WESTNET SERVICOS DE INFORMATICA S/C LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NSL9"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/NSL9",
+        "value" : "http://rdap.labs.lacnic.net/entity/NSL9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Novanet Servicos de Informatica S/C Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSao Jose do Rio Preto, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sao Jose do Rio Preto","SP","04578-000","BR"]],["email",{"type":"work"},"text","NSL9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 01 755093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "NSL9"
+      } ],
+      "entities" : [ ],
+      "handle" : "NSL9"
+    } ],
+    "handle" : "BR-WSIS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NSL9",
+      "value" : "http://rdap.labs.lacnic.net/entity/NSL9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Novanet Servicos de Informatica S/C Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSao Jose do Rio Preto, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sao Jose do Rio Preto","SP","04578-000","BR"]],["email",{"type":"work"},"text","NSL9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 01 755093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NSL9"
+    } ],
+    "entities" : [ ],
+    "handle" : "NSL9"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NSL9",
+      "value" : "http://rdap.labs.lacnic.net/entity/NSL9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Novanet Servicos de Informatica S/C Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSao Jose do Rio Preto, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sao Jose do Rio Preto","SP","04578-000","BR"]],["email",{"type":"work"},"text","NSL9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 01 755093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NSL9"
+    } ],
+    "entities" : [ ],
+    "handle" : "NSL9"
+  } ],
+  "type" : null,
+  "handle" : "28341-LACNIC",
+  "country" : "BR"
+}

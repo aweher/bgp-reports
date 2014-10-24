@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61927,
+  "endAutnum" : 61927,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61927",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61927"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140603",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140603",
+    "eventActor" : "ELT11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-EITL1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-EITL1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Elielton Teixeira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoioer?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goioer?","","04578-000","BR"]],["email",{"type":"work"},"text","ELT11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["org",{},"text",["ES informatica e Tecnologia Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "ELT11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ELT11",
+        "value" : "http://rdap.labs.lacnic.net/entity/ELT11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Elielton Teixeira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoioer?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goioer?","PR","04578-000","BR"]],["email",{"type":"work"},"text","ELT11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ELT11"
+      } ],
+      "entities" : [ ],
+      "handle" : "ELT11"
+    } ],
+    "handle" : "BR-EITL1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ELT11",
+      "value" : "http://rdap.labs.lacnic.net/entity/ELT11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Elielton Teixeira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoioer?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goioer?","PR","04578-000","BR"]],["email",{"type":"work"},"text","ELT11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ELT11"
+    } ],
+    "entities" : [ ],
+    "handle" : "ELT11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ELT11",
+      "value" : "http://rdap.labs.lacnic.net/entity/ELT11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Elielton Teixeira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoioer?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goioer?","PR","04578-000","BR"]],["email",{"type":"work"},"text","ELT11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ELT11"
+    } ],
+    "entities" : [ ],
+    "handle" : "ELT11"
+  } ],
+  "type" : null,
+  "handle" : "61927-LACNIC",
+  "country" : "BR"
+}

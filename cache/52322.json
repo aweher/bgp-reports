@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52322",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52322"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TELC4-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TELC4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JAVIER LATINI"],["adr",{"label":"ITALIA 190 (OFICINA 5)\nVILLA REGINA, RN 8336\nAR","type":"work"},"text",["","","ITALIA 190 (OFICINA 5)","VILLA REGINA","RN","8336","AR"]],["email",{"type":"work"},"text","info@TELCOCOM.COM.AR"],["tel",{"type":"work"},"text","54 298 4461099 ()"],["org",{},"text",["TELCOCOM"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JAL9",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JAL9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JAVIER LATINI"],["adr",{"label":"ITALIA 190 (OFICINA 5)\nVILLA REGINA, RN 8336\nAR","type":"work"},"text",["","","ITALIA 190 (OFICINA 5)","VILLA REGINA","RN","8336","AR"]],["email",{"type":"work"},"text","info@TELCOCOM.COM.AR"],["tel",{"type":"work"},"text","54 298 4461099 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110301",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120110",
+        "eventActor" : "JAL9"
+      } ],
+      "handle" : "JAL9"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110303",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140118",
+      "eventActor" : "JAL9"
+    } ],
+    "handle" : "AR-TELC4-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JAL9",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAL9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JAVIER LATINI"],["adr",{"label":"ITALIA 190 (OFICINA 5)\nVILLA REGINA, RN 8336\nAR","type":"work"},"text",["","","ITALIA 190 (OFICINA 5)","VILLA REGINA","RN","8336","AR"]],["email",{"type":"work"},"text","info@TELCOCOM.COM.AR"],["tel",{"type":"work"},"text","54 298 4461099 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110301",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120110",
+      "eventActor" : "JAL9"
+    } ],
+    "handle" : "JAL9"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JAL9",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAL9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JAVIER LATINI"],["adr",{"label":"ITALIA 190 (OFICINA 5)\nVILLA REGINA, RN 8336\nAR","type":"work"},"text",["","","ITALIA 190 (OFICINA 5)","VILLA REGINA","RN","8336","AR"]],["email",{"type":"work"},"text","info@TELCOCOM.COM.AR"],["tel",{"type":"work"},"text","54 298 4461099 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110301",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120110",
+      "eventActor" : "JAL9"
+    } ],
+    "handle" : "JAL9"
+  } ],
+  "startAutnum" : 52322,
+  "endAutnum" : 52322,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110504",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110504",
+    "eventActor" : "JAL9"
+  } ],
+  "type" : null,
+  "handle" : "52322-LACNIC",
+  "country" : "AR"
+}

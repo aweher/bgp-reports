@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263103,
+  "endAutnum" : 263103,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263103",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263103"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120502",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "TLL2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VILT23-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VILT23-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Thiago Lins Gomes de Lyra"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarreiros, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barreiros","PE","04578-000","BR"]],["email",{"type":"work"},"text","TLL2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["org",{},"text",["VivaNet Informatica - LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "TLL2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/TLL2",
+        "value" : "http://rdap.labs.lacnic.net/entity/TLL2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Thiago Lins Gomes de Lyra"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarreiros, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barreiros","PE","04578-000","BR"]],["email",{"type":"work"},"text","TLL2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "TLL2"
+      } ],
+      "entities" : [ ],
+      "handle" : "TLL2"
+    } ],
+    "handle" : "BR-VILT23-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TLL2",
+      "value" : "http://rdap.labs.lacnic.net/entity/TLL2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Thiago Lins Gomes de Lyra"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarreiros, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barreiros","PE","04578-000","BR"]],["email",{"type":"work"},"text","TLL2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TLL2"
+    } ],
+    "entities" : [ ],
+    "handle" : "TLL2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TLL2",
+      "value" : "http://rdap.labs.lacnic.net/entity/TLL2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Thiago Lins Gomes de Lyra"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarreiros, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barreiros","PE","04578-000","BR"]],["email",{"type":"work"},"text","TLL2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TLL2"
+    } ],
+    "entities" : [ ],
+    "handle" : "TLL2"
+  } ],
+  "type" : null,
+  "handle" : "263103-LACNIC",
+  "country" : "BR"
+}

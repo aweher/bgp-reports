@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262512,
+  "endAutnum" : 262512,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262512",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262512"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110630",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130315",
+    "eventActor" : "ABT14"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CIJC-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CIJC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Celso Monteiro da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJundia?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jundia?","SP","04578-000","BR"]],["email",{"type":"work"},"text","CMS5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["Companhia de Inform?tica de Jundia? - CIJUN"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131129",
+      "eventActor" : "CMS5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CMS5",
+        "value" : "http://rdap.labs.lacnic.net/entity/CMS5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Celso Monteiro da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJundia?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jundia?","SP","04578-000","BR"]],["email",{"type":"work"},"text","CMS5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CMS5"
+      } ],
+      "entities" : [ ],
+      "handle" : "CMS5"
+    } ],
+    "handle" : "BR-CIJC-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ABT14",
+      "value" : "http://rdap.labs.lacnic.net/entity/ABT14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Abuse Team"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJundia?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jundia?","","04578-000","BR"]],["email",{"type":"work"},"text","ABT14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130314",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130314",
+      "eventActor" : "ABT14"
+    } ],
+    "entities" : [ ],
+    "handle" : "ABT14"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ABT14",
+      "value" : "http://rdap.labs.lacnic.net/entity/ABT14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Abuse Team"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJundia?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jundia?","","04578-000","BR"]],["email",{"type":"work"},"text","ABT14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130314",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130314",
+      "eventActor" : "ABT14"
+    } ],
+    "entities" : [ ],
+    "handle" : "ABT14"
+  } ],
+  "type" : null,
+  "handle" : "262512-LACNIC",
+  "country" : "BR"
+}

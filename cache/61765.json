@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61765,
+  "endAutnum" : 61765,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61765",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61765"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140616",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140616",
+    "eventActor" : "MAC113"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VTLM12-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VTLM12-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Antonio Cazarotto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConstantina, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Constantina","RS","04578-000","BR"]],["email",{"type":"work"},"text","MAC113@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["org",{},"text",["VIVA TELECOMUNICA??ES LTDA- ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140616",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140617",
+      "eventActor" : "MAC113"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MAC113",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAC113"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Antonio Cazarotto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConstantina, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Constantina","RS","04578-000","BR"]],["email",{"type":"work"},"text","MAC113@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MAC113"
+      } ],
+      "entities" : [ ],
+      "handle" : "MAC113"
+    } ],
+    "handle" : "BR-VTLM12-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAC113",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAC113"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Antonio Cazarotto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConstantina, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Constantina","RS","04578-000","BR"]],["email",{"type":"work"},"text","MAC113@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAC113"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAC113"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAC113",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAC113"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Antonio Cazarotto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConstantina, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Constantina","RS","04578-000","BR"]],["email",{"type":"work"},"text","MAC113@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAC113"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAC113"
+  } ],
+  "type" : null,
+  "handle" : "61765-LACNIC",
+  "country" : "BR"
+}

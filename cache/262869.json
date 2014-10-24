@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262869,
+  "endAutnum" : 262869,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262869",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262869"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101221",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140206",
+    "eventActor" : "LRO4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ETEI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ETEI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo Lindolfo Gon?alves de Paula"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPiracanjuba, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Piracanjuba","GO","04578-000","BR"]],["email",{"type":"work"},"text","RLP13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 64 55093511 ()"],["org",{},"text",["G1Telecom Provedor de Internet LTDA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140206",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140214",
+      "eventActor" : "RLP13"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RLP13",
+        "value" : "http://rdap.labs.lacnic.net/entity/RLP13"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo Lindolfo Gon?alves de Paula"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPiracanjuba, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Piracanjuba","GO","04578-000","BR"]],["email",{"type":"work"},"text","RLP13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 64 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20140206",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140206",
+        "eventActor" : "RLP13"
+      } ],
+      "entities" : [ ],
+      "handle" : "RLP13"
+    } ],
+    "handle" : "BR-ETEI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LRO4",
+      "value" : "http://rdap.labs.lacnic.net/entity/LRO4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lindelson Ribeiro De Oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPiracanjuba, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Piracanjuba","GO","04578-000","BR"]],["email",{"type":"work"},"text","LRO4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 64 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LRO4"
+    } ],
+    "entities" : [ ],
+    "handle" : "LRO4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LRO4",
+      "value" : "http://rdap.labs.lacnic.net/entity/LRO4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lindelson Ribeiro De Oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPiracanjuba, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Piracanjuba","GO","04578-000","BR"]],["email",{"type":"work"},"text","LRO4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 64 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LRO4"
+    } ],
+    "entities" : [ ],
+    "handle" : "LRO4"
+  } ],
+  "type" : null,
+  "handle" : "262869-LACNIC",
+  "country" : "BR"
+}

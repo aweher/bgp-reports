@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/17126",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/17126"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-EMON-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-EMON-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Arnay Barahona"],["adr",{"label":"Mardoqueo Fernandez 128 (Piso 7, Prov)\nSantiago, RM 6650374\nCL","type":"work"},"text",["","","Mardoqueo Fernandez 128 (Piso 7, Prov)","Santiago","RM","6650374","CL"]],["email",{"type":"work"},"text","farnay@E-MONEY.CL"],["tel",{"type":"work"},"text","56 2 3689400 ()"],["org",{},"text",["E-money"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/EFS2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/EFS2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Arnay Barahona"],["adr",{"label":"Mardoqueo Fernandez 128 (Piso 7)\nSantiago,  XXXX\nCL","type":"work"},"text",["","","Mardoqueo Fernandez 128 (Piso 7)","Santiago","","XXXX","CL"]],["email",{"type":"work"},"text","farnay@E-MONEY.CL"],["tel",{"type":"work"},"text","56 2 6767715 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20070808",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130201",
+        "eventActor" : "EFS2"
+      } ],
+      "handle" : "EFS2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050504",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "EFS2"
+    } ],
+    "handle" : "CL-EMON-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/EFS2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/EFS2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Arnay Barahona"],["adr",{"label":"Mardoqueo Fernandez 128 (Piso 7)\nSantiago,  XXXX\nCL","type":"work"},"text",["","","Mardoqueo Fernandez 128 (Piso 7)","Santiago","","XXXX","CL"]],["email",{"type":"work"},"text","farnay@E-MONEY.CL"],["tel",{"type":"work"},"text","56 2 6767715 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070808",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130201",
+      "eventActor" : "EFS2"
+    } ],
+    "handle" : "EFS2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/EFS2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/EFS2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Arnay Barahona"],["adr",{"label":"Mardoqueo Fernandez 128 (Piso 7)\nSantiago,  XXXX\nCL","type":"work"},"text",["","","Mardoqueo Fernandez 128 (Piso 7)","Santiago","","XXXX","CL"]],["email",{"type":"work"},"text","farnay@E-MONEY.CL"],["tel",{"type":"work"},"text","56 2 6767715 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070808",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130201",
+      "eventActor" : "EFS2"
+    } ],
+    "handle" : "EFS2"
+  } ],
+  "startAutnum" : 17126,
+  "endAutnum" : 17126,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20000727",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20091104",
+    "eventActor" : "EFS2"
+  } ],
+  "type" : null,
+  "handle" : "17126-LACNIC",
+  "country" : "CL"
+}

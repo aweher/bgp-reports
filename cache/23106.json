@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 23106,
+  "endAutnum" : 23106,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/23106",
+    "value" : "http://rdap.labs.lacnic.net/autnum/23106"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20020214",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "RBS14"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-EISA2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-EISA2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Bernardo dos Santos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","MG","04578-000","BR"]],["email",{"type":"work"},"text","RBS14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["org",{},"text",["Cemig Telecomunica??es SA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "RBS14"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RBS14",
+        "value" : "http://rdap.labs.lacnic.net/entity/RBS14"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Bernardo dos Santos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","MG","04578-000","BR"]],["email",{"type":"work"},"text","RBS14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "RBS14"
+      } ],
+      "entities" : [ ],
+      "handle" : "RBS14"
+    } ],
+    "handle" : "BR-EISA2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RBS14",
+      "value" : "http://rdap.labs.lacnic.net/entity/RBS14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Bernardo dos Santos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","MG","04578-000","BR"]],["email",{"type":"work"},"text","RBS14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RBS14"
+    } ],
+    "entities" : [ ],
+    "handle" : "RBS14"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ABI5",
+      "value" : "http://rdap.labs.lacnic.net/entity/ABI5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Abuse Infovias"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBH, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","BH","MG","04578-000","BR"]],["email",{"type":"work"},"text","ABI5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ABI5"
+    } ],
+    "entities" : [ ],
+    "handle" : "ABI5"
+  } ],
+  "type" : null,
+  "handle" : "23106-LACNIC",
+  "country" : "BR"
+}

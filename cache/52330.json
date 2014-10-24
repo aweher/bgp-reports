@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52330,
+  "endAutnum" : 52330,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52330",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52330"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110620",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20111213",
+    "eventActor" : "SCS4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-SCSA20-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-SCSA20-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","S3 WIRELESS COLOMBIA S.A.S"],["adr",{"label":"Cra. 49a 8640 (-)\nBogota, CU 111121\nCO","type":"work"},"text",["","","Cra. 49a 8640 (-)","Bogota","CU","111121","CO"]],["email",{"type":"work"},"text","area_datacenter@S3.COM.CO"],["tel",{"type":"work"},"text","57 1 6510051 (2080)"],["org",{},"text",["S3WIRELESS COLOMBIA S.A"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100128",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "SCS4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SCS4",
+        "value" : "http://rdap.labs.lacnic.net/entity/SCS4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","S3 WIRELESS COLOMBIA S.A.S"],["adr",{"label":"Kr 49A 86 (40)\nBogota, 11 111211\nCO","type":"work"},"text",["","","Kr 49A 86 (40)","Bogota","11","111211","CO"]],["email",{"type":"work"},"text","area_datacenter@S3.COM.CO"],["tel",{"type":"work"},"text","57 1 6510051 (2080)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100127",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120823",
+        "eventActor" : "SCS4"
+      } ],
+      "entities" : [ ],
+      "handle" : "SCS4"
+    } ],
+    "handle" : "CO-SCSA20-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SCS4",
+      "value" : "http://rdap.labs.lacnic.net/entity/SCS4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","S3 WIRELESS COLOMBIA S.A.S"],["adr",{"label":"Kr 49A 86 (40)\nBogota, 11 111211\nCO","type":"work"},"text",["","","Kr 49A 86 (40)","Bogota","11","111211","CO"]],["email",{"type":"work"},"text","area_datacenter@S3.COM.CO"],["tel",{"type":"work"},"text","57 1 6510051 (2080)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100127",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120823",
+      "eventActor" : "SCS4"
+    } ],
+    "entities" : [ ],
+    "handle" : "SCS4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SCS4",
+      "value" : "http://rdap.labs.lacnic.net/entity/SCS4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","S3 WIRELESS COLOMBIA S.A.S"],["adr",{"label":"Kr 49A 86 (40)\nBogota, 11 111211\nCO","type":"work"},"text",["","","Kr 49A 86 (40)","Bogota","11","111211","CO"]],["email",{"type":"work"},"text","area_datacenter@S3.COM.CO"],["tel",{"type":"work"},"text","57 1 6510051 (2080)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100127",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120823",
+      "eventActor" : "SCS4"
+    } ],
+    "entities" : [ ],
+    "handle" : "SCS4"
+  } ],
+  "type" : null,
+  "handle" : "52330-LACNIC",
+  "country" : "CO"
+}

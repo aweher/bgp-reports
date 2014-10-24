@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27961",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27961"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-JGMI1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-JGMI1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego A. Marino"],["adr",{"label":"Julio A. Roca 782 (Piso 5)\nCiudad Aut. de Buenos Aires, BA 1067\nAR","type":"work"},"text",["","","Julio A. Roca 782 (Piso 5)","Ciudad Aut. de Buenos Aires","BA","1067","AR"]],["email",{"type":"work"},"text","diego@JGM.GOV.AR"],["tel",{"type":"work"},"text","54 11 43430181 (5052)"],["org",{},"text",["Jefatura de Gabinete de Ministros"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/DAM3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAM3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego A. Marino"],["adr",{"label":"Julio A. Roca 782 (Piso 5)\nCiudad Aut. de Buenos Aires, BA 1067\nAR","type":"work"},"text",["","","Julio A. Roca 782 (Piso 5)","Ciudad Aut. de Buenos Aires","BA","1067","AR"]],["email",{"type":"work"},"text","diego@JGM.GOV.AR"],["tel",{"type":"work"},"text","54 11 43430181 (5052)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20040616",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20070517",
+        "eventActor" : "DAM3"
+      } ],
+      "handle" : "DAM3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070517",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080227",
+      "eventActor" : "DAM3"
+    } ],
+    "handle" : "AR-JGMI1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DAM3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAM3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego A. Marino"],["adr",{"label":"Julio A. Roca 782 (Piso 5)\nCiudad Aut. de Buenos Aires, BA 1067\nAR","type":"work"},"text",["","","Julio A. Roca 782 (Piso 5)","Ciudad Aut. de Buenos Aires","BA","1067","AR"]],["email",{"type":"work"},"text","diego@JGM.GOV.AR"],["tel",{"type":"work"},"text","54 11 43430181 (5052)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040616",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070517",
+      "eventActor" : "DAM3"
+    } ],
+    "handle" : "DAM3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DAM3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAM3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego A. Marino"],["adr",{"label":"Julio A. Roca 782 (Piso 5)\nCiudad Aut. de Buenos Aires, BA 1067\nAR","type":"work"},"text",["","","Julio A. Roca 782 (Piso 5)","Ciudad Aut. de Buenos Aires","BA","1067","AR"]],["email",{"type":"work"},"text","diego@JGM.GOV.AR"],["tel",{"type":"work"},"text","54 11 43430181 (5052)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040616",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070517",
+      "eventActor" : "DAM3"
+    } ],
+    "handle" : "DAM3"
+  } ],
+  "startAutnum" : 27961,
+  "endAutnum" : 27961,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080226",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080226",
+    "eventActor" : "DAM3"
+  } ],
+  "type" : null,
+  "handle" : "27961-LACNIC",
+  "country" : "AR"
+}

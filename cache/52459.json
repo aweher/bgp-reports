@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52459",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52459"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-INSS1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-INSS1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","INSSJP REDES"],["adr",{"label":"PARANA 555 (-)\nBuenos Aires,  -1017\nAR","type":"work"},"text",["","","PARANA 555 (-)","Buenos Aires","","-1017","AR"]],["email",{"type":"work"},"text","redesgitc@PAMI.ORG.AR"],["tel",{"type":"work"},"text","54 11 43703141 ()"],["org",{},"text",["Instituto Social para Jubilados y Pensionados (I.N.S.S.J.P)"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/INR6",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/INR6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","INSSJP REDES"],["adr",{"label":"Parana 555 ()\nBuenos Aires, null 1077\nAR","type":"work"},"text",["","","Parana 555 ()","Buenos Aires","","1077","AR"]],["email",{"type":"work"},"text","redesgitc@PAMI.ORG.AR"],["tel",{"type":"work"},"text","054 11 43703141 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120917",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120917",
+        "eventActor" : "INR6"
+      } ],
+      "handle" : "INR6"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070517",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130416",
+      "eventActor" : "INR6"
+    } ],
+    "handle" : "AR-INSS1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/INR6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/INR6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","INSSJP REDES"],["adr",{"label":"Parana 555 ()\nBuenos Aires, null 1077\nAR","type":"work"},"text",["","","Parana 555 ()","Buenos Aires","","1077","AR"]],["email",{"type":"work"},"text","redesgitc@PAMI.ORG.AR"],["tel",{"type":"work"},"text","054 11 43703141 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120917",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120917",
+      "eventActor" : "INR6"
+    } ],
+    "handle" : "INR6"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/INR6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/INR6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","INSSJP REDES"],["adr",{"label":"Parana 555 ()\nBuenos Aires, null 1077\nAR","type":"work"},"text",["","","Parana 555 ()","Buenos Aires","","1077","AR"]],["email",{"type":"work"},"text","redesgitc@PAMI.ORG.AR"],["tel",{"type":"work"},"text","054 11 43703141 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120917",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120917",
+      "eventActor" : "INR6"
+    } ],
+    "handle" : "INR6"
+  } ],
+  "startAutnum" : 52459,
+  "endAutnum" : 52459,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130415",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130415",
+    "eventActor" : "INR6"
+  } ],
+  "type" : null,
+  "handle" : "52459-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53178,
+  "endAutnum" : 53178,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53178",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53178"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100812",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "VLR2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SEIL11-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SEIL11-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Vanderlei Luis Riffel"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaravilha, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maravilha","SC","04578-000","BR"]],["email",{"type":"work"},"text","VLR2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["org",{},"text",["SCNet Equipamentos de Inform?tica Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "VLR2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/VLR2",
+        "value" : "http://rdap.labs.lacnic.net/entity/VLR2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Vanderlei Luis Riffel"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaravilha, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maravilha","SC","04578-000","BR"]],["email",{"type":"work"},"text","VLR2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "VLR2"
+      } ],
+      "entities" : [ ],
+      "handle" : "VLR2"
+    } ],
+    "handle" : "BR-SEIL11-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VLR2",
+      "value" : "http://rdap.labs.lacnic.net/entity/VLR2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Vanderlei Luis Riffel"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaravilha, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maravilha","SC","04578-000","BR"]],["email",{"type":"work"},"text","VLR2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VLR2"
+    } ],
+    "entities" : [ ],
+    "handle" : "VLR2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VLR2",
+      "value" : "http://rdap.labs.lacnic.net/entity/VLR2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Vanderlei Luis Riffel"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaravilha, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maravilha","SC","04578-000","BR"]],["email",{"type":"work"},"text","VLR2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VLR2"
+    } ],
+    "entities" : [ ],
+    "handle" : "VLR2"
+  } ],
+  "type" : null,
+  "handle" : "53178-LACNIC",
+  "country" : "BR"
+}

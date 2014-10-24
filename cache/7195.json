@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 7195,
+  "endAutnum" : 7195,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/7195",
+    "value" : "http://rdap.labs.lacnic.net/autnum/7195"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19961007",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20030527",
+    "eventActor" : "FEH2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-INTE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-INTE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JONATAN GABRIEL ARANGO ALZATE"],["adr",{"label":"Calle 100 8A-55 (Of. 605 T. C)\nBogota, CU 11001\nCO","type":"work"},"text",["","","Calle 100 8A-55 (Of. 605 T. C)","Bogota","CU","11001","CO"]],["email",{"type":"work"},"text","nsmaster@REDUNO.CO"],["tel",{"type":"work"},"text","57 1 4873939 ()"],["org",{},"text",["Telecorp Colombia S.A."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031007",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "FEH2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FEH2",
+        "value" : "http://rdap.labs.lacnic.net/entity/FEH2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JONATAN GABRIEL ARANGO ALZATE"],["adr",{"label":"Calle 100 8A-55 (of 605 T C)\nBOGOTA, CU 11001\nCO","type":"work"},"text",["","","Calle 100 8A-55 (of 605 T C)","BOGOTA","CU","11001","CO"]],["email",{"type":"work"},"text","nsmaster@REDUNO.CO"],["tel",{"type":"work"},"text","57 1 4873939 (1001)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20031007",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110324",
+        "eventActor" : "FEH2"
+      } ],
+      "entities" : [ ],
+      "handle" : "FEH2"
+    } ],
+    "handle" : "CO-INTE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FEH2",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEH2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JONATAN GABRIEL ARANGO ALZATE"],["adr",{"label":"Calle 100 8A-55 (of 605 T C)\nBOGOTA, CU 11001\nCO","type":"work"},"text",["","","Calle 100 8A-55 (of 605 T C)","BOGOTA","CU","11001","CO"]],["email",{"type":"work"},"text","nsmaster@REDUNO.CO"],["tel",{"type":"work"},"text","57 1 4873939 (1001)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031007",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110324",
+      "eventActor" : "FEH2"
+    } ],
+    "entities" : [ ],
+    "handle" : "FEH2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FEH2",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEH2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JONATAN GABRIEL ARANGO ALZATE"],["adr",{"label":"Calle 100 8A-55 (of 605 T C)\nBOGOTA, CU 11001\nCO","type":"work"},"text",["","","Calle 100 8A-55 (of 605 T C)","BOGOTA","CU","11001","CO"]],["email",{"type":"work"},"text","nsmaster@REDUNO.CO"],["tel",{"type":"work"},"text","57 1 4873939 (1001)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031007",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110324",
+      "eventActor" : "FEH2"
+    } ],
+    "entities" : [ ],
+    "handle" : "FEH2"
+  } ],
+  "type" : null,
+  "handle" : "7195-LACNIC",
+  "country" : "CO"
+}

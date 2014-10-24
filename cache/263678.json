@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263678,
+  "endAutnum" : 263678,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263678",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263678"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131126",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131126",
+    "eventActor" : "PRZ2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PRSZ-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PRSZ-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo R. Zivieri"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarueri, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barueri","SP","04578-000","BR"]],["email",{"type":"work"},"text","PRZ2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["serverloft, Infraestrutura e Datacenter."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131126",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131230",
+      "eventActor" : "PRZ2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PRZ2",
+        "value" : "http://rdap.labs.lacnic.net/entity/PRZ2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo R. Zivieri"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarueri, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barueri","SP","04578-000","BR"]],["email",{"type":"work"},"text","PRZ2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20131107",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131107",
+        "eventActor" : "PRZ2"
+      } ],
+      "entities" : [ ],
+      "handle" : "PRZ2"
+    } ],
+    "handle" : "BR-PRSZ-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PRZ2",
+      "value" : "http://rdap.labs.lacnic.net/entity/PRZ2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo R. Zivieri"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarueri, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barueri","SP","04578-000","BR"]],["email",{"type":"work"},"text","PRZ2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131107",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131107",
+      "eventActor" : "PRZ2"
+    } ],
+    "entities" : [ ],
+    "handle" : "PRZ2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PRZ2",
+      "value" : "http://rdap.labs.lacnic.net/entity/PRZ2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo R. Zivieri"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarueri, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barueri","SP","04578-000","BR"]],["email",{"type":"work"},"text","PRZ2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131107",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131107",
+      "eventActor" : "PRZ2"
+    } ],
+    "entities" : [ ],
+    "handle" : "PRZ2"
+  } ],
+  "type" : null,
+  "handle" : "263678-LACNIC",
+  "country" : "BR"
+}

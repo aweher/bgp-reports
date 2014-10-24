@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27787",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27787"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TCSR2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TCSR2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alfio Jose Muchut"],["adr",{"label":"Calle 14 Nro. 344  ()\nAvellaneda, SF 3561\nAR","type":"work"},"text",["","","Calle 14 Nro. 344  ()","Avellaneda","SF","3561","AR"]],["email",{"type":"work"},"text","hostmaster@TRCNET.COM.AR"],["tel",{"type":"work"},"text","54 0341 5302230 ()"],["org",{},"text",["LOS AMORES S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/AJM",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/AJM"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alfio Jose Muchut"],["adr",{"label":"Habegger 645 (Local 15)\nReconquista, SF 3560\nAR","type":"work"},"text",["","","Habegger 645 (Local 15)","Reconquista","SF","3560","AR"]],["email",{"type":"work"},"text","hostmaster@TRCNET.COM.AR"],["tel",{"type":"work"},"text","54 3482 421919 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20031025",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130626",
+        "eventActor" : "AJM"
+      } ],
+      "handle" : "AJM"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021105",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140527",
+      "eventActor" : "AJM"
+    } ],
+    "handle" : "AR-TCSR2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AJM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AJM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alfio Jose Muchut"],["adr",{"label":"Habegger 645 (Local 15)\nReconquista, SF 3560\nAR","type":"work"},"text",["","","Habegger 645 (Local 15)","Reconquista","SF","3560","AR"]],["email",{"type":"work"},"text","hostmaster@TRCNET.COM.AR"],["tel",{"type":"work"},"text","54 3482 421919 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031025",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130626",
+      "eventActor" : "AJM"
+    } ],
+    "handle" : "AJM"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AJM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AJM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alfio Jose Muchut"],["adr",{"label":"Habegger 645 (Local 15)\nReconquista, SF 3560\nAR","type":"work"},"text",["","","Habegger 645 (Local 15)","Reconquista","SF","3560","AR"]],["email",{"type":"work"},"text","hostmaster@TRCNET.COM.AR"],["tel",{"type":"work"},"text","54 3482 421919 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031025",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130626",
+      "eventActor" : "AJM"
+    } ],
+    "handle" : "AJM"
+  } ],
+  "startAutnum" : 27787,
+  "endAutnum" : 27787,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20050923",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110801",
+    "eventActor" : "AJM"
+  } ],
+  "type" : null,
+  "handle" : "27787-LACNIC",
+  "country" : "AR"
+}

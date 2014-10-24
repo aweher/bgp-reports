@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262196",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262196"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-JESA2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-JESA2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jonathan Emanuel Salvi"],["adr",{"label":"San Bladimiro 5785 ()\nLanus Oeste, BA 1824\nAR","type":"work"},"text",["","","San Bladimiro 5785 ()","Lanus Oeste","BA","1824","AR"]],["email",{"type":"work"},"text","ikarus_x@HOTMAIL.COM"],["tel",{"type":"work"},"text","54 11 41397752 ()"],["org",{},"text",["Interface"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JES4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JES4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jonathan Emanuel Salvi"],["adr",{"label":"Pedro Nuñez 3221 ()\nLanus Oeste, null 1824\nAR","type":"work"},"text",["","","Pedro Nuñez 3221 ()","Lanus Oeste","","1824","AR"]],["email",{"type":"work"},"text","ikarus_x@HOTMAIL.COM"],["tel",{"type":"work"},"text","54  41397752 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100223",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100223",
+        "eventActor" : "JES4"
+      } ],
+      "handle" : "JES4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110113",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130426",
+      "eventActor" : "JES4"
+    } ],
+    "handle" : "AR-JESA2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JES4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JES4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jonathan Emanuel Salvi"],["adr",{"label":"Pedro Nuñez 3221 ()\nLanus Oeste, null 1824\nAR","type":"work"},"text",["","","Pedro Nuñez 3221 ()","Lanus Oeste","","1824","AR"]],["email",{"type":"work"},"text","ikarus_x@HOTMAIL.COM"],["tel",{"type":"work"},"text","54  41397752 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100223",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100223",
+      "eventActor" : "JES4"
+    } ],
+    "handle" : "JES4"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JES4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JES4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jonathan Emanuel Salvi"],["adr",{"label":"Pedro Nuñez 3221 ()\nLanus Oeste, null 1824\nAR","type":"work"},"text",["","","Pedro Nuñez 3221 ()","Lanus Oeste","","1824","AR"]],["email",{"type":"work"},"text","ikarus_x@HOTMAIL.COM"],["tel",{"type":"work"},"text","54  41397752 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100223",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100223",
+      "eventActor" : "JES4"
+    } ],
+    "handle" : "JES4"
+  } ],
+  "startAutnum" : 262196,
+  "endAutnum" : 262196,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111018",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130604",
+    "eventActor" : "JES4"
+  } ],
+  "type" : null,
+  "handle" : "262196-LACNIC",
+  "country" : "AR"
+}

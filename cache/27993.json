@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27993",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27993"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-UNLI1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-UNLI1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Luis del Barco"],["adr",{"label":"Pje. Mart?nez 2652 ()\nSanta Fe, SF S3002AAB\nAR","type":"work"},"text",["","","Pje. Mart?nez 2652 ()","Santa Fe","SF","S3002AAB","AR"]],["email",{"type":"work"},"text","jdeba@UNL.EDU.AR"],["tel",{"type":"work"},"text","54 342 4554245 ()"],["org",{},"text",["Universidad Nacional del Litoral"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JLB5",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JLB5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Luis del Barco"],["adr",{"label":"Pje. Mart?nez 2652 ()\nSanta Fe, SF S3002AAB\nAR","type":"work"},"text",["","","Pje. Mart?nez 2652 ()","Santa Fe","SF","S3002AAB","AR"]],["email",{"type":"work"},"text","jdeba@UNL.EDU.AR"],["tel",{"type":"work"},"text","54 342 4554245 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080712",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130920",
+        "eventActor" : "JLB5"
+      } ],
+      "handle" : "JLB5"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080724",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "JLB5"
+    } ],
+    "handle" : "AR-UNLI1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JLB5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JLB5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Luis del Barco"],["adr",{"label":"Pje. Mart?nez 2652 ()\nSanta Fe, SF S3002AAB\nAR","type":"work"},"text",["","","Pje. Mart?nez 2652 ()","Santa Fe","SF","S3002AAB","AR"]],["email",{"type":"work"},"text","jdeba@UNL.EDU.AR"],["tel",{"type":"work"},"text","54 342 4554245 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080712",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130920",
+      "eventActor" : "JLB5"
+    } ],
+    "handle" : "JLB5"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JLB5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JLB5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Luis del Barco"],["adr",{"label":"Pje. Mart?nez 2652 ()\nSanta Fe, SF S3002AAB\nAR","type":"work"},"text",["","","Pje. Mart?nez 2652 ()","Santa Fe","SF","S3002AAB","AR"]],["email",{"type":"work"},"text","jdeba@UNL.EDU.AR"],["tel",{"type":"work"},"text","54 342 4554245 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080712",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130920",
+      "eventActor" : "JLB5"
+    } ],
+    "handle" : "JLB5"
+  } ],
+  "startAutnum" : 27993,
+  "endAutnum" : 27993,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080829",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080829",
+    "eventActor" : "JLB5"
+  } ],
+  "type" : null,
+  "handle" : "27993-LACNIC",
+  "country" : "AR"
+}

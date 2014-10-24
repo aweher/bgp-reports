@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/14232",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/14232"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CTPL5-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CTPL5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Pablo Bianucci"],["adr",{"label":"Jas?n 1026 ()\nPinamar (Buenos Aires),  7167\nAR","type":"work"},"text",["","","Jas?n 1026 ()","Pinamar (Buenos Aires)","","7167","AR"]],["email",{"type":"work"},"text","juan.bianucci@TELPIN.COM.AR"],["tel",{"type":"work"},"text","54 2254 492134 ()"],["org",{},"text",["Cooperativa Telef?nica Pinamar Ltda."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JPB2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JPB2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Pablo Bianucci"],["adr",{"label":"Jason 1026 ()\nPinamar, ba 7167\nAR","type":"work"},"text",["","","Jason 1026 ()","Pinamar","ba","7167","AR"]],["email",{"type":"work"},"text","juan.bianucci@TELPIN.COM.AR"],["tel",{"type":"work"},"text","54 2254 492113 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030815",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20080408",
+        "eventActor" : "JPB2"
+      } ],
+      "handle" : "JPB2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030815",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "JPB2"
+    } ],
+    "handle" : "AR-CTPL5-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JPB2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JPB2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Pablo Bianucci"],["adr",{"label":"Jason 1026 ()\nPinamar, ba 7167\nAR","type":"work"},"text",["","","Jason 1026 ()","Pinamar","ba","7167","AR"]],["email",{"type":"work"},"text","juan.bianucci@TELPIN.COM.AR"],["tel",{"type":"work"},"text","54 2254 492113 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030815",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080408",
+      "eventActor" : "JPB2"
+    } ],
+    "handle" : "JPB2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JPB2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JPB2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Pablo Bianucci"],["adr",{"label":"Jason 1026 ()\nPinamar, ba 7167\nAR","type":"work"},"text",["","","Jason 1026 ()","Pinamar","ba","7167","AR"]],["email",{"type":"work"},"text","juan.bianucci@TELPIN.COM.AR"],["tel",{"type":"work"},"text","54 2254 492113 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030815",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080408",
+      "eventActor" : "JPB2"
+    } ],
+    "handle" : "JPB2"
+  } ],
+  "startAutnum" : 14232,
+  "endAutnum" : 14232,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19991115",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20061120",
+    "eventActor" : "JPB2"
+  } ],
+  "type" : null,
+  "handle" : "14232-LACNIC",
+  "country" : "AR"
+}

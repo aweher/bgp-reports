@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262561,
+  "endAutnum" : 262561,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262561",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262561"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110817",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140530",
+    "eventActor" : "AFS39"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BTLT30-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BTLT30-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo A. Sim?es"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVolta Redonda, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Volta Redonda","RJ","04578-000","BR"]],["email",{"type":"work"},"text","RAS66@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["org",{},"text",["BRIP Telecomunicacoes Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140530",
+      "eventActor" : "RAS66"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RAS66",
+        "value" : "http://rdap.labs.lacnic.net/entity/RAS66"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo A. Sim?es"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMar?lia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mar?lia","SP","04578-000","BR"]],["email",{"type":"work"},"text","RAS66@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "RAS66"
+      } ],
+      "entities" : [ ],
+      "handle" : "RAS66"
+    } ],
+    "handle" : "BR-BTLT30-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AFS39",
+      "value" : "http://rdap.labs.lacnic.net/entity/AFS39"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ANTONIO FABIANO DA SILVA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVolta Redonda, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Volta Redonda","RJ","04578-000","BR"]],["email",{"type":"work"},"text","AFS39@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140530",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140530",
+      "eventActor" : "AFS39"
+    } ],
+    "entities" : [ ],
+    "handle" : "AFS39"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AFS39",
+      "value" : "http://rdap.labs.lacnic.net/entity/AFS39"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ANTONIO FABIANO DA SILVA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVolta Redonda, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Volta Redonda","RJ","04578-000","BR"]],["email",{"type":"work"},"text","AFS39@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140530",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140530",
+      "eventActor" : "AFS39"
+    } ],
+    "entities" : [ ],
+    "handle" : "AFS39"
+  } ],
+  "type" : null,
+  "handle" : "262561-LACNIC",
+  "country" : "BR"
+}

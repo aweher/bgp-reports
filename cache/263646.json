@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263646,
+  "endAutnum" : 263646,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263646",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263646"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131018",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131018",
+    "eventActor" : "DCD"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DTIL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DTIL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","VInicius anuncia??o santos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampo Grande, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campo Grande","MS","04578-000","BR"]],["email",{"type":"work"},"text","VAS23@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["org",{},"text",["Digital Tech Informatica Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140523",
+      "eventActor" : "VAS23"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/VAS23",
+        "value" : "http://rdap.labs.lacnic.net/entity/VAS23"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","VInicius anuncia??o santos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampo Grande, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campo Grande","MS","04578-000","BR"]],["email",{"type":"work"},"text","VAS23@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "VAS23"
+      } ],
+      "entities" : [ ],
+      "handle" : "VAS23"
+    } ],
+    "handle" : "BR-DTIL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DCD",
+      "value" : "http://rdap.labs.lacnic.net/entity/DCD"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","deibi carlos delatori"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampo Grande, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campo Grande","MS","04578-000","BR"]],["email",{"type":"work"},"text","DCD@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DCD"
+    } ],
+    "entities" : [ ],
+    "handle" : "DCD"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DCD",
+      "value" : "http://rdap.labs.lacnic.net/entity/DCD"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","deibi carlos delatori"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampo Grande, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campo Grande","MS","04578-000","BR"]],["email",{"type":"work"},"text","DCD@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DCD"
+    } ],
+    "entities" : [ ],
+    "handle" : "DCD"
+  } ],
+  "type" : null,
+  "handle" : "263646-LACNIC",
+  "country" : "BR"
+}

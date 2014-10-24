@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27921,
+  "endAutnum" : 27921,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27921",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27921"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070817",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20070818",
+    "eventActor" : "JPP2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-TMCO2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-TMCO2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Telef?nica M?viles Colombia"],["adr",{"label":"Calle 100 7 (33 piso 12)\nBogota, CU --\nCO","type":"work"},"text",["","","Calle 100 7 (33 piso 12)","Bogota","CU","--","CO"]],["email",{"type":"work"},"text","centro.gestion.moviles@TELEFONICA.COM"],["tel",{"type":"work"},"text","57 1 6500000 (28479)"],["org",{},"text",["Telefonica Moviles Colombia"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070605",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140428",
+      "eventActor" : "JPP2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JPP2",
+        "value" : "http://rdap.labs.lacnic.net/entity/JPP2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Telef?nica M?viles Colombia"],["adr",{"label":"Kr 65 #76-09 Piso 4 57 (7050000)\nBogota, Cu 99999\nCO","type":"work"},"text",["","","Kr 65 #76-09 Piso 4 57 (7050000)","Bogota","Cu","99999","CO"]],["email",{"type":"work"},"text","centro.gestion.moviles@TELEFONICA.COM"],["tel",{"type":"work"},"text","57 1 7050000 (25172)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20070522",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140604",
+        "eventActor" : "JPP2"
+      } ],
+      "entities" : [ ],
+      "handle" : "JPP2"
+    } ],
+    "handle" : "CO-TMCO2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JPP2",
+      "value" : "http://rdap.labs.lacnic.net/entity/JPP2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Telef?nica M?viles Colombia"],["adr",{"label":"Kr 65 #76-09 Piso 4 57 (7050000)\nBogota, Cu 99999\nCO","type":"work"},"text",["","","Kr 65 #76-09 Piso 4 57 (7050000)","Bogota","Cu","99999","CO"]],["email",{"type":"work"},"text","centro.gestion.moviles@TELEFONICA.COM"],["tel",{"type":"work"},"text","57 1 7050000 (25172)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070522",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140604",
+      "eventActor" : "JPP2"
+    } ],
+    "entities" : [ ],
+    "handle" : "JPP2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JPP2",
+      "value" : "http://rdap.labs.lacnic.net/entity/JPP2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Telef?nica M?viles Colombia"],["adr",{"label":"Kr 65 #76-09 Piso 4 57 (7050000)\nBogota, Cu 99999\nCO","type":"work"},"text",["","","Kr 65 #76-09 Piso 4 57 (7050000)","Bogota","Cu","99999","CO"]],["email",{"type":"work"},"text","centro.gestion.moviles@TELEFONICA.COM"],["tel",{"type":"work"},"text","57 1 7050000 (25172)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070522",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140604",
+      "eventActor" : "JPP2"
+    } ],
+    "entities" : [ ],
+    "handle" : "JPP2"
+  } ],
+  "type" : null,
+  "handle" : "27921-LACNIC",
+  "country" : "CO"
+}

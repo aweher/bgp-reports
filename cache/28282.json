@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28282,
+  "endAutnum" : 28282,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28282",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28282"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070410",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "DCL34"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DCDL4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DCDL4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Clavijo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalvador, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salvador","BA","04578-000","BR"]],["email",{"type":"work"},"text","JOC69@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["org",{},"text",["DW7 CENTRO DE DADOS LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JOC69"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JOC69",
+        "value" : "http://rdap.labs.lacnic.net/entity/JOC69"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Clavijo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalvador, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salvador","BA","04578-000","BR"]],["email",{"type":"work"},"text","JOC69@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JOC69"
+      } ],
+      "entities" : [ ],
+      "handle" : "JOC69"
+    } ],
+    "handle" : "BR-DCDL4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DCL34",
+      "value" : "http://rdap.labs.lacnic.net/entity/DCL34"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","DW7 CENTRO DE DADOS LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalvador, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salvador","BA","04578-000","BR"]],["email",{"type":"work"},"text","DCL34@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DCL34"
+    } ],
+    "entities" : [ ],
+    "handle" : "DCL34"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DCL34",
+      "value" : "http://rdap.labs.lacnic.net/entity/DCL34"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","DW7 CENTRO DE DADOS LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalvador, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salvador","BA","04578-000","BR"]],["email",{"type":"work"},"text","DCL34@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DCL34"
+    } ],
+    "entities" : [ ],
+    "handle" : "DCL34"
+  } ],
+  "type" : null,
+  "handle" : "28282-LACNIC",
+  "country" : "BR"
+}

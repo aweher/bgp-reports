@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263653,
+  "endAutnum" : 263653,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263653",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263653"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131031",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131031",
+    "eventActor" : "CEM50"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CCEC5-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CCEC5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Willian Paulo Peixoto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItapema, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itapema","SC","04578-000","BR"]],["email",{"type":"work"},"text","WPP@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["org",{},"text",["Costa Esmeralda Net Ltda Me"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140523",
+      "eventActor" : "WPP"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/WPP",
+        "value" : "http://rdap.labs.lacnic.net/entity/WPP"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Willian Paulo Peixoto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItapema, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itapema","SC","04578-000","BR"]],["email",{"type":"work"},"text","WPP@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "WPP"
+      } ],
+      "entities" : [ ],
+      "handle" : "WPP"
+    } ],
+    "handle" : "BR-CCEC5-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CEM50",
+      "value" : "http://rdap.labs.lacnic.net/entity/CEM50"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","COSTA ESMERALDA NET LTDA ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItapema, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itapema","","04578-000","BR"]],["email",{"type":"work"},"text","CEM50@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130517",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130517",
+      "eventActor" : "CEM50"
+    } ],
+    "entities" : [ ],
+    "handle" : "CEM50"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CEM50",
+      "value" : "http://rdap.labs.lacnic.net/entity/CEM50"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","COSTA ESMERALDA NET LTDA ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItapema, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itapema","","04578-000","BR"]],["email",{"type":"work"},"text","CEM50@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130517",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130517",
+      "eventActor" : "CEM50"
+    } ],
+    "entities" : [ ],
+    "handle" : "CEM50"
+  } ],
+  "type" : null,
+  "handle" : "263653-LACNIC",
+  "country" : "BR"
+}

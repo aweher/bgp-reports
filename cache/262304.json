@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262304,
+  "endAutnum" : 262304,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262304",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262304"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111213",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "WES5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-WTIL3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-WTIL3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Wellington da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nParauapebas, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Parauapebas","PA","04578-000","BR"]],["email",{"type":"work"},"text","WES5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["org",{},"text",["Win Time Informatica Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "WES5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/WES5",
+        "value" : "http://rdap.labs.lacnic.net/entity/WES5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Wellington da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nParauapebas, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Parauapebas","PA","04578-000","BR"]],["email",{"type":"work"},"text","WES5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "WES5"
+      } ],
+      "entities" : [ ],
+      "handle" : "WES5"
+    } ],
+    "handle" : "BR-WTIL3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WES5",
+      "value" : "http://rdap.labs.lacnic.net/entity/WES5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Wellington da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nParauapebas, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Parauapebas","PA","04578-000","BR"]],["email",{"type":"work"},"text","WES5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WES5"
+    } ],
+    "entities" : [ ],
+    "handle" : "WES5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WES5",
+      "value" : "http://rdap.labs.lacnic.net/entity/WES5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Wellington da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nParauapebas, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Parauapebas","PA","04578-000","BR"]],["email",{"type":"work"},"text","WES5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WES5"
+    } ],
+    "entities" : [ ],
+    "handle" : "WES5"
+  } ],
+  "type" : null,
+  "handle" : "262304-LACNIC",
+  "country" : "BR"
+}

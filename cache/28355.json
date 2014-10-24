@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28355,
+  "endAutnum" : 28355,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28355",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28355"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20071017",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ROP57"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CSAA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CSAA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rogerio de Paula"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMontes Claros, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Montes Claros","MG","04578-000","BR"]],["email",{"type":"work"},"text","ROP57@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["org",{},"text",["Connect Servico de Acesso a Internet Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ROP57"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ROP57",
+        "value" : "http://rdap.labs.lacnic.net/entity/ROP57"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rogerio de Paula"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMontes Claros, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Montes Claros","MG","04578-000","BR"]],["email",{"type":"work"},"text","ROP57@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ROP57"
+      } ],
+      "entities" : [ ],
+      "handle" : "ROP57"
+    } ],
+    "handle" : "BR-CSAA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ROP57",
+      "value" : "http://rdap.labs.lacnic.net/entity/ROP57"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rogerio de Paula"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMontes Claros, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Montes Claros","MG","04578-000","BR"]],["email",{"type":"work"},"text","ROP57@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ROP57"
+    } ],
+    "entities" : [ ],
+    "handle" : "ROP57"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EXJ",
+      "value" : "http://rdap.labs.lacnic.net/entity/EXJ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Xavier Veloso J?nior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMontes Claros, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Montes Claros","MG","04578-000","BR"]],["email",{"type":"work"},"text","EXJ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EXJ"
+    } ],
+    "entities" : [ ],
+    "handle" : "EXJ"
+  } ],
+  "type" : null,
+  "handle" : "28355-LACNIC",
+  "country" : "BR"
+}

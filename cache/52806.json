@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52806,
+  "endAutnum" : 52806,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52806",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52806"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121005",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "INC26"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ITLT19-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ITLT19-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ITM NETWORKS - Administra??o de Dominios"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Vicente, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Vicente","SP","04578-000","BR"]],["email",{"type":"work"},"text","IND3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 13 55093511 ()"],["org",{},"text",["ITMNETWORKS LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "IND3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/IND3",
+        "value" : "http://rdap.labs.lacnic.net/entity/IND3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ITM NETWORKS - Administra??o de Dominios"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Vicente, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Vicente","SP","04578-000","BR"]],["email",{"type":"work"},"text","IND3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 13 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "IND3"
+      } ],
+      "entities" : [ ],
+      "handle" : "IND3"
+    } ],
+    "handle" : "BR-ITLT19-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/INC26",
+      "value" : "http://rdap.labs.lacnic.net/entity/INC26"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ITMNETWORKS - Network Operations Center"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Vicente, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Vicente","SP","04578-000","BR"]],["email",{"type":"work"},"text","INC26@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 13 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "INC26"
+    } ],
+    "entities" : [ ],
+    "handle" : "INC26"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IAT4",
+      "value" : "http://rdap.labs.lacnic.net/entity/IAT4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ITMNETWORKS - Abuse Team"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Vicente, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Vicente","SP","04578-000","BR"]],["email",{"type":"work"},"text","IAT4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 13 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "IAT4"
+    } ],
+    "entities" : [ ],
+    "handle" : "IAT4"
+  } ],
+  "type" : null,
+  "handle" : "52806-LACNIC",
+  "country" : "BR"
+}

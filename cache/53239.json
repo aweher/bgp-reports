@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53239,
+  "endAutnum" : 53239,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53239",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53239"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101214",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "PCS15"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CGES-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CGES-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Prodasal Cia Proc de Dados do Salvador"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalvador, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salvador","BA","04578-000","BR"]],["email",{"type":"work"},"text","PCS15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["org",{},"text",["Cia. de Governan?a Eletr?nica do Salvador"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "PCS15"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PCS15",
+        "value" : "http://rdap.labs.lacnic.net/entity/PCS15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Prodasal Cia Proc de Dados do Salvador"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalvador, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salvador","BA","04578-000","BR"]],["email",{"type":"work"},"text","PCS15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PCS15"
+      } ],
+      "entities" : [ ],
+      "handle" : "PCS15"
+    } ],
+    "handle" : "BR-CGES-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PCS15",
+      "value" : "http://rdap.labs.lacnic.net/entity/PCS15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Prodasal Cia Proc de Dados do Salvador"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalvador, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salvador","BA","04578-000","BR"]],["email",{"type":"work"},"text","PCS15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PCS15"
+    } ],
+    "entities" : [ ],
+    "handle" : "PCS15"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PCS15",
+      "value" : "http://rdap.labs.lacnic.net/entity/PCS15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Prodasal Cia Proc de Dados do Salvador"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalvador, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salvador","BA","04578-000","BR"]],["email",{"type":"work"},"text","PCS15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 71 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PCS15"
+    } ],
+    "entities" : [ ],
+    "handle" : "PCS15"
+  } ],
+  "type" : null,
+  "handle" : "53239-LACNIC",
+  "country" : "BR"
+}

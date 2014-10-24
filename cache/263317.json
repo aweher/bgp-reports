@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263317,
+  "endAutnum" : 263317,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263317",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263317"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140228",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140228",
+    "eventActor" : "CMM6"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-KMLT2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-KMLT2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Mendes Galdino de Morais"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFaxinal, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Faxinal","","04578-000","BR"]],["email",{"type":"work"},"text","CMM6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["org",{},"text",["Kurten e Morais Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "CMM6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CMM6",
+        "value" : "http://rdap.labs.lacnic.net/entity/CMM6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Mendes Galdino de Morais"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFaxinal, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Faxinal","PR","04578-000","BR"]],["email",{"type":"work"},"text","CMM6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CMM6"
+      } ],
+      "entities" : [ ],
+      "handle" : "CMM6"
+    } ],
+    "handle" : "BR-KMLT2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CMM6",
+      "value" : "http://rdap.labs.lacnic.net/entity/CMM6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Mendes Galdino de Morais"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFaxinal, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Faxinal","PR","04578-000","BR"]],["email",{"type":"work"},"text","CMM6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CMM6"
+    } ],
+    "entities" : [ ],
+    "handle" : "CMM6"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CMM6",
+      "value" : "http://rdap.labs.lacnic.net/entity/CMM6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Mendes Galdino de Morais"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFaxinal, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Faxinal","PR","04578-000","BR"]],["email",{"type":"work"},"text","CMM6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CMM6"
+    } ],
+    "entities" : [ ],
+    "handle" : "CMM6"
+  } ],
+  "type" : null,
+  "handle" : "263317-LACNIC",
+  "country" : "BR"
+}

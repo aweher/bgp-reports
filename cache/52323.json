@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52323",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52323"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CCLI2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CCLI2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Nicolás Adrián Acosta"],["adr",{"label":"Castro Barros 146 (-)\nC?rdoba,  X5000HTO\nAR","type":"work"},"text",["","","Castro Barros 146 (-)","C?rdoba","","X5000HTO","AR"]],["email",{"type":"work"},"text","nacosta@COLSECOR.COM.AR"],["tel",{"type":"work"},"text","54 351 4719096 ()"],["org",{},"text",["Colsecor Cooperativa Limitada"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/NAA5",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/NAA5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Nicolás Adrián Acosta"],["adr",{"label":"Castro Barros 146 ()\nCórdoba, null X5000HTO\nAR","type":"work"},"text",["","","Castro Barros 146 ()","Córdoba","","X5000HTO","AR"]],["email",{"type":"work"},"text","nacosta@COLSECOR.COM.AR"],["tel",{"type":"work"},"text","54 0351 153902787 (105)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120607",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120607",
+        "eventActor" : "NAA5"
+      } ],
+      "handle" : "NAA5"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090320",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140611",
+      "eventActor" : "NAA5"
+    } ],
+    "handle" : "AR-CCLI2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NAA5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NAA5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Nicolás Adrián Acosta"],["adr",{"label":"Castro Barros 146 ()\nCórdoba, null X5000HTO\nAR","type":"work"},"text",["","","Castro Barros 146 ()","Córdoba","","X5000HTO","AR"]],["email",{"type":"work"},"text","nacosta@COLSECOR.COM.AR"],["tel",{"type":"work"},"text","54 0351 153902787 (105)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120607",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120607",
+      "eventActor" : "NAA5"
+    } ],
+    "handle" : "NAA5"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MJC13",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MJC13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Jos? Carranza"],["adr",{"label":"castros barros 146 ()\nCordoba, null 5000\nAR","type":"work"},"text",["","","castros barros 146 ()","Cordoba","","5000","AR"]],["email",{"type":"work"},"text","mcarranza@COLSECOR.COM.AR"],["tel",{"type":"work"},"text","56 351 3248858 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130627",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130627",
+      "eventActor" : "MJC13"
+    } ],
+    "handle" : "MJC13"
+  } ],
+  "startAutnum" : 52323,
+  "endAutnum" : 52323,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110509",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130627",
+    "eventActor" : "NAA5"
+  } ],
+  "type" : null,
+  "handle" : "52323-LACNIC",
+  "country" : "AR"
+}

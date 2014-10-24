@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/19978",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/19978"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-IMCO13-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-IMCO13-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Lam"],["adr",{"label":"Elvira Rawson de Dellepiane 150 (Piso 8)\nBuenos Aires, BA C1107BCA\nAR","type":"work"},"text",["","","Elvira Rawson de Dellepiane 150 (Piso 8)","Buenos Aires","BA","C1107BCA","AR"]],["email",{"type":"work"},"text","DL-NP&I-IP-Latam@LEVEL3.COM"],["tel",{"type":"work"},"text","54 11 51700000 ()"],["org",{},"text",["IMPSAT FIBER NETWORKS INC"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/NEA5",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/NEA5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Lam"],["adr",{"label":"Alferez Pareja 256 ()\nCapital Federal, BA 1107\nAR","type":"work"},"text",["","","Alferez Pareja 256 ()","Capital Federal","BA","1107","AR"]],["email",{"type":"work"},"text","DL-NP&I-IP-Latam@LEVEL3.COM"],["tel",{"type":"work"},"text","54 11 51706000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030710",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130423",
+        "eventActor" : "NEA5"
+      } ],
+      "handle" : "NEA5"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050510",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "NEA5"
+    } ],
+    "handle" : "AR-IMCO13-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NEA5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NEA5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Lam"],["adr",{"label":"Alferez Pareja 256 ()\nCapital Federal, BA 1107\nAR","type":"work"},"text",["","","Alferez Pareja 256 ()","Capital Federal","BA","1107","AR"]],["email",{"type":"work"},"text","DL-NP&I-IP-Latam@LEVEL3.COM"],["tel",{"type":"work"},"text","54 11 51706000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030710",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130423",
+      "eventActor" : "NEA5"
+    } ],
+    "handle" : "NEA5"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SEA8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SEA8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sebastián Arias"],["adr",{"label":"Av. Del campo 1301 ()\nBuenos Aires, null C1427APA\nAR","type":"work"},"text",["","","Av. Del campo 1301 ()","Buenos Aires","","C1427APA","AR"]],["email",{"type":"work"},"text","sebastian.arias@GLOBALCROSSING.COM"],["tel",{"type":"work"},"text","54 11 51706329 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100409",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100409",
+      "eventActor" : "SEA8"
+    } ],
+    "handle" : "SEA8"
+  } ],
+  "startAutnum" : 19978,
+  "endAutnum" : 19978,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20010312",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100818",
+    "eventActor" : "NEA5"
+  } ],
+  "type" : null,
+  "handle" : "19978-LACNIC",
+  "country" : "AR"
+}

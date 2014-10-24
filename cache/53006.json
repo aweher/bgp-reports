@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53006,
+  "endAutnum" : 53006,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53006",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53006"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110621",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "CCD9"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CTBC4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CTBC4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CTBC - Contratos e Registro de Dom?nios"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nUberl?ndia, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Uberl?ndia","MG","04578-000","BR"]],["email",{"type":"work"},"text","CCD9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["org",{},"text",["COMPANHIA DE TELECOMUNICACOES DO BRASIL CENTRAL"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "CCD9"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CCD9",
+        "value" : "http://rdap.labs.lacnic.net/entity/CCD9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CTBC - Contratos e Registro de Dom?nios"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nUberl?ndia, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Uberl?ndia","MG","04578-000","BR"]],["email",{"type":"work"},"text","CCD9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CCD9"
+      } ],
+      "entities" : [ ],
+      "handle" : "CCD9"
+    } ],
+    "handle" : "BR-CTBC4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CCD9",
+      "value" : "http://rdap.labs.lacnic.net/entity/CCD9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CTBC - Contratos e Registro de Dom?nios"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nUberl?ndia, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Uberl?ndia","MG","04578-000","BR"]],["email",{"type":"work"},"text","CCD9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CCD9"
+    } ],
+    "entities" : [ ],
+    "handle" : "CCD9"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CST12",
+      "value" : "http://rdap.labs.lacnic.net/entity/CST12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Computer Security Incident Response Team"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nUberl?ndia, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Uberl?ndia","MG","04578-000","BR"]],["email",{"type":"work"},"text","CST12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CST12"
+    } ],
+    "entities" : [ ],
+    "handle" : "CST12"
+  } ],
+  "type" : null,
+  "handle" : "53006-LACNIC",
+  "country" : "BR"
+}

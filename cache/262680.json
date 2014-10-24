@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262680,
+  "endAutnum" : 262680,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262680",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262680"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090819",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130415",
+    "eventActor" : "CSB5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CSNL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CSNL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cesar Sales Borges"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBARBACENA, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","BARBACENA","MG","04578-000","BR"]],["email",{"type":"work"},"text","CSB5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 03 255093511 ()"],["org",{},"text",["CITY SHOP NET LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140529",
+      "eventActor" : "CSB5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CSB5",
+        "value" : "http://rdap.labs.lacnic.net/entity/CSB5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cesar Sales Borges"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarbacena, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barbacena","MG","04578-000","BR"]],["email",{"type":"work"},"text","CSB5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 03 255093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CSB5"
+      } ],
+      "entities" : [ ],
+      "handle" : "CSB5"
+    } ],
+    "handle" : "BR-CSNL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CSB5",
+      "value" : "http://rdap.labs.lacnic.net/entity/CSB5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cesar Sales Borges"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarbacena, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barbacena","MG","04578-000","BR"]],["email",{"type":"work"},"text","CSB5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 03 255093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CSB5"
+    } ],
+    "entities" : [ ],
+    "handle" : "CSB5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RAO11",
+      "value" : "http://rdap.labs.lacnic.net/entity/RAO11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Renato Arrudas Ornelas"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","RAO11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130823",
+      "eventActor" : "RAO11"
+    } ],
+    "entities" : [ ],
+    "handle" : "RAO11"
+  } ],
+  "type" : null,
+  "handle" : "262680-LACNIC",
+  "country" : "BR"
+}

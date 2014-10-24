@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52372",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52372"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CEGD-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CEGD-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Oscar Alfredo Barbero"],["adr",{"label":"GENERAL PAZ 430 (-)\nGENERAL DEHEZA, CB 5923\nAR","type":"work"},"text",["","","GENERAL PAZ 430 (-)","GENERAL DEHEZA","CB","5923","AR"]],["email",{"type":"work"},"text","obarbero@COOPDEHEZA.COM.AR"],["tel",{"type":"work"},"text","54 358 4057000 ()"],["org",{},"text",["COOPERATIVA ELECTRICA DE GENERAL DEHEZA LTDA."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CEL5",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CEL5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Oscar Alfredo Barbero"],["adr",{"label":"General Paz 430 ()\nGeneral Deheza,  5923\nAR","type":"work"},"text",["","","General Paz 430 ()","General Deheza","","5923","AR"]],["email",{"type":"work"},"text","obarbero@COOPDEHEZA.COM.AR"],["tel",{"type":"work"},"text","054 0358 4057000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20040528",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120323",
+        "eventActor" : "CEL5"
+      } ],
+      "handle" : "CEL5"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030908",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "CEL5"
+    } ],
+    "handle" : "AR-CEGD-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CEL5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CEL5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Oscar Alfredo Barbero"],["adr",{"label":"General Paz 430 ()\nGeneral Deheza,  5923\nAR","type":"work"},"text",["","","General Paz 430 ()","General Deheza","","5923","AR"]],["email",{"type":"work"},"text","obarbero@COOPDEHEZA.COM.AR"],["tel",{"type":"work"},"text","054 0358 4057000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040528",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120323",
+      "eventActor" : "CEL5"
+    } ],
+    "handle" : "CEL5"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CEL5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CEL5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Oscar Alfredo Barbero"],["adr",{"label":"General Paz 430 ()\nGeneral Deheza,  5923\nAR","type":"work"},"text",["","","General Paz 430 ()","General Deheza","","5923","AR"]],["email",{"type":"work"},"text","obarbero@COOPDEHEZA.COM.AR"],["tel",{"type":"work"},"text","054 0358 4057000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040528",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120323",
+      "eventActor" : "CEL5"
+    } ],
+    "handle" : "CEL5"
+  } ],
+  "startAutnum" : 52372,
+  "endAutnum" : 52372,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120524",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120524",
+    "eventActor" : "CEL5"
+  } ],
+  "type" : null,
+  "handle" : "52372-LACNIC",
+  "country" : "AR"
+}

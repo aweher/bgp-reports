@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52930,
+  "endAutnum" : 52930,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52930",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52930"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120814",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "FLV5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TSIP-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TSIP-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Lucas Victorio"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSert?ozinho, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sert?ozinho","SP","04578-000","BR"]],["email",{"type":"work"},"text","FLV5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["org",{},"text",["Turbo SP Internet Provider"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "FLV5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FLV5",
+        "value" : "http://rdap.labs.lacnic.net/entity/FLV5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Lucas Victorio"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSert?ozinho, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sert?ozinho","SP","04578-000","BR"]],["email",{"type":"work"},"text","FLV5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FLV5"
+      } ],
+      "entities" : [ ],
+      "handle" : "FLV5"
+    } ],
+    "handle" : "BR-TSIP-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FLV5",
+      "value" : "http://rdap.labs.lacnic.net/entity/FLV5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Lucas Victorio"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSert?ozinho, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sert?ozinho","SP","04578-000","BR"]],["email",{"type":"work"},"text","FLV5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FLV5"
+    } ],
+    "entities" : [ ],
+    "handle" : "FLV5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FLV5",
+      "value" : "http://rdap.labs.lacnic.net/entity/FLV5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Lucas Victorio"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSert?ozinho, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sert?ozinho","SP","04578-000","BR"]],["email",{"type":"work"},"text","FLV5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FLV5"
+    } ],
+    "entities" : [ ],
+    "handle" : "FLV5"
+  } ],
+  "type" : null,
+  "handle" : "52930-LACNIC",
+  "country" : "BR"
+}

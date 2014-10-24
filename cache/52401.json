@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52401",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52401"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CTSR3-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CTSR3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JUAN PABLO RAMELLO"],["adr",{"label":"MARCONI 1083 ()\nCORDOBA,  5960\nAR","type":"work"},"text",["","","MARCONI 1083 ()","CORDOBA","","5960","AR"]],["email",{"type":"work"},"text","jpramello@COPITEC.ORG.AR"],["tel",{"type":"work"},"text","54 351 3284023 ()"],["org",{},"text",["CABLESAT TV SRL"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JPR2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JPR2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JUAN PABLO RAMELLO"],["adr",{"label":"PIO ANGULO 154 ()\nBELL VILLE, null 2550\nAR","type":"work"},"text",["","","PIO ANGULO 154 ()","BELL VILLE","","2550","AR"]],["email",{"type":"work"},"text","jpramello@COPITEC.ORG.AR"],["tel",{"type":"work"},"text","54 351 3284023 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120601",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120601",
+        "eventActor" : "JPR2"
+      } ],
+      "handle" : "JPR2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091007",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "JPR2"
+    } ],
+    "handle" : "AR-CTSR3-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JPR2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JPR2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JUAN PABLO RAMELLO"],["adr",{"label":"PIO ANGULO 154 ()\nBELL VILLE, null 2550\nAR","type":"work"},"text",["","","PIO ANGULO 154 ()","BELL VILLE","","2550","AR"]],["email",{"type":"work"},"text","jpramello@COPITEC.ORG.AR"],["tel",{"type":"work"},"text","54 351 3284023 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120601",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120601",
+      "eventActor" : "JPR2"
+    } ],
+    "handle" : "JPR2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JPR2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JPR2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JUAN PABLO RAMELLO"],["adr",{"label":"PIO ANGULO 154 ()\nBELL VILLE, null 2550\nAR","type":"work"},"text",["","","PIO ANGULO 154 ()","BELL VILLE","","2550","AR"]],["email",{"type":"work"},"text","jpramello@COPITEC.ORG.AR"],["tel",{"type":"work"},"text","54 351 3284023 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120601",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120601",
+      "eventActor" : "JPR2"
+    } ],
+    "handle" : "JPR2"
+  } ],
+  "startAutnum" : 52401,
+  "endAutnum" : 52401,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120917",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120918",
+    "eventActor" : "JPR2"
+  } ],
+  "type" : null,
+  "handle" : "52401-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52328",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52328"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CASA90-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CASA90-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pedro Ivan Chapero"],["adr",{"label":"Av. 9 de Julio 1163 ()\nArequito, SF S2183XAB\nAR","type":"work"},"text",["","","Av. 9 de Julio 1163 ()","Arequito","SF","S2183XAB","AR"]],["email",{"type":"work"},"text","info@IVANCHAPERO.COM.AR"],["tel",{"type":"work"},"text","54 3464 470280 ()"],["org",{},"text",["CABLETEL SA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PIC4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PIC4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pedro Ivan Chapero"],["adr",{"label":"Av. 9 de Julio 1163 ()\nArequito,  S2183XAB\nAR","type":"work"},"text",["","","Av. 9 de Julio 1163 ()","Arequito","","S2183XAB","AR"]],["email",{"type":"work"},"text","info@IVANCHAPERO.COM.AR"],["tel",{"type":"work"},"text","54 3464 470280 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20101101",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110428",
+        "eventActor" : "PIC4"
+      } ],
+      "handle" : "PIC4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110428",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140123",
+      "eventActor" : "PIC4"
+    } ],
+    "handle" : "AR-CASA90-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NOC5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NOC5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NOC Cabledata"],["adr",{"label":"Av. 9 de Julio 1163 ()\nArequito, null S2183XAB\nAR","type":"work"},"text",["","","Av. 9 de Julio 1163 ()","Arequito","","S2183XAB","AR"]],["email",{"type":"work"},"text","ipchapero@GOBBT.COM.AR"],["tel",{"type":"work"},"text","54 3464 470280 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101102",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101102",
+      "eventActor" : "NOC5"
+    } ],
+    "handle" : "NOC5"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NOC5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NOC5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NOC Cabledata"],["adr",{"label":"Av. 9 de Julio 1163 ()\nArequito, null S2183XAB\nAR","type":"work"},"text",["","","Av. 9 de Julio 1163 ()","Arequito","","S2183XAB","AR"]],["email",{"type":"work"},"text","ipchapero@GOBBT.COM.AR"],["tel",{"type":"work"},"text","54 3464 470280 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101102",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101102",
+      "eventActor" : "NOC5"
+    } ],
+    "handle" : "NOC5"
+  } ],
+  "startAutnum" : 52328,
+  "endAutnum" : 52328,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110615",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140123",
+    "eventActor" : "NOC5"
+  } ],
+  "type" : null,
+  "handle" : "52328-LACNIC",
+  "country" : "AR"
+}

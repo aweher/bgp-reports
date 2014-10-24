@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52268",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52268"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CLCU-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CLCU-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Saavedra Sebastian"],["adr",{"label":"AV. ROCA 318 ()\nCUTRAL_CO, NQ 8322\nAR","type":"work"},"text",["","","AV. ROCA 318 ()","CUTRAL_CO","NQ","8322","AR"]],["email",{"type":"work"},"text","sebasa@COPELNET.COM.AR"],["tel",{"type":"work"},"text","54 299 4964405 (11)"],["org",{},"text",["COPELCO LTDA. (CUTRAL-CO)"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SAS8",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SAS8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Saavedra Sebastian"],["adr",{"label":"Roca 318 ()\nCutral Co, null 8322\nAR","type":"work"},"text",["","","Roca 318 ()","Cutral Co","","8322","AR"]],["email",{"type":"work"},"text","sebasa@COPELNET.COM.AR"],["tel",{"type":"work"},"text","0054 0299 4960016 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090807",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20090807",
+        "eventActor" : "SAS8"
+      } ],
+      "handle" : "SAS8"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20051227",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "SAS8"
+    } ],
+    "handle" : "AR-CLCU-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SAS8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SAS8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Saavedra Sebastian"],["adr",{"label":"Roca 318 ()\nCutral Co, null 8322\nAR","type":"work"},"text",["","","Roca 318 ()","Cutral Co","","8322","AR"]],["email",{"type":"work"},"text","sebasa@COPELNET.COM.AR"],["tel",{"type":"work"},"text","0054 0299 4960016 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090807",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090807",
+      "eventActor" : "SAS8"
+    } ],
+    "handle" : "SAS8"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SAS8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SAS8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Saavedra Sebastian"],["adr",{"label":"Roca 318 ()\nCutral Co, null 8322\nAR","type":"work"},"text",["","","Roca 318 ()","Cutral Co","","8322","AR"]],["email",{"type":"work"},"text","sebasa@COPELNET.COM.AR"],["tel",{"type":"work"},"text","0054 0299 4960016 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090807",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090807",
+      "eventActor" : "SAS8"
+    } ],
+    "handle" : "SAS8"
+  } ],
+  "startAutnum" : 52268,
+  "endAutnum" : 52268,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100727",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100727",
+    "eventActor" : "SAS8"
+  } ],
+  "type" : null,
+  "handle" : "52268-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52312",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52312"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TMHJ-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TMHJ-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ing Leonardo Villanueva"],["adr",{"label":"Av. Hipolito Yrigoyen 1616 (-)\nSan Salvador de Jujuy, - -\nAR","type":"work"},"text",["","","Av. Hipolito Yrigoyen 1616 (-)","San Salvador de Jujuy","-","-","AR"]],["email",{"type":"work"},"text","lvillanueva@UNICABLE.COM.AR"],["tel",{"type":"work"},"text","54 388 154207869 ()"],["org",{},"text",["TV MUSIC HOUSE JUJUY"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ILV",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ILV"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ing Leonardo Villanueva"],["adr",{"label":"Av. Hipolito Yrigoyen 1616 ()\nSan Salvador de Jujuy, JU 4600\nAR","type":"work"},"text",["","","Av. Hipolito Yrigoyen 1616 ()","San Salvador de Jujuy","JU","4600","AR"]],["email",{"type":"work"},"text","lvillanueva@UNICABLE.COM.AR"],["tel",{"type":"work"},"text","54 388 154207869 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20081103",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121206",
+        "eventActor" : "ILV"
+      } ],
+      "handle" : "ILV"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090204",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130209",
+      "eventActor" : "ILV"
+    } ],
+    "handle" : "AR-TMHJ-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ILV",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ILV"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ing Leonardo Villanueva"],["adr",{"label":"Av. Hipolito Yrigoyen 1616 ()\nSan Salvador de Jujuy, JU 4600\nAR","type":"work"},"text",["","","Av. Hipolito Yrigoyen 1616 ()","San Salvador de Jujuy","JU","4600","AR"]],["email",{"type":"work"},"text","lvillanueva@UNICABLE.COM.AR"],["tel",{"type":"work"},"text","54 388 154207869 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081103",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121206",
+      "eventActor" : "ILV"
+    } ],
+    "handle" : "ILV"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ILV",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ILV"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ing Leonardo Villanueva"],["adr",{"label":"Av. Hipolito Yrigoyen 1616 ()\nSan Salvador de Jujuy, JU 4600\nAR","type":"work"},"text",["","","Av. Hipolito Yrigoyen 1616 ()","San Salvador de Jujuy","JU","4600","AR"]],["email",{"type":"work"},"text","lvillanueva@UNICABLE.COM.AR"],["tel",{"type":"work"},"text","54 388 154207869 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081103",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121206",
+      "eventActor" : "ILV"
+    } ],
+    "handle" : "ILV"
+  } ],
+  "startAutnum" : 52312,
+  "endAutnum" : 52312,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110127",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140703",
+    "eventActor" : "ILV"
+  } ],
+  "type" : null,
+  "handle" : "52312-LACNIC",
+  "country" : "AR"
+}

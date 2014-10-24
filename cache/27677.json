@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27677",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27677"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-TMSY-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-TMSY-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andres Gallardo"],["adr",{"label":"Av. El Condor - Ciudad Empresarial 720 (Piso 4)\nSantiago,  -\nCL","type":"work"},"text",["","","Av. El Condor - Ciudad Empresarial 720 (Piso 4)","Santiago","","-","CL"]],["email",{"type":"work"},"text","andres.gallardo@TM-MAS.COM"],["tel",{"type":"work"},"text","56 2 7311000 (1017)"],["org",{},"text",["Telefonica Moviles Soluciones y Aplicaciones"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CLA10",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CLA10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andres Gallardo"],["adr",{"label":"Avda El Condor 720 ()\nSantiago,  8580704\nCL","type":"work"},"text",["","","Avda El Condor 720 ()","Santiago","","8580704","CL"]],["email",{"type":"work"},"text","andres.gallardo@TM-MAS.COM"],["tel",{"type":"work"},"text","56 02 7311290 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20071227",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120516",
+        "eventActor" : "CLA10"
+      } ],
+      "handle" : "CLA10"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030314",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130813",
+      "eventActor" : "CLA10"
+    } ],
+    "handle" : "CL-TMSY-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CLA10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLA10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andres Gallardo"],["adr",{"label":"Avda El Condor 720 ()\nSantiago,  8580704\nCL","type":"work"},"text",["","","Avda El Condor 720 ()","Santiago","","8580704","CL"]],["email",{"type":"work"},"text","andres.gallardo@TM-MAS.COM"],["tel",{"type":"work"},"text","56 02 7311290 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071227",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120516",
+      "eventActor" : "CLA10"
+    } ],
+    "handle" : "CLA10"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CLA10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLA10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andres Gallardo"],["adr",{"label":"Avda El Condor 720 ()\nSantiago,  8580704\nCL","type":"work"},"text",["","","Avda El Condor 720 ()","Santiago","","8580704","CL"]],["email",{"type":"work"},"text","andres.gallardo@TM-MAS.COM"],["tel",{"type":"work"},"text","56 02 7311290 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071227",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120516",
+      "eventActor" : "CLA10"
+    } ],
+    "handle" : "CLA10"
+  } ],
+  "startAutnum" : 27677,
+  "endAutnum" : 27677,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20030430",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20071228",
+    "eventActor" : "CLA10"
+  } ],
+  "type" : null,
+  "handle" : "27677-LACNIC",
+  "country" : "CL"
+}

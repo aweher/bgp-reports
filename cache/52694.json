@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52694,
+  "endAutnum" : 52694,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52694",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52694"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121217",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "GLS16"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NAIL4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NAIL4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Global Sul"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLajeado, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lajeado","RS","04578-000","BR"]],["email",{"type":"work"},"text","GLS16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["N. A. INFORMATICA LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "GLS16"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GLS16",
+        "value" : "http://rdap.labs.lacnic.net/entity/GLS16"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Global Sul"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLajeado, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lajeado","RS","04578-000","BR"]],["email",{"type":"work"},"text","GLS16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "GLS16"
+      } ],
+      "entities" : [ ],
+      "handle" : "GLS16"
+    } ],
+    "handle" : "BR-NAIL4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GLS16",
+      "value" : "http://rdap.labs.lacnic.net/entity/GLS16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Global Sul"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLajeado, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lajeado","RS","04578-000","BR"]],["email",{"type":"work"},"text","GLS16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GLS16"
+    } ],
+    "entities" : [ ],
+    "handle" : "GLS16"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GLS16",
+      "value" : "http://rdap.labs.lacnic.net/entity/GLS16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Global Sul"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLajeado, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lajeado","RS","04578-000","BR"]],["email",{"type":"work"},"text","GLS16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GLS16"
+    } ],
+    "entities" : [ ],
+    "handle" : "GLS16"
+  } ],
+  "type" : null,
+  "handle" : "52694-LACNIC",
+  "country" : "BR"
+}

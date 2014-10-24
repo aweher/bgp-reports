@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61779,
+  "endAutnum" : 61779,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61779",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61779"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140618",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140618",
+    "eventActor" : "CIP7"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PMPI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PMPI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Centro de Inform?tica - PM Piracicaba"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPiracicaba, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Piracicaba","","04578-000","BR"]],["email",{"type":"work"},"text","CIP7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["Prefeitura do Munic?pio de Piracicaba"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "CIP7"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CIP7",
+        "value" : "http://rdap.labs.lacnic.net/entity/CIP7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Centro de Inform?tica - PM Piracicaba"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPiracicaba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Piracicaba","SP","04578-000","BR"]],["email",{"type":"work"},"text","CIP7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CIP7"
+      } ],
+      "entities" : [ ],
+      "handle" : "CIP7"
+    } ],
+    "handle" : "BR-PMPI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CIP7",
+      "value" : "http://rdap.labs.lacnic.net/entity/CIP7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Centro de Inform?tica - PM Piracicaba"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPiracicaba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Piracicaba","SP","04578-000","BR"]],["email",{"type":"work"},"text","CIP7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CIP7"
+    } ],
+    "entities" : [ ],
+    "handle" : "CIP7"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CIP7",
+      "value" : "http://rdap.labs.lacnic.net/entity/CIP7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Centro de Inform?tica - PM Piracicaba"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPiracicaba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Piracicaba","SP","04578-000","BR"]],["email",{"type":"work"},"text","CIP7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CIP7"
+    } ],
+    "entities" : [ ],
+    "handle" : "CIP7"
+  } ],
+  "type" : null,
+  "handle" : "61779-LACNIC",
+  "country" : "BR"
+}

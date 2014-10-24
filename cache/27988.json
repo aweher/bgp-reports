@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27988",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27988"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-SYTS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-SYTS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ariel N. Graizer"],["adr",{"label":"suipacha 128 (2do.)\nBuenos Aires, BA 1008\nAR","type":"work"},"text",["","","suipacha 128 (2do.)","Buenos Aires","BA","1008","AR"]],["email",{"type":"work"},"text","agraizer@SYT.COM"],["tel",{"type":"work"},"text","54 11 41381800 ()"],["org",{},"text",["Servicios y Telecomunicaciones S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ANG7",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ANG7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ariel N. Graizer"],["adr",{"label":"Suipacha 128 (2do. c)\nBuenos Aires,  1008\nAR","type":"work"},"text",["","","Suipacha 128 (2do. c)","Buenos Aires","","1008","AR"]],["email",{"type":"work"},"text","agraizer@SYT.COM"],["tel",{"type":"work"},"text","54 11 41381800 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050629",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121109",
+        "eventActor" : "ANG7"
+      } ],
+      "handle" : "ANG7"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080729",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130209",
+      "eventActor" : "ANG7"
+    } ],
+    "handle" : "AR-SYTS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ANG7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ANG7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ariel N. Graizer"],["adr",{"label":"Suipacha 128 (2do. c)\nBuenos Aires,  1008\nAR","type":"work"},"text",["","","Suipacha 128 (2do. c)","Buenos Aires","","1008","AR"]],["email",{"type":"work"},"text","agraizer@SYT.COM"],["tel",{"type":"work"},"text","54 11 41381800 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050629",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121109",
+      "eventActor" : "ANG7"
+    } ],
+    "handle" : "ANG7"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ANG7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ANG7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ariel N. Graizer"],["adr",{"label":"Suipacha 128 (2do. c)\nBuenos Aires,  1008\nAR","type":"work"},"text",["","","Suipacha 128 (2do. c)","Buenos Aires","","1008","AR"]],["email",{"type":"work"},"text","agraizer@SYT.COM"],["tel",{"type":"work"},"text","54 11 41381800 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050629",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121109",
+      "eventActor" : "ANG7"
+    } ],
+    "handle" : "ANG7"
+  } ],
+  "startAutnum" : 27988,
+  "endAutnum" : 27988,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080811",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090206",
+    "eventActor" : "ANG7"
+  } ],
+  "type" : null,
+  "handle" : "27988-LACNIC",
+  "country" : "AR"
+}

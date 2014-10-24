@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/14117",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/14117"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-TSSA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-TSSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Humberto Alvarez Gonzalez"],["adr",{"label":"San Carlos 107 ()\nValdivia,  00000\nCL","type":"work"},"text",["","","San Carlos 107 ()","Valdivia","","00000","CL"]],["email",{"type":"work"},"text","ispadmin@TELSUR.NET"],["tel",{"type":"work"},"text","56 63 223252 ()"],["org",{},"text",["Telefonica del Sur S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ARH",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ARH"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Humberto Alvarez Gonzalez"],["adr",{"label":"San Carlos 107 ()\nValdivia, X 00000\nCL","type":"work"},"text",["","","San Carlos 107 ()","Valdivia","X","00000","CL"]],["email",{"type":"work"},"text","ispadmin@TELSUR.NET"],["tel",{"type":"work"},"text","56 63 223000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20020930",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20101104",
+        "eventActor" : "ARH"
+      } ],
+      "handle" : "ARH"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021217",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "ARH"
+    } ],
+    "handle" : "CL-TSSA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ARH",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ARH"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Humberto Alvarez Gonzalez"],["adr",{"label":"San Carlos 107 ()\nValdivia, X 00000\nCL","type":"work"},"text",["","","San Carlos 107 ()","Valdivia","X","00000","CL"]],["email",{"type":"work"},"text","ispadmin@TELSUR.NET"],["tel",{"type":"work"},"text","56 63 223000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020930",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101104",
+      "eventActor" : "ARH"
+    } ],
+    "handle" : "ARH"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ARH",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ARH"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Humberto Alvarez Gonzalez"],["adr",{"label":"San Carlos 107 ()\nValdivia, X 00000\nCL","type":"work"},"text",["","","San Carlos 107 ()","Valdivia","X","00000","CL"]],["email",{"type":"work"},"text","ispadmin@TELSUR.NET"],["tel",{"type":"work"},"text","56 63 223000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020930",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101104",
+      "eventActor" : "ARH"
+    } ],
+    "handle" : "ARH"
+  } ],
+  "startAutnum" : 14117,
+  "endAutnum" : 14117,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19991022",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20000809",
+    "eventActor" : "ARH"
+  } ],
+  "type" : null,
+  "handle" : "14117-LACNIC",
+  "country" : "CL"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263493,
+  "endAutnum" : 263493,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263493",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263493"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131223",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131224",
+    "eventActor" : "RAD28"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-EACM-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-EACM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","emerson aparecido castanheiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAra?atuba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ara?atuba","SP","04578-000","BR"]],["email",{"type":"work"},"text","EAC21@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["org",{},"text",["emerson aparecido castanheiro - me"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131107",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131107",
+      "eventActor" : "EAC21"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EAC21",
+        "value" : "http://rdap.labs.lacnic.net/entity/EAC21"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","emerson aparecido castanheiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAra?atuba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ara?atuba","SP","04578-000","BR"]],["email",{"type":"work"},"text","EAC21@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20131107",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131107",
+        "eventActor" : "EAC21"
+      } ],
+      "entities" : [ ],
+      "handle" : "EAC21"
+    } ],
+    "handle" : "BR-EACM-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RAD28",
+      "value" : "http://rdap.labs.lacnic.net/entity/RAD28"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael Agostinho Duarte"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBirig?i, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Birig?i","","04578-000","BR"]],["email",{"type":"work"},"text","RAD28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130319",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130319",
+      "eventActor" : "RAD28"
+    } ],
+    "entities" : [ ],
+    "handle" : "RAD28"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EAC21",
+      "value" : "http://rdap.labs.lacnic.net/entity/EAC21"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","emerson aparecido castanheiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAra?atuba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ara?atuba","SP","04578-000","BR"]],["email",{"type":"work"},"text","EAC21@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131107",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131107",
+      "eventActor" : "EAC21"
+    } ],
+    "entities" : [ ],
+    "handle" : "EAC21"
+  } ],
+  "type" : null,
+  "handle" : "263493-LACNIC",
+  "country" : "BR"
+}

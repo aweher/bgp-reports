@@ -1,0 +1,595 @@
+{"service" : {
+  "name" : "search"
+},
+"parameters" : {
+  "inverse-lookup" : { },
+  "type-filters" : { },
+  "flags" : { },
+  "query-strings" : {
+    "query-string" : [ {
+      "value" : "as3320"
+    } ]
+  },
+  "sources" : { }
+},
+"objects" : {
+  "object" : [ {
+    "type" : "as-block",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/as-block/AS3209 - AS3353"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS3209 - AS3353"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS3209 - AS3353"
+      }, {
+        "name" : "descr",
+        "value" : "RIPE NCC ASN block"
+      }, {
+        "name" : "remarks",
+        "value" : "These AS Numbers are assigned to network operators in the RIPE NCC service region."
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "aut-num",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/aut-num/AS3320"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS3320"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS3320"
+      }, {
+        "name" : "as-name",
+        "value" : "DTAG"
+      }, {
+        "name" : "descr",
+        "value" : "Deutsche Telekom AG"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/organisation/ORG-DTA2-RIPE"
+        },
+        "name" : "org",
+        "value" : "ORG-DTA2-RIPE",
+        "referenced-type" : "organisation"
+      }, {
+        "name" : "descr",
+        "value" : "Internet service provider operations"
+      }, {
+        "name" : "remarks",
+        "value" : "peering coordinators for AS3320: <peering@telekom.de>"
+      }, {
+        "name" : "remarks",
+        "value" : "abuse reports should be sent to the contacts listed in the registry entries for the IP address of the offending host system"
+      }, {
+        "name" : "remarks",
+        "value" : "We share the view that for many networks (including ours:-) only some abstraction of the actual routing policy should/can be published in the IRR. Right now we are abstracting to a very essential minimum."
+      }, {
+        "name" : "remarks",
+        "value" : "the most important and helpful use of the IRR is to publish what a network will announce to peers and upstream",
+        "comment" : "we are providing that by means of the AS-set AS3320:AS-DTAG which we have been keeping up to date all the time"
+      }, {
+        "name" : "remarks",
+        "value" : "we encourage all our neighbors to define and maintain an AS-set to describe their announcements, and to register all the routes (and have their customers do so as well)"
+      }, {
+        "name" : "import",
+        "value" : "from AS-ANY accept ANY",
+        "comment" : "heavy abstraction hits! well, we are ... neither peering promiscuously nor accepting all junk routes offered..."
+      }, {
+        "name" : "remarks",
+        "value" : "we maintain a list of what our neighbors have told us about their announcements towards AS3320 - in terms of AS-set (preferred), AS number, route-set (and the IRR database used to publish)"
+      }, {
+        "name" : "remarks",
+        "value" : "in fact we apply route filters based on this for all neighbors - as far as feasible"
+      }, {
+        "name" : "remarks",
+        "value" : "for data published through the RIPE routing registry we generate filters automatically"
+      }, {
+        "name" : "remarks",
+        "value" : "we consider the integration of RIR and routing registry data and the application of RPSS authorization a great feature of the RIPE routing registry",
+        "comment" : "unfortunately this benefit is not available with any other IRR database that we know of... and some of the IRR databases allow essentially any garbage to be registered without any control - making those databases quite useless..."
+      }, {
+        "name" : "export",
+        "value" : "to AS3320:AS-CUSTOMERS announce ANY",
+        "comment" : "but don't publish that list; in general - if they ask for less, we can do"
+      }, {
+        "name" : "export",
+        "value" : "to AS-ANY announce AS3320:AS-DTAG",
+        "comment" : "for peers and others... for backwards compatibility the older AS-DTAG will be kept around for some more time - defined using just members: AS3320:AS-DTAG please convert to AS3320:AS-DTAG if you are still using the old AS-DTAG"
+      }, {
+        "name" : "remarks",
+        "value" : "customers are strongly encouraged to define and maintain an AS-set that we will include in the definition of AS3320:AS-DTAG (if we are told the name)"
+      }, {
+        "name" : "remarks",
+        "value" : "this will be sufficient to have our peers accept the routes"
+      }, {
+        "name" : "remarks",
+        "value" : "in any case peers - and any network in the Internet - is free to apply some selective policy (e.g. prefix length based)",
+        "comment" : "but we do not think that any such selective policy will be based on details of our routing policy omitted from this aut-num: object"
+      }, {
+        "name" : "remarks",
+        "value" : "unfortunately some customers do not provide usable IRR data; we will NOT add to the uncontrolled garbage in the IRR by proxy registering in some database that requires no authorization"
+      }, {
+        "name" : "remarks",
+        "value" : "we advise customers that routes without IRR registration and not covered by AS3320:AS-DTAG may receive less than full support by some of our peer networks and other parts of the Internet"
+      }, {
+        "name" : "remarks",
+        "value" : "============================================================== IPv6 we do/publish essentially the same like for IPv4"
+      }, {
+        "name" : "mp-import",
+        "value" : "afi ipv6.unicast from AS-ANY accept ANY",
+        "comment" : "heavy abstraction... neither peering promiscuously nor accepting all junk routes offered..."
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS3320:AS-CUSTOMERS-V6 announce ANY",
+        "comment" : "but don't publish that list; in general - if they ask for less, we can do"
+      }, {
+        "name" : "mp-export",
+        "value" : "afi ipv6.unicast to AS-ANY announce AS3320:AS-DTAG-V6",
+        "comment" : "for peers and others..."
+      }, {
+        "name" : "remarks",
+        "value" : "=============================================================="
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/RV32"
+        },
+        "name" : "admin-c",
+        "value" : "RV32",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/RV32"
+        },
+        "name" : "tech-c",
+        "value" : "RV32",
+        "referenced-type" : "person"
+      }, {
+        "name" : "remarks",
+        "value" : "For information on \"status:\" attribute read https://www.ripe.net/data-tools/db/faq/faq-status-values-legacy-resources"
+      }, {
+        "name" : "status",
+        "value" : "ASSIGNED"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-END-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-END-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/BP32-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "BP32-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/DTAG-RR"
+        },
+        "name" : "mnt-by",
+        "value" : "DTAG-RR",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    },
+    "tags" : {
+      "tag" : [ {
+        "id" : "RIPE-REGISTRY-RESOURCE",
+        "data" : null
+      } ]
+    }
+  }, {
+    "type" : "organisation",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/organisation/ORG-DTA2-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "organisation",
+        "value" : "ORG-DTA2-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "organisation",
+        "value" : "ORG-DTA2-RIPE"
+      }, {
+        "name" : "org-name",
+        "value" : "Deutsche Telekom AG"
+      }, {
+        "name" : "org-type",
+        "value" : "LIR"
+      }, {
+        "name" : "address",
+        "value" : "Deutsche Telekom Technischer Service GmbH"
+      }, {
+        "name" : "address",
+        "value" : "CCS, IT/IP T6"
+      }, {
+        "name" : "address",
+        "value" : "Ammerlaender Heerstrasse 138"
+      }, {
+        "name" : "address",
+        "value" : "D-26129"
+      }, {
+        "name" : "address",
+        "value" : "Oldenburg"
+      }, {
+        "name" : "address",
+        "value" : "GERMANY"
+      }, {
+        "name" : "phone",
+        "value" : "+494412344541"
+      }, {
+        "name" : "fax-no",
+        "value" : "+494412344589"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/DTAG-NIC"
+        },
+        "name" : "mnt-ref",
+        "value" : "DTAG-NIC",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-ref",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/RF2686-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "RF2686-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/DTAG-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "DTAG-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/UR661-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "UR661-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/SL7866-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "SL7866-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/AR10337-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "AR10337-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/VZ56-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "VZ56-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/SP8519-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "SP8519-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/HI56-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "HI56-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/PB4856-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "PB4856-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/MBT1-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "MBT1-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/AK250-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "AK250-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/LB470-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "LB470-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/BP32-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "BP32-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/ES4155-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "ES4155-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/RV32"
+        },
+        "name" : "admin-c",
+        "value" : "RV32",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/SH5000-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "SH5000-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/MK16829-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "MK16829-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/PA3357-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "PA3357-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/SB15220-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "SB15220-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/DS15982-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "DS15982-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/HB3076-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "HB3076-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/LF1459-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "LF1459-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/DTAG3-RIPE"
+        },
+        "name" : "abuse-c",
+        "value" : "DTAG3-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "person",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/person/BP32-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "nic-hdl",
+        "value" : "BP32-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "person",
+        "value" : "Berthold Paffrath"
+      }, {
+        "name" : "address",
+        "value" : "Deutsche Telekom AG, Internet Services"
+      }, {
+        "name" : "address",
+        "value" : "Postfach 2767"
+      }, {
+        "name" : "address",
+        "value" : "D-48014 Muenster"
+      }, {
+        "name" : "phone",
+        "value" : "+49 251 910 351"
+      }, {
+        "name" : "fax-no",
+        "value" : "+49 251 910 399"
+      }, {
+        "name" : "nic-hdl",
+        "value" : "BP32-RIPE"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/DTAG-RR"
+        },
+        "name" : "mnt-by",
+        "value" : "DTAG-RR",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "person",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/person/RV32"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "nic-hdl",
+        "value" : "RV32"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "person",
+        "value" : "Ruediger Volk"
+      }, {
+        "name" : "address",
+        "value" : "Deutsche Telekom AG, Zentrum IOT"
+      }, {
+        "name" : "address",
+        "value" : "Postfach 2767"
+      }, {
+        "name" : "address",
+        "value" : "D-48014 Muenster"
+      }, {
+        "name" : "phone",
+        "value" : "+49 251 910 351"
+      }, {
+        "name" : "fax-no",
+        "value" : "+49 251 910 399"
+      }, {
+        "name" : "nic-hdl",
+        "value" : "RV32"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/DTAG-RR"
+        },
+        "name" : "mnt-by",
+        "value" : "DTAG-RR",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  } ]
+},
+"terms-and-conditions" : {
+  "type" : "locator",
+  "href" : "http://www.ripe.net/db/support/db-terms-conditions.pdf"
+}
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262455,
+  "endAutnum" : 262455,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262455",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262455"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110504",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MAC218"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CBSA1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CBSA1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Glauco Volpe"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarueri, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barueri","SP","04578-000","BR"]],["email",{"type":"work"},"text","GLV6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["CPM BRAXIS S.A."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "GLV6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GLV6",
+        "value" : "http://rdap.labs.lacnic.net/entity/GLV6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Glauco Volpe"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarueri, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barueri","SP","04578-000","BR"]],["email",{"type":"work"},"text","GLV6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "GLV6"
+      } ],
+      "entities" : [ ],
+      "handle" : "GLV6"
+    } ],
+    "handle" : "BR-CBSA1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAC218",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAC218"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Augusto Camelo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarueri, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barueri","SP","04578-000","BR"]],["email",{"type":"work"},"text","MAC218@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAC218"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAC218"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAC218",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAC218"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Augusto Camelo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarueri, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barueri","SP","04578-000","BR"]],["email",{"type":"work"},"text","MAC218@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAC218"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAC218"
+  } ],
+  "type" : null,
+  "handle" : "262455-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52818,
+  "endAutnum" : 52818,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52818",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52818"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121010",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "COL25"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-COCB-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-COCB-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CD ONE Corporation do Brasil Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nQuadra, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Quadra","SP","04578-000","BR"]],["email",{"type":"work"},"text","COL25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["org",{},"text",["CD ONE CORPORATION DO BRASIL LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "COL25"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/COL25",
+        "value" : "http://rdap.labs.lacnic.net/entity/COL25"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CD ONE Corporation do Brasil Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nQuadra, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Quadra","SP","04578-000","BR"]],["email",{"type":"work"},"text","COL25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "COL25"
+      } ],
+      "entities" : [ ],
+      "handle" : "COL25"
+    } ],
+    "handle" : "BR-COCB-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/COL25",
+      "value" : "http://rdap.labs.lacnic.net/entity/COL25"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CD ONE Corporation do Brasil Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nQuadra, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Quadra","SP","04578-000","BR"]],["email",{"type":"work"},"text","COL25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "COL25"
+    } ],
+    "entities" : [ ],
+    "handle" : "COL25"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/COL25",
+      "value" : "http://rdap.labs.lacnic.net/entity/COL25"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CD ONE Corporation do Brasil Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nQuadra, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Quadra","SP","04578-000","BR"]],["email",{"type":"work"},"text","COL25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "COL25"
+    } ],
+    "entities" : [ ],
+    "handle" : "COL25"
+  } ],
+  "type" : null,
+  "handle" : "52818-LACNIC",
+  "country" : "BR"
+}

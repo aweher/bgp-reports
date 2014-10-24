@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53067,
+  "endAutnum" : 53067,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53067",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53067"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090827",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "VHM9"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-AAST2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-AAST2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ADRIANA EDITH SPARACINO C. SAMACOITS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAdamantina, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Adamantina","SP","04578-000","BR"]],["email",{"type":"work"},"text","AES9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["org",{},"text",["ADASTEL - Adamantina Servi?os de Telecomunica??es"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AES9"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/AES9",
+        "value" : "http://rdap.labs.lacnic.net/entity/AES9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ADRIANA EDITH SPARACINO C. SAMACOITS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAdamantina, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Adamantina","SP","04578-000","BR"]],["email",{"type":"work"},"text","AES9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "AES9"
+      } ],
+      "entities" : [ ],
+      "handle" : "AES9"
+    } ],
+    "handle" : "BR-AAST2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VHM9",
+      "value" : "http://rdap.labs.lacnic.net/entity/VHM9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","VICTOR HUGO REBOLLO DE MOURA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto Anast?cio, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo Anast?cio","SP","04578-000","BR"]],["email",{"type":"work"},"text","VHM9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VHM9"
+    } ],
+    "entities" : [ ],
+    "handle" : "VHM9"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VHM9",
+      "value" : "http://rdap.labs.lacnic.net/entity/VHM9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","VICTOR HUGO REBOLLO DE MOURA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto Anast?cio, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo Anast?cio","SP","04578-000","BR"]],["email",{"type":"work"},"text","VHM9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VHM9"
+    } ],
+    "entities" : [ ],
+    "handle" : "VHM9"
+  } ],
+  "type" : null,
+  "handle" : "53067-LACNIC",
+  "country" : "BR"
+}

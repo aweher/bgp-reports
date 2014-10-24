@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52791,
+  "endAutnum" : 52791,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52791",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52791"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120926",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "RLC11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MISA19-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MISA19-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Richard Lawrence Prado Chow"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nContagem, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Contagem","MG","04578-000","BR"]],["email",{"type":"work"},"text","RLC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["org",{},"text",["Minasmaquinas S/A"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130930",
+      "eventActor" : "RLC11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RLC11",
+        "value" : "http://rdap.labs.lacnic.net/entity/RLC11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Richard Lawrence Prado Chow"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","MG","04578-000","BR"]],["email",{"type":"work"},"text","RLC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "RLC11"
+      } ],
+      "entities" : [ ],
+      "handle" : "RLC11"
+    } ],
+    "handle" : "BR-MISA19-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RLC11",
+      "value" : "http://rdap.labs.lacnic.net/entity/RLC11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Richard Lawrence Prado Chow"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","MG","04578-000","BR"]],["email",{"type":"work"},"text","RLC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RLC11"
+    } ],
+    "entities" : [ ],
+    "handle" : "RLC11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RLC11",
+      "value" : "http://rdap.labs.lacnic.net/entity/RLC11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Richard Lawrence Prado Chow"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","MG","04578-000","BR"]],["email",{"type":"work"},"text","RLC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RLC11"
+    } ],
+    "entities" : [ ],
+    "handle" : "RLC11"
+  } ],
+  "type" : null,
+  "handle" : "52791-LACNIC",
+  "country" : "BR"
+}

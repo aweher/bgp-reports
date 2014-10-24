@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61762,
+  "endAutnum" : 61762,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61762",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61762"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140616",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140616",
+    "eventActor" : "WCN3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CSCL18-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CSCL18-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Host Viabr"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","","04578-000","BR"]],["email",{"type":"work"},"text","HOV2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["org",{},"text",["CONECTABR SISTEMAS DE COMUNICA??ES LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "HOV2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/HOV2",
+        "value" : "http://rdap.labs.lacnic.net/entity/HOV2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Host Viabr"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","PR","04578-000","BR"]],["email",{"type":"work"},"text","HOV2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "HOV2"
+      } ],
+      "entities" : [ ],
+      "handle" : "HOV2"
+    } ],
+    "handle" : "BR-CSCL18-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WCN3",
+      "value" : "http://rdap.labs.lacnic.net/entity/WCN3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Waldemar Christiano Becker Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","PR","04578-000","BR"]],["email",{"type":"work"},"text","WCN3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WCN3"
+    } ],
+    "entities" : [ ],
+    "handle" : "WCN3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WCN3",
+      "value" : "http://rdap.labs.lacnic.net/entity/WCN3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Waldemar Christiano Becker Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","PR","04578-000","BR"]],["email",{"type":"work"},"text","WCN3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WCN3"
+    } ],
+    "entities" : [ ],
+    "handle" : "WCN3"
+  } ],
+  "type" : null,
+  "handle" : "61762-LACNIC",
+  "country" : "BR"
+}

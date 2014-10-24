@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262420,
+  "endAutnum" : 262420,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262420",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262420"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110316",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "GOR9"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-GTLE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-GTLE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Guilherme Rapchan"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOurinhos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ourinhos","SP","04578-000","BR"]],["email",{"type":"work"},"text","GUR19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["org",{},"text",["GIGA TV LTDA - EPP"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140409",
+      "eventActor" : "GUR19"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GUR19",
+        "value" : "http://rdap.labs.lacnic.net/entity/GUR19"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Guilherme Rapchan"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOurinhos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ourinhos","SP","04578-000","BR"]],["email",{"type":"work"},"text","GUR19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "GUR19"
+      } ],
+      "entities" : [ ],
+      "handle" : "GUR19"
+    } ],
+    "handle" : "BR-GTLE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GOR9",
+      "value" : "http://rdap.labs.lacnic.net/entity/GOR9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Guilherme de Oliveira Santos Rapchan"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOurinhos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ourinhos","SP","04578-000","BR"]],["email",{"type":"work"},"text","GOR9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GOR9"
+    } ],
+    "entities" : [ ],
+    "handle" : "GOR9"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GOR9",
+      "value" : "http://rdap.labs.lacnic.net/entity/GOR9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Guilherme de Oliveira Santos Rapchan"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOurinhos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ourinhos","SP","04578-000","BR"]],["email",{"type":"work"},"text","GOR9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GOR9"
+    } ],
+    "entities" : [ ],
+    "handle" : "GOR9"
+  } ],
+  "type" : null,
+  "handle" : "262420-LACNIC",
+  "country" : "BR"
+}

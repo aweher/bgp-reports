@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/22047",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/22047"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-VPNS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-VPNS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Contacto VTR"],["adr",{"label":"Avenida del Valle Sur - Ciudad Empresarial 534 (4th floor)\nSantiago,  8581151\nCL","type":"work"},"text",["","","Avenida del Valle Sur - Ciudad Empresarial 534 (4th floor)","Santiago","","8581151","CL"]],["email",{"type":"work"},"text","italo.sambuceti@VTR.CL"],["tel",{"type":"work"},"text","56 22 3101609 ()"],["org",{},"text",["VTR BANDA ANCHA S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ISO",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ISO"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Contacto VTR"],["adr",{"label":"Avenida del Valle Sur -Ciudad Empresarial 534 (4 th floor)\nSantiago,  \nCL","type":"work"},"text",["","","Avenida del Valle Sur -Ciudad Empresarial 534 (4 th floor)","Santiago","","","CL"]],["email",{"type":"work"},"text","italo.sambuceti@VTR.CL"],["tel",{"type":"work"},"text","56 2 23101609 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20020906",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130925",
+        "eventActor" : "ISO"
+      } ],
+      "handle" : "ISO"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020926",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130809",
+      "eventActor" : "ISO"
+    } ],
+    "handle" : "CL-VPNS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ISO",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ISO"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Contacto VTR"],["adr",{"label":"Avenida del Valle Sur -Ciudad Empresarial 534 (4 th floor)\nSantiago,  \nCL","type":"work"},"text",["","","Avenida del Valle Sur -Ciudad Empresarial 534 (4 th floor)","Santiago","","","CL"]],["email",{"type":"work"},"text","italo.sambuceti@VTR.CL"],["tel",{"type":"work"},"text","56 2 23101609 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020906",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130925",
+      "eventActor" : "ISO"
+    } ],
+    "handle" : "ISO"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CSA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CSA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Contacto de Seguridad VTR Banda Ancha"],["adr",{"label":"Reyes Lavalle 3340 (piso 4)\nLas Condes - Stgo.,  7550121\nCL","type":"work"},"text",["","","Reyes Lavalle 3340 (piso 4)","Las Condes - Stgo.","","7550121","CL"]],["email",{"type":"work"},"text","abuse@VTR.NET"],["tel",{"type":"work"},"text","56 2 3101631 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031029",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20050805",
+      "eventActor" : "CSA"
+    } ],
+    "handle" : "CSA"
+  } ],
+  "startAutnum" : 22047,
+  "endAutnum" : 22047,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20010730",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20031029",
+    "eventActor" : "ISO"
+  } ],
+  "type" : null,
+  "handle" : "22047-LACNIC",
+  "country" : "CL"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263394,
+  "endAutnum" : 263394,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263394",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263394"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140328",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140328",
+    "eventActor" : "MUS10"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NSEI2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NSEI2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Murilo De Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCariacica, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cariacica","","04578-000","BR"]],["email",{"type":"work"},"text","MUS10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["org",{},"text",["Networks Solu??es em Inform?tica"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "MUS10"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MUS10",
+        "value" : "http://rdap.labs.lacnic.net/entity/MUS10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Murilo De Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCariacica, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cariacica","ES","04578-000","BR"]],["email",{"type":"work"},"text","MUS10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MUS10"
+      } ],
+      "entities" : [ ],
+      "handle" : "MUS10"
+    } ],
+    "handle" : "BR-NSEI2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MUS10",
+      "value" : "http://rdap.labs.lacnic.net/entity/MUS10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Murilo De Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCariacica, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cariacica","ES","04578-000","BR"]],["email",{"type":"work"},"text","MUS10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MUS10"
+    } ],
+    "entities" : [ ],
+    "handle" : "MUS10"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MUS10",
+      "value" : "http://rdap.labs.lacnic.net/entity/MUS10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Murilo De Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCariacica, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cariacica","ES","04578-000","BR"]],["email",{"type":"work"},"text","MUS10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MUS10"
+    } ],
+    "entities" : [ ],
+    "handle" : "MUS10"
+  } ],
+  "type" : null,
+  "handle" : "263394-LACNIC",
+  "country" : "BR"
+}

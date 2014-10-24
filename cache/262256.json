@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262256",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262256"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-SIHL5-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-SIHL5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hardy Hernandez Latorre"],["adr",{"label":"Seminario 687 ()\nSantiago de Chile, RM 7770266\nCL","type":"work"},"text",["","","Seminario 687 ()","Santiago de Chile","RM","7770266","CL"]],["email",{"type":"work"},"text","admin@HOSTNAME.CL"],["tel",{"type":"work"},"text","56 2 4139742 ()"],["org",{},"text",["Servicios Inform?ticos Hostname Ltda"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/HAH6",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/HAH6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hardy Hernandez Latorre"],["adr",{"label":"Seminario 687 ()\nSantiago, RM 7770266\nCL","type":"work"},"text",["","","Seminario 687 ()","Santiago","RM","7770266","CL"]],["email",{"type":"work"},"text","admin@HOSTNAME.CL"],["tel",{"type":"work"},"text","56 2 8401900 (2)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120813",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130117",
+        "eventActor" : "HAH6"
+      } ],
+      "handle" : "HAH6"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120823",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140607",
+      "eventActor" : "HAH6"
+    } ],
+    "handle" : "CL-SIHL5-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HAH6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HAH6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hardy Hernandez Latorre"],["adr",{"label":"Seminario 687 ()\nSantiago, RM 7770266\nCL","type":"work"},"text",["","","Seminario 687 ()","Santiago","RM","7770266","CL"]],["email",{"type":"work"},"text","admin@HOSTNAME.CL"],["tel",{"type":"work"},"text","56 2 8401900 (2)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120813",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130117",
+      "eventActor" : "HAH6"
+    } ],
+    "handle" : "HAH6"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HAH6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HAH6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hardy Hernandez Latorre"],["adr",{"label":"Seminario 687 ()\nSantiago, RM 7770266\nCL","type":"work"},"text",["","","Seminario 687 ()","Santiago","RM","7770266","CL"]],["email",{"type":"work"},"text","admin@HOSTNAME.CL"],["tel",{"type":"work"},"text","56 2 8401900 (2)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120813",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130117",
+      "eventActor" : "HAH6"
+    } ],
+    "handle" : "HAH6"
+  } ],
+  "startAutnum" : 262256,
+  "endAutnum" : 262256,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121226",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121226",
+    "eventActor" : "HAH6"
+  } ],
+  "type" : null,
+  "handle" : "262256-LACNIC",
+  "country" : "CL"
+}

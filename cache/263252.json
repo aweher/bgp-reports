@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263252,
+  "endAutnum" : 263252,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263252",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263252"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140522",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140522",
+    "eventActor" : "VPR2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NPIC3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NPIC3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","VALTEIR PAIX?O RODRIGUES"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMucuri, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mucuri","","04578-000","BR"]],["email",{"type":"work"},"text","VPR2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 73 55093511 ()"],["org",{},"text",["N?VEL PLUS INDUSTRIA E COM?RCIO LTDA - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "VPR2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/VPR2",
+        "value" : "http://rdap.labs.lacnic.net/entity/VPR2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","VALTEIR PAIX?O RODRIGUES"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMucuri, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mucuri","BA","04578-000","BR"]],["email",{"type":"work"},"text","VPR2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 99 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "VPR2"
+      } ],
+      "entities" : [ ],
+      "handle" : "VPR2"
+    } ],
+    "handle" : "BR-NPIC3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VPR2",
+      "value" : "http://rdap.labs.lacnic.net/entity/VPR2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","VALTEIR PAIX?O RODRIGUES"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMucuri, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mucuri","BA","04578-000","BR"]],["email",{"type":"work"},"text","VPR2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 99 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VPR2"
+    } ],
+    "entities" : [ ],
+    "handle" : "VPR2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VPR2",
+      "value" : "http://rdap.labs.lacnic.net/entity/VPR2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","VALTEIR PAIX?O RODRIGUES"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMucuri, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mucuri","BA","04578-000","BR"]],["email",{"type":"work"},"text","VPR2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 99 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VPR2"
+    } ],
+    "entities" : [ ],
+    "handle" : "VPR2"
+  } ],
+  "type" : null,
+  "handle" : "263252-LACNIC",
+  "country" : "BR"
+}

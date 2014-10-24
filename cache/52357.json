@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52357",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52357"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-AEAS2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-AEAS2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lucas Frazzetto"],["adr",{"label":"CARLOS DELLA PAOLERA 265 (18)\nRETIRO - CABA, BA 1001\nAR","type":"work"},"text",["","","CARLOS DELLA PAOLERA 265 (18)","RETIRO - CABA","BA","1001","AR"]],["email",{"type":"work"},"text","lucas.g.frazzetto@AXIONENERGY.COM"],["tel",{"type":"work"},"text","54 11 47057117 ()"],["org",{},"text",["AXION ENERGY ARGENTINA S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/LUF9",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/LUF9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lucas Frazzetto"],["adr",{"label":"Della Paolera 265 (17)\nbuenos aires, BU 1001\nAR","type":"work"},"text",["","","Della Paolera 265 (17)","buenos aires","BU","1001","AR"]],["email",{"type":"work"},"text","lucas.g.frazzetto@AXIONENERGY.COM"],["tel",{"type":"work"},"text","54 11 47057027 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110923",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121109",
+        "eventActor" : "LUF9"
+      } ],
+      "handle" : "LUF9"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130604",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131009",
+      "eventActor" : "LUF9"
+    } ],
+    "handle" : "AR-AEAS2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/LUF9",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/LUF9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lucas Frazzetto"],["adr",{"label":"Della Paolera 265 (17)\nbuenos aires, BU 1001\nAR","type":"work"},"text",["","","Della Paolera 265 (17)","buenos aires","BU","1001","AR"]],["email",{"type":"work"},"text","lucas.g.frazzetto@AXIONENERGY.COM"],["tel",{"type":"work"},"text","54 11 47057027 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110923",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121109",
+      "eventActor" : "LUF9"
+    } ],
+    "handle" : "LUF9"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/LUF9",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/LUF9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lucas Frazzetto"],["adr",{"label":"Della Paolera 265 (17)\nbuenos aires, BU 1001\nAR","type":"work"},"text",["","","Della Paolera 265 (17)","buenos aires","BU","1001","AR"]],["email",{"type":"work"},"text","lucas.g.frazzetto@AXIONENERGY.COM"],["tel",{"type":"work"},"text","54 11 47057027 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110923",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121109",
+      "eventActor" : "LUF9"
+    } ],
+    "handle" : "LUF9"
+  } ],
+  "startAutnum" : 52357,
+  "endAutnum" : 52357,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120105",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131008",
+    "eventActor" : "LUF9"
+  } ],
+  "type" : null,
+  "handle" : "52357-LACNIC",
+  "country" : "AR"
+}

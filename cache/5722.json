@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 5722,
+  "endAutnum" : 5722,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/5722",
+    "value" : "http://rdap.labs.lacnic.net/autnum/5722"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19950906",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "19950906",
+    "eventActor" : "HJO"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-UNCO-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-UNCO-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Erick Ardila Triana"],["adr",{"label":"Carrera 30 No. 45-03 - Ciudad Universitaria - (-)\nBogot?, - -\nCO","type":"work"},"text",["","","Carrera 30 No. 45-03 - Ciudad Universitaria - (-)","Bogot?","-","-","CO"]],["email",{"type":"work"},"text","eardilat@UNAL.EDU.CO"],["tel",{"type":"work"},"text","57 1 3165087 ()"],["org",{},"text",["Universidad Nacional de Colombia"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041221",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110530",
+      "eventActor" : "HJO"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/HJO",
+        "value" : "http://rdap.labs.lacnic.net/entity/HJO"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Erick Ardila Triana"],["adr",{"label":"Transv. 38 No. 40-01, oficina 460 - (-)\nBogot?, - 11001000\nCO","type":"work"},"text",["","","Transv. 38 No. 40-01, oficina 460 - (-)","Bogot?","-","11001000","CO"]],["email",{"type":"work"},"text","eardilat@UNAL.EDU.CO"],["tel",{"type":"work"},"text","57 1 3165000 (-12016)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20041217",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20090723",
+        "eventActor" : "HJO"
+      } ],
+      "entities" : [ ],
+      "handle" : "HJO"
+    } ],
+    "handle" : "CO-UNCO-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HJO",
+      "value" : "http://rdap.labs.lacnic.net/entity/HJO"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Erick Ardila Triana"],["adr",{"label":"Transv. 38 No. 40-01, oficina 460 - (-)\nBogot?, - 11001000\nCO","type":"work"},"text",["","","Transv. 38 No. 40-01, oficina 460 - (-)","Bogot?","-","11001000","CO"]],["email",{"type":"work"},"text","eardilat@UNAL.EDU.CO"],["tel",{"type":"work"},"text","57 1 3165000 (-12016)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041217",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090723",
+      "eventActor" : "HJO"
+    } ],
+    "entities" : [ ],
+    "handle" : "HJO"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HJO",
+      "value" : "http://rdap.labs.lacnic.net/entity/HJO"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Erick Ardila Triana"],["adr",{"label":"Transv. 38 No. 40-01, oficina 460 - (-)\nBogot?, - 11001000\nCO","type":"work"},"text",["","","Transv. 38 No. 40-01, oficina 460 - (-)","Bogot?","-","11001000","CO"]],["email",{"type":"work"},"text","eardilat@UNAL.EDU.CO"],["tel",{"type":"work"},"text","57 1 3165000 (-12016)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041217",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090723",
+      "eventActor" : "HJO"
+    } ],
+    "entities" : [ ],
+    "handle" : "HJO"
+  } ],
+  "type" : null,
+  "handle" : "5722-LACNIC",
+  "country" : "CO"
+}

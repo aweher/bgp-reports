@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61798,
+  "endAutnum" : 61798,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61798",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61798"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140624",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140624",
+    "eventActor" : "AKG"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-AIDL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-AIDL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ALEXANDRE KREISLER SANTOS GEROGIANNIS"],["adr",{"label":"Av. das Nações Unidas 11541 (7º andar)\nItabuna, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Nações Unidas 11541 (7º andar)","Itabuna","BA","04578-000","BR"]],["email",{"type":"work"},"text","AKG@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 73 55093511 ()"],["org",{},"text",["AKSG INTERNET E DADOS LTDA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130713",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130713",
+      "eventActor" : "AKG"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/AKG",
+        "value" : "http://rdap.labs.lacnic.net/entity/AKG"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ALEXANDRE KREISLER SANTOS GEROGIANNIS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItabuna, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itabuna","BA","04578-000","BR"]],["email",{"type":"work"},"text","AKG@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 73 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "AKG"
+      } ],
+      "entities" : [ ],
+      "handle" : "AKG"
+    } ],
+    "handle" : "BR-AIDL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AKG",
+      "value" : "http://rdap.labs.lacnic.net/entity/AKG"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ALEXANDRE KREISLER SANTOS GEROGIANNIS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItabuna, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itabuna","BA","04578-000","BR"]],["email",{"type":"work"},"text","AKG@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 73 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AKG"
+    } ],
+    "entities" : [ ],
+    "handle" : "AKG"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AKG",
+      "value" : "http://rdap.labs.lacnic.net/entity/AKG"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ALEXANDRE KREISLER SANTOS GEROGIANNIS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItabuna, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itabuna","BA","04578-000","BR"]],["email",{"type":"work"},"text","AKG@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 73 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AKG"
+    } ],
+    "entities" : [ ],
+    "handle" : "AKG"
+  } ],
+  "type" : null,
+  "handle" : "61798-LACNIC",
+  "country" : "BR"
+}

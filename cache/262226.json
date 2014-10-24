@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262226,
+  "endAutnum" : 262226,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262226",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262226"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120720",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120720",
+    "eventActor" : "SAA15"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-UPCO-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-UPCO-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SAUL ANTONIO REYES ARIAS"],["adr",{"label":"Cra. 9 45A (3693000)\nBogota, CU 11001\nCO","type":"work"},"text",["","","Cra. 9 45A (3693000)","Bogota","CU","11001","CO"]],["email",{"type":"work"},"text","saul-reyes@UNIPILOTO.EDU.CO"],["tel",{"type":"work"},"text","57 1 3322900 ()"],["org",{},"text",["Universidad Piloto de Colombia"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110414",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120721",
+      "eventActor" : "SAA15"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SAA15",
+        "value" : "http://rdap.labs.lacnic.net/entity/SAA15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SAUL ANTONIO REYES ARIAS"],["adr",{"label":"Cra 9 # 45A - 44  ()\nBogota, null \nCO","type":"work"},"text",["","","Cra 9 # 45A - 44  ()","Bogota","","","CO"]],["email",{"type":"work"},"text","saul-reyes@UNIPILOTO.EDU.CO"],["tel",{"type":"work"},"text","57 1 3322900 (417)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120427",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120427",
+        "eventActor" : "SAA15"
+      } ],
+      "entities" : [ ],
+      "handle" : "SAA15"
+    } ],
+    "handle" : "CO-UPCO-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SAA15",
+      "value" : "http://rdap.labs.lacnic.net/entity/SAA15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SAUL ANTONIO REYES ARIAS"],["adr",{"label":"Cra 9 # 45A - 44  ()\nBogota, null \nCO","type":"work"},"text",["","","Cra 9 # 45A - 44  ()","Bogota","","","CO"]],["email",{"type":"work"},"text","saul-reyes@UNIPILOTO.EDU.CO"],["tel",{"type":"work"},"text","57 1 3322900 (417)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120427",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120427",
+      "eventActor" : "SAA15"
+    } ],
+    "entities" : [ ],
+    "handle" : "SAA15"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SAA15",
+      "value" : "http://rdap.labs.lacnic.net/entity/SAA15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SAUL ANTONIO REYES ARIAS"],["adr",{"label":"Cra 9 # 45A - 44  ()\nBogota, null \nCO","type":"work"},"text",["","","Cra 9 # 45A - 44  ()","Bogota","","","CO"]],["email",{"type":"work"},"text","saul-reyes@UNIPILOTO.EDU.CO"],["tel",{"type":"work"},"text","57 1 3322900 (417)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120427",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120427",
+      "eventActor" : "SAA15"
+    } ],
+    "entities" : [ ],
+    "handle" : "SAA15"
+  } ],
+  "type" : null,
+  "handle" : "262226-LACNIC",
+  "country" : "CO"
+}

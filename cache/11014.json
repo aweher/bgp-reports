@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/11014",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/11014"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CPSC2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CPSC2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Adrian Gaido 1"],["adr",{"label":"J. A. Roca 620 (P 8)\nCapital Federal, CF 1067\nAR","type":"work"},"text",["","","J. A. Roca 620 (P 8)","Capital Federal","CF","1067","AR"]],["email",{"type":"work"},"text","abuse@METROTEL.COM.AR"],["tel",{"type":"work"},"text","54 11 60911030 ()"],["org",{},"text",["CPS"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ADG3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ADG3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Adrian Gaido 1"],["adr",{"label":"Tacuari 351 (P 1)\nCapital Federal,  1067\nAR","type":"work"},"text",["","","Tacuari 351 (P 1)","Capital Federal","","1067","AR"]],["email",{"type":"work"},"text","abuse@METROTEL.COM.AR"],["tel",{"type":"work"},"text","54 11 60911030 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060908",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121127",
+        "eventActor" : "ADG3"
+      } ],
+      "handle" : "ADG3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060911",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "ADG3"
+    } ],
+    "handle" : "AR-CPSC2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ADG3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ADG3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Adrian Gaido 1"],["adr",{"label":"Tacuari 351 (P 1)\nCapital Federal,  1067\nAR","type":"work"},"text",["","","Tacuari 351 (P 1)","Capital Federal","","1067","AR"]],["email",{"type":"work"},"text","abuse@METROTEL.COM.AR"],["tel",{"type":"work"},"text","54 11 60911030 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060908",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121127",
+      "eventActor" : "ADG3"
+    } ],
+    "handle" : "ADG3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ADG3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ADG3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Adrian Gaido 1"],["adr",{"label":"Tacuari 351 (P 1)\nCapital Federal,  1067\nAR","type":"work"},"text",["","","Tacuari 351 (P 1)","Capital Federal","","1067","AR"]],["email",{"type":"work"},"text","abuse@METROTEL.COM.AR"],["tel",{"type":"work"},"text","54 11 60911030 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060908",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121127",
+      "eventActor" : "ADG3"
+    } ],
+    "handle" : "ADG3"
+  } ],
+  "startAutnum" : 11014,
+  "endAutnum" : 11014,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19980309",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20061027",
+    "eventActor" : "ADG3"
+  } ],
+  "type" : null,
+  "handle" : "11014-LACNIC",
+  "country" : "AR"
+}

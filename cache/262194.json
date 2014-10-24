@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262194",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262194"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-DTAS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-DTAS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonardo Combes"],["adr",{"label":"San Mart?n 133 ()\nBah?a Blanca, BA 8000\nAR","type":"work"},"text",["","","San Mart?n 133 ()","Bah?a Blanca","BA","8000","AR"]],["email",{"type":"work"},"text","lcombes@DESETECH.COM.AR"],["tel",{"type":"work"},"text","54 291 4306000 ()"],["org",{},"text",["Dese Technologies Argentina S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/LEC17",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/LEC17"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonardo Combes"],["adr",{"label":"19 de mayo 540 ()\nBahia Blanca,  B8000FIC\nAR","type":"work"},"text",["","","19 de mayo 540 ()","Bahia Blanca","","B8000FIC","AR"]],["email",{"type":"work"},"text","lcombes@DESETECH.COM.AR"],["tel",{"type":"work"},"text","54 291 4306000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20111014",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20111104",
+        "eventActor" : "LEC17"
+      } ],
+      "handle" : "LEC17"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20111103",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "LEC17"
+    } ],
+    "handle" : "AR-DTAS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/LEC17",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/LEC17"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonardo Combes"],["adr",{"label":"19 de mayo 540 ()\nBahia Blanca,  B8000FIC\nAR","type":"work"},"text",["","","19 de mayo 540 ()","Bahia Blanca","","B8000FIC","AR"]],["email",{"type":"work"},"text","lcombes@DESETECH.COM.AR"],["tel",{"type":"work"},"text","54 291 4306000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20111014",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111104",
+      "eventActor" : "LEC17"
+    } ],
+    "handle" : "LEC17"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/LEC17",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/LEC17"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonardo Combes"],["adr",{"label":"19 de mayo 540 ()\nBahia Blanca,  B8000FIC\nAR","type":"work"},"text",["","","19 de mayo 540 ()","Bahia Blanca","","B8000FIC","AR"]],["email",{"type":"work"},"text","lcombes@DESETECH.COM.AR"],["tel",{"type":"work"},"text","54 291 4306000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20111014",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111104",
+      "eventActor" : "LEC17"
+    } ],
+    "handle" : "LEC17"
+  } ],
+  "startAutnum" : 262194,
+  "endAutnum" : 262194,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120315",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120315",
+    "eventActor" : "LEC17"
+  } ],
+  "type" : null,
+  "handle" : "262194-LACNIC",
+  "country" : "AR"
+}

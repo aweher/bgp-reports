@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27730",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27730"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-BBFS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-BBFS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Norberto Juan Aneise"],["adr",{"label":"Venezuela 540 (2o.Piso)\nBuenos Aires,  C1095ALL\nAR","type":"work"},"text",["","","Venezuela 540 (2o.Piso)","Buenos Aires","","C1095ALL","AR"]],["email",{"type":"work"},"text","naneise@BANCOFRANCES.COM.AR"],["tel",{"type":"work"},"text","54 11 4340-0000 (21901)"],["org",{},"text",["BBVA Banco Frances SA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/NJA",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/NJA"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Norberto Juan Aneise"],["adr",{"label":"Venezuela 540 2nd floor 77703 ()\nBuenos Aires, null CD1095ALL\nAR","type":"work"},"text",["","","Venezuela 540 2nd floor 77703 ()","Buenos Aires","","CD1095ALL","AR"]],["email",{"type":"work"},"text","naneise@BANCOFRANCES.COM.AR"],["tel",{"type":"work"},"text","54 11 43400000 (21901)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20031217",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20031217",
+        "eventActor" : "NJA"
+      } ],
+      "handle" : "NJA"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031218",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20040226",
+      "eventActor" : "NJA"
+    } ],
+    "handle" : "AR-BBFS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NJA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NJA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Norberto Juan Aneise"],["adr",{"label":"Venezuela 540 2nd floor 77703 ()\nBuenos Aires, null CD1095ALL\nAR","type":"work"},"text",["","","Venezuela 540 2nd floor 77703 ()","Buenos Aires","","CD1095ALL","AR"]],["email",{"type":"work"},"text","naneise@BANCOFRANCES.COM.AR"],["tel",{"type":"work"},"text","54 11 43400000 (21901)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031217",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20031217",
+      "eventActor" : "NJA"
+    } ],
+    "handle" : "NJA"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NJA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NJA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Norberto Juan Aneise"],["adr",{"label":"Venezuela 540 2nd floor 77703 ()\nBuenos Aires, null CD1095ALL\nAR","type":"work"},"text",["","","Venezuela 540 2nd floor 77703 ()","Buenos Aires","","CD1095ALL","AR"]],["email",{"type":"work"},"text","naneise@BANCOFRANCES.COM.AR"],["tel",{"type":"work"},"text","54 11 43400000 (21901)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031217",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20031217",
+      "eventActor" : "NJA"
+    } ],
+    "handle" : "NJA"
+  } ],
+  "startAutnum" : 27730,
+  "endAutnum" : 27730,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20040225",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20040225",
+    "eventActor" : "NJA"
+  } ],
+  "type" : null,
+  "handle" : "27730-LACNIC",
+  "country" : "AR"
+}

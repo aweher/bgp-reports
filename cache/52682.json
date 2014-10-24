@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52682,
+  "endAutnum" : 52682,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52682",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52682"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121211",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "WNL2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-WNLT1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-WNLT1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","w3 network Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlta Floresta, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alta Floresta","MT","04578-000","BR"]],["email",{"type":"work"},"text","WNL2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["org",{},"text",["W3 Network Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "WNL2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/WNL2",
+        "value" : "http://rdap.labs.lacnic.net/entity/WNL2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","w3 network Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nalta floresta, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","alta floresta","MT","04578-000","BR"]],["email",{"type":"work"},"text","WNL2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "WNL2"
+      } ],
+      "entities" : [ ],
+      "handle" : "WNL2"
+    } ],
+    "handle" : "BR-WNLT1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WNL2",
+      "value" : "http://rdap.labs.lacnic.net/entity/WNL2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","w3 network Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nalta floresta, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","alta floresta","MT","04578-000","BR"]],["email",{"type":"work"},"text","WNL2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WNL2"
+    } ],
+    "entities" : [ ],
+    "handle" : "WNL2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WNL2",
+      "value" : "http://rdap.labs.lacnic.net/entity/WNL2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","w3 network Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nalta floresta, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","alta floresta","MT","04578-000","BR"]],["email",{"type":"work"},"text","WNL2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WNL2"
+    } ],
+    "entities" : [ ],
+    "handle" : "WNL2"
+  } ],
+  "type" : null,
+  "handle" : "52682-LACNIC",
+  "country" : "BR"
+}

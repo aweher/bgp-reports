@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/16701",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/16701"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-AFIP-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-AFIP-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","deinco afip"],["adr",{"label":"Av. Paseo Col?n 635PB (DEINCO)\nBuenos Aires,  C106D3ACG\nAR","type":"work"},"text",["","","Av. Paseo Col?n 635PB (DEINCO)","Buenos Aires","","C106D3ACG","AR"]],["email",{"type":"work"},"text","deinco@AFIP.GOV.AR"],["tel",{"type":"work"},"text","54 11 43471136 ()"],["org",{},"text",["ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS(AFIP)"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/DEA",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/DEA"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","deinco afip"],["adr",{"label":"Paseo Colon 635 (Planta Baja)\nde Buenos Aires,  ACG1063\nAR","type":"work"},"text",["","","Paseo Colon 635 (Planta Baja)","de Buenos Aires","","ACG1063","AR"]],["email",{"type":"work"},"text","deinco@AFIP.GOV.AR"],["tel",{"type":"work"},"text","54 11 43471111 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030527",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110401",
+        "eventActor" : "DEA"
+      } ],
+      "handle" : "DEA"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030609",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111007",
+      "eventActor" : "DEA"
+    } ],
+    "handle" : "AR-AFIP-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DEA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DEA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","deinco afip"],["adr",{"label":"Paseo Colon 635 (Planta Baja)\nde Buenos Aires,  ACG1063\nAR","type":"work"},"text",["","","Paseo Colon 635 (Planta Baja)","de Buenos Aires","","ACG1063","AR"]],["email",{"type":"work"},"text","deinco@AFIP.GOV.AR"],["tel",{"type":"work"},"text","54 11 43471111 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030527",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110401",
+      "eventActor" : "DEA"
+    } ],
+    "handle" : "DEA"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DEA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DEA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","deinco afip"],["adr",{"label":"Paseo Colon 635 (Planta Baja)\nde Buenos Aires,  ACG1063\nAR","type":"work"},"text",["","","Paseo Colon 635 (Planta Baja)","de Buenos Aires","","ACG1063","AR"]],["email",{"type":"work"},"text","deinco@AFIP.GOV.AR"],["tel",{"type":"work"},"text","54 11 43471111 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030527",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110401",
+      "eventActor" : "DEA"
+    } ],
+    "handle" : "DEA"
+  } ],
+  "startAutnum" : 16701,
+  "endAutnum" : 16701,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20000519",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20040315",
+    "eventActor" : "DEA"
+  } ],
+  "type" : null,
+  "handle" : "16701-LACNIC",
+  "country" : "AR"
+}

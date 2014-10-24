@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/22860",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/22860"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-SILT2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-SILT2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Servicios Internet Ltda - TECNOERA.com"],["adr",{"label":"Londres 536 ()\nVina del Mar,  2580347\nCL","type":"work"},"text",["","","Londres 536 ()","Vina del Mar","","2580347","CL"]],["email",{"type":"work"},"text","lacnic@TECNOERA.COM"],["tel",{"type":"work"},"text","56 32 2768000 ()"],["org",{},"text",["SERVICIOS INTERNET LTDA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SIL",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SIL"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Servicios Internet Ltda - TECNOERA.com"],["adr",{"label":"LONDRES 536 (RECREO)\nVina del Mar, V 2580347\nCL","type":"work"},"text",["","","LONDRES 536 (RECREO)","Vina del Mar","V","2580347","CL"]],["email",{"type":"work"},"text","lacnic@TECNOERA.COM"],["tel",{"type":"work"},"text","56 32 2768000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030226",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20111118",
+        "eventActor" : "SIL"
+      } ],
+      "handle" : "SIL"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030226",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "SIL"
+    } ],
+    "handle" : "CL-SILT2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SIL",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SIL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Servicios Internet Ltda - TECNOERA.com"],["adr",{"label":"LONDRES 536 (RECREO)\nVina del Mar, V 2580347\nCL","type":"work"},"text",["","","LONDRES 536 (RECREO)","Vina del Mar","V","2580347","CL"]],["email",{"type":"work"},"text","lacnic@TECNOERA.COM"],["tel",{"type":"work"},"text","56 32 2768000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030226",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111118",
+      "eventActor" : "SIL"
+    } ],
+    "handle" : "SIL"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SIL",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SIL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Servicios Internet Ltda - TECNOERA.com"],["adr",{"label":"LONDRES 536 (RECREO)\nVina del Mar, V 2580347\nCL","type":"work"},"text",["","","LONDRES 536 (RECREO)","Vina del Mar","V","2580347","CL"]],["email",{"type":"work"},"text","lacnic@TECNOERA.COM"],["tel",{"type":"work"},"text","56 32 2768000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030226",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111118",
+      "eventActor" : "SIL"
+    } ],
+    "handle" : "SIL"
+  } ],
+  "startAutnum" : 22860,
+  "endAutnum" : 22860,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20011206",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20011206",
+    "eventActor" : "SIL"
+  } ],
+  "type" : null,
+  "handle" : "22860-LACNIC",
+  "country" : "CL"
+}

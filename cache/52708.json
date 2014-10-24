@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52708,
+  "endAutnum" : 52708,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52708",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52708"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121228",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "LPS12"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-LSPI1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-LSPI1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano Pontes de S?"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPadre Bernardo, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Padre Bernardo","GO","04578-000","BR"]],["email",{"type":"work"},"text","LPS12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["org",{},"text",["Linenet Suprimentos para Informatica LTDA-ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130401",
+      "eventActor" : "LPS12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LPS12",
+        "value" : "http://rdap.labs.lacnic.net/entity/LPS12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano Pontes de S?"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPadre Bernardo, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Padre Bernardo","GO","04578-000","BR"]],["email",{"type":"work"},"text","LPS12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LPS12"
+      } ],
+      "entities" : [ ],
+      "handle" : "LPS12"
+    } ],
+    "handle" : "BR-LSPI1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LPS12",
+      "value" : "http://rdap.labs.lacnic.net/entity/LPS12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano Pontes de S?"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPadre Bernardo, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Padre Bernardo","GO","04578-000","BR"]],["email",{"type":"work"},"text","LPS12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LPS12"
+    } ],
+    "entities" : [ ],
+    "handle" : "LPS12"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LPS12",
+      "value" : "http://rdap.labs.lacnic.net/entity/LPS12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano Pontes de S?"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPadre Bernardo, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Padre Bernardo","GO","04578-000","BR"]],["email",{"type":"work"},"text","LPS12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LPS12"
+    } ],
+    "entities" : [ ],
+    "handle" : "LPS12"
+  } ],
+  "type" : null,
+  "handle" : "52708-LACNIC",
+  "country" : "BR"
+}

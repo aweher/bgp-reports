@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52748,
+  "endAutnum" : 52748,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52748",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52748"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120829",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "PFS5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SSTE4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SSTE4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo Fernando da Silva Seixas"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTaquari, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Taquari","RS","04578-000","BR"]],["email",{"type":"work"},"text","PFS5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 05 155093511 ()"],["org",{},"text",["Seitel - Seixas Telecomunica??es"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "PFS5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PFS5",
+        "value" : "http://rdap.labs.lacnic.net/entity/PFS5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo Fernando da Silva Seixas"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTaquari, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Taquari","RS","04578-000","BR"]],["email",{"type":"work"},"text","PFS5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PFS5"
+      } ],
+      "entities" : [ ],
+      "handle" : "PFS5"
+    } ],
+    "handle" : "BR-SSTE4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PFS5",
+      "value" : "http://rdap.labs.lacnic.net/entity/PFS5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo Fernando da Silva Seixas"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTaquari, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Taquari","RS","04578-000","BR"]],["email",{"type":"work"},"text","PFS5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PFS5"
+    } ],
+    "entities" : [ ],
+    "handle" : "PFS5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PFS5",
+      "value" : "http://rdap.labs.lacnic.net/entity/PFS5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo Fernando da Silva Seixas"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTaquari, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Taquari","RS","04578-000","BR"]],["email",{"type":"work"},"text","PFS5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PFS5"
+    } ],
+    "entities" : [ ],
+    "handle" : "PFS5"
+  } ],
+  "type" : null,
+  "handle" : "52748-LACNIC",
+  "country" : "BR"
+}

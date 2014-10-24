@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28101",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28101"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-NISR2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-NISR2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador de Ips"],["adr",{"label":"TTE GRAL JUAN DOMINGO PERON 564 (5)\nCIUDAD AUTONOMA BUENOS AIRES, AR C1038AAL\nAR","type":"work"},"text",["","","TTE GRAL JUAN DOMINGO PERON 564 (5)","CIUDAD AUTONOMA BUENOS AIRES","AR","C1038AAL","AR"]],["email",{"type":"work"},"text","abuse-iplan@IPLAN.COM.AR"],["tel",{"type":"work"},"text","54 11 52751000 (1000)"],["org",{},"text",["NC IT SRL"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MAC2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAC2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador de Ips"],["adr",{"label":"Reconquista 865 (5to piso)\nBuenos Aires,  1003\nAR","type":"work"},"text",["","","Reconquista 865 (5to piso)","Buenos Aires","","1003","AR"]],["email",{"type":"work"},"text","abuse-iplan@IPLAN.COM.AR"],["tel",{"type":"work"},"text","54 11 50320000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20021226",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20111108",
+        "eventActor" : "MAC2"
+      } ],
+      "handle" : "MAC2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090902",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "MAC2"
+    } ],
+    "handle" : "AR-NISR2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAC2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador de Ips"],["adr",{"label":"Reconquista 865 (5to piso)\nBuenos Aires,  1003\nAR","type":"work"},"text",["","","Reconquista 865 (5to piso)","Buenos Aires","","1003","AR"]],["email",{"type":"work"},"text","abuse-iplan@IPLAN.COM.AR"],["tel",{"type":"work"},"text","54 11 50320000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021226",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111108",
+      "eventActor" : "MAC2"
+    } ],
+    "handle" : "MAC2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAC2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador de Ips"],["adr",{"label":"Reconquista 865 (5to piso)\nBuenos Aires,  1003\nAR","type":"work"},"text",["","","Reconquista 865 (5to piso)","Buenos Aires","","1003","AR"]],["email",{"type":"work"},"text","abuse-iplan@IPLAN.COM.AR"],["tel",{"type":"work"},"text","54 11 50320000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021226",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111108",
+      "eventActor" : "MAC2"
+    } ],
+    "handle" : "MAC2"
+  } ],
+  "startAutnum" : 28101,
+  "endAutnum" : 28101,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091201",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20091201",
+    "eventActor" : "MAC2"
+  } ],
+  "type" : null,
+  "handle" : "28101-LACNIC",
+  "country" : "AR"
+}

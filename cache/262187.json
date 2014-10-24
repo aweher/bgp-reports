@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262187",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262187"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-PGSA2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-PGSA2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Patagonia Green SA"],["adr",{"label":"CENTRO COMERCIAL PASAJE 6 -- (LOCAL 60)\nSan Martin, MZ 5570\nAR","type":"work"},"text",["","","CENTRO COMERCIAL PASAJE 6 -- (LOCAL 60)","San Martin","MZ","5570","AR"]],["email",{"type":"work"},"text","soporte@PATAGONIAGREEN.COM"],["tel",{"type":"work"},"text","54 261 4138600 ()"],["org",{},"text",["Patagonia Green S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PGS3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PGS3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Patagonia Green SA"],["adr",{"label":"Centro Comercial Pasaje 6 Local 60  (San Mart?n)\nMendoza, MZ 5570\nAR","type":"work"},"text",["","","Centro Comercial Pasaje 6 Local 60  (San Mart?n)","Mendoza","MZ","5570","AR"]],["email",{"type":"work"},"text","soporte@PATAGONIAGREEN.COM"],["tel",{"type":"work"},"text","54 261 4138600 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100223",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131120",
+        "eventActor" : "PGS3"
+      } ],
+      "handle" : "PGS3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080602",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "PGS3"
+    } ],
+    "handle" : "AR-PGSA2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PGS3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PGS3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Patagonia Green SA"],["adr",{"label":"Centro Comercial Pasaje 6 Local 60  (San Mart?n)\nMendoza, MZ 5570\nAR","type":"work"},"text",["","","Centro Comercial Pasaje 6 Local 60  (San Mart?n)","Mendoza","MZ","5570","AR"]],["email",{"type":"work"},"text","soporte@PATAGONIAGREEN.COM"],["tel",{"type":"work"},"text","54 261 4138600 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100223",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131120",
+      "eventActor" : "PGS3"
+    } ],
+    "handle" : "PGS3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PGS3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PGS3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Patagonia Green SA"],["adr",{"label":"Centro Comercial Pasaje 6 Local 60  (San Mart?n)\nMendoza, MZ 5570\nAR","type":"work"},"text",["","","Centro Comercial Pasaje 6 Local 60  (San Mart?n)","Mendoza","MZ","5570","AR"]],["email",{"type":"work"},"text","soporte@PATAGONIAGREEN.COM"],["tel",{"type":"work"},"text","54 261 4138600 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100223",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131120",
+      "eventActor" : "PGS3"
+    } ],
+    "handle" : "PGS3"
+  } ],
+  "startAutnum" : 262187,
+  "endAutnum" : 262187,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110922",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110923",
+    "eventActor" : "PGS3"
+  } ],
+  "type" : null,
+  "handle" : "262187-LACNIC",
+  "country" : "AR"
+}

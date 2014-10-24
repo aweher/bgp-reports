@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262789,
+  "endAutnum" : 262789,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262789",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262789"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100917",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131122",
+    "eventActor" : "ALG86"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-STIL16-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-STIL16-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alex Gomes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCastelo, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Castelo","ES","04578-000","BR"]],["email",{"type":"work"},"text","ALG86@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 28 55093511 ()"],["org",{},"text",["Simternet Tecnologia da Informa??o LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131126",
+      "eventActor" : "ALG86"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ALG86",
+        "value" : "http://rdap.labs.lacnic.net/entity/ALG86"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alex Gomes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCastelo, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Castelo","ES","04578-000","BR"]],["email",{"type":"work"},"text","ALG86@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 28 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ALG86"
+      } ],
+      "entities" : [ ],
+      "handle" : "ALG86"
+    } ],
+    "handle" : "BR-STIL16-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALG86",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALG86"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alex Gomes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCastelo, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Castelo","ES","04578-000","BR"]],["email",{"type":"work"},"text","ALG86@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 28 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ALG86"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALG86"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FFP9",
+      "value" : "http://rdap.labs.lacnic.net/entity/FFP9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Fioresi Paqueli"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCastelo, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Castelo","ES","04578-000","BR"]],["email",{"type":"work"},"text","FFP9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 28 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130903",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130903",
+      "eventActor" : "FFP9"
+    } ],
+    "entities" : [ ],
+    "handle" : "FFP9"
+  } ],
+  "type" : null,
+  "handle" : "262789-LACNIC",
+  "country" : "BR"
+}

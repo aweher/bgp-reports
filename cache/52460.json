@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52460",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52460"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-BASE-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-BASE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cristina Rodriguez"],["adr",{"label":"Huerfanos 669 (Oficina 507)\nSantiago, CH 8320174\nCL","type":"work"},"text",["","","Huerfanos 669 (Oficina 507)","Santiago","CH","8320174","CL"]],["email",{"type":"work"},"text","crrodriguez@SECURITY.CL"],["tel",{"type":"work"},"text","56 2 5842300 (92225982)"],["org",{},"text",["Invest Security"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CRR9",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CRR9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cristina Rodriguez"],["adr",{"label":"Huerfanos 669 (Oficina 507)\nSantiago, null 8320174\nCL","type":"work"},"text",["","","Huerfanos 669 (Oficina 507)","Santiago","","8320174","CL"]],["email",{"type":"work"},"text","crrodriguez@SECURITY.CL"],["tel",{"type":"work"},"text","56 02 5842300 (2300)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110803",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110803",
+        "eventActor" : "CRR9"
+      } ],
+      "handle" : "CRR9"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20111019",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130417",
+      "eventActor" : "CRR9"
+    } ],
+    "handle" : "CL-BASE-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CRR9",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CRR9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cristina Rodriguez"],["adr",{"label":"Huerfanos 669 (Oficina 507)\nSantiago, null 8320174\nCL","type":"work"},"text",["","","Huerfanos 669 (Oficina 507)","Santiago","","8320174","CL"]],["email",{"type":"work"},"text","crrodriguez@SECURITY.CL"],["tel",{"type":"work"},"text","56 02 5842300 (2300)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110803",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110803",
+      "eventActor" : "CRR9"
+    } ],
+    "handle" : "CRR9"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CRR9",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CRR9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cristina Rodriguez"],["adr",{"label":"Huerfanos 669 (Oficina 507)\nSantiago, null 8320174\nCL","type":"work"},"text",["","","Huerfanos 669 (Oficina 507)","Santiago","","8320174","CL"]],["email",{"type":"work"},"text","crrodriguez@SECURITY.CL"],["tel",{"type":"work"},"text","56 02 5842300 (2300)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110803",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110803",
+      "eventActor" : "CRR9"
+    } ],
+    "handle" : "CRR9"
+  } ],
+  "startAutnum" : 52460,
+  "endAutnum" : 52460,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130416",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130416",
+    "eventActor" : "CRR9"
+  } ],
+  "type" : null,
+  "handle" : "52460-LACNIC",
+  "country" : "CL"
+}

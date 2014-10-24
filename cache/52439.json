@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52439",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52439"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-OPTI-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-OPTI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","OPTIC Telecomunicaciones"],["adr",{"label":"Ernesto Pinto Lagarrigue 239 (Recoleta)\nSantiago de Chile, RM 8420445\nCL","type":"work"},"text",["","","Ernesto Pinto Lagarrigue 239 (Recoleta)","Santiago de Chile","RM","8420445","CL"]],["email",{"type":"work"},"text","mauricio@OPTIC.CL"],["tel",{"type":"work"},"text","56 9 76670007 ()"],["org",{},"text",["OPTIC"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SAB8",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SAB8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","OPTIC Telecomunicaciones"],["adr",{"label":"Ernesto Pinto Lagarrigue 239 ()\nSantiago, RM 8420445\nCL","type":"work"},"text",["","","Ernesto Pinto Lagarrigue 239 ()","Santiago","RM","8420445","CL"]],["email",{"type":"work"},"text","mauricio@OPTIC.CL"],["tel",{"type":"work"},"text","56 9 76670007 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120609",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140325",
+        "eventActor" : "SAB8"
+      } ],
+      "handle" : "SAB8"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120613",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140531",
+      "eventActor" : "SAB8"
+    } ],
+    "handle" : "CL-OPTI-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SAB8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SAB8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","OPTIC Telecomunicaciones"],["adr",{"label":"Ernesto Pinto Lagarrigue 239 ()\nSantiago, RM 8420445\nCL","type":"work"},"text",["","","Ernesto Pinto Lagarrigue 239 ()","Santiago","RM","8420445","CL"]],["email",{"type":"work"},"text","mauricio@OPTIC.CL"],["tel",{"type":"work"},"text","56 9 76670007 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120609",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140325",
+      "eventActor" : "SAB8"
+    } ],
+    "handle" : "SAB8"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SAB8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SAB8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","OPTIC Telecomunicaciones"],["adr",{"label":"Ernesto Pinto Lagarrigue 239 ()\nSantiago, RM 8420445\nCL","type":"work"},"text",["","","Ernesto Pinto Lagarrigue 239 ()","Santiago","RM","8420445","CL"]],["email",{"type":"work"},"text","mauricio@OPTIC.CL"],["tel",{"type":"work"},"text","56 9 76670007 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120609",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140325",
+      "eventActor" : "SAB8"
+    } ],
+    "handle" : "SAB8"
+  } ],
+  "startAutnum" : 52439,
+  "endAutnum" : 52439,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130214",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130214",
+    "eventActor" : "SAB8"
+  } ],
+  "type" : null,
+  "handle" : "52439-LACNIC",
+  "country" : "CL"
+}

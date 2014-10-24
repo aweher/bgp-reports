@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/11340",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/11340"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-RUNA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-RUNA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sandra Jaque"],["adr",{"label":"Canada 239 (Providencia)\nSantiago, RM 7500782\nCL","type":"work"},"text",["","","Canada 239 (Providencia)","Santiago","RM","7500782","CL"]],["email",{"type":"work"},"text","security@REUNA.CL"],["tel",{"type":"work"},"text","56 2 3370300 (340)"],["org",{},"text",["Red Universitaria Nacional"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SAJ",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SAJ"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sandra Jaque"],["adr",{"label":"Canada 239 (Providencia)\nSantiago, RM 6640806\nCL","type":"work"},"text",["","","Canada 239 (Providencia)","Santiago","RM","6640806","CL"]],["email",{"type":"work"},"text","security@REUNA.CL"],["tel",{"type":"work"},"text","56 2 337000 (340)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030325",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120525",
+        "eventActor" : "SAJ"
+      } ],
+      "handle" : "SAJ"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030327",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070502",
+      "eventActor" : "SAJ"
+    } ],
+    "handle" : "CL-RUNA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SAJ",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SAJ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sandra Jaque"],["adr",{"label":"Canada 239 (Providencia)\nSantiago, RM 6640806\nCL","type":"work"},"text",["","","Canada 239 (Providencia)","Santiago","RM","6640806","CL"]],["email",{"type":"work"},"text","security@REUNA.CL"],["tel",{"type":"work"},"text","56 2 337000 (340)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030325",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120525",
+      "eventActor" : "SAJ"
+    } ],
+    "handle" : "SAJ"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SAJ",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SAJ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sandra Jaque"],["adr",{"label":"Canada 239 (Providencia)\nSantiago, RM 6640806\nCL","type":"work"},"text",["","","Canada 239 (Providencia)","Santiago","RM","6640806","CL"]],["email",{"type":"work"},"text","security@REUNA.CL"],["tel",{"type":"work"},"text","56 2 337000 (340)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030325",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120525",
+      "eventActor" : "SAJ"
+    } ],
+    "handle" : "SAJ"
+  } ],
+  "startAutnum" : 11340,
+  "endAutnum" : 11340,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19981109",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20050810",
+    "eventActor" : "SAJ"
+  } ],
+  "type" : null,
+  "handle" : "11340-LACNIC",
+  "country" : "CL"
+}

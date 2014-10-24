@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53119,
+  "endAutnum" : 53119,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53119",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53119"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140613",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140613",
+    "eventActor" : "HLP"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-HLPM-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-HLPM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Heberton Luiz Polistchuk"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCastro, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Castro","","04578-000","BR"]],["email",{"type":"work"},"text","HLP@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["org",{},"text",["Heberton Luiz Polistchuk Me"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "HLP"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/HLP",
+        "value" : "http://rdap.labs.lacnic.net/entity/HLP"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Heberton Luiz Polistchuk"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCastro, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Castro","PR","04578-000","BR"]],["email",{"type":"work"},"text","HLP@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "HLP"
+      } ],
+      "entities" : [ ],
+      "handle" : "HLP"
+    } ],
+    "handle" : "BR-HLPM-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HLP",
+      "value" : "http://rdap.labs.lacnic.net/entity/HLP"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Heberton Luiz Polistchuk"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCastro, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Castro","PR","04578-000","BR"]],["email",{"type":"work"},"text","HLP@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "HLP"
+    } ],
+    "entities" : [ ],
+    "handle" : "HLP"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HLP",
+      "value" : "http://rdap.labs.lacnic.net/entity/HLP"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Heberton Luiz Polistchuk"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCastro, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Castro","PR","04578-000","BR"]],["email",{"type":"work"},"text","HLP@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "HLP"
+    } ],
+    "entities" : [ ],
+    "handle" : "HLP"
+  } ],
+  "type" : null,
+  "handle" : "53119-LACNIC",
+  "country" : "BR"
+}

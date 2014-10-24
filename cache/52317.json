@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52317",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52317"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-IWAG-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-IWAG-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cesar Grisotto"],["adr",{"label":"Calle 5 596 ()\nLa Plata, BA 1900\nAR","type":"work"},"text",["","","Calle 5 596 ()","La Plata","BA","1900","AR"]],["email",{"type":"work"},"text","cgrisotto@IWINDS.COM.AR"],["tel",{"type":"work"},"text","54 221 5130108 (108)"],["org",{},"text",["Internet Winds AG"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CEG3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CEG3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cesar Grisotto"],["adr",{"label":"Calle 5 Nro 596 La Plata BsAs ARG 5 (596)\nLa Plata, BA 1900\nAR","type":"work"},"text",["","","Calle 5 Nro 596 La Plata BsAs ARG 5 (596)","La Plata","BA","1900","AR"]],["email",{"type":"work"},"text","cgrisotto@IWINDS.COM.AR"],["tel",{"type":"work"},"text","54 221 5130108 (108)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100614",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100803",
+        "eventActor" : "CEG3"
+      } ],
+      "handle" : "CEG3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100701",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "CEG3"
+    } ],
+    "handle" : "AR-IWAG-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CEG3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CEG3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cesar Grisotto"],["adr",{"label":"Calle 5 Nro 596 La Plata BsAs ARG 5 (596)\nLa Plata, BA 1900\nAR","type":"work"},"text",["","","Calle 5 Nro 596 La Plata BsAs ARG 5 (596)","La Plata","BA","1900","AR"]],["email",{"type":"work"},"text","cgrisotto@IWINDS.COM.AR"],["tel",{"type":"work"},"text","54 221 5130108 (108)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100614",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100803",
+      "eventActor" : "CEG3"
+    } ],
+    "handle" : "CEG3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CEG3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CEG3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cesar Grisotto"],["adr",{"label":"Calle 5 Nro 596 La Plata BsAs ARG 5 (596)\nLa Plata, BA 1900\nAR","type":"work"},"text",["","","Calle 5 Nro 596 La Plata BsAs ARG 5 (596)","La Plata","BA","1900","AR"]],["email",{"type":"work"},"text","cgrisotto@IWINDS.COM.AR"],["tel",{"type":"work"},"text","54 221 5130108 (108)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100614",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100803",
+      "eventActor" : "CEG3"
+    } ],
+    "handle" : "CEG3"
+  } ],
+  "startAutnum" : 52317,
+  "endAutnum" : 52317,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110310",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110310",
+    "eventActor" : "CEG3"
+  } ],
+  "type" : null,
+  "handle" : "52317-LACNIC",
+  "country" : "AR"
+}

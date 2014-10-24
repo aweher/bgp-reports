@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263154,
+  "endAutnum" : 263154,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263154",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263154"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140519",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140519",
+    "eventActor" : "AEC10"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-AECL9-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-AECL9-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gleison Aparecido Ramos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPassos, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Passos","MG","04578-000","BR"]],["email",{"type":"work"},"text","GAR22@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["org",{},"text",["Avan?ar - Engenharia de Computa??o Ltda ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140329",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140329",
+      "eventActor" : "GAR22"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GAR22",
+        "value" : "http://rdap.labs.lacnic.net/entity/GAR22"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gleison Aparecido Ramos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCapit?lio, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Capit?lio","MG","04578-000","BR"]],["email",{"type":"work"},"text","GAR22@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140417",
+        "eventActor" : "GAR22"
+      } ],
+      "entities" : [ ],
+      "handle" : "GAR22"
+    } ],
+    "handle" : "BR-AECL9-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AEC10",
+      "value" : "http://rdap.labs.lacnic.net/entity/AEC10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Avan?ar - Engenharia de Computa??o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPassos, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Passos","MG","04578-000","BR"]],["email",{"type":"work"},"text","AEC10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140417",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140417",
+      "eventActor" : "AEC10"
+    } ],
+    "entities" : [ ],
+    "handle" : "AEC10"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AEC10",
+      "value" : "http://rdap.labs.lacnic.net/entity/AEC10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Avan?ar - Engenharia de Computa??o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPassos, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Passos","MG","04578-000","BR"]],["email",{"type":"work"},"text","AEC10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140417",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140417",
+      "eventActor" : "AEC10"
+    } ],
+    "entities" : [ ],
+    "handle" : "AEC10"
+  } ],
+  "type" : null,
+  "handle" : "263154-LACNIC",
+  "country" : "BR"
+}

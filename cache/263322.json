@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263322,
+  "endAutnum" : 263322,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263322",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263322"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140306",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140306",
+    "eventActor" : "VOK"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MFCL7-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MFCL7-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","toledo digital"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nToledo, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Toledo","PR","04578-000","BR"]],["email",{"type":"work"},"text","TOD3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["org",{},"text",["MARANGON, FERREIRA & CIA LTDA - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131007",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131007",
+      "eventActor" : "TOD3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/TOD3",
+        "value" : "http://rdap.labs.lacnic.net/entity/TOD3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","toledo digital"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nToledo, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Toledo","PR","04578-000","BR"]],["email",{"type":"work"},"text","TOD3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20131007",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131007",
+        "eventActor" : "TOD3"
+      } ],
+      "entities" : [ ],
+      "handle" : "TOD3"
+    } ],
+    "handle" : "BR-MFCL7-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VOK",
+      "value" : "http://rdap.labs.lacnic.net/entity/VOK"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Volnei Kriesang"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPato Bragado, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pato Bragado","PR","04578-000","BR"]],["email",{"type":"work"},"text","VOK@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131031",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131031",
+      "eventActor" : "VOK"
+    } ],
+    "entities" : [ ],
+    "handle" : "VOK"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VOK",
+      "value" : "http://rdap.labs.lacnic.net/entity/VOK"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Volnei Kriesang"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPato Bragado, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pato Bragado","PR","04578-000","BR"]],["email",{"type":"work"},"text","VOK@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131031",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131031",
+      "eventActor" : "VOK"
+    } ],
+    "entities" : [ ],
+    "handle" : "VOK"
+  } ],
+  "type" : null,
+  "handle" : "263322-LACNIC",
+  "country" : "BR"
+}

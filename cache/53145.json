@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53145,
+  "endAutnum" : 53145,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53145",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53145"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100427",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "PRL14"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PRLT17-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PRLT17-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Provedor Redesul Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGaribaldi, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Garibaldi","RS","04578-000","BR"]],["email",{"type":"work"},"text","PRL14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["org",{},"text",["PROVEDOR REDESUL LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140603",
+      "eventActor" : "PRL14"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PRL14",
+        "value" : "http://rdap.labs.lacnic.net/entity/PRL14"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Provedor Redesul Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGaribaldi, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Garibaldi","RS","04578-000","BR"]],["email",{"type":"work"},"text","PRL14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PRL14"
+      } ],
+      "entities" : [ ],
+      "handle" : "PRL14"
+    } ],
+    "handle" : "BR-PRLT17-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PRL14",
+      "value" : "http://rdap.labs.lacnic.net/entity/PRL14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Provedor Redesul Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGaribaldi, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Garibaldi","RS","04578-000","BR"]],["email",{"type":"work"},"text","PRL14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PRL14"
+    } ],
+    "entities" : [ ],
+    "handle" : "PRL14"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PRL14",
+      "value" : "http://rdap.labs.lacnic.net/entity/PRL14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Provedor Redesul Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGaribaldi, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Garibaldi","RS","04578-000","BR"]],["email",{"type":"work"},"text","PRL14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PRL14"
+    } ],
+    "entities" : [ ],
+    "handle" : "PRL14"
+  } ],
+  "type" : null,
+  "handle" : "53145-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52346",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52346"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-DIAR1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-DIAR1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Arturo H. Perez Suarez"],["adr",{"label":"Balcarce 479 ()\nBuenos Aires,  C1064AAI\nAR","type":"work"},"text",["","","Balcarce 479 ()","Buenos Aires","","C1064AAI","AR"]],["email",{"type":"work"},"text","aperez@SKYONLINE.NET"],["tel",{"type":"work"},"text","54 11 50935400 ()"],["org",{},"text",["Diveo Argentina"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GDC3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GDC3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Arturo H. Perez Suarez"],["adr",{"label":"Balcarce 479 ()\nBuenos Aires, Ar 1064\nAR","type":"work"},"text",["","","Balcarce 479 ()","Buenos Aires","Ar","1064","AR"]],["email",{"type":"work"},"text","aperez@SKYONLINE.NET"],["tel",{"type":"work"},"text","0054 11 50935454 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20111124",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130620",
+        "eventActor" : "GDC3"
+      } ],
+      "handle" : "GDC3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021226",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "GDC3"
+    } ],
+    "handle" : "AR-DIAR1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GDC3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GDC3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Arturo H. Perez Suarez"],["adr",{"label":"Balcarce 479 ()\nBuenos Aires, Ar 1064\nAR","type":"work"},"text",["","","Balcarce 479 ()","Buenos Aires","Ar","1064","AR"]],["email",{"type":"work"},"text","aperez@SKYONLINE.NET"],["tel",{"type":"work"},"text","0054 11 50935454 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20111124",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130620",
+      "eventActor" : "GDC3"
+    } ],
+    "handle" : "GDC3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GDC3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GDC3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Arturo H. Perez Suarez"],["adr",{"label":"Balcarce 479 ()\nBuenos Aires, Ar 1064\nAR","type":"work"},"text",["","","Balcarce 479 ()","Buenos Aires","Ar","1064","AR"]],["email",{"type":"work"},"text","aperez@SKYONLINE.NET"],["tel",{"type":"work"},"text","0054 11 50935454 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20111124",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130620",
+      "eventActor" : "GDC3"
+    } ],
+    "handle" : "GDC3"
+  } ],
+  "startAutnum" : 52346,
+  "endAutnum" : 52346,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110920",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120516",
+    "eventActor" : "GDC3"
+  } ],
+  "type" : null,
+  "handle" : "52346-LACNIC",
+  "country" : "AR"
+}

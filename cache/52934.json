@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52934,
+  "endAutnum" : 52934,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52934",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52934"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120815",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MGL2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TILT20-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TILT20-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Gilberto Loss"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampinas do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campinas do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","MGL2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["org",{},"text",["Tolrs Inform?tica Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "MGL2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MGL2",
+        "value" : "http://rdap.labs.lacnic.net/entity/MGL2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Gilberto Loss"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampinas do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campinas do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","MGL2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MGL2"
+      } ],
+      "entities" : [ ],
+      "handle" : "MGL2"
+    } ],
+    "handle" : "BR-TILT20-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MGL2",
+      "value" : "http://rdap.labs.lacnic.net/entity/MGL2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Gilberto Loss"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampinas do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campinas do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","MGL2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MGL2"
+    } ],
+    "entities" : [ ],
+    "handle" : "MGL2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MGL2",
+      "value" : "http://rdap.labs.lacnic.net/entity/MGL2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Gilberto Loss"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampinas do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campinas do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","MGL2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MGL2"
+    } ],
+    "entities" : [ ],
+    "handle" : "MGL2"
+  } ],
+  "type" : null,
+  "handle" : "52934-LACNIC",
+  "country" : "BR"
+}

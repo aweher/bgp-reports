@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28265,
+  "endAutnum" : 28265,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28265",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28265"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20081104",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ALM120"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ALME4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ALME4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","AbcRede - Ltda ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTupi Paulista, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tupi Paulista","SP","04578-000","BR"]],["email",{"type":"work"},"text","ALM120@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["org",{},"text",["abcRede LTDA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "ALM120"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ALM120",
+        "value" : "http://rdap.labs.lacnic.net/entity/ALM120"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","AbcRede - Ltda ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTupi Paulista, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tupi Paulista","SP","04578-000","BR"]],["email",{"type":"work"},"text","ALM120@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ALM120"
+      } ],
+      "entities" : [ ],
+      "handle" : "ALM120"
+    } ],
+    "handle" : "BR-ALME4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALM120",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALM120"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","AbcRede - Ltda ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTupi Paulista, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tupi Paulista","SP","04578-000","BR"]],["email",{"type":"work"},"text","ALM120@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ALM120"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALM120"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALM120",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALM120"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","AbcRede - Ltda ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTupi Paulista, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tupi Paulista","SP","04578-000","BR"]],["email",{"type":"work"},"text","ALM120@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ALM120"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALM120"
+  } ],
+  "type" : null,
+  "handle" : "28265-LACNIC",
+  "country" : "BR"
+}

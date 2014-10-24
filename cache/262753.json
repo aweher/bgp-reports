@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262753,
+  "endAutnum" : 262753,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262753",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262753"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100721",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "NNC5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VTLT27-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VTLT27-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Voc? Telecom Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMacap?, AP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Macap?","AP","04578-000","BR"]],["email",{"type":"work"},"text","VTL4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 96 55093511 ()"],["org",{},"text",["Voc? Telecom Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140201",
+      "eventActor" : "VTL4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/VTL4",
+        "value" : "http://rdap.labs.lacnic.net/entity/VTL4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Voc? Telecom Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMacap?, AP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Macap?","AP","04578-000","BR"]],["email",{"type":"work"},"text","VTL4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 96 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "VTL4"
+      } ],
+      "entities" : [ ],
+      "handle" : "VTL4"
+    } ],
+    "handle" : "BR-VTLT27-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NNC5",
+      "value" : "http://rdap.labs.lacnic.net/entity/NNC5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NTC - Norte Tecnologia em Comunica??es"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMacap?, AP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Macap?","AP","04578-000","BR"]],["email",{"type":"work"},"text","NNC5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 96 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NNC5"
+    } ],
+    "entities" : [ ],
+    "handle" : "NNC5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NNC5",
+      "value" : "http://rdap.labs.lacnic.net/entity/NNC5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NTC - Norte Tecnologia em Comunica??es"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMacap?, AP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Macap?","AP","04578-000","BR"]],["email",{"type":"work"},"text","NNC5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 96 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NNC5"
+    } ],
+    "entities" : [ ],
+    "handle" : "NNC5"
+  } ],
+  "type" : null,
+  "handle" : "262753-LACNIC",
+  "country" : "BR"
+}

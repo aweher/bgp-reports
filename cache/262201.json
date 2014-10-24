@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262201",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262201"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-BHSA1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-BHSA1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sebastian Romero"],["adr",{"label":"RECONQUISTA 151 (2)\nBuenos Aires,  C1003ABC\nAR","type":"work"},"text",["","","RECONQUISTA 151 (2)","Buenos Aires","","C1003ABC","AR"]],["email",{"type":"work"},"text","sromero@IPLAN.COM.AR"],["tel",{"type":"work"},"text","54 11 43475000 (5000)"],["org",{},"text",["BANCO HIPOTECARIO SOCIEDAD ANONIMA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SER14",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SER14"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sebastian Romero"],["adr",{"label":"Virrey Cevallos 422 ()\nBuenos Aires,  C1077AAJ\nAR","type":"work"},"text",["","","Virrey Cevallos 422 ()","Buenos Aires","","C1077AAJ","AR"]],["email",{"type":"work"},"text","sromero@IPLAN.COM.AR"],["tel",{"type":"work"},"text","0054 11 50316586 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110517",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130919",
+        "eventActor" : "SER14"
+      } ],
+      "handle" : "SER14"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110531",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130610",
+      "eventActor" : "SER14"
+    } ],
+    "handle" : "AR-BHSA1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JOL41",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JOL41"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Lepage"],["adr",{"label":"Peron 252 (9 Piso)\nCABA, null 1003\nAR","type":"work"},"text",["","","Peron 252 (9 Piso)","CABA","","1003","AR"]],["email",{"type":"work"},"text","jrlepage@HIPOTECARIO.COM.AR"],["tel",{"type":"work"},"text","54 11 43475223 (5223)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130607",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130607",
+      "eventActor" : "JOL41"
+    } ],
+    "handle" : "JOL41"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CRY3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CRY3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cristian Ya?ez"],["adr",{"label":"Peron 525 (9 Piso)\nCABA, null 1003\nAR","type":"work"},"text",["","","Peron 525 (9 Piso)","CABA","","1003","AR"]],["email",{"type":"work"},"text","CYANEZ@HIPOTECARIO.COM.AR"],["tel",{"type":"work"},"text","54 11 43475682 (5682)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130610",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130610",
+      "eventActor" : "CRY3"
+    } ],
+    "handle" : "CRY3"
+  } ],
+  "startAutnum" : 262201,
+  "endAutnum" : 262201,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111124",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130611",
+    "eventActor" : "JOL41"
+  } ],
+  "type" : null,
+  "handle" : "262201-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263272,
+  "endAutnum" : 263272,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263272",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263272"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140411",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140411",
+    "eventActor" : "AOM12"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ATIL14-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ATIL14-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Felipe Paraizo de Lima"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlegre, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alegre","ES","04578-000","BR"]],["email",{"type":"work"},"text","FPL12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 28 55093511 ()"],["org",{},"text",["Ampla Tecnologia e Inform?tica Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130813",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130813",
+      "eventActor" : "FPL12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FPL12",
+        "value" : "http://rdap.labs.lacnic.net/entity/FPL12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Felipe Paraizo de Lima"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlegre, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alegre","ES","04578-000","BR"]],["email",{"type":"work"},"text","FPL12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 28 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130813",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130813",
+        "eventActor" : "FPL12"
+      } ],
+      "entities" : [ ],
+      "handle" : "FPL12"
+    } ],
+    "handle" : "BR-ATIL14-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AOM12",
+      "value" : "http://rdap.labs.lacnic.net/entity/AOM12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Aldeir de Olveira Morais"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlegre, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alegre","ES","04578-000","BR"]],["email",{"type":"work"},"text","AOM12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 28 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130814",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130814",
+      "eventActor" : "AOM12"
+    } ],
+    "entities" : [ ],
+    "handle" : "AOM12"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AOM12",
+      "value" : "http://rdap.labs.lacnic.net/entity/AOM12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Aldeir de Olveira Morais"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlegre, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alegre","ES","04578-000","BR"]],["email",{"type":"work"},"text","AOM12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 28 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130814",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130814",
+      "eventActor" : "AOM12"
+    } ],
+    "entities" : [ ],
+    "handle" : "AOM12"
+  } ],
+  "type" : null,
+  "handle" : "263272-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262480,
+  "endAutnum" : 262480,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262480",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262480"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110531",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "DAR31"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DAPR-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DAPR-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","demetrio araujo prates ramos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBotucatu, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Botucatu","SP","04578-000","BR"]],["email",{"type":"work"},"text","DAR31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["org",{},"text",["dem?trio araujo prates ramos"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130904",
+      "eventActor" : "DAR31"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DAR31",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAR31"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","demetrio araujo prates ramos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBotucatu, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Botucatu","SP","04578-000","BR"]],["email",{"type":"work"},"text","DAR31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DAR31"
+      } ],
+      "entities" : [ ],
+      "handle" : "DAR31"
+    } ],
+    "handle" : "BR-DAPR-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DAR31",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAR31"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","demetrio araujo prates ramos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBotucatu, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Botucatu","SP","04578-000","BR"]],["email",{"type":"work"},"text","DAR31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DAR31"
+    } ],
+    "entities" : [ ],
+    "handle" : "DAR31"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DAR31",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAR31"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","demetrio araujo prates ramos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBotucatu, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Botucatu","SP","04578-000","BR"]],["email",{"type":"work"},"text","DAR31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DAR31"
+    } ],
+    "entities" : [ ],
+    "handle" : "DAR31"
+  } ],
+  "type" : null,
+  "handle" : "262480-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52957,
+  "endAutnum" : 52957,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52957",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52957"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110126",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131219",
+    "eventActor" : "OML17"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-OMTL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-OMTL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Onda Master Telecomunica??o Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Gotardo, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Gotardo","MG","04578-000","BR"]],["email",{"type":"work"},"text","OML17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["org",{},"text",["Onda Master Telecomunica??es Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "OML17"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/OML17",
+        "value" : "http://rdap.labs.lacnic.net/entity/OML17"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Onda Master Telecomunica??o Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Gotardo, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Gotardo","MG","04578-000","BR"]],["email",{"type":"work"},"text","OML17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "OML17"
+      } ],
+      "entities" : [ ],
+      "handle" : "OML17"
+    } ],
+    "handle" : "BR-OMTL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/OML17",
+      "value" : "http://rdap.labs.lacnic.net/entity/OML17"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Onda Master Telecomunica??o Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Gotardo, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Gotardo","MG","04578-000","BR"]],["email",{"type":"work"},"text","OML17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "OML17"
+    } ],
+    "entities" : [ ],
+    "handle" : "OML17"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FRF18",
+      "value" : "http://rdap.labs.lacnic.net/entity/FRF18"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Franklin Ferreira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIgarassu, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Igarassu","PE","04578-000","BR"]],["email",{"type":"work"},"text","FRF18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FRF18"
+    } ],
+    "entities" : [ ],
+    "handle" : "FRF18"
+  } ],
+  "type" : null,
+  "handle" : "52957-LACNIC",
+  "country" : "BR"
+}

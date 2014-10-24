@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52556,
+  "endAutnum" : 52556,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52556",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52556"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130208",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130328",
+    "eventActor" : "IRJ4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-IJIR-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-IJIR-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Willams Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRecife, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Recife","PE","04578-000","BR"]],["email",{"type":"work"},"text","JWS3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["org",{},"text",["Ivanildo Junior E Idalecio Ribeiro Art. Info. Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130328",
+      "eventActor" : "JWS3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JWS3",
+        "value" : "http://rdap.labs.lacnic.net/entity/JWS3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Willams Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRecife, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Recife","PE","04578-000","BR"]],["email",{"type":"work"},"text","JWS3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JWS3"
+      } ],
+      "entities" : [ ],
+      "handle" : "JWS3"
+    } ],
+    "handle" : "BR-IJIR-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IRJ4",
+      "value" : "http://rdap.labs.lacnic.net/entity/IRJ4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ivanildo Ribeiro da Silva J?nior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRecife, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Recife","","04578-000","BR"]],["email",{"type":"work"},"text","IRJ4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130328",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130328",
+      "eventActor" : "IRJ4"
+    } ],
+    "entities" : [ ],
+    "handle" : "IRJ4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IRJ4",
+      "value" : "http://rdap.labs.lacnic.net/entity/IRJ4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ivanildo Ribeiro da Silva J?nior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRecife, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Recife","","04578-000","BR"]],["email",{"type":"work"},"text","IRJ4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130328",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130328",
+      "eventActor" : "IRJ4"
+    } ],
+    "entities" : [ ],
+    "handle" : "IRJ4"
+  } ],
+  "type" : null,
+  "handle" : "52556-LACNIC",
+  "country" : "BR"
+}

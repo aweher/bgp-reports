@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 13591,
+  "endAutnum" : 13591,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/13591",
+    "value" : "http://rdap.labs.lacnic.net/autnum/13591"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20010103",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "EIM2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BTCM1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BTCM1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Engenharia de Internet Metrored"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","EIM2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 01 155093511 ()"],["org",{},"text",["Brasil Telecom Comunica??o Multimidia"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "EIM2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EIM2",
+        "value" : "http://rdap.labs.lacnic.net/entity/EIM2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Engenharia de Internet Metrored"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","EIM2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 01 155093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EIM2"
+      } ],
+      "entities" : [ ],
+      "handle" : "EIM2"
+    } ],
+    "handle" : "BR-BTCM1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EIM2",
+      "value" : "http://rdap.labs.lacnic.net/entity/EIM2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Engenharia de Internet Metrored"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","EIM2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 01 155093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EIM2"
+    } ],
+    "entities" : [ ],
+    "handle" : "EIM2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MRV10",
+      "value" : "http://rdap.labs.lacnic.net/entity/MRV10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","M?rcio Roberto de Castro Vidal"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJundia?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jundia?","SP","04578-000","BR"]],["email",{"type":"work"},"text","MRV10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MRV10"
+    } ],
+    "entities" : [ ],
+    "handle" : "MRV10"
+  } ],
+  "type" : null,
+  "handle" : "13591-LACNIC",
+  "country" : "BR"
+}

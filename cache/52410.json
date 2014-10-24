@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52410",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52410"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-ICAS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-ICAS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ANDRES BENCHOA"],["adr",{"label":"Cabildo 2677 (piso 8)\nBuenos Aires, BA 1428\nAR","type":"work"},"text",["","","Cabildo 2677 (piso 8)","Buenos Aires","BA","1428","AR"]],["email",{"type":"work"},"text","andres.benchoa@IDT.NET"],["tel",{"type":"work"},"text","54 11 53549000 (9013)"],["org",{},"text",["IDT CORPORATION DE ARGENTINA S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ANB20",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ANB20"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ANDRES BENCHOA"],["adr",{"label":"CABILDO 2677 (8)\nCABA, null 1428\nAR","type":"work"},"text",["","","CABILDO 2677 (8)","CABA","","1428","AR"]],["email",{"type":"work"},"text","andres.benchoa@IDT.NET"],["tel",{"type":"work"},"text","54 11 53549000 (9013)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120827",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120827",
+        "eventActor" : "ANB20"
+      } ],
+      "handle" : "ANB20"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120830",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121019",
+      "eventActor" : "ANB20"
+    } ],
+    "handle" : "AR-ICAS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ANB20",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ANB20"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ANDRES BENCHOA"],["adr",{"label":"CABILDO 2677 (8)\nCABA, null 1428\nAR","type":"work"},"text",["","","CABILDO 2677 (8)","CABA","","1428","AR"]],["email",{"type":"work"},"text","andres.benchoa@IDT.NET"],["tel",{"type":"work"},"text","54 11 53549000 (9013)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120827",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120827",
+      "eventActor" : "ANB20"
+    } ],
+    "handle" : "ANB20"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ANB20",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ANB20"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ANDRES BENCHOA"],["adr",{"label":"CABILDO 2677 (8)\nCABA, null 1428\nAR","type":"work"},"text",["","","CABILDO 2677 (8)","CABA","","1428","AR"]],["email",{"type":"work"},"text","andres.benchoa@IDT.NET"],["tel",{"type":"work"},"text","54 11 53549000 (9013)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120827",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120827",
+      "eventActor" : "ANB20"
+    } ],
+    "handle" : "ANB20"
+  } ],
+  "startAutnum" : 52410,
+  "endAutnum" : 52410,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121017",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121017",
+    "eventActor" : "ANB20"
+  } ],
+  "type" : null,
+  "handle" : "52410-LACNIC",
+  "country" : "AR"
+}

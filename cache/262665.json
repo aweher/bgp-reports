@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262665,
+  "endAutnum" : 262665,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262665",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262665"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090617",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130319",
+    "eventActor" : "VPM4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VPIL5-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VPIL5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Luis Deodato"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBrotas, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Brotas","SP","04578-000","BR"]],["email",{"type":"work"},"text","ELD6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["org",{},"text",["Viafast Provedor de Internet Ltda ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130319",
+      "eventActor" : "ELD6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ELD6",
+        "value" : "http://rdap.labs.lacnic.net/entity/ELD6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Luis Deodato"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBrotas, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Brotas","SP","04578-000","BR"]],["email",{"type":"work"},"text","ELD6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ELD6"
+      } ],
+      "entities" : [ ],
+      "handle" : "ELD6"
+    } ],
+    "handle" : "BR-VPIL5-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VPM4",
+      "value" : "http://rdap.labs.lacnic.net/entity/VPM4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Viafast Provedor de Internet Ltda ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBrotas, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Brotas","","04578-000","BR"]],["email",{"type":"work"},"text","VPM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130319",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130319",
+      "eventActor" : "VPM4"
+    } ],
+    "entities" : [ ],
+    "handle" : "VPM4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ELD6",
+      "value" : "http://rdap.labs.lacnic.net/entity/ELD6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Luis Deodato"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBrotas, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Brotas","SP","04578-000","BR"]],["email",{"type":"work"},"text","ELD6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ELD6"
+    } ],
+    "entities" : [ ],
+    "handle" : "ELD6"
+  } ],
+  "type" : null,
+  "handle" : "262665-LACNIC",
+  "country" : "BR"
+}

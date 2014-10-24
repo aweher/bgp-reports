@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53033,
+  "endAutnum" : 53033,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53033",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53033"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110829",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140320",
+    "eventActor" : "RIF25"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-IRLT6-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-IRLT6-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Elizeu Moreira Queiroz"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto Andr?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo Andr?","SP","04578-000","BR"]],["email",{"type":"work"},"text","EMQ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["Intelisense Radiocomunica??o Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140320",
+      "eventActor" : "EMQ"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EMQ",
+        "value" : "http://rdap.labs.lacnic.net/entity/EMQ"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Elizeu Moreira Queiroz"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto Andr?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo Andr?","SP","04578-000","BR"]],["email",{"type":"work"},"text","EMQ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EMQ"
+      } ],
+      "entities" : [ ],
+      "handle" : "EMQ"
+    } ],
+    "handle" : "BR-IRLT6-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RIF25",
+      "value" : "http://rdap.labs.lacnic.net/entity/RIF25"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Freire"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto Andr?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo Andr?","SP","04578-000","BR"]],["email",{"type":"work"},"text","RIF25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140320",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140320",
+      "eventActor" : "RIF25"
+    } ],
+    "entities" : [ ],
+    "handle" : "RIF25"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EMQ",
+      "value" : "http://rdap.labs.lacnic.net/entity/EMQ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Elizeu Moreira Queiroz"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto Andr?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo Andr?","SP","04578-000","BR"]],["email",{"type":"work"},"text","EMQ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EMQ"
+    } ],
+    "entities" : [ ],
+    "handle" : "EMQ"
+  } ],
+  "type" : null,
+  "handle" : "53033-LACNIC",
+  "country" : "BR"
+}

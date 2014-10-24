@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52604,
+  "endAutnum" : 52604,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52604",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52604"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130321",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130925",
+    "eventActor" : "NEF7"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VNIL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VNIL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","jonni pianezzer"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTubar?o, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tubar?o","SC","04578-000","BR"]],["email",{"type":"work"},"text","JOP53@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["org",{},"text",["V + NET INTERNET BANDA LARGA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130321",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130918",
+      "eventActor" : "JOP53"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JOP53",
+        "value" : "http://rdap.labs.lacnic.net/entity/JOP53"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","jonni pianezzer"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio do Sul, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio do Sul","SC","04578-000","BR"]],["email",{"type":"work"},"text","JOP53@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JOP53"
+      } ],
+      "entities" : [ ],
+      "handle" : "JOP53"
+    } ],
+    "handle" : "BR-VNIL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NEF7",
+      "value" : "http://rdap.labs.lacnic.net/entity/NEF7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Nei Euclides Fava"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTubar?o, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tubar?o","SC","04578-000","BR"]],["email",{"type":"work"},"text","NEF7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NEF7"
+    } ],
+    "entities" : [ ],
+    "handle" : "NEF7"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NEF7",
+      "value" : "http://rdap.labs.lacnic.net/entity/NEF7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Nei Euclides Fava"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTubar?o, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tubar?o","SC","04578-000","BR"]],["email",{"type":"work"},"text","NEF7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NEF7"
+    } ],
+    "entities" : [ ],
+    "handle" : "NEF7"
+  } ],
+  "type" : null,
+  "handle" : "52604-LACNIC",
+  "country" : "BR"
+}

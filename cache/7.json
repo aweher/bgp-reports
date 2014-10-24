@@ -1,0 +1,188 @@
+{"service" : {
+  "name" : "search"
+},
+"parameters" : {
+  "inverse-lookup" : { },
+  "type-filters" : { },
+  "flags" : { },
+  "query-strings" : {
+    "query-string" : [ {
+      "value" : "as7"
+    } ]
+  },
+  "sources" : { }
+},
+"objects" : {
+  "object" : [ {
+    "type" : "as-block",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/as-block/AS7 - AS7"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS7 - AS7"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS7 - AS7"
+      }, {
+        "name" : "descr",
+        "value" : "RIPE NCC ASN block"
+      }, {
+        "name" : "remarks",
+        "value" : "These AS Numbers are assigned to network operators in the RIPE NCC service region."
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "aut-num",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/aut-num/AS7"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS7"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS7"
+      }, {
+        "name" : "as-name",
+        "value" : "UNSPECIFIED"
+      }, {
+        "name" : "descr",
+        "value" : "UK Defence Research Agency"
+      }, {
+        "name" : "import",
+        "value" : "from AS786 action pref=50; accept ANY"
+      }, {
+        "name" : "default",
+        "value" : "to AS786 action pref=1; networks ANY"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/DH2104-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "DH2104-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/DH2104-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "DH2104-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "name" : "remarks",
+        "value" : "For information on \"status:\" attribute read https://www.ripe.net/data-tools/db/faq/faq-status-values-legacy-resources"
+      }, {
+        "name" : "status",
+        "value" : "LEGACY"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/JIPS-NOSC"
+        },
+        "name" : "mnt-by",
+        "value" : "JIPS-NOSC",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    },
+    "tags" : {
+      "tag" : [ {
+        "id" : "RIPE-REGISTRY-RESOURCE",
+        "data" : null
+      } ]
+    }
+  }, {
+    "type" : "person",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/person/DH2104-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "nic-hdl",
+        "value" : "DH2104-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "person",
+        "value" : "David Hartley"
+      }, {
+        "name" : "address",
+        "value" : "DSTL"
+      }, {
+        "name" : "address",
+        "value" : "Salisbury"
+      }, {
+        "name" : "address",
+        "value" : "Wilts"
+      }, {
+        "name" : "address",
+        "value" : "SP4 0JQ"
+      }, {
+        "name" : "address",
+        "value" : "United Kingdom"
+      }, {
+        "name" : "phone",
+        "value" : "+44 (0)1980 613121"
+      }, {
+        "name" : "nic-hdl",
+        "value" : "DH2104-RIPE"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/DSTL-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "DSTL-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  } ]
+},
+"terms-and-conditions" : {
+  "type" : "locator",
+  "href" : "http://www.ripe.net/db/support/db-terms-conditions.pdf"
+}
+}

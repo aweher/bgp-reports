@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/263225",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263225"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-IFJE-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-IFJE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael D Arruvito"],["adr",{"label":"Hipolito Yrigoyen 174 ()\nAlberti, BA 6634\nAR","type":"work"},"text",["","","Hipolito Yrigoyen 174 ()","Alberti","BA","6634","AR"]],["email",{"type":"work"},"text","reportespam@INTERCAL.COM.AR"],["tel",{"type":"work"},"text","54 2346 470696 ()"],["org",{},"text",["FEROGLIO JULIA ELENA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/RDA",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/RDA"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael D Arruvito"],["adr",{"label":"9 de Julio 173 ()\nAlberti, null 6634\nAR","type":"work"},"text",["","","9 de Julio 173 ()","Alberti","","6634","AR"]],["email",{"type":"work"},"text","reportespam@INTERCAL.COM.AR"],["tel",{"type":"work"},"text","11 2346 470696 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20070912",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20070912",
+        "eventActor" : "RDA"
+      } ],
+      "handle" : "RDA"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20061215",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140207",
+      "eventActor" : "RDA"
+    } ],
+    "handle" : "AR-IFJE-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RDA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RDA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael D Arruvito"],["adr",{"label":"9 de Julio 173 ()\nAlberti, null 6634\nAR","type":"work"},"text",["","","9 de Julio 173 ()","Alberti","","6634","AR"]],["email",{"type":"work"},"text","reportespam@INTERCAL.COM.AR"],["tel",{"type":"work"},"text","11 2346 470696 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070912",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070912",
+      "eventActor" : "RDA"
+    } ],
+    "handle" : "RDA"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RDA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RDA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael D Arruvito"],["adr",{"label":"9 de Julio 173 ()\nAlberti, null 6634\nAR","type":"work"},"text",["","","9 de Julio 173 ()","Alberti","","6634","AR"]],["email",{"type":"work"},"text","reportespam@INTERCAL.COM.AR"],["tel",{"type":"work"},"text","11 2346 470696 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070912",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070912",
+      "eventActor" : "RDA"
+    } ],
+    "handle" : "RDA"
+  } ],
+  "startAutnum" : 263225,
+  "endAutnum" : 263225,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140430",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140430",
+    "eventActor" : "RDA"
+  } ],
+  "type" : null,
+  "handle" : "263225-LACNIC",
+  "country" : "AR"
+}

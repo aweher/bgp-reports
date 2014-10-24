@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27810,
+  "endAutnum" : 27810,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27810",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27810"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060222",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20060223",
+    "eventActor" : "EFL"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-MELT-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-MELT-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Efrain Lizarazo"],["adr",{"label":"Carrera 69 # 25B-44 Of. 805 69 ()\nBogota,  0169\nCO","type":"work"},"text",["","","Carrera 69 # 25B-44 Of. 805 69 ()","Bogota","","0169","CO"]],["email",{"type":"work"},"text","jels@MERCA.NET.CO"],["tel",{"type":"work"},"text","57 1 4165880 (208)"],["org",{},"text",["MERCANET LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060202",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "EFL"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EFL",
+        "value" : "http://rdap.labs.lacnic.net/entity/EFL"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Efrain Lizarazo"],["adr",{"label":"k69 # 25B-44 Of. 805 10395 ()\nBogota, null 12345\nCO","type":"work"},"text",["","","k69 # 25B-44 Of. 805 10395 ()","Bogota","","12345","CO"]],["email",{"type":"work"},"text","jels@MERCA.NET.CO"],["tel",{"type":"work"},"text","57 1 4165880 (208)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060130",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20060130",
+        "eventActor" : "EFL"
+      } ],
+      "entities" : [ ],
+      "handle" : "EFL"
+    } ],
+    "handle" : "CO-MELT-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EFL",
+      "value" : "http://rdap.labs.lacnic.net/entity/EFL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Efrain Lizarazo"],["adr",{"label":"k69 # 25B-44 Of. 805 10395 ()\nBogota, null 12345\nCO","type":"work"},"text",["","","k69 # 25B-44 Of. 805 10395 ()","Bogota","","12345","CO"]],["email",{"type":"work"},"text","jels@MERCA.NET.CO"],["tel",{"type":"work"},"text","57 1 4165880 (208)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060130",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060130",
+      "eventActor" : "EFL"
+    } ],
+    "entities" : [ ],
+    "handle" : "EFL"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EFL",
+      "value" : "http://rdap.labs.lacnic.net/entity/EFL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Efrain Lizarazo"],["adr",{"label":"k69 # 25B-44 Of. 805 10395 ()\nBogota, null 12345\nCO","type":"work"},"text",["","","k69 # 25B-44 Of. 805 10395 ()","Bogota","","12345","CO"]],["email",{"type":"work"},"text","jels@MERCA.NET.CO"],["tel",{"type":"work"},"text","57 1 4165880 (208)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060130",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060130",
+      "eventActor" : "EFL"
+    } ],
+    "entities" : [ ],
+    "handle" : "EFL"
+  } ],
+  "type" : null,
+  "handle" : "27810-LACNIC",
+  "country" : "CO"
+}

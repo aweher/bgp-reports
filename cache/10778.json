@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/10778",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/10778"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-MCIN-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-MCIN-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Danilo Lotina Fierro"],["adr",{"label":"Av. del Valle, Of. 101. 928 (Huechuraba)\nSantiago, RM 0000\nCL","type":"work"},"text",["","","Av. del Valle, Of. 101. 928 (Huechuraba)","Santiago","RM","0000","CL"]],["email",{"type":"work"},"text","NETADMIN@NETGLOBALIS.NET"],["tel",{"type":"work"},"text","56 2 3979000 ()"],["org",{},"text",["MCL Internet"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/DLF",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/DLF"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Danilo Lotina Fierro"],["adr",{"label":"Sanchez Fontecilla 310 (Piso 4)\nSantiago, RM 0000\nCL","type":"work"},"text",["","","Sanchez Fontecilla 310 (Piso 4)","Santiago","RM","0000","CL"]],["email",{"type":"work"},"text","NETADMIN@NETGLOBALIS.NET"],["tel",{"type":"work"},"text","56 02 3979000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20020910",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20080605",
+        "eventActor" : "DLF"
+      } ],
+      "handle" : "DLF"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030415",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080403",
+      "eventActor" : "DLF"
+    } ],
+    "handle" : "CL-MCIN-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DLF",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DLF"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Danilo Lotina Fierro"],["adr",{"label":"Sanchez Fontecilla 310 (Piso 4)\nSantiago, RM 0000\nCL","type":"work"},"text",["","","Sanchez Fontecilla 310 (Piso 4)","Santiago","RM","0000","CL"]],["email",{"type":"work"},"text","NETADMIN@NETGLOBALIS.NET"],["tel",{"type":"work"},"text","56 02 3979000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020910",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080605",
+      "eventActor" : "DLF"
+    } ],
+    "handle" : "DLF"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DLF",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DLF"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Danilo Lotina Fierro"],["adr",{"label":"Sanchez Fontecilla 310 (Piso 4)\nSantiago, RM 0000\nCL","type":"work"},"text",["","","Sanchez Fontecilla 310 (Piso 4)","Santiago","RM","0000","CL"]],["email",{"type":"work"},"text","NETADMIN@NETGLOBALIS.NET"],["tel",{"type":"work"},"text","56 02 3979000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020910",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080605",
+      "eventActor" : "DLF"
+    } ],
+    "handle" : "DLF"
+  } ],
+  "startAutnum" : 10778,
+  "endAutnum" : 10778,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19971121",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20020129",
+    "eventActor" : "DLF"
+  } ],
+  "type" : null,
+  "handle" : "10778-LACNIC",
+  "country" : "CL"
+}

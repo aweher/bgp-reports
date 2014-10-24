@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27950",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27950"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CTBL-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CTBL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Arredondo"],["adr",{"label":"Tucuman 2979 ()\nBenavidez, BA B1621ASU\nAR","type":"work"},"text",["","","Tucuman 2979 ()","Benavidez","BA","B1621ASU","AR"]],["email",{"type":"work"},"text","garredondo@NETBEN.COM.AR"],["tel",{"type":"work"},"text","54 11 56495881 ()"],["org",{},"text",["Cooperativa Telefonica Benavidez Ltda"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GAA9",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GAA9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Arredondo"],["adr",{"label":"Tucumán 2979 ()\nBenavidez, null 1621\nAR","type":"work"},"text",["","","Tucumán 2979 ()","Benavidez","","1621","AR"]],["email",{"type":"work"},"text","garredondo@NETBEN.COM.AR"],["tel",{"type":"work"},"text","54 3327 485893 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090129",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20090129",
+        "eventActor" : "GAA9"
+      } ],
+      "handle" : "GAA9"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071106",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "GAA9"
+    } ],
+    "handle" : "AR-CTBL-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ROR15",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ROR15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo Royo"],["adr",{"label":"Arcos 2279 (4 B)\nCapital Federal, null C1428AFI\nAR","type":"work"},"text",["","","Arcos 2279 (4 B)","Capital Federal","","C1428AFI","AR"]],["email",{"type":"work"},"text","royo.rodrigo@GMAIL.COM"],["tel",{"type":"work"},"text","54 11 56495881 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071018",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20071018",
+      "eventActor" : "ROR15"
+    } ],
+    "handle" : "ROR15"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ROR15",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ROR15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo Royo"],["adr",{"label":"Arcos 2279 (4 B)\nCapital Federal, null C1428AFI\nAR","type":"work"},"text",["","","Arcos 2279 (4 B)","Capital Federal","","C1428AFI","AR"]],["email",{"type":"work"},"text","royo.rodrigo@GMAIL.COM"],["tel",{"type":"work"},"text","54 11 56495881 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071018",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20071018",
+      "eventActor" : "ROR15"
+    } ],
+    "handle" : "ROR15"
+  } ],
+  "startAutnum" : 27950,
+  "endAutnum" : 27950,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080116",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080117",
+    "eventActor" : "ROR15"
+  } ],
+  "type" : null,
+  "handle" : "27950-LACNIC",
+  "country" : "AR"
+}

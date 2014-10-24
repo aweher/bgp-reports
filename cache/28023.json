@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28023",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28023"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-COSP3-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-COSP3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Ramondelli"],["adr",{"label":"9 DE JULIO 505 ESQ. LAVALLE -- ()\nHernando, CO 5929\nAR","type":"work"},"text",["","","9 DE JULIO 505 ESQ. LAVALLE -- ()","Hernando","CO","5929","AR"]],["email",{"type":"work"},"text","mramondelli@COOP-HER.COM.AR"],["tel",{"type":"work"},"text","54  0353 4846 (241)"],["org",{},"text",["COOPERATIVA DE OBRAS, SERV. PUBL. Y SOCIALES DE HERNANDO LTDA."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MAR32",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAR32"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Ramondelli"],["adr",{"label":"Nicaragua 34 ()\nHernando, null 5929\nAR","type":"work"},"text",["","","Nicaragua 34 ()","Hernando","","5929","AR"]],["email",{"type":"work"},"text","mramondelli@COOP-HER.COM.AR"],["tel",{"type":"work"},"text","54 0353 4846 (241)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080919",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20080919",
+        "eventActor" : "MAR32"
+      } ],
+      "handle" : "MAR32"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081021",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "MAR32"
+    } ],
+    "handle" : "AR-COSP3-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAR32",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAR32"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Ramondelli"],["adr",{"label":"Nicaragua 34 ()\nHernando, null 5929\nAR","type":"work"},"text",["","","Nicaragua 34 ()","Hernando","","5929","AR"]],["email",{"type":"work"},"text","mramondelli@COOP-HER.COM.AR"],["tel",{"type":"work"},"text","54 0353 4846 (241)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080919",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080919",
+      "eventActor" : "MAR32"
+    } ],
+    "handle" : "MAR32"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAR32",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAR32"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Ramondelli"],["adr",{"label":"Nicaragua 34 ()\nHernando, null 5929\nAR","type":"work"},"text",["","","Nicaragua 34 ()","Hernando","","5929","AR"]],["email",{"type":"work"},"text","mramondelli@COOP-HER.COM.AR"],["tel",{"type":"work"},"text","54 0353 4846 (241)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080919",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080919",
+      "eventActor" : "MAR32"
+    } ],
+    "handle" : "MAR32"
+  } ],
+  "startAutnum" : 28023,
+  "endAutnum" : 28023,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20081211",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20081212",
+    "eventActor" : "MAR32"
+  } ],
+  "type" : null,
+  "handle" : "28023-LACNIC",
+  "country" : "AR"
+}

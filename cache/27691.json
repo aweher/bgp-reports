@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27691",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27691"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-VESA2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-VESA2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Walter Rupo"],["adr",{"label":"Avenida Jujuy 1956 ()\nBuenos Aires,  1247\nAR","type":"work"},"text",["","","Avenida Jujuy 1956 ()","Buenos Aires","","1247","AR"]],["email",{"type":"work"},"text","wrupo@VELCONET.NET.AR"],["tel",{"type":"work"},"text","54 11 52170412 ()"],["org",{},"text",["Velconet SA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/WAR",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/WAR"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Walter Rupo"],["adr",{"label":"Jorge Newbery 2762 (1? piso)\nBeccar Buenos Aires, CF B1643BIB\nAR","type":"work"},"text",["","","Jorge Newbery 2762 (1? piso)","Beccar Buenos Aires","CF","B1643BIB","AR"]],["email",{"type":"work"},"text","wrupo@VELCONET.NET.AR"],["tel",{"type":"work"},"text","54 11 5217-3333 (412)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030926",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20090327",
+        "eventActor" : "WAR"
+      } ],
+      "handle" : "WAR"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031017",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130304",
+      "eventActor" : "WAR"
+    } ],
+    "handle" : "AR-VESA2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/WAR",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/WAR"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Walter Rupo"],["adr",{"label":"Jorge Newbery 2762 (1? piso)\nBeccar Buenos Aires, CF B1643BIB\nAR","type":"work"},"text",["","","Jorge Newbery 2762 (1? piso)","Beccar Buenos Aires","CF","B1643BIB","AR"]],["email",{"type":"work"},"text","wrupo@VELCONET.NET.AR"],["tel",{"type":"work"},"text","54 11 5217-3333 (412)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030926",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090327",
+      "eventActor" : "WAR"
+    } ],
+    "handle" : "WAR"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/WAR",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/WAR"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Walter Rupo"],["adr",{"label":"Jorge Newbery 2762 (1? piso)\nBeccar Buenos Aires, CF B1643BIB\nAR","type":"work"},"text",["","","Jorge Newbery 2762 (1? piso)","Beccar Buenos Aires","CF","B1643BIB","AR"]],["email",{"type":"work"},"text","wrupo@VELCONET.NET.AR"],["tel",{"type":"work"},"text","54 11 5217-3333 (412)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030926",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090327",
+      "eventActor" : "WAR"
+    } ],
+    "handle" : "WAR"
+  } ],
+  "startAutnum" : 27691,
+  "endAutnum" : 27691,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20040105",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20051227",
+    "eventActor" : "WAR"
+  } ],
+  "type" : null,
+  "handle" : "27691-LACNIC",
+  "country" : "AR"
+}

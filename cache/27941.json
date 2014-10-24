@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27941,
+  "endAutnum" : 27941,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27941",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27941"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20071030",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20071031",
+    "eventActor" : "LSP"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-COLT9-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-COLT9-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","William Moreno Castro"],["adr",{"label":"CARRERA 100 # 11 -60 TORRE FARALLONES OF 701 ()\nCali, VA 0000\nCO","type":"work"},"text",["","","CARRERA 100 # 11 -60 TORRE FARALLONES OF 701 ()","Cali","VA","0000","CO"]],["email",{"type":"work"},"text","wmoreno@CNW.CO"],["tel",{"type":"work"},"text","57 2 5242001 (101)"],["org",{},"text",["CONSULNETWORK LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070702",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130122",
+      "eventActor" : "LSP"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LSP",
+        "value" : "http://rdap.labs.lacnic.net/entity/LSP"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","William Moreno Castro"],["adr",{"label":"Cra 100 No.11-60 Of 701 11 60 ()\ncali, va 76001000\nCO","type":"work"},"text",["","","Cra 100 No.11-60 Of 701 11 60 ()","cali","va","76001000","CO"]],["email",{"type":"work"},"text","wmoreno@CNW.CO"],["tel",{"type":"work"},"text","57 2 5242001 (101)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20070619",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20111025",
+        "eventActor" : "LSP"
+      } ],
+      "entities" : [ ],
+      "handle" : "LSP"
+    } ],
+    "handle" : "CO-COLT9-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LSP",
+      "value" : "http://rdap.labs.lacnic.net/entity/LSP"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","William Moreno Castro"],["adr",{"label":"Cra 100 No.11-60 Of 701 11 60 ()\ncali, va 76001000\nCO","type":"work"},"text",["","","Cra 100 No.11-60 Of 701 11 60 ()","cali","va","76001000","CO"]],["email",{"type":"work"},"text","wmoreno@CNW.CO"],["tel",{"type":"work"},"text","57 2 5242001 (101)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070619",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111025",
+      "eventActor" : "LSP"
+    } ],
+    "entities" : [ ],
+    "handle" : "LSP"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LSP",
+      "value" : "http://rdap.labs.lacnic.net/entity/LSP"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","William Moreno Castro"],["adr",{"label":"Cra 100 No.11-60 Of 701 11 60 ()\ncali, va 76001000\nCO","type":"work"},"text",["","","Cra 100 No.11-60 Of 701 11 60 ()","cali","va","76001000","CO"]],["email",{"type":"work"},"text","wmoreno@CNW.CO"],["tel",{"type":"work"},"text","57 2 5242001 (101)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070619",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111025",
+      "eventActor" : "LSP"
+    } ],
+    "entities" : [ ],
+    "handle" : "LSP"
+  } ],
+  "type" : null,
+  "handle" : "27941-LACNIC",
+  "country" : "CO"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262809,
+  "endAutnum" : 262809,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262809",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262809"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101018",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ACM28"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TIEM-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TIEM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre C?sar de Mattos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio Claro, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio Claro","SP","04578-000","BR"]],["email",{"type":"work"},"text","ACM28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["Talklink Inform?tica EIRELI ME."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "ACM28"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ACM28",
+        "value" : "http://rdap.labs.lacnic.net/entity/ACM28"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre C?sar de Mattos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio Claro, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio Claro","SP","04578-000","BR"]],["email",{"type":"work"},"text","ACM28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ACM28"
+      } ],
+      "entities" : [ ],
+      "handle" : "ACM28"
+    } ],
+    "handle" : "BR-TIEM-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ACM28",
+      "value" : "http://rdap.labs.lacnic.net/entity/ACM28"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre C?sar de Mattos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio Claro, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio Claro","SP","04578-000","BR"]],["email",{"type":"work"},"text","ACM28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ACM28"
+    } ],
+    "entities" : [ ],
+    "handle" : "ACM28"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TFG2",
+      "value" : "http://rdap.labs.lacnic.net/entity/TFG2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tiago Felipe Gon?alves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio Claro, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio Claro","SP","04578-000","BR"]],["email",{"type":"work"},"text","TFG2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130509",
+      "eventActor" : "TFG2"
+    } ],
+    "entities" : [ ],
+    "handle" : "TFG2"
+  } ],
+  "type" : null,
+  "handle" : "262809-LACNIC",
+  "country" : "BR"
+}

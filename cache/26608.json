@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/26608",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/26608"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-SKSA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-SKSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SkyOnline Network Administration"],["adr",{"label":"Av. Roque Saenz Pena 1155 ()\nCapital Federal, BA C1035AAG\nAR","type":"work"},"text",["","","Av. Roque Saenz Pena 1155 ()","Capital Federal","BA","C1035AAG","AR"]],["email",{"type":"work"},"text","ipadmin@SKYONLINE.NET.AR"],["tel",{"type":"work"},"text","54 11 50935200 (5488)"],["org",{},"text",["SkyOnline de Argentina S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SNA",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SNA"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SkyOnline Network Administration"],["adr",{"label":"Av. Roque Saenz Pe?a 1155 (2? Piso)\nBuenos Aires,  C1035AAG\nAR","type":"work"},"text",["","","Av. Roque Saenz Pe?a 1155 (2? Piso)","Buenos Aires","","C1035AAG","AR"]],["email",{"type":"work"},"text","ipadmin@SKYONLINE.NET.AR"],["tel",{"type":"work"},"text","54 11 50935200 (5488)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20040310",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20111228",
+        "eventActor" : "SNA"
+      } ],
+      "handle" : "SNA"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021227",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140128",
+      "eventActor" : "SNA"
+    } ],
+    "handle" : "AR-SKSA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SNA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SNA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SkyOnline Network Administration"],["adr",{"label":"Av. Roque Saenz Pe?a 1155 (2? Piso)\nBuenos Aires,  C1035AAG\nAR","type":"work"},"text",["","","Av. Roque Saenz Pe?a 1155 (2? Piso)","Buenos Aires","","C1035AAG","AR"]],["email",{"type":"work"},"text","ipadmin@SKYONLINE.NET.AR"],["tel",{"type":"work"},"text","54 11 50935200 (5488)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040310",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111228",
+      "eventActor" : "SNA"
+    } ],
+    "handle" : "SNA"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SNA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SNA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SkyOnline Network Administration"],["adr",{"label":"Av. Roque Saenz Pe?a 1155 (2? Piso)\nBuenos Aires,  C1035AAG\nAR","type":"work"},"text",["","","Av. Roque Saenz Pe?a 1155 (2? Piso)","Buenos Aires","","C1035AAG","AR"]],["email",{"type":"work"},"text","ipadmin@SKYONLINE.NET.AR"],["tel",{"type":"work"},"text","54 11 50935200 (5488)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040310",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111228",
+      "eventActor" : "SNA"
+    } ],
+    "handle" : "SNA"
+  } ],
+  "startAutnum" : 26608,
+  "endAutnum" : 26608,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20021001",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110804",
+    "eventActor" : "SNA"
+  } ],
+  "type" : null,
+  "handle" : "26608-LACNIC",
+  "country" : "AR"
+}

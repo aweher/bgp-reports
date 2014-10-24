@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262890,
+  "endAutnum" : 262890,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262890",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262890"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110118",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "SIS19"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SSSL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SSSL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Ricardo Sartori"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTamba?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tamba?","SP","04578-000","BR"]],["email",{"type":"work"},"text","CRS44@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["SARTORI TECNOLOGIA DA INFORMA??O LTDA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130522",
+      "eventActor" : "CRS44"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CRS44",
+        "value" : "http://rdap.labs.lacnic.net/entity/CRS44"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Ricardo Sartori"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTamba?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tamba?","SP","04578-000","BR"]],["email",{"type":"work"},"text","CRS44@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CRS44"
+      } ],
+      "entities" : [ ],
+      "handle" : "CRS44"
+    } ],
+    "handle" : "BR-SSSL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SIS19",
+      "value" : "http://rdap.labs.lacnic.net/entity/SIS19"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Syber Internet Solution"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio Claro, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio Claro","SP","04578-000","BR"]],["email",{"type":"work"},"text","SIS19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SIS19"
+    } ],
+    "entities" : [ ],
+    "handle" : "SIS19"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SIS19",
+      "value" : "http://rdap.labs.lacnic.net/entity/SIS19"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Syber Internet Solution"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio Claro, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio Claro","SP","04578-000","BR"]],["email",{"type":"work"},"text","SIS19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SIS19"
+    } ],
+    "entities" : [ ],
+    "handle" : "SIS19"
+  } ],
+  "type" : null,
+  "handle" : "262890-LACNIC",
+  "country" : "BR"
+}

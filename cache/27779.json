@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27779",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27779"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-DASA2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-DASA2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Picornell"],["adr",{"label":"Av. Cordoba 939 (3er Piso)\nBuenos Aires, CF 1054\nAR","type":"work"},"text",["","","Av. Cordoba 939 (3er Piso)","Buenos Aires","CF","1054","AR"]],["email",{"type":"work"},"text","danielp@DARCOM.COM.AR"],["tel",{"type":"work"},"text","0054 11 52520000 ()"],["org",{},"text",["Darcom S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/DAP13",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAP13"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Picornell"],["adr",{"label":"Cordoba 939 ()\nCapital Federal, null C1054AAI\nAR","type":"work"},"text",["","","Cordoba 939 ()","Capital Federal","","C1054AAI","AR"]],["email",{"type":"work"},"text","danielp@DARCOM.COM.AR"],["tel",{"type":"work"},"text","54 11 52520066 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20071009",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20071009",
+        "eventActor" : "DAP13"
+      } ],
+      "handle" : "DAP13"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050713",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "DAP13"
+    } ],
+    "handle" : "AR-DASA2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DAP13",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAP13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Picornell"],["adr",{"label":"Cordoba 939 ()\nCapital Federal, null C1054AAI\nAR","type":"work"},"text",["","","Cordoba 939 ()","Capital Federal","","C1054AAI","AR"]],["email",{"type":"work"},"text","danielp@DARCOM.COM.AR"],["tel",{"type":"work"},"text","54 11 52520066 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071009",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20071009",
+      "eventActor" : "DAP13"
+    } ],
+    "handle" : "DAP13"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DAP13",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAP13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Picornell"],["adr",{"label":"Cordoba 939 ()\nCapital Federal, null C1054AAI\nAR","type":"work"},"text",["","","Cordoba 939 ()","Capital Federal","","C1054AAI","AR"]],["email",{"type":"work"},"text","danielp@DARCOM.COM.AR"],["tel",{"type":"work"},"text","54 11 52520066 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071009",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20071009",
+      "eventActor" : "DAP13"
+    } ],
+    "handle" : "DAP13"
+  } ],
+  "startAutnum" : 27779,
+  "endAutnum" : 27779,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20050726",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20071009",
+    "eventActor" : "DAP13"
+  } ],
+  "type" : null,
+  "handle" : "27779-LACNIC",
+  "country" : "AR"
+}

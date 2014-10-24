@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/22501",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/22501"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CTCT3-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CTCT3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Biloni"],["adr",{"label":"Av. Constitucion 5151 (Sistemas)\nMar del Plata, BA 7600\nAR","type":"work"},"text",["","","Av. Constitucion 5151 (Sistemas)","Mar del Plata","BA","7600","AR"]],["email",{"type":"work"},"text","gbiloni@COPETEL.COM.AR"],["tel",{"type":"work"},"text","54 223 4793641 ()"],["org",{},"text",["Cooperativa Telefonica Carlos Tejedor Ltda."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GAB6",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GAB6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Biloni"],["adr",{"label":"Av.Constitucion 5151 (Sistemas)\nMar del Plata, null 7600\nAR","type":"work"},"text",["","","Av.Constitucion 5151 (Sistemas)","Mar del Plata","","7600","AR"]],["email",{"type":"work"},"text","gbiloni@COPETEL.COM.AR"],["tel",{"type":"work"},"text","54 223 4793641 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060201",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20060201",
+        "eventActor" : "GAB6"
+      } ],
+      "handle" : "GAB6"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060203",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "GAB6"
+    } ],
+    "handle" : "AR-CTCT3-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GAB6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GAB6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Biloni"],["adr",{"label":"Av.Constitucion 5151 (Sistemas)\nMar del Plata, null 7600\nAR","type":"work"},"text",["","","Av.Constitucion 5151 (Sistemas)","Mar del Plata","","7600","AR"]],["email",{"type":"work"},"text","gbiloni@COPETEL.COM.AR"],["tel",{"type":"work"},"text","54 223 4793641 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060201",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060201",
+      "eventActor" : "GAB6"
+    } ],
+    "handle" : "GAB6"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GAB6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GAB6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Biloni"],["adr",{"label":"Av.Constitucion 5151 (Sistemas)\nMar del Plata, null 7600\nAR","type":"work"},"text",["","","Av.Constitucion 5151 (Sistemas)","Mar del Plata","","7600","AR"]],["email",{"type":"work"},"text","gbiloni@COPETEL.COM.AR"],["tel",{"type":"work"},"text","54 223 4793641 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060201",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060201",
+      "eventActor" : "GAB6"
+    } ],
+    "handle" : "GAB6"
+  } ],
+  "startAutnum" : 22501,
+  "endAutnum" : 22501,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20011008",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20060222",
+    "eventActor" : "GAB6"
+  } ],
+  "type" : null,
+  "handle" : "22501-LACNIC",
+  "country" : "AR"
+}

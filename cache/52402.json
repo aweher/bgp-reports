@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52402",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52402"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-ICSA22-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-ICSA22-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","INTERCITY COMUNICACIONES S.A."],["adr",{"label":"AVENIDA ITALIA 1837 (-)\nRIO CUARTO, CB -\nAR","type":"work"},"text",["","","AVENIDA ITALIA 1837 (-)","RIO CUARTO","CB","-","AR"]],["email",{"type":"work"},"text","lacnic@INTERCITY.NET.AR"],["tel",{"type":"work"},"text","54 358 4210000 (104)"],["org",{},"text",["INTERCITY COMUNICACIONES S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ICS4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ICS4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","INTERCITY COMUNICACIONES S.A."],["adr",{"label":"AVENIDA ITALIA 1837 ()\nRIO CUARTO,  5800\nAR","type":"work"},"text",["","","AVENIDA ITALIA 1837 ()","RIO CUARTO","","5800","AR"]],["email",{"type":"work"},"text","lacnic@INTERCITY.NET.AR"],["tel",{"type":"work"},"text","54 0358 4210000 (109)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110928",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130703",
+        "eventActor" : "ICS4"
+      } ],
+      "handle" : "ICS4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110930",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140704",
+      "eventActor" : "ICS4"
+    } ],
+    "handle" : "AR-ICSA22-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ICS4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ICS4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","INTERCITY COMUNICACIONES S.A."],["adr",{"label":"AVENIDA ITALIA 1837 ()\nRIO CUARTO,  5800\nAR","type":"work"},"text",["","","AVENIDA ITALIA 1837 ()","RIO CUARTO","","5800","AR"]],["email",{"type":"work"},"text","lacnic@INTERCITY.NET.AR"],["tel",{"type":"work"},"text","54 0358 4210000 (109)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110928",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130703",
+      "eventActor" : "ICS4"
+    } ],
+    "handle" : "ICS4"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ICS4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ICS4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","INTERCITY COMUNICACIONES S.A."],["adr",{"label":"AVENIDA ITALIA 1837 ()\nRIO CUARTO,  5800\nAR","type":"work"},"text",["","","AVENIDA ITALIA 1837 ()","RIO CUARTO","","5800","AR"]],["email",{"type":"work"},"text","lacnic@INTERCITY.NET.AR"],["tel",{"type":"work"},"text","54 0358 4210000 (109)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110928",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130703",
+      "eventActor" : "ICS4"
+    } ],
+    "handle" : "ICS4"
+  } ],
+  "startAutnum" : 52402,
+  "endAutnum" : 52402,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120917",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120917",
+    "eventActor" : "ICS4"
+  } ],
+  "type" : null,
+  "handle" : "52402-LACNIC",
+  "country" : "AR"
+}

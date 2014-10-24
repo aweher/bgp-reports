@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262220,
+  "endAutnum" : 262220,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262220",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262220"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120927",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120927",
+    "eventActor" : "CBT3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-CBTS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-CBTS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jhonatan Silva Orrego"],["adr",{"label":"AV 50 A # 52-44  ()\nBello, 57 051053\nCO","type":"work"},"text",["","","AV 50 A # 52-44  ()","Bello","57","051053","CO"]],["email",{"type":"work"},"text","jhonatansilva@CABLEBELLOTV.COM.CO"],["tel",{"type":"work"},"text","57 4 4547281 ()"],["org",{},"text",["Cable Bello TV S.A.S."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110919",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "CBT3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CBT3",
+        "value" : "http://rdap.labs.lacnic.net/entity/CBT3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jhonatan Silva Orrego"],["adr",{"label":"Avenida 50A # 52-44 Piso 2 45472 ()\nBello,  \nCO","type":"work"},"text",["","","Avenida 50A # 52-44 Piso 2 45472 ()","Bello","","","CO"]],["email",{"type":"work"},"text","jhonatansilva@CABLEBELLOTV.COM.CO"],["tel",{"type":"work"},"text","57 4 4547281 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110812",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140220",
+        "eventActor" : "CBT3"
+      } ],
+      "entities" : [ ],
+      "handle" : "CBT3"
+    } ],
+    "handle" : "CO-CBTS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CBT3",
+      "value" : "http://rdap.labs.lacnic.net/entity/CBT3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jhonatan Silva Orrego"],["adr",{"label":"Avenida 50A # 52-44 Piso 2 45472 ()\nBello,  \nCO","type":"work"},"text",["","","Avenida 50A # 52-44 Piso 2 45472 ()","Bello","","","CO"]],["email",{"type":"work"},"text","jhonatansilva@CABLEBELLOTV.COM.CO"],["tel",{"type":"work"},"text","57 4 4547281 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110812",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140220",
+      "eventActor" : "CBT3"
+    } ],
+    "entities" : [ ],
+    "handle" : "CBT3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CBT3",
+      "value" : "http://rdap.labs.lacnic.net/entity/CBT3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jhonatan Silva Orrego"],["adr",{"label":"Avenida 50A # 52-44 Piso 2 45472 ()\nBello,  \nCO","type":"work"},"text",["","","Avenida 50A # 52-44 Piso 2 45472 ()","Bello","","","CO"]],["email",{"type":"work"},"text","jhonatansilva@CABLEBELLOTV.COM.CO"],["tel",{"type":"work"},"text","57 4 4547281 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110812",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140220",
+      "eventActor" : "CBT3"
+    } ],
+    "entities" : [ ],
+    "handle" : "CBT3"
+  } ],
+  "type" : null,
+  "handle" : "262220-LACNIC",
+  "country" : "CO"
+}

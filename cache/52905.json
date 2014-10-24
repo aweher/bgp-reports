@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52905,
+  "endAutnum" : 52905,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52905",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52905"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120726",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MIL25"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MILT102-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MILT102-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MICROFOX INFORMATICA LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeresina, PI 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teresina","PI","04578-000","BR"]],["email",{"type":"work"},"text","MIL25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 86 55093511 ()"],["org",{},"text",["MICROFOX INFORMATICA LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "MIL25"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MIL25",
+        "value" : "http://rdap.labs.lacnic.net/entity/MIL25"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MICROFOX INFORMATICA LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeresina, PI 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teresina","PI","04578-000","BR"]],["email",{"type":"work"},"text","MIL25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 86 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MIL25"
+      } ],
+      "entities" : [ ],
+      "handle" : "MIL25"
+    } ],
+    "handle" : "BR-MILT102-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MIL25",
+      "value" : "http://rdap.labs.lacnic.net/entity/MIL25"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MICROFOX INFORMATICA LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeresina, PI 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teresina","PI","04578-000","BR"]],["email",{"type":"work"},"text","MIL25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 86 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MIL25"
+    } ],
+    "entities" : [ ],
+    "handle" : "MIL25"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MIL25",
+      "value" : "http://rdap.labs.lacnic.net/entity/MIL25"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MICROFOX INFORMATICA LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeresina, PI 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teresina","PI","04578-000","BR"]],["email",{"type":"work"},"text","MIL25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 86 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MIL25"
+    } ],
+    "entities" : [ ],
+    "handle" : "MIL25"
+  } ],
+  "type" : null,
+  "handle" : "52905-LACNIC",
+  "country" : "BR"
+}

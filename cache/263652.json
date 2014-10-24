@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263652,
+  "endAutnum" : 263652,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263652",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263652"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131031",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140320",
+    "eventActor" : "CGL13"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CIIL4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CIIL4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christiano Guerra Lages"],["adr",{"label":"Av. das Nações Unidas 11541 (7º andar)\nConceição do Mato Dentro, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Nações Unidas 11541 (7º andar)","Conceição do Mato Dentro","MG","04578-000","BR"]],["email",{"type":"work"},"text","CGL13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["org",{},"text",["CMDNET Internet & Informática Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130715",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130715",
+      "eventActor" : "CGL13"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CGL13",
+        "value" : "http://rdap.labs.lacnic.net/entity/CGL13"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christiano Guerra Lages"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConcei??o do Mato Dentro, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Concei??o do Mato Dentro","MG","04578-000","BR"]],["email",{"type":"work"},"text","CGL13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CGL13"
+      } ],
+      "entities" : [ ],
+      "handle" : "CGL13"
+    } ],
+    "handle" : "BR-CIIL4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CGL13",
+      "value" : "http://rdap.labs.lacnic.net/entity/CGL13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christiano Guerra Lages"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConcei??o do Mato Dentro, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Concei??o do Mato Dentro","MG","04578-000","BR"]],["email",{"type":"work"},"text","CGL13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CGL13"
+    } ],
+    "entities" : [ ],
+    "handle" : "CGL13"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JBS21",
+      "value" : "http://rdap.labs.lacnic.net/entity/JBS21"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","jonny braulio barbosa de souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","","04578-000","BR"]],["email",{"type":"work"},"text","JBS21@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130418",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130418",
+      "eventActor" : "JBS21"
+    } ],
+    "entities" : [ ],
+    "handle" : "JBS21"
+  } ],
+  "type" : null,
+  "handle" : "263652-LACNIC",
+  "country" : "BR"
+}

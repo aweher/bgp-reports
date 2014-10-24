@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262519,
+  "endAutnum" : 262519,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262519",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262519"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110705",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "FPC6"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BPIS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BPIS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Pontes Couto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto Ant?nio de P?dua, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo Ant?nio de P?dua","RJ","04578-000","BR"]],["email",{"type":"work"},"text","FPC6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["org",{},"text",["BIA PADUA INTERNET E S.C.M. LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140604",
+      "eventActor" : "FPC6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FPC6",
+        "value" : "http://rdap.labs.lacnic.net/entity/FPC6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Pontes Couto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto Ant?nio de P?dua, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo Ant?nio de P?dua","RJ","04578-000","BR"]],["email",{"type":"work"},"text","FPC6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FPC6"
+      } ],
+      "entities" : [ ],
+      "handle" : "FPC6"
+    } ],
+    "handle" : "BR-BPIS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FPC6",
+      "value" : "http://rdap.labs.lacnic.net/entity/FPC6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Pontes Couto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto Ant?nio de P?dua, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo Ant?nio de P?dua","RJ","04578-000","BR"]],["email",{"type":"work"},"text","FPC6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FPC6"
+    } ],
+    "entities" : [ ],
+    "handle" : "FPC6"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RMG15",
+      "value" : "http://rdap.labs.lacnic.net/entity/RMG15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ROGERIO MARCHIOTE GABRI"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto Ant?nio de P?dua, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo Ant?nio de P?dua","RJ","04578-000","BR"]],["email",{"type":"work"},"text","RMG15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RMG15"
+    } ],
+    "entities" : [ ],
+    "handle" : "RMG15"
+  } ],
+  "type" : null,
+  "handle" : "262519-LACNIC",
+  "country" : "BR"
+}

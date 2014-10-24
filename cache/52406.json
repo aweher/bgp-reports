@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52406",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52406"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-DISA37-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-DISA37-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Distrocard S.A."],["adr",{"label":"Mitre 870 (9? 1)\nMendoza, ME 5500\nAR","type":"work"},"text",["","","Mitre 870 (9? 1)","Mendoza","ME","5500","AR"]],["email",{"type":"work"},"text","gberron@INTELCOMUNICACIONES.COM.AR"],["tel",{"type":"work"},"text","54 9261 5438480 ()"],["org",{},"text",["Distrocard S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CAS16",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CAS16"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Distrocard S.A."],["adr",{"label":"Mitre 870 870 (9? 1)\nMendoza,  5500\nAR","type":"work"},"text",["","","Mitre 870 870 (9? 1)","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","gberron@INTELCOMUNICACIONES.COM.AR"],["tel",{"type":"work"},"text","54 9261 5438480 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20091008",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120914",
+        "eventActor" : "CAS16"
+      } ],
+      "handle" : "CAS16"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120914",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120926",
+      "eventActor" : "CAS16"
+    } ],
+    "handle" : "AR-DISA37-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CAS16",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAS16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Distrocard S.A."],["adr",{"label":"Mitre 870 870 (9? 1)\nMendoza,  5500\nAR","type":"work"},"text",["","","Mitre 870 870 (9? 1)","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","gberron@INTELCOMUNICACIONES.COM.AR"],["tel",{"type":"work"},"text","54 9261 5438480 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091008",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120914",
+      "eventActor" : "CAS16"
+    } ],
+    "handle" : "CAS16"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CAS16",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAS16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Distrocard S.A."],["adr",{"label":"Mitre 870 870 (9? 1)\nMendoza,  5500\nAR","type":"work"},"text",["","","Mitre 870 870 (9? 1)","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","gberron@INTELCOMUNICACIONES.COM.AR"],["tel",{"type":"work"},"text","54 9261 5438480 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091008",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120914",
+      "eventActor" : "CAS16"
+    } ],
+    "handle" : "CAS16"
+  } ],
+  "startAutnum" : 52406,
+  "endAutnum" : 52406,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120925",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120925",
+    "eventActor" : "CAS16"
+  } ],
+  "type" : null,
+  "handle" : "52406-LACNIC",
+  "country" : "AR"
+}

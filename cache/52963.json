@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52963,
+  "endAutnum" : 52963,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52963",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52963"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110208",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "WAS21"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-JATE1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-JATE1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","walker alves silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nXinguara, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Xinguara","PA","04578-000","BR"]],["email",{"type":"work"},"text","WAS21@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["org",{},"text",["JATIMNET TELECOM"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "WAS21"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/WAS21",
+        "value" : "http://rdap.labs.lacnic.net/entity/WAS21"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","walker alves silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta F? do Araguaia, TO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa F? do Araguaia","TO","04578-000","BR"]],["email",{"type":"work"},"text","WAS21@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "WAS21"
+      } ],
+      "entities" : [ ],
+      "handle" : "WAS21"
+    } ],
+    "handle" : "BR-JATE1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WAS21",
+      "value" : "http://rdap.labs.lacnic.net/entity/WAS21"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","walker alves silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta F? do Araguaia, TO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa F? do Araguaia","TO","04578-000","BR"]],["email",{"type":"work"},"text","WAS21@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WAS21"
+    } ],
+    "entities" : [ ],
+    "handle" : "WAS21"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WAS21",
+      "value" : "http://rdap.labs.lacnic.net/entity/WAS21"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","walker alves silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta F? do Araguaia, TO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa F? do Araguaia","TO","04578-000","BR"]],["email",{"type":"work"},"text","WAS21@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WAS21"
+    } ],
+    "entities" : [ ],
+    "handle" : "WAS21"
+  } ],
+  "type" : null,
+  "handle" : "52963-LACNIC",
+  "country" : "BR"
+}

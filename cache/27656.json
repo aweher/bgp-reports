@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27656,
+  "endAutnum" : 27656,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27656",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27656"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20030122",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140423",
+    "eventActor" : "KAC10"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DSET5-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DSET5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo Jorge"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNatal, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Natal","RN","04578-000","BR"]],["email",{"type":"work"},"text","ROJ15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["org",{},"text",["DCN Solu??es em Tecnologia Ltda - EPP"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130923",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130924",
+      "eventActor" : "ROJ15"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ROJ15",
+        "value" : "http://rdap.labs.lacnic.net/entity/ROJ15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo Jorge"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNatal, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Natal","RN","04578-000","BR"]],["email",{"type":"work"},"text","ROJ15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130922",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130922",
+        "eventActor" : "ROJ15"
+      } ],
+      "entities" : [ ],
+      "handle" : "ROJ15"
+    } ],
+    "handle" : "BR-DSET5-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/KAC10",
+      "value" : "http://rdap.labs.lacnic.net/entity/KAC10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Kalil de Albuquerque Carvalho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNatal, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Natal","RN","04578-000","BR"]],["email",{"type":"work"},"text","KAC10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131204",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131204",
+      "eventActor" : "KAC10"
+    } ],
+    "entities" : [ ],
+    "handle" : "KAC10"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/KAC10",
+      "value" : "http://rdap.labs.lacnic.net/entity/KAC10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Kalil de Albuquerque Carvalho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNatal, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Natal","RN","04578-000","BR"]],["email",{"type":"work"},"text","KAC10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131204",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131204",
+      "eventActor" : "KAC10"
+    } ],
+    "entities" : [ ],
+    "handle" : "KAC10"
+  } ],
+  "type" : null,
+  "handle" : "27656-LACNIC",
+  "country" : "BR"
+}

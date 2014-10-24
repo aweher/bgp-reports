@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262696,
+  "endAutnum" : 262696,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262696",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262696"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091022",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MDC9"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TUTE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TUTE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Diego Coan"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Feliz, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Feliz","SP","04578-000","BR"]],["email",{"type":"work"},"text","MDC9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["org",{},"text",["Turbonet Telecomunica??es"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MDC9"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MDC9",
+        "value" : "http://rdap.labs.lacnic.net/entity/MDC9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Diego Coan"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalto, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salto","SP","04578-000","BR"]],["email",{"type":"work"},"text","MDC9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MDC9"
+      } ],
+      "entities" : [ ],
+      "handle" : "MDC9"
+    } ],
+    "handle" : "BR-TUTE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MDC9",
+      "value" : "http://rdap.labs.lacnic.net/entity/MDC9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Diego Coan"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalto, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salto","SP","04578-000","BR"]],["email",{"type":"work"},"text","MDC9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MDC9"
+    } ],
+    "entities" : [ ],
+    "handle" : "MDC9"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MDC9",
+      "value" : "http://rdap.labs.lacnic.net/entity/MDC9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Diego Coan"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalto, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salto","SP","04578-000","BR"]],["email",{"type":"work"},"text","MDC9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MDC9"
+    } ],
+    "entities" : [ ],
+    "handle" : "MDC9"
+  } ],
+  "type" : null,
+  "handle" : "262696-LACNIC",
+  "country" : "BR"
+}

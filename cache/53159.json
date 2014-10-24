@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53159,
+  "endAutnum" : 53159,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53159",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53159"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100622",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "EDR31"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-STFE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-STFE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Erick Dantas Rotole"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBras?lia, DF 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bras?lia","DF","04578-000","BR"]],["email",{"type":"work"},"text","EDR31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["org",{},"text",["SUPREMO TRIBUNAL FEDERAL"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "EDR31"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EDR31",
+        "value" : "http://rdap.labs.lacnic.net/entity/EDR31"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Erick Dantas Rotole"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBras?lia, DF 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bras?lia","DF","04578-000","BR"]],["email",{"type":"work"},"text","EDR31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EDR31"
+      } ],
+      "entities" : [ ],
+      "handle" : "EDR31"
+    } ],
+    "handle" : "BR-STFE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDR31",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDR31"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Erick Dantas Rotole"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBras?lia, DF 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bras?lia","DF","04578-000","BR"]],["email",{"type":"work"},"text","EDR31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EDR31"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDR31"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDR31",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDR31"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Erick Dantas Rotole"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBras?lia, DF 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bras?lia","DF","04578-000","BR"]],["email",{"type":"work"},"text","EDR31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EDR31"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDR31"
+  } ],
+  "type" : null,
+  "handle" : "53159-LACNIC",
+  "country" : "BR"
+}

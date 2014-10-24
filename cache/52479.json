@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52479",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52479"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-HQSA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-HQSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","hernan hererra"],["adr",{"label":"AMERICO VESPUCIO NORTE 1001 ()\nSANTIAGO, QU 8730627\nCL","type":"work"},"text",["","","AMERICO VESPUCIO NORTE 1001 ()","SANTIAGO","QU","8730627","CL"]],["email",{"type":"work"},"text","hernan.herrera@HQB.CL"],["tel",{"type":"work"},"text","56 2 25849692 ()"],["org",{},"text",["HQB S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/HEH3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/HEH3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","hernan hererra"],["adr",{"label":"AMERICO VESPUCIO NORTE 1001 ()\nSANTIAGO, null 8730627\nCL","type":"work"},"text",["","","AMERICO VESPUCIO NORTE 1001 ()","SANTIAGO","","8730627","CL"]],["email",{"type":"work"},"text","hernan.herrera@HQB.CL"],["tel",{"type":"work"},"text","56 2 25849692 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130108",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130108",
+        "eventActor" : "HEH3"
+      } ],
+      "handle" : "HEH3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130117",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130530",
+      "eventActor" : "HEH3"
+    } ],
+    "handle" : "CL-HQSA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HEH3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HEH3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","hernan hererra"],["adr",{"label":"AMERICO VESPUCIO NORTE 1001 ()\nSANTIAGO, null 8730627\nCL","type":"work"},"text",["","","AMERICO VESPUCIO NORTE 1001 ()","SANTIAGO","","8730627","CL"]],["email",{"type":"work"},"text","hernan.herrera@HQB.CL"],["tel",{"type":"work"},"text","56 2 25849692 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130108",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130108",
+      "eventActor" : "HEH3"
+    } ],
+    "handle" : "HEH3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HEH3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HEH3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","hernan hererra"],["adr",{"label":"AMERICO VESPUCIO NORTE 1001 ()\nSANTIAGO, null 8730627\nCL","type":"work"},"text",["","","AMERICO VESPUCIO NORTE 1001 ()","SANTIAGO","","8730627","CL"]],["email",{"type":"work"},"text","hernan.herrera@HQB.CL"],["tel",{"type":"work"},"text","56 2 25849692 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130108",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130108",
+      "eventActor" : "HEH3"
+    } ],
+    "handle" : "HEH3"
+  } ],
+  "startAutnum" : 52479,
+  "endAutnum" : 52479,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130529",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130529",
+    "eventActor" : "HEH3"
+  } ],
+  "type" : null,
+  "handle" : "52479-LACNIC",
+  "country" : "CL"
+}

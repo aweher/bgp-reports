@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52996,
+  "endAutnum" : 52996,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52996",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52996"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110525",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "RTS"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TRTA10-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TRTA10-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Robson Teixeira da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","CE","04578-000","BR"]],["email",{"type":"work"},"text","RTS@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["org",{},"text",["Tribunal Regional do Trabalho da 7a Regiao"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "RTS"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RTS",
+        "value" : "http://rdap.labs.lacnic.net/entity/RTS"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Robson Teixeira da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","CE","04578-000","BR"]],["email",{"type":"work"},"text","RTS@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "RTS"
+      } ],
+      "entities" : [ ],
+      "handle" : "RTS"
+    } ],
+    "handle" : "BR-TRTA10-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RTS",
+      "value" : "http://rdap.labs.lacnic.net/entity/RTS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Robson Teixeira da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","CE","04578-000","BR"]],["email",{"type":"work"},"text","RTS@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RTS"
+    } ],
+    "entities" : [ ],
+    "handle" : "RTS"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RTS",
+      "value" : "http://rdap.labs.lacnic.net/entity/RTS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Robson Teixeira da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","CE","04578-000","BR"]],["email",{"type":"work"},"text","RTS@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RTS"
+    } ],
+    "entities" : [ ],
+    "handle" : "RTS"
+  } ],
+  "type" : null,
+  "handle" : "52996-LACNIC",
+  "country" : "BR"
+}

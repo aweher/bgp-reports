@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262533,
+  "endAutnum" : 262533,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262533",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262533"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110714",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "DIT10"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-UEPA1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-UEPA1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Universidade Estadual do Par?"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBel?m, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bel?m","PA","04578-000","BR"]],["email",{"type":"work"},"text","UEP3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 91 55093511 ()"],["org",{},"text",["Universidade do Estado do Par?"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131030",
+      "eventActor" : "UEP3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/UEP3",
+        "value" : "http://rdap.labs.lacnic.net/entity/UEP3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Universidade Estadual do Par?"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBel?m, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bel?m","PA","04578-000","BR"]],["email",{"type":"work"},"text","UEP3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 91 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "UEP3"
+      } ],
+      "entities" : [ ],
+      "handle" : "UEP3"
+    } ],
+    "handle" : "BR-UEPA1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DIT10",
+      "value" : "http://rdap.labs.lacnic.net/entity/DIT10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diretoria de Tecnologia"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBel?m, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bel?m","PA","04578-000","BR"]],["email",{"type":"work"},"text","DIT10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 91 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DIT10"
+    } ],
+    "entities" : [ ],
+    "handle" : "DIT10"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DIT10",
+      "value" : "http://rdap.labs.lacnic.net/entity/DIT10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diretoria de Tecnologia"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBel?m, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bel?m","PA","04578-000","BR"]],["email",{"type":"work"},"text","DIT10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 91 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DIT10"
+    } ],
+    "entities" : [ ],
+    "handle" : "DIT10"
+  } ],
+  "type" : null,
+  "handle" : "262533-LACNIC",
+  "country" : "BR"
+}

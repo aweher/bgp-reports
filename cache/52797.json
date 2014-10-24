@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52797,
+  "endAutnum" : 52797,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52797",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52797"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121001",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "CEB8"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ITSA3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ITSA3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Eduardo Brand?o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVit?ria, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vit?ria","ES","04578-000","BR"]],["email",{"type":"work"},"text","CEB8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["org",{},"text",["ISH Tecnologia SA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140114",
+      "eventActor" : "CEB8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CEB8",
+        "value" : "http://rdap.labs.lacnic.net/entity/CEB8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Eduardo Brand?o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVit?ria, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vit?ria","ES","04578-000","BR"]],["email",{"type":"work"},"text","CEB8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CEB8"
+      } ],
+      "entities" : [ ],
+      "handle" : "CEB8"
+    } ],
+    "handle" : "BR-ITSA3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CEB8",
+      "value" : "http://rdap.labs.lacnic.net/entity/CEB8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Eduardo Brand?o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVit?ria, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vit?ria","ES","04578-000","BR"]],["email",{"type":"work"},"text","CEB8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CEB8"
+    } ],
+    "entities" : [ ],
+    "handle" : "CEB8"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CEB8",
+      "value" : "http://rdap.labs.lacnic.net/entity/CEB8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Eduardo Brand?o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVit?ria, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vit?ria","ES","04578-000","BR"]],["email",{"type":"work"},"text","CEB8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CEB8"
+    } ],
+    "entities" : [ ],
+    "handle" : "CEB8"
+  } ],
+  "type" : null,
+  "handle" : "52797-LACNIC",
+  "country" : "BR"
+}

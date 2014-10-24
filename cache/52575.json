@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52575,
+  "endAutnum" : 52575,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52575",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52575"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130220",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "CLM15"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CLIL4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CLIL4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Clara Luz Internet Ltda ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNova Lima, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Nova Lima","MG","04578-000","BR"]],["email",{"type":"work"},"text","CLM15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["org",{},"text",["Clara Luz Internet Ltda ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "CLM15"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CLM15",
+        "value" : "http://rdap.labs.lacnic.net/entity/CLM15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Clara Luz Internet Ltda ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNova Lima, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Nova Lima","MG","04578-000","BR"]],["email",{"type":"work"},"text","CLM15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CLM15"
+      } ],
+      "entities" : [ ],
+      "handle" : "CLM15"
+    } ],
+    "handle" : "BR-CLIL4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CLM15",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLM15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Clara Luz Internet Ltda ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNova Lima, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Nova Lima","MG","04578-000","BR"]],["email",{"type":"work"},"text","CLM15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CLM15"
+    } ],
+    "entities" : [ ],
+    "handle" : "CLM15"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CLM15",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLM15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Clara Luz Internet Ltda ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNova Lima, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Nova Lima","MG","04578-000","BR"]],["email",{"type":"work"},"text","CLM15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CLM15"
+    } ],
+    "entities" : [ ],
+    "handle" : "CLM15"
+  } ],
+  "type" : null,
+  "handle" : "52575-LACNIC",
+  "country" : "BR"
+}

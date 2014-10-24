@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262354,
+  "endAutnum" : 262354,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262354",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262354"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120111",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "RMA6"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-LTLT7-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-LTLT7-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ligue Telecomunica??es"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampo Mour?o, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campo Mour?o","PR","04578-000","BR"]],["email",{"type":"work"},"text","LIT8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["org",{},"text",["Ligue Telecomunica??es Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "LIT8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LIT8",
+        "value" : "http://rdap.labs.lacnic.net/entity/LIT8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ligue Telecomunica??es"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampo Mour?o, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campo Mour?o","PR","04578-000","BR"]],["email",{"type":"work"},"text","LIT8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 33 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LIT8"
+      } ],
+      "entities" : [ ],
+      "handle" : "LIT8"
+    } ],
+    "handle" : "BR-LTLT7-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RMA6",
+      "value" : "http://rdap.labs.lacnic.net/entity/RMA6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Romeu Medeiros Antunes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGovernador Valadares, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Governador Valadares","MG","04578-000","BR"]],["email",{"type":"work"},"text","RMA6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 33 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RMA6"
+    } ],
+    "entities" : [ ],
+    "handle" : "RMA6"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RMA6",
+      "value" : "http://rdap.labs.lacnic.net/entity/RMA6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Romeu Medeiros Antunes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGovernador Valadares, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Governador Valadares","MG","04578-000","BR"]],["email",{"type":"work"},"text","RMA6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 33 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RMA6"
+    } ],
+    "entities" : [ ],
+    "handle" : "RMA6"
+  } ],
+  "type" : null,
+  "handle" : "262354-LACNIC",
+  "country" : "BR"
+}

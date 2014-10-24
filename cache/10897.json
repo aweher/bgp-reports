@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 10897,
+  "endAutnum" : 10897,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/10897",
+    "value" : "http://rdap.labs.lacnic.net/autnum/10897"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19991118",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "SSG"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CDDE1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CDDE1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","S S G"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBras?lia, DF 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bras?lia","DF","04578-000","BR"]],["email",{"type":"work"},"text","SSG@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["org",{},"text",["Camara dos Deputados"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140109",
+      "eventActor" : "SSG"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SSG",
+        "value" : "http://rdap.labs.lacnic.net/entity/SSG"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","S S G"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBras?lia, DF 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bras?lia","DF","04578-000","BR"]],["email",{"type":"work"},"text","SSG@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140422",
+        "eventActor" : "SSG"
+      } ],
+      "entities" : [ ],
+      "handle" : "SSG"
+    } ],
+    "handle" : "BR-CDDE1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SSG",
+      "value" : "http://rdap.labs.lacnic.net/entity/SSG"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","S S G"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBras?lia, DF 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bras?lia","DF","04578-000","BR"]],["email",{"type":"work"},"text","SSG@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140422",
+      "eventActor" : "SSG"
+    } ],
+    "entities" : [ ],
+    "handle" : "SSG"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SSG",
+      "value" : "http://rdap.labs.lacnic.net/entity/SSG"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","S S G"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBras?lia, DF 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bras?lia","DF","04578-000","BR"]],["email",{"type":"work"},"text","SSG@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140422",
+      "eventActor" : "SSG"
+    } ],
+    "entities" : [ ],
+    "handle" : "SSG"
+  } ],
+  "type" : null,
+  "handle" : "10897-LACNIC",
+  "country" : "BR"
+}

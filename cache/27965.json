@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27965",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27965"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-ICSA18-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-ICSA18-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Samuel Domb"],["adr",{"label":"Cordillera 331/C (Flex Center.)\nSantiago, RM 8730605\nCL","type":"work"},"text",["","","Cordillera 331/C (Flex Center.)","Santiago","RM","8730605","CL"]],["email",{"type":"work"},"text","sdomb@INTCOMEX.COM"],["tel",{"type":"work"},"text","56 2 3637100 ()"],["org",{},"text",["Intcomex Chile S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SAD4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SAD4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Samuel Domb"],["adr",{"label":"Cordillera 331 (C2)\nSantiago,  8730605\nCL","type":"work"},"text",["","","Cordillera 331 (C2)","Santiago","","8730605","CL"]],["email",{"type":"work"},"text","sdomb@INTCOMEX.COM"],["tel",{"type":"work"},"text","56 2 3637100 (153)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20071129",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120829",
+        "eventActor" : "SAD4"
+      } ],
+      "handle" : "SAD4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071227",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080403",
+      "eventActor" : "SAD4"
+    } ],
+    "handle" : "CL-ICSA18-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SAD4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SAD4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Samuel Domb"],["adr",{"label":"Cordillera 331 (C2)\nSantiago,  8730605\nCL","type":"work"},"text",["","","Cordillera 331 (C2)","Santiago","","8730605","CL"]],["email",{"type":"work"},"text","sdomb@INTCOMEX.COM"],["tel",{"type":"work"},"text","56 2 3637100 (153)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071129",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120829",
+      "eventActor" : "SAD4"
+    } ],
+    "handle" : "SAD4"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SAD4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SAD4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Samuel Domb"],["adr",{"label":"Cordillera 331 (C2)\nSantiago,  8730605\nCL","type":"work"},"text",["","","Cordillera 331 (C2)","Santiago","","8730605","CL"]],["email",{"type":"work"},"text","sdomb@INTCOMEX.COM"],["tel",{"type":"work"},"text","56 2 3637100 (153)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071129",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120829",
+      "eventActor" : "SAD4"
+    } ],
+    "handle" : "SAD4"
+  } ],
+  "startAutnum" : 27965,
+  "endAutnum" : 27965,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080402",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080402",
+    "eventActor" : "SAD4"
+  } ],
+  "type" : null,
+  "handle" : "27965-LACNIC",
+  "country" : "CL"
+}

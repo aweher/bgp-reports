@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263059,
+  "endAutnum" : 263059,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263059",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263059"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120316",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "CLA25"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CLDA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CLDA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cleber Luciano dos Anjos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGeneral Carneiro, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","General Carneiro","PR","04578-000","BR"]],["email",{"type":"work"},"text","CLA25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["org",{},"text",["Cleber Luciano dos Anjos"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "CLA25"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CLA25",
+        "value" : "http://rdap.labs.lacnic.net/entity/CLA25"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cleber Luciano dos Anjos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGeneral Carneiro, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","General Carneiro","PR","04578-000","BR"]],["email",{"type":"work"},"text","CLA25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CLA25"
+      } ],
+      "entities" : [ ],
+      "handle" : "CLA25"
+    } ],
+    "handle" : "BR-CLDA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CLA25",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLA25"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cleber Luciano dos Anjos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGeneral Carneiro, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","General Carneiro","PR","04578-000","BR"]],["email",{"type":"work"},"text","CLA25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CLA25"
+    } ],
+    "entities" : [ ],
+    "handle" : "CLA25"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CLA25",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLA25"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cleber Luciano dos Anjos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGeneral Carneiro, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","General Carneiro","PR","04578-000","BR"]],["email",{"type":"work"},"text","CLA25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CLA25"
+    } ],
+    "entities" : [ ],
+    "handle" : "CLA25"
+  } ],
+  "type" : null,
+  "handle" : "263059-LACNIC",
+  "country" : "BR"
+}

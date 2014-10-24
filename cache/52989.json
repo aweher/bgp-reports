@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52989,
+  "endAutnum" : 52989,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52989",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52989"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110505",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "RSC24"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SPIL5-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SPIL5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NOC - Alien Network"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIbaiti, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ibaiti","PR","04578-000","BR"]],["email",{"type":"work"},"text","NAN6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["org",{},"text",["SCR - Provedor de Internet Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130625",
+      "eventActor" : "NAN6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/NAN6",
+        "value" : "http://rdap.labs.lacnic.net/entity/NAN6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NOC - Alien Network"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIbaiti, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ibaiti","PR","04578-000","BR"]],["email",{"type":"work"},"text","NAN6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "NAN6"
+      } ],
+      "entities" : [ ],
+      "handle" : "NAN6"
+    } ],
+    "handle" : "BR-SPIL5-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RSC24",
+      "value" : "http://rdap.labs.lacnic.net/entity/RSC24"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Reginaldo S. Vieira de Carvalho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIbaiti, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ibaiti","PR","04578-000","BR"]],["email",{"type":"work"},"text","RSC24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RSC24"
+    } ],
+    "entities" : [ ],
+    "handle" : "RSC24"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RSC24",
+      "value" : "http://rdap.labs.lacnic.net/entity/RSC24"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Reginaldo S. Vieira de Carvalho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIbaiti, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ibaiti","PR","04578-000","BR"]],["email",{"type":"work"},"text","RSC24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RSC24"
+    } ],
+    "entities" : [ ],
+    "handle" : "RSC24"
+  } ],
+  "type" : null,
+  "handle" : "52989-LACNIC",
+  "country" : "BR"
+}

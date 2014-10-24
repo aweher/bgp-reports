@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52816,
+  "endAutnum" : 52816,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52816",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52816"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121009",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "GMI2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-GMIL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-GMIL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gi & Mi servi?os de informatica"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDores de Campos, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dores de Campos","MG","04578-000","BR"]],["email",{"type":"work"},"text","GMI2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["org",{},"text",["GI & MI INTERNET LTDA - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "GMI2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GMI2",
+        "value" : "http://rdap.labs.lacnic.net/entity/GMI2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gi & Mi servi?os de informatica"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDores de Campos, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dores de Campos","MG","04578-000","BR"]],["email",{"type":"work"},"text","GMI2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "GMI2"
+      } ],
+      "entities" : [ ],
+      "handle" : "GMI2"
+    } ],
+    "handle" : "BR-GMIL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GMI2",
+      "value" : "http://rdap.labs.lacnic.net/entity/GMI2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gi & Mi servi?os de informatica"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDores de Campos, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dores de Campos","MG","04578-000","BR"]],["email",{"type":"work"},"text","GMI2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GMI2"
+    } ],
+    "entities" : [ ],
+    "handle" : "GMI2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GMI2",
+      "value" : "http://rdap.labs.lacnic.net/entity/GMI2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gi & Mi servi?os de informatica"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDores de Campos, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dores de Campos","MG","04578-000","BR"]],["email",{"type":"work"},"text","GMI2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GMI2"
+    } ],
+    "entities" : [ ],
+    "handle" : "GMI2"
+  } ],
+  "type" : null,
+  "handle" : "52816-LACNIC",
+  "country" : "BR"
+}

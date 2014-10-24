@@ -1,0 +1,50 @@
+{
+    "title" : "ASN Research",
+    "graph" : {
+        "linkDistance" : 50,
+        "charge"       : -300,
+        "height"       : 1500,
+        "numColors"    : 12,
+        "labelPadding" : {
+            "left"   : 3,
+            "right"  : 3,
+            "top"    : 2,
+            "bottom" : 2
+        },
+        "labelMargin" : {
+            "left"   : 3,
+            "right"  : 3,
+            "top"    : 2,
+            "bottom" : 2
+        },
+        "ticksWithoutCollisions" : 50
+    },
+    "types" : {
+        "1"        : {
+            "short" : "ASNs IXP",
+            "long"  : "ASNs pertenecientes al IXP"
+        },
+        "2"       : {
+            "short" : "ASNs país",
+            "long"  : "ASNs pertenecientes al país"
+        },
+        "5"       : {
+            "short" : "ASNs país sin path",
+            "long"  : "ASNs pertenecientes al país in path al ixp"
+        }
+    },
+    "constraints" : [
+        {
+            "has"    : { "type" : "1" },
+            "type"   : "position",
+            "y"      : 0.0,
+            "weight" : 0.0
+        },
+        {
+            "has"    : { "type" : "5" },
+            "type"   : "position",
+            "y"      : 0.9,
+            "weight" : 0.0       
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262798,
+  "endAutnum" : 262798,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262798",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262798"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101005",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "VPZ"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VCSE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VCSE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Valmir Pedro Zuge"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBoqueir?o do Le?o, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Boqueir?o do Le?o","RS","04578-000","BR"]],["email",{"type":"work"},"text","VPZ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["VR comercio e servi?os eletronicos ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "VPZ"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/VPZ",
+        "value" : "http://rdap.labs.lacnic.net/entity/VPZ"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Valmir Pedro Zuge"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBoqueir?o do Le?o, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Boqueir?o do Le?o","RS","04578-000","BR"]],["email",{"type":"work"},"text","VPZ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "VPZ"
+      } ],
+      "entities" : [ ],
+      "handle" : "VPZ"
+    } ],
+    "handle" : "BR-VCSE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VPZ",
+      "value" : "http://rdap.labs.lacnic.net/entity/VPZ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Valmir Pedro Zuge"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBoqueir?o do Le?o, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Boqueir?o do Le?o","RS","04578-000","BR"]],["email",{"type":"work"},"text","VPZ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VPZ"
+    } ],
+    "entities" : [ ],
+    "handle" : "VPZ"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VPZ",
+      "value" : "http://rdap.labs.lacnic.net/entity/VPZ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Valmir Pedro Zuge"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBoqueir?o do Le?o, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Boqueir?o do Le?o","RS","04578-000","BR"]],["email",{"type":"work"},"text","VPZ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VPZ"
+    } ],
+    "entities" : [ ],
+    "handle" : "VPZ"
+  } ],
+  "type" : null,
+  "handle" : "262798-LACNIC",
+  "country" : "BR"
+}

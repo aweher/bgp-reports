@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262328,
+  "endAutnum" : 262328,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262328",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262328"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111222",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "VRF3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CTLT45-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CTLT45-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Vicente Ribeiro da Silva Filho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","PR","04578-000","BR"]],["email",{"type":"work"},"text","VRF3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["org",{},"text",["CONSTEL TECNOLOGIA LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "VRF3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/VRF3",
+        "value" : "http://rdap.labs.lacnic.net/entity/VRF3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Vicente Ribeiro da Silva Filho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","PR","04578-000","BR"]],["email",{"type":"work"},"text","VRF3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "VRF3"
+      } ],
+      "entities" : [ ],
+      "handle" : "VRF3"
+    } ],
+    "handle" : "BR-CTLT45-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VRF3",
+      "value" : "http://rdap.labs.lacnic.net/entity/VRF3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Vicente Ribeiro da Silva Filho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","PR","04578-000","BR"]],["email",{"type":"work"},"text","VRF3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VRF3"
+    } ],
+    "entities" : [ ],
+    "handle" : "VRF3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VRF3",
+      "value" : "http://rdap.labs.lacnic.net/entity/VRF3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Vicente Ribeiro da Silva Filho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","PR","04578-000","BR"]],["email",{"type":"work"},"text","VRF3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VRF3"
+    } ],
+    "entities" : [ ],
+    "handle" : "VRF3"
+  } ],
+  "type" : null,
+  "handle" : "262328-LACNIC",
+  "country" : "BR"
+}

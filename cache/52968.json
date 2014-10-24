@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52968,
+  "endAutnum" : 52968,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52968",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52968"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110222",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "RSM21"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TELT32-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TELT32-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo Souza Mattos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArroio dos Ratos, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Arroio dos Ratos","RS","04578-000","BR"]],["email",{"type":"work"},"text","RSM21@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["TECMIDIAWEB LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "RSM21"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RSM21",
+        "value" : "http://rdap.labs.lacnic.net/entity/RSM21"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo Souza Mattos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArroio dos Ratos, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Arroio dos Ratos","RS","04578-000","BR"]],["email",{"type":"work"},"text","RSM21@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "RSM21"
+      } ],
+      "entities" : [ ],
+      "handle" : "RSM21"
+    } ],
+    "handle" : "BR-TELT32-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RSM21",
+      "value" : "http://rdap.labs.lacnic.net/entity/RSM21"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo Souza Mattos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArroio dos Ratos, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Arroio dos Ratos","RS","04578-000","BR"]],["email",{"type":"work"},"text","RSM21@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RSM21"
+    } ],
+    "entities" : [ ],
+    "handle" : "RSM21"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RSM21",
+      "value" : "http://rdap.labs.lacnic.net/entity/RSM21"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo Souza Mattos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArroio dos Ratos, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Arroio dos Ratos","RS","04578-000","BR"]],["email",{"type":"work"},"text","RSM21@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RSM21"
+    } ],
+    "entities" : [ ],
+    "handle" : "RSM21"
+  } ],
+  "type" : null,
+  "handle" : "52968-LACNIC",
+  "country" : "BR"
+}

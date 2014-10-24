@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28106",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28106"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-BAPE-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-BAPE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Benjamin Galvez"],["adr",{"label":"Av. El Bosque Norte 0440 (Piso 5)\nLas Condes, Santiago, RM 7550092\nCL","type":"work"},"text",["","","Av. El Bosque Norte 0440 (Piso 5)","Las Condes, Santiago","RM","7550092","CL"]],["email",{"type":"work"},"text","benjamin.galvez@BANCOPENTA.CL"],["tel",{"type":"work"},"text","56 2 873 (3599)"],["org",{},"text",["BANCO PENTA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/BGG",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/BGG"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Benjamin Galvez"],["adr",{"label":"Av. El Bosque Norte 0440 (piso 10)\nLas Condes, Santiago,  7550092\nCL","type":"work"},"text",["","","Av. El Bosque Norte 0440 (piso 10)","Las Condes, Santiago","","7550092","CL"]],["email",{"type":"work"},"text","benjamin.galvez@BANCOPENTA.CL"],["tel",{"type":"work"},"text","56 2 873 (3000)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090820",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120817",
+        "eventActor" : "BGG"
+      } ],
+      "handle" : "BGG"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091127",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130605",
+      "eventActor" : "BGG"
+    } ],
+    "handle" : "CL-BAPE-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/BGG",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/BGG"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Benjamin Galvez"],["adr",{"label":"Av. El Bosque Norte 0440 (piso 10)\nLas Condes, Santiago,  7550092\nCL","type":"work"},"text",["","","Av. El Bosque Norte 0440 (piso 10)","Las Condes, Santiago","","7550092","CL"]],["email",{"type":"work"},"text","benjamin.galvez@BANCOPENTA.CL"],["tel",{"type":"work"},"text","56 2 873 (3000)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090820",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120817",
+      "eventActor" : "BGG"
+    } ],
+    "handle" : "BGG"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/BGG",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/BGG"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Benjamin Galvez"],["adr",{"label":"Av. El Bosque Norte 0440 (piso 10)\nLas Condes, Santiago,  7550092\nCL","type":"work"},"text",["","","Av. El Bosque Norte 0440 (piso 10)","Las Condes, Santiago","","7550092","CL"]],["email",{"type":"work"},"text","benjamin.galvez@BANCOPENTA.CL"],["tel",{"type":"work"},"text","56 2 873 (3000)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090820",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120817",
+      "eventActor" : "BGG"
+    } ],
+    "handle" : "BGG"
+  } ],
+  "startAutnum" : 28106,
+  "endAutnum" : 28106,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091214",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20091214",
+    "eventActor" : "BGG"
+  } ],
+  "type" : null,
+  "handle" : "28106-LACNIC",
+  "country" : "CL"
+}

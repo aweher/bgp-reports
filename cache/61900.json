@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61900,
+  "endAutnum" : 61900,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61900",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61900"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131220",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131220",
+    "eventActor" : "EKM3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-EKMM-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-EKMM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Everson Kleber Mai ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalho?a, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palho?a","SC","04578-000","BR"]],["email",{"type":"work"},"text","EKM3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["org",{},"text",["Everson Kleber Mai ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131112",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131112",
+      "eventActor" : "EKM3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EKM3",
+        "value" : "http://rdap.labs.lacnic.net/entity/EKM3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Everson Kleber Mai ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalho?a, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palho?a","SC","04578-000","BR"]],["email",{"type":"work"},"text","EKM3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20131112",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131112",
+        "eventActor" : "EKM3"
+      } ],
+      "entities" : [ ],
+      "handle" : "EKM3"
+    } ],
+    "handle" : "BR-EKMM-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EKM3",
+      "value" : "http://rdap.labs.lacnic.net/entity/EKM3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Everson Kleber Mai ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalho?a, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palho?a","SC","04578-000","BR"]],["email",{"type":"work"},"text","EKM3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131112",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131112",
+      "eventActor" : "EKM3"
+    } ],
+    "entities" : [ ],
+    "handle" : "EKM3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EKM3",
+      "value" : "http://rdap.labs.lacnic.net/entity/EKM3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Everson Kleber Mai ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalho?a, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palho?a","SC","04578-000","BR"]],["email",{"type":"work"},"text","EKM3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131112",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131112",
+      "eventActor" : "EKM3"
+    } ],
+    "entities" : [ ],
+    "handle" : "EKM3"
+  } ],
+  "type" : null,
+  "handle" : "61900-LACNIC",
+  "country" : "BR"
+}

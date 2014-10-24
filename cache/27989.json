@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27989,
+  "endAutnum" : 27989,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27989",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27989"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080821",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130827",
+    "eventActor" : "RAA20"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-BICO-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-BICO-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael Alberto Aguirre Aguirre"],["adr",{"label":"Carrera 48 26-85 (Torre Norte Piso 5A)\nMEDELLIN, AN 0001\nCO","type":"work"},"text",["","","Carrera 48 26-85 (Torre Norte Piso 5A)","MEDELLIN","AN","0001","CO"]],["email",{"type":"work"},"text","raguirre@BANCOLOMBIA.COM.CO"],["tel",{"type":"work"},"text","57 4 040442 ()"],["org",{},"text",["BANCOLOMBIA S.A"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080613",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130813",
+      "eventActor" : "RAA20"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RAA20",
+        "value" : "http://rdap.labs.lacnic.net/entity/RAA20"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael Alberto Aguirre Aguirre"],["adr",{"label":"Carrera 48 # 26 - 85  (Torre sur piso 5B)\nMedellin, null 05001000\nCO","type":"work"},"text",["","","Carrera 48 # 26 - 85  (Torre sur piso 5B)","Medellin","","05001000","CO"]],["email",{"type":"work"},"text","raguirre@BANCOLOMBIA.COM.CO"],["tel",{"type":"work"},"text","57 4 4040000 (40442)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120913",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120913",
+        "eventActor" : "RAA20"
+      } ],
+      "entities" : [ ],
+      "handle" : "RAA20"
+    } ],
+    "handle" : "CO-BICO-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RAA20",
+      "value" : "http://rdap.labs.lacnic.net/entity/RAA20"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael Alberto Aguirre Aguirre"],["adr",{"label":"Carrera 48 # 26 - 85  (Torre sur piso 5B)\nMedellin, null 05001000\nCO","type":"work"},"text",["","","Carrera 48 # 26 - 85  (Torre sur piso 5B)","Medellin","","05001000","CO"]],["email",{"type":"work"},"text","raguirre@BANCOLOMBIA.COM.CO"],["tel",{"type":"work"},"text","57 4 4040000 (40442)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120913",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120913",
+      "eventActor" : "RAA20"
+    } ],
+    "entities" : [ ],
+    "handle" : "RAA20"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RAA20",
+      "value" : "http://rdap.labs.lacnic.net/entity/RAA20"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael Alberto Aguirre Aguirre"],["adr",{"label":"Carrera 48 # 26 - 85  (Torre sur piso 5B)\nMedellin, null 05001000\nCO","type":"work"},"text",["","","Carrera 48 # 26 - 85  (Torre sur piso 5B)","Medellin","","05001000","CO"]],["email",{"type":"work"},"text","raguirre@BANCOLOMBIA.COM.CO"],["tel",{"type":"work"},"text","57 4 4040000 (40442)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120913",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120913",
+      "eventActor" : "RAA20"
+    } ],
+    "entities" : [ ],
+    "handle" : "RAA20"
+  } ],
+  "type" : null,
+  "handle" : "27989-LACNIC",
+  "country" : "CO"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52320,
+  "endAutnum" : 52320,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52320",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52320"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110405",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130913",
+    "eventActor" : "CAM117"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VE-GLOB1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/VE-GLOB1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel White"],["adr",{"label":"Av. Ppal La Castellana cruce con Jos? ?ngel Lamas  (Edif Torre La Castellana, Piso 5 Of 5-H, Urbanizac)\nCaracas, Ca 1060\nVE","type":"work"},"text",["","","Av. Ppal La Castellana cruce con Jos? ?ngel Lamas  (Edif Torre La Castellana, Piso 5 Of 5-H, Urbanizac)","Caracas","Ca","1060","VE"]],["email",{"type":"work"},"text","daniel.white@GLOBENET.NET"],["tel",{"type":"work"},"text","58 212 976041 ()"],["org",{},"text",["Brasil Telecom de Venezuela, S.A."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110210",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140124",
+      "eventActor" : "DAW2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DAW2",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAW2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel White"],["adr",{"label":"5355 Town Center Dr  ()\nBoca Raton, null 33486\nUS","type":"work"},"text",["","","5355 Town Center Dr  ()","Boca Raton","","33486","US"]],["email",{"type":"work"},"text","daniel.white@GLOBENET.NET"],["tel",{"type":"work"},"text","1 561 5448495 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110207",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110207",
+        "eventActor" : "DAW2"
+      } ],
+      "entities" : [ ],
+      "handle" : "DAW2"
+    } ],
+    "handle" : "VE-GLOB1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CAM117",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAM117"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Murillo"],["adr",{"label":"5355 Town Center Rd. Suite 1105  ()\nBoca Raton, FL 33486\nUS","type":"work"},"text",["","","5355 Town Center Rd. Suite 1105  ()","Boca Raton","FL","33486","US"]],["email",{"type":"work"},"text","cmurillo@GLOBENET.NET"],["tel",{"type":"work"},"text","1 561 2354016 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130912",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130912",
+      "eventActor" : "CAM117"
+    } ],
+    "entities" : [ ],
+    "handle" : "CAM117"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CAM117",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAM117"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Murillo"],["adr",{"label":"5355 Town Center Rd. Suite 1105  ()\nBoca Raton, FL 33486\nUS","type":"work"},"text",["","","5355 Town Center Rd. Suite 1105  ()","Boca Raton","FL","33486","US"]],["email",{"type":"work"},"text","cmurillo@GLOBENET.NET"],["tel",{"type":"work"},"text","1 561 2354016 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130912",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130912",
+      "eventActor" : "CAM117"
+    } ],
+    "entities" : [ ],
+    "handle" : "CAM117"
+  } ],
+  "type" : null,
+  "handle" : "52320-LACNIC",
+  "country" : "VE"
+}

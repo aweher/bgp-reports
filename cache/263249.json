@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/263249",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263249"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-MBSA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-MBSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alvaro Pesce"],["adr",{"label":"Av El Retiro P Los Maitenes 1301 (Enea)\nSantiago,  \nCL","type":"work"},"text",["","","Av El Retiro P Los Maitenes 1301 (Enea)","Santiago","","","CL"]],["email",{"type":"work"},"text","apesce@MASTERBASE.COM"],["tel",{"type":"work"},"text","56 2 25921700 ()"],["org",{},"text",["Master Base SA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ALP11",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ALP11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alvaro Pesce"],["adr",{"label":"El Retiro Parque Los Maitenes 1301 ()\nSantiago, RM 00000\nCL","type":"work"},"text",["","","El Retiro Parque Los Maitenes 1301 ()","Santiago","RM","00000","CL"]],["email",{"type":"work"},"text","apesce@MASTERBASE.COM"],["tel",{"type":"work"},"text","56 2 25921700 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20031218",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131021",
+        "eventActor" : "ALP11"
+      } ],
+      "handle" : "ALP11"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140115",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140115",
+      "eventActor" : "ALP11"
+    } ],
+    "handle" : "CL-MBSA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ALP11",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALP11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alvaro Pesce"],["adr",{"label":"El Retiro Parque Los Maitenes 1301 ()\nSantiago, RM 00000\nCL","type":"work"},"text",["","","El Retiro Parque Los Maitenes 1301 ()","Santiago","RM","00000","CL"]],["email",{"type":"work"},"text","apesce@MASTERBASE.COM"],["tel",{"type":"work"},"text","56 2 25921700 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031218",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131021",
+      "eventActor" : "ALP11"
+    } ],
+    "handle" : "ALP11"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ALP11",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALP11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alvaro Pesce"],["adr",{"label":"El Retiro Parque Los Maitenes 1301 ()\nSantiago, RM 00000\nCL","type":"work"},"text",["","","El Retiro Parque Los Maitenes 1301 ()","Santiago","RM","00000","CL"]],["email",{"type":"work"},"text","apesce@MASTERBASE.COM"],["tel",{"type":"work"},"text","56 2 25921700 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031218",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131021",
+      "eventActor" : "ALP11"
+    } ],
+    "handle" : "ALP11"
+  } ],
+  "startAutnum" : 263249,
+  "endAutnum" : 263249,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140618",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140618",
+    "eventActor" : "ALP11"
+  } ],
+  "type" : null,
+  "handle" : "263249-LACNIC",
+  "country" : "CL"
+}

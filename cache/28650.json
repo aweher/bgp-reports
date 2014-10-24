@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28650,
+  "endAutnum" : 28650,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28650",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28650"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060607",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "RFS13"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-LSLT13-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-LSLT13-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dilmar Antonio Simonetti"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPinheiros, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pinheiros","ES","04578-000","BR"]],["email",{"type":"work"},"text","DAS78@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["org",{},"text",["Lojas Simonetti Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "DAS78"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DAS78",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAS78"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dilmar Antonio Simonetti"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPinheiros, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pinheiros","ES","04578-000","BR"]],["email",{"type":"work"},"text","DAS78@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DAS78"
+      } ],
+      "entities" : [ ],
+      "handle" : "DAS78"
+    } ],
+    "handle" : "BR-LSLT13-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RFS13",
+      "value" : "http://rdap.labs.lacnic.net/entity/RFS13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rogerio Ferreira dos Santos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPinheiros, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pinheiros","ES","04578-000","BR"]],["email",{"type":"work"},"text","RFS13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RFS13"
+    } ],
+    "entities" : [ ],
+    "handle" : "RFS13"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RFS13",
+      "value" : "http://rdap.labs.lacnic.net/entity/RFS13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rogerio Ferreira dos Santos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPinheiros, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pinheiros","ES","04578-000","BR"]],["email",{"type":"work"},"text","RFS13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RFS13"
+    } ],
+    "entities" : [ ],
+    "handle" : "RFS13"
+  } ],
+  "type" : null,
+  "handle" : "28650-LACNIC",
+  "country" : "BR"
+}

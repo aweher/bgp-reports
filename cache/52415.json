@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52415",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52415"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-SISA37-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-SISA37-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Martín DAgostino"],["adr",{"label":"Av. Leandro N. Alem 518 (4to Piso)\nBuenos Aires, CF 1001\nAR","type":"work"},"text",["","","Av. Leandro N. Alem 518 (4to Piso)","Buenos Aires","CF","1001","AR"]],["email",{"type":"work"},"text","jdagost@TERNIUMSIDERAR.COM"],["tel",{"type":"work"},"text","54 11 40188199 (88199)"],["org",{},"text",["SIDERAR S.A.I.C."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JMD6",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JMD6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Martín DAgostino"],["adr",{"label":"Alem 518 (4to piso)\nCapital Federal, null 1001\nAR","type":"work"},"text",["","","Alem 518 (4to piso)","Capital Federal","","1001","AR"]],["email",{"type":"work"},"text","jdagost@TERNIUMSIDERAR.COM"],["tel",{"type":"work"},"text","54 11 40188199 (88199)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120806",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120806",
+        "eventActor" : "JMD6"
+      } ],
+      "handle" : "JMD6"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120218",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121024",
+      "eventActor" : "JMD6"
+    } ],
+    "handle" : "AR-SISA37-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JMD6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JMD6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Martín DAgostino"],["adr",{"label":"Alem 518 (4to piso)\nCapital Federal, null 1001\nAR","type":"work"},"text",["","","Alem 518 (4to piso)","Capital Federal","","1001","AR"]],["email",{"type":"work"},"text","jdagost@TERNIUMSIDERAR.COM"],["tel",{"type":"work"},"text","54 11 40188199 (88199)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120806",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120806",
+      "eventActor" : "JMD6"
+    } ],
+    "handle" : "JMD6"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JMD6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JMD6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Martín DAgostino"],["adr",{"label":"Alem 518 (4to piso)\nCapital Federal, null 1001\nAR","type":"work"},"text",["","","Alem 518 (4to piso)","Capital Federal","","1001","AR"]],["email",{"type":"work"},"text","jdagost@TERNIUMSIDERAR.COM"],["tel",{"type":"work"},"text","54 11 40188199 (88199)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120806",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120806",
+      "eventActor" : "JMD6"
+    } ],
+    "handle" : "JMD6"
+  } ],
+  "startAutnum" : 52415,
+  "endAutnum" : 52415,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121023",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121023",
+    "eventActor" : "JMD6"
+  } ],
+  "type" : null,
+  "handle" : "52415-LACNIC",
+  "country" : "AR"
+}

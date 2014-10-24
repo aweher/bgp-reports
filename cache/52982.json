@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52982,
+  "endAutnum" : 52982,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52982",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52982"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110411",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MGT2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-GPIL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-GPIL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauricio Gorski Trevisan"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta Maria, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa Maria","RS","04578-000","BR"]],["email",{"type":"work"},"text","MGT2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["org",{},"text",["GGT PROVEDOR INTERNET LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "MGT2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MGT2",
+        "value" : "http://rdap.labs.lacnic.net/entity/MGT2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauricio Gorski Trevisan"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta Maria, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa Maria","RS","04578-000","BR"]],["email",{"type":"work"},"text","MGT2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MGT2"
+      } ],
+      "entities" : [ ],
+      "handle" : "MGT2"
+    } ],
+    "handle" : "BR-GPIL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MGT2",
+      "value" : "http://rdap.labs.lacnic.net/entity/MGT2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauricio Gorski Trevisan"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta Maria, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa Maria","RS","04578-000","BR"]],["email",{"type":"work"},"text","MGT2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MGT2"
+    } ],
+    "entities" : [ ],
+    "handle" : "MGT2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MGT2",
+      "value" : "http://rdap.labs.lacnic.net/entity/MGT2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauricio Gorski Trevisan"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta Maria, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa Maria","RS","04578-000","BR"]],["email",{"type":"work"},"text","MGT2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MGT2"
+    } ],
+    "entities" : [ ],
+    "handle" : "MGT2"
+  } ],
+  "type" : null,
+  "handle" : "52982-LACNIC",
+  "country" : "BR"
+}

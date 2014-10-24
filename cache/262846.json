@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262846,
+  "endAutnum" : 262846,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262846",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262846"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101206",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ATC17"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VILT2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VILT2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alber Talvani Vieira de Castro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Luiz Gonzaga, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Luiz Gonzaga","RS","04578-000","BR"]],["email",{"type":"work"},"text","ATC17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["org",{},"text",["VIACOM INFORM?TICA LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "ATC17"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ATC17",
+        "value" : "http://rdap.labs.lacnic.net/entity/ATC17"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alber Talvani Vieira de Castro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Luiz Gonzaga, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Luiz Gonzaga","RS","04578-000","BR"]],["email",{"type":"work"},"text","ATC17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ATC17"
+      } ],
+      "entities" : [ ],
+      "handle" : "ATC17"
+    } ],
+    "handle" : "BR-VILT2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ATC17",
+      "value" : "http://rdap.labs.lacnic.net/entity/ATC17"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alber Talvani Vieira de Castro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Luiz Gonzaga, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Luiz Gonzaga","RS","04578-000","BR"]],["email",{"type":"work"},"text","ATC17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ATC17"
+    } ],
+    "entities" : [ ],
+    "handle" : "ATC17"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ATC17",
+      "value" : "http://rdap.labs.lacnic.net/entity/ATC17"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alber Talvani Vieira de Castro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Luiz Gonzaga, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Luiz Gonzaga","RS","04578-000","BR"]],["email",{"type":"work"},"text","ATC17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ATC17"
+    } ],
+    "entities" : [ ],
+    "handle" : "ATC17"
+  } ],
+  "type" : null,
+  "handle" : "262846-LACNIC",
+  "country" : "BR"
+}

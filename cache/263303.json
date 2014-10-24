@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263303,
+  "endAutnum" : 263303,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263303",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263303"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140213",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140213",
+    "eventActor" : "WIS29"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-WSIF-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-WSIF-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","willyan santi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalto do Lontra, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salto do Lontra","","04578-000","BR"]],["email",{"type":"work"},"text","WIS15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["org",{},"text",["WILLYAN SANTI iformatca"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130628",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130628",
+      "eventActor" : "WIS15"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/WIS15",
+        "value" : "http://rdap.labs.lacnic.net/entity/WIS15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","willyan santi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalto do Lontra, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salto do Lontra","PR","04578-000","BR"]],["email",{"type":"work"},"text","WIS15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "WIS15"
+      } ],
+      "entities" : [ ],
+      "handle" : "WIS15"
+    } ],
+    "handle" : "BR-WSIF-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WIS29",
+      "value" : "http://rdap.labs.lacnic.net/entity/WIS29"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Willyan Santi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalto do Lontra, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salto do Lontra","PR","04578-000","BR"]],["email",{"type":"work"},"text","WIS29@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140128",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140128",
+      "eventActor" : "WIS29"
+    } ],
+    "entities" : [ ],
+    "handle" : "WIS29"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WIS29",
+      "value" : "http://rdap.labs.lacnic.net/entity/WIS29"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Willyan Santi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalto do Lontra, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salto do Lontra","PR","04578-000","BR"]],["email",{"type":"work"},"text","WIS29@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140128",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140128",
+      "eventActor" : "WIS29"
+    } ],
+    "entities" : [ ],
+    "handle" : "WIS29"
+  } ],
+  "type" : null,
+  "handle" : "263303-LACNIC",
+  "country" : "BR"
+}

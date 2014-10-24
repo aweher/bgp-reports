@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52795,
+  "endAutnum" : 52795,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52795",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52795"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120927",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "JER12"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BTLT36-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BTLT36-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jeremias Rohde"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNovo Hamburgo, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Novo Hamburgo","RS","04578-000","BR"]],["email",{"type":"work"},"text","JER12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["BRGROUP Telecomunica??es Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "JER12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JER12",
+        "value" : "http://rdap.labs.lacnic.net/entity/JER12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jeremias Rohde"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNovo Hamburgo, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Novo Hamburgo","RS","04578-000","BR"]],["email",{"type":"work"},"text","JER12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JER12"
+      } ],
+      "entities" : [ ],
+      "handle" : "JER12"
+    } ],
+    "handle" : "BR-BTLT36-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JER12",
+      "value" : "http://rdap.labs.lacnic.net/entity/JER12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jeremias Rohde"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNovo Hamburgo, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Novo Hamburgo","RS","04578-000","BR"]],["email",{"type":"work"},"text","JER12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JER12"
+    } ],
+    "entities" : [ ],
+    "handle" : "JER12"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JER12",
+      "value" : "http://rdap.labs.lacnic.net/entity/JER12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jeremias Rohde"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNovo Hamburgo, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Novo Hamburgo","RS","04578-000","BR"]],["email",{"type":"work"},"text","JER12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JER12"
+    } ],
+    "entities" : [ ],
+    "handle" : "JER12"
+  } ],
+  "type" : null,
+  "handle" : "52795-LACNIC",
+  "country" : "BR"
+}

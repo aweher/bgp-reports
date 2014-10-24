@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28020",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28020"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-MURO1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-MURO1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hostmaster Municipalidad de Rosario"],["adr",{"label":"Buenos Aires 711 ()\nRosario, SF 2000\nAR","type":"work"},"text",["","","Buenos Aires 711 ()","Rosario","SF","2000","AR"]],["email",{"type":"work"},"text","hostmaster@ROSARIO.GOV.AR"],["tel",{"type":"work"},"text","54 341 480-2710 ()"],["org",{},"text",["Municipalidad de Rosario"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/HMR",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/HMR"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hostmaster Municipalidad de Rosario"],["adr",{"label":"Buenos Aires 711 (3r piso)\nRosario, SF 2000\nAR","type":"work"},"text",["","","Buenos Aires 711 (3r piso)","Rosario","SF","2000","AR"]],["email",{"type":"work"},"text","hostmaster@ROSARIO.GOV.AR"],["tel",{"type":"work"},"text","54 341 4802596 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080815",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140715",
+        "eventActor" : "HMR"
+      } ],
+      "handle" : "HMR"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070410",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130808",
+      "eventActor" : "HMR"
+    } ],
+    "handle" : "AR-MURO1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HMR",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HMR"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hostmaster Municipalidad de Rosario"],["adr",{"label":"Buenos Aires 711 (3r piso)\nRosario, SF 2000\nAR","type":"work"},"text",["","","Buenos Aires 711 (3r piso)","Rosario","SF","2000","AR"]],["email",{"type":"work"},"text","hostmaster@ROSARIO.GOV.AR"],["tel",{"type":"work"},"text","54 341 4802596 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080815",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140715",
+      "eventActor" : "HMR"
+    } ],
+    "handle" : "HMR"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HMR",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HMR"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hostmaster Municipalidad de Rosario"],["adr",{"label":"Buenos Aires 711 (3r piso)\nRosario, SF 2000\nAR","type":"work"},"text",["","","Buenos Aires 711 (3r piso)","Rosario","SF","2000","AR"]],["email",{"type":"work"},"text","hostmaster@ROSARIO.GOV.AR"],["tel",{"type":"work"},"text","54 341 4802596 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080815",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140715",
+      "eventActor" : "HMR"
+    } ],
+    "handle" : "HMR"
+  } ],
+  "startAutnum" : 28020,
+  "endAutnum" : 28020,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20081128",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20081128",
+    "eventActor" : "HMR"
+  } ],
+  "type" : null,
+  "handle" : "28020-LACNIC",
+  "country" : "AR"
+}

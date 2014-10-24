@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52413",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52413"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-MASR15-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-MASR15-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Barrientos"],["adr",{"label":"San Martin 412 ()\nMagdalena, BA 1913\nAR","type":"work"},"text",["","","San Martin 412 ()","Magdalena","BA","1913","AR"]],["email",{"type":"work"},"text","soportetecnico@MDISOLUCIONES.COM.AR"],["tel",{"type":"work"},"text","54 221 453233 ()"],["org",{},"text",["MADACOM SRL"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SEB12",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SEB12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Barrientos"],["adr",{"label":"San Martin 412 ()\nMagdalena, BA 1913\nAR","type":"work"},"text",["","","San Martin 412 ()","Magdalena","BA","1913","AR"]],["email",{"type":"work"},"text","soportetecnico@MDISOLUCIONES.COM.AR"],["tel",{"type":"work"},"text","54 0221 453233 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120723",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120928",
+        "eventActor" : "SEB12"
+      } ],
+      "handle" : "SEB12"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120801",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "SEB12"
+    } ],
+    "handle" : "AR-MASR15-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SEB12",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SEB12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Barrientos"],["adr",{"label":"San Martin 412 ()\nMagdalena, BA 1913\nAR","type":"work"},"text",["","","San Martin 412 ()","Magdalena","BA","1913","AR"]],["email",{"type":"work"},"text","soportetecnico@MDISOLUCIONES.COM.AR"],["tel",{"type":"work"},"text","54 0221 453233 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120723",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120928",
+      "eventActor" : "SEB12"
+    } ],
+    "handle" : "SEB12"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SEB12",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SEB12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Barrientos"],["adr",{"label":"San Martin 412 ()\nMagdalena, BA 1913\nAR","type":"work"},"text",["","","San Martin 412 ()","Magdalena","BA","1913","AR"]],["email",{"type":"work"},"text","soportetecnico@MDISOLUCIONES.COM.AR"],["tel",{"type":"work"},"text","54 0221 453233 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120723",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120928",
+      "eventActor" : "SEB12"
+    } ],
+    "handle" : "SEB12"
+  } ],
+  "startAutnum" : 52413,
+  "endAutnum" : 52413,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121022",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121023",
+    "eventActor" : "SEB12"
+  } ],
+  "type" : null,
+  "handle" : "52413-LACNIC",
+  "country" : "AR"
+}

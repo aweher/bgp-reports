@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/16471",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/16471"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-ADSA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-ADSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Salamanca Or?stica"],["adr",{"label":"Miraflores 383 (piso 3)\nSantiago, CL 8320149\nCL","type":"work"},"text",["","","Miraflores 383 (piso 3)","Santiago","CL","8320149","CL"]],["email",{"type":"work"},"text","gsalamanca@ADEXUS.CL"],["tel",{"type":"work"},"text","56 2 6861000 ()"],["org",{},"text",["Adexus S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/HCI",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/HCI"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Salamanca Or?stica"],["adr",{"label":"MIraflores 383 Piso 3 562 (6861501)\nSantiago,  832-0149\nCL","type":"work"},"text",["","","MIraflores 383 Piso 3 562 (6861501)","Santiago","","832-0149","CL"]],["email",{"type":"work"},"text","gsalamanca@ADEXUS.CL"],["tel",{"type":"work"},"text","56 2 686174 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030704",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130730",
+        "eventActor" : "HCI"
+      } ],
+      "handle" : "HCI"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030318",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131113",
+      "eventActor" : "HCI"
+    } ],
+    "handle" : "CL-ADSA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HCI",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HCI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Salamanca Or?stica"],["adr",{"label":"MIraflores 383 Piso 3 562 (6861501)\nSantiago,  832-0149\nCL","type":"work"},"text",["","","MIraflores 383 Piso 3 562 (6861501)","Santiago","","832-0149","CL"]],["email",{"type":"work"},"text","gsalamanca@ADEXUS.CL"],["tel",{"type":"work"},"text","56 2 686174 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030704",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130730",
+      "eventActor" : "HCI"
+    } ],
+    "handle" : "HCI"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HCI",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HCI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Salamanca Or?stica"],["adr",{"label":"MIraflores 383 Piso 3 562 (6861501)\nSantiago,  832-0149\nCL","type":"work"},"text",["","","MIraflores 383 Piso 3 562 (6861501)","Santiago","","832-0149","CL"]],["email",{"type":"work"},"text","gsalamanca@ADEXUS.CL"],["tel",{"type":"work"},"text","56 2 686174 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030704",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130730",
+      "eventActor" : "HCI"
+    } ],
+    "handle" : "HCI"
+  } ],
+  "startAutnum" : 16471,
+  "endAutnum" : 16471,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20000501",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20041130",
+    "eventActor" : "HCI"
+  } ],
+  "type" : null,
+  "handle" : "16471-LACNIC",
+  "country" : "CL"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52667,
+  "endAutnum" : 52667,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52667",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52667"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121123",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "CVL4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PBSL2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PBSL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christian Villa Real Lopes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAquiraz, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aquiraz","CE","04578-000","BR"]],["email",{"type":"work"},"text","CVL4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["org",{},"text",["Polibr?s Brasil Software Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "CVL4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CVL4",
+        "value" : "http://rdap.labs.lacnic.net/entity/CVL4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christian Villa Real Lopes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","CE","04578-000","BR"]],["email",{"type":"work"},"text","CVL4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CVL4"
+      } ],
+      "entities" : [ ],
+      "handle" : "CVL4"
+    } ],
+    "handle" : "BR-PBSL2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CVL4",
+      "value" : "http://rdap.labs.lacnic.net/entity/CVL4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christian Villa Real Lopes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","CE","04578-000","BR"]],["email",{"type":"work"},"text","CVL4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CVL4"
+    } ],
+    "entities" : [ ],
+    "handle" : "CVL4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CVL4",
+      "value" : "http://rdap.labs.lacnic.net/entity/CVL4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christian Villa Real Lopes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","CE","04578-000","BR"]],["email",{"type":"work"},"text","CVL4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CVL4"
+    } ],
+    "entities" : [ ],
+    "handle" : "CVL4"
+  } ],
+  "type" : null,
+  "handle" : "52667-LACNIC",
+  "country" : "BR"
+}

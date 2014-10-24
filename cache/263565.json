@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263565,
+  "endAutnum" : 263565,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263565",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263565"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130805",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130805",
+    "eventActor" : "CCM11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CCLM2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CCLM2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CLOUD COMUNICACOES LTDA ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItapema, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itapema","","04578-000","BR"]],["email",{"type":"work"},"text","CCM11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["org",{},"text",["CLOUD COMUNICACOES LTDA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "CCM11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CCM11",
+        "value" : "http://rdap.labs.lacnic.net/entity/CCM11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CLOUD COMUNICACOES LTDA ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItapema, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itapema","SC","04578-000","BR"]],["email",{"type":"work"},"text","CCM11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CCM11"
+      } ],
+      "entities" : [ ],
+      "handle" : "CCM11"
+    } ],
+    "handle" : "BR-CCLM2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CCM11",
+      "value" : "http://rdap.labs.lacnic.net/entity/CCM11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CLOUD COMUNICACOES LTDA ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItapema, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itapema","SC","04578-000","BR"]],["email",{"type":"work"},"text","CCM11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CCM11"
+    } ],
+    "entities" : [ ],
+    "handle" : "CCM11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CCM11",
+      "value" : "http://rdap.labs.lacnic.net/entity/CCM11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CLOUD COMUNICACOES LTDA ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItapema, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itapema","SC","04578-000","BR"]],["email",{"type":"work"},"text","CCM11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CCM11"
+    } ],
+    "entities" : [ ],
+    "handle" : "CCM11"
+  } ],
+  "type" : null,
+  "handle" : "263565-LACNIC",
+  "country" : "BR"
+}

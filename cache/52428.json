@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52428",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52428"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-ARCS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-ARCS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pagliero Guillermo"],["adr",{"label":"HIPOLITO IRIGOYEN ESQ. BELISARIO ROLDAN -- ()\nUCACHA, CO 2677\nAR","type":"work"},"text",["","","HIPOLITO IRIGOYEN ESQ. BELISARIO ROLDAN -- ()","UCACHA","CO","2677","AR"]],["email",{"type":"work"},"text","arcoop@UCACHANET.COM.AR"],["tel",{"type":"work"},"text","54 353 4893001 ()"],["org",{},"text",["ASOCIACION REGIONAL DE COOPERATIVAS DE SERVICIOS PUBLICOS"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PAG19",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PAG19"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pagliero Guillermo"],["adr",{"label":"Hipolito Irigoyen 690 ()\nUcacha, X 2677\nAR","type":"work"},"text",["","","Hipolito Irigoyen 690 ()","Ucacha","X","2677","AR"]],["email",{"type":"work"},"text","arcoop@UCACHANET.COM.AR"],["tel",{"type":"work"},"text","54 0353 4893001 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120827",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130222",
+        "eventActor" : "PAG19"
+      } ],
+      "handle" : "PAG19"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120921",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "PAG19"
+    } ],
+    "handle" : "AR-ARCS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAG19",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAG19"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pagliero Guillermo"],["adr",{"label":"Hipolito Irigoyen 690 ()\nUcacha, X 2677\nAR","type":"work"},"text",["","","Hipolito Irigoyen 690 ()","Ucacha","X","2677","AR"]],["email",{"type":"work"},"text","arcoop@UCACHANET.COM.AR"],["tel",{"type":"work"},"text","54 0353 4893001 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120827",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130222",
+      "eventActor" : "PAG19"
+    } ],
+    "handle" : "PAG19"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAG19",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAG19"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pagliero Guillermo"],["adr",{"label":"Hipolito Irigoyen 690 ()\nUcacha, X 2677\nAR","type":"work"},"text",["","","Hipolito Irigoyen 690 ()","Ucacha","X","2677","AR"]],["email",{"type":"work"},"text","arcoop@UCACHANET.COM.AR"],["tel",{"type":"work"},"text","54 0353 4893001 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120827",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130222",
+      "eventActor" : "PAG19"
+    } ],
+    "handle" : "PAG19"
+  } ],
+  "startAutnum" : 52428,
+  "endAutnum" : 52428,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121206",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121206",
+    "eventActor" : "PAG19"
+  } ],
+  "type" : null,
+  "handle" : "52428-LACNIC",
+  "country" : "AR"
+}

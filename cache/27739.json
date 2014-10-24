@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27739",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27739"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CUSA2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CUSA2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","HECTOR CUNATI"],["adr",{"label":"LUIS MARIA CAMPOS 42 ()\nCAPITAL FEDERAL, BA C1425GEN\nAR","type":"work"},"text",["","","LUIS MARIA CAMPOS 42 ()","CAPITAL FEDERAL","BA","C1425GEN","AR"]],["email",{"type":"work"},"text","hcunati@CLOSE-UPINTERNATIONAL.COM"],["tel",{"type":"work"},"text","54 11 4771-3800 ()"],["org",{},"text",["Close Up Sociedad Anonima de Serv. Comer. y Finam."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/HEC",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/HEC"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","HECTOR CUNATI"],["adr",{"label":"LUIS MARIA CAMPOS 42 ()\nCAPITAL FEDERAL,  C1425GEN\nAR","type":"work"},"text",["","","LUIS MARIA CAMPOS 42 ()","CAPITAL FEDERAL","","C1425GEN","AR"]],["email",{"type":"work"},"text","hcunati@CLOSE-UPINTERNATIONAL.COM"],["tel",{"type":"work"},"text","54 11 55548072 (8072)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20040420",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130703",
+        "eventActor" : "HEC"
+      } ],
+      "handle" : "HEC"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040423",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20040521",
+      "eventActor" : "HEC"
+    } ],
+    "handle" : "AR-CUSA2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HEC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HEC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","HECTOR CUNATI"],["adr",{"label":"LUIS MARIA CAMPOS 42 ()\nCAPITAL FEDERAL,  C1425GEN\nAR","type":"work"},"text",["","","LUIS MARIA CAMPOS 42 ()","CAPITAL FEDERAL","","C1425GEN","AR"]],["email",{"type":"work"},"text","hcunati@CLOSE-UPINTERNATIONAL.COM"],["tel",{"type":"work"},"text","54 11 55548072 (8072)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040420",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130703",
+      "eventActor" : "HEC"
+    } ],
+    "handle" : "HEC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HEC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HEC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","HECTOR CUNATI"],["adr",{"label":"LUIS MARIA CAMPOS 42 ()\nCAPITAL FEDERAL,  C1425GEN\nAR","type":"work"},"text",["","","LUIS MARIA CAMPOS 42 ()","CAPITAL FEDERAL","","C1425GEN","AR"]],["email",{"type":"work"},"text","hcunati@CLOSE-UPINTERNATIONAL.COM"],["tel",{"type":"work"},"text","54 11 55548072 (8072)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040420",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130703",
+      "eventActor" : "HEC"
+    } ],
+    "handle" : "HEC"
+  } ],
+  "startAutnum" : 27739,
+  "endAutnum" : 27739,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20040520",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20040520",
+    "eventActor" : "HEC"
+  } ],
+  "type" : null,
+  "handle" : "27739-LACNIC",
+  "country" : "AR"
+}

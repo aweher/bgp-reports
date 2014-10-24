@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263337,
+  "endAutnum" : 263337,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263337",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263337"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140313",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140510",
+    "eventActor" : "NRL7"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-RTIL8-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-RTIL8-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Roterdan Macedo de Carvalho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeresina, PI 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teresina","PI","04578-000","BR"]],["email",{"type":"work"},"text","FRC46@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 86 55093511 ()"],["org",{},"text",["Ready Tecnologia da Informacao LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131126",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131126",
+      "eventActor" : "FRC46"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FRC46",
+        "value" : "http://rdap.labs.lacnic.net/entity/FRC46"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Roterdan Macedo de Carvalho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeresina, PI 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teresina","PI","04578-000","BR"]],["email",{"type":"work"},"text","FRC46@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 86 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20131126",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131126",
+        "eventActor" : "FRC46"
+      } ],
+      "entities" : [ ],
+      "handle" : "FRC46"
+    } ],
+    "handle" : "BR-RTIL8-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NRL7",
+      "value" : "http://rdap.labs.lacnic.net/entity/NRL7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NOC Ready Tecnologia da Informa??o LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeresina, PI 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teresina","PI","04578-000","BR"]],["email",{"type":"work"},"text","NRL7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 86 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140502",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140502",
+      "eventActor" : "NRL7"
+    } ],
+    "entities" : [ ],
+    "handle" : "NRL7"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NRL7",
+      "value" : "http://rdap.labs.lacnic.net/entity/NRL7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NOC Ready Tecnologia da Informa??o LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeresina, PI 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teresina","PI","04578-000","BR"]],["email",{"type":"work"},"text","NRL7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 86 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140502",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140502",
+      "eventActor" : "NRL7"
+    } ],
+    "entities" : [ ],
+    "handle" : "NRL7"
+  } ],
+  "type" : null,
+  "handle" : "263337-LACNIC",
+  "country" : "BR"
+}

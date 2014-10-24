@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52899,
+  "endAutnum" : 52899,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52899",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52899"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120719",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "SAC38"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DSIL5-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DSIL5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sandro Cunha"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTr?s Rios, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tr?s Rios","RJ","04578-000","BR"]],["email",{"type":"work"},"text","SAC38@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["org",{},"text",["Desan 41 s Informatica ltda ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "SAC38"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SAC38",
+        "value" : "http://rdap.labs.lacnic.net/entity/SAC38"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sandro Cunha"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTr?s Rios, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tr?s Rios","RJ","04578-000","BR"]],["email",{"type":"work"},"text","SAC38@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SAC38"
+      } ],
+      "entities" : [ ],
+      "handle" : "SAC38"
+    } ],
+    "handle" : "BR-DSIL5-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SAC38",
+      "value" : "http://rdap.labs.lacnic.net/entity/SAC38"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sandro Cunha"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTr?s Rios, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tr?s Rios","RJ","04578-000","BR"]],["email",{"type":"work"},"text","SAC38@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SAC38"
+    } ],
+    "entities" : [ ],
+    "handle" : "SAC38"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SAC38",
+      "value" : "http://rdap.labs.lacnic.net/entity/SAC38"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sandro Cunha"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTr?s Rios, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tr?s Rios","RJ","04578-000","BR"]],["email",{"type":"work"},"text","SAC38@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SAC38"
+    } ],
+    "entities" : [ ],
+    "handle" : "SAC38"
+  } ],
+  "type" : null,
+  "handle" : "52899-LACNIC",
+  "country" : "BR"
+}

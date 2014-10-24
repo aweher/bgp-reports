@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263540,
+  "endAutnum" : 263540,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263540",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263540"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140127",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140127",
+    "eventActor" : "PAM68"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-UVRC-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-UVRC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Veira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVolta Redonda, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Volta Redonda","","04578-000","BR"]],["email",{"type":"work"},"text","EDV19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["org",{},"text",["Unimed Volta Redonda de Coop. de Trabalho M?dico"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "EDV19"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EDV19",
+        "value" : "http://rdap.labs.lacnic.net/entity/EDV19"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Veira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVolta Redonda, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Volta Redonda","RJ","04578-000","BR"]],["email",{"type":"work"},"text","EDV19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EDV19"
+      } ],
+      "entities" : [ ],
+      "handle" : "EDV19"
+    } ],
+    "handle" : "BR-UVRC-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PAM68",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAM68"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pamella Marchi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVolta Redonda, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Volta Redonda","RJ","04578-000","BR"]],["email",{"type":"work"},"text","PAM68@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130913",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130913",
+      "eventActor" : "PAM68"
+    } ],
+    "entities" : [ ],
+    "handle" : "PAM68"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PAM68",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAM68"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pamella Marchi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVolta Redonda, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Volta Redonda","RJ","04578-000","BR"]],["email",{"type":"work"},"text","PAM68@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130913",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130913",
+      "eventActor" : "PAM68"
+    } ],
+    "entities" : [ ],
+    "handle" : "PAM68"
+  } ],
+  "type" : null,
+  "handle" : "263540-LACNIC",
+  "country" : "BR"
+}

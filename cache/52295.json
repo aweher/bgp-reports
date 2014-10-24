@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52295",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52295"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CESP1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CESP1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Minassian"],["adr",{"label":"Carlos Pellegrini 315 ()\nJuan N. Fernandez, BS 7011\nAR","type":"work"},"text",["","","Carlos Pellegrini 315 ()","Juan N. Fernandez","BS","7011","AR"]],["email",{"type":"work"},"text","jorge@MINASSIAN.NET"],["tel",{"type":"work"},"text","54 911 54002244 ()"],["org",{},"text",["Coop El?ctrica, Serv Publicos, Vivienda Juan Fernandez"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JOM8",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JOM8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Minassian"],["adr",{"label":"Carrasco 750 ()\nBuenos Aires,  C1407AVN\nAR","type":"work"},"text",["","","Carrasco 750 ()","Buenos Aires","","C1407AVN","AR"]],["email",{"type":"work"},"text","jorge@MINASSIAN.NET"],["tel",{"type":"work"},"text","54 911 6359 (5346)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030612",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130328",
+        "eventActor" : "JOM8"
+      } ],
+      "handle" : "JOM8"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20051206",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "JOM8"
+    } ],
+    "handle" : "AR-CESP1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JOM8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JOM8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Minassian"],["adr",{"label":"Carrasco 750 ()\nBuenos Aires,  C1407AVN\nAR","type":"work"},"text",["","","Carrasco 750 ()","Buenos Aires","","C1407AVN","AR"]],["email",{"type":"work"},"text","jorge@MINASSIAN.NET"],["tel",{"type":"work"},"text","54 911 6359 (5346)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030612",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130328",
+      "eventActor" : "JOM8"
+    } ],
+    "handle" : "JOM8"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JOM8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JOM8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Minassian"],["adr",{"label":"Carrasco 750 ()\nBuenos Aires,  C1407AVN\nAR","type":"work"},"text",["","","Carrasco 750 ()","Buenos Aires","","C1407AVN","AR"]],["email",{"type":"work"},"text","jorge@MINASSIAN.NET"],["tel",{"type":"work"},"text","54 911 6359 (5346)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030612",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130328",
+      "eventActor" : "JOM8"
+    } ],
+    "handle" : "JOM8"
+  } ],
+  "startAutnum" : 52295,
+  "endAutnum" : 52295,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101111",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20101112",
+    "eventActor" : "JOM8"
+  } ],
+  "type" : null,
+  "handle" : "52295-LACNIC",
+  "country" : "AR"
+}

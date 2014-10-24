@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27880",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27880"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-ACSA29-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-ACSA29-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mat?as del Nido S?ez"],["adr",{"label":"DIAGONAL PARAGUAY 386 (Piso 2)\nSantiago,  5602\nCL","type":"work"},"text",["","","DIAGONAL PARAGUAY 386 (Piso 2)","Santiago","","5602","CL"]],["email",{"type":"work"},"text","mdelnido@ATENTOCHILE.CL"],["tel",{"type":"work"},"text","56 02 2009910 ()"],["org",{},"text",["ATENTO CHILE S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FJC",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FJC"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mat?as del Nido S?ez"],["adr",{"label":"Diagonal Paraguay 386 (Piso 6)\nSantiago, CL 8330077\nCL","type":"work"},"text",["","","Diagonal Paraguay 386 (Piso 6)","Santiago","CL","8330077","CL"]],["email",{"type":"work"},"text","mdelnido@ATENTOCHILE.CL"],["tel",{"type":"work"},"text","56 2 2009960 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030307",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20090528",
+        "eventActor" : "FJC"
+      } ],
+      "handle" : "FJC"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060720",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070207",
+      "eventActor" : "FJC"
+    } ],
+    "handle" : "CL-ACSA29-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FJC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FJC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mat?as del Nido S?ez"],["adr",{"label":"Diagonal Paraguay 386 (Piso 6)\nSantiago, CL 8330077\nCL","type":"work"},"text",["","","Diagonal Paraguay 386 (Piso 6)","Santiago","CL","8330077","CL"]],["email",{"type":"work"},"text","mdelnido@ATENTOCHILE.CL"],["tel",{"type":"work"},"text","56 2 2009960 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030307",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090528",
+      "eventActor" : "FJC"
+    } ],
+    "handle" : "FJC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FJC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FJC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mat?as del Nido S?ez"],["adr",{"label":"Diagonal Paraguay 386 (Piso 6)\nSantiago, CL 8330077\nCL","type":"work"},"text",["","","Diagonal Paraguay 386 (Piso 6)","Santiago","CL","8330077","CL"]],["email",{"type":"work"},"text","mdelnido@ATENTOCHILE.CL"],["tel",{"type":"work"},"text","56 2 2009960 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030307",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090528",
+      "eventActor" : "FJC"
+    } ],
+    "handle" : "FJC"
+  } ],
+  "startAutnum" : 27880,
+  "endAutnum" : 27880,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070206",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20070206",
+    "eventActor" : "FJC"
+  } ],
+  "type" : null,
+  "handle" : "27880-LACNIC",
+  "country" : "CL"
+}

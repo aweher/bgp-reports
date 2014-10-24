@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/11315",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/11315"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-MOBE-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-MOBE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Caivano"],["adr",{"label":"Ingeniero Huergo 723 (Planta Baja)\nBuenos Aires,  C1107AOH\nAR","type":"work"},"text",["","","Ingeniero Huergo 723 (Planta Baja)","Buenos Aires","","C1107AOH","AR"]],["email",{"type":"work"},"text","gabriel.caivano@TELEFONICA.COM"],["tel",{"type":"work"},"text","54 11 53212593 ()"],["org",{},"text",["Telef?nica M?viles Argentina S.A. (Movistar Argentina)"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GAC",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GAC"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Caivano"],["adr",{"label":"Cruz del Sud 2943 ()\nBuenos Aires, CF 1285\nAR","type":"work"},"text",["","","Cruz del Sud 2943 ()","Buenos Aires","CF","1285","AR"]],["email",{"type":"work"},"text","gabriel.caivano@TELEFONICA.COM"],["tel",{"type":"work"},"text","54 11 53212593 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20020904",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120621",
+        "eventActor" : "GAC"
+      } ],
+      "handle" : "GAC"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020905",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "GAC"
+    } ],
+    "handle" : "AR-MOBE-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GAC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GAC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Caivano"],["adr",{"label":"Cruz del Sud 2943 ()\nBuenos Aires, CF 1285\nAR","type":"work"},"text",["","","Cruz del Sud 2943 ()","Buenos Aires","CF","1285","AR"]],["email",{"type":"work"},"text","gabriel.caivano@TELEFONICA.COM"],["tel",{"type":"work"},"text","54 11 53212593 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020904",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120621",
+      "eventActor" : "GAC"
+    } ],
+    "handle" : "GAC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/TEA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/TEA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Telefonica de Argentina"],["adr",{"label":"AV. ING. HUERGO 723 ()\nCapital Federal, BA 1065\nAR","type":"work"},"text",["","","AV. ING. HUERGO 723 ()","Capital Federal","BA","1065","AR"]],["email",{"type":"work"},"text","tasamail.ar@TELEFONICA.COM"],["tel",{"type":"work"},"text","54 11 43335000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030618",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110603",
+      "eventActor" : "TEA"
+    } ],
+    "handle" : "TEA"
+  } ],
+  "startAutnum" : 11315,
+  "endAutnum" : 11315,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19980625",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140425",
+    "eventActor" : "GAC"
+  } ],
+  "type" : null,
+  "handle" : "11315-LACNIC",
+  "country" : "AR"
+}

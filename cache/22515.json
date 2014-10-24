@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 22515,
+  "endAutnum" : 22515,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/22515",
+    "value" : "http://rdap.labs.lacnic.net/autnum/22515"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20011105",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "CTI5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DPFE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DPFE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Coordena??o de Tecnologia da Informa??o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBRASILIA, DF 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","BRASILIA","DF","04578-000","BR"]],["email",{"type":"work"},"text","CTI5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["org",{},"text",["DEPARTAMENTO DE POLICIA FEDERAL"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CTI5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CTI5",
+        "value" : "http://rdap.labs.lacnic.net/entity/CTI5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Coordena??o de Tecnologia da Informa??o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBrasilia, DF 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Brasilia","DF","04578-000","BR"]],["email",{"type":"work"},"text","CTI5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CTI5"
+      } ],
+      "entities" : [ ],
+      "handle" : "CTI5"
+    } ],
+    "handle" : "BR-DPFE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CTI5",
+      "value" : "http://rdap.labs.lacnic.net/entity/CTI5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Coordena??o de Tecnologia da Informa??o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBrasilia, DF 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Brasilia","DF","04578-000","BR"]],["email",{"type":"work"},"text","CTI5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CTI5"
+    } ],
+    "entities" : [ ],
+    "handle" : "CTI5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GAT5",
+      "value" : "http://rdap.labs.lacnic.net/entity/GAT5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Grupo de Atendimento e Tratamen"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBras?lia, DF 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bras?lia","DF","04578-000","BR"]],["email",{"type":"work"},"text","GAT5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 61 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GAT5"
+    } ],
+    "entities" : [ ],
+    "handle" : "GAT5"
+  } ],
+  "type" : null,
+  "handle" : "22515-LACNIC",
+  "country" : "BR"
+}

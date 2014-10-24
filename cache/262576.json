@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262576,
+  "endAutnum" : 262576,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262576",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262576"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110909",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "JES11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-IJCS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-IJCS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Elias A. Santana"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJuven?lia, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Juven?lia","MG","04578-000","BR"]],["email",{"type":"work"},"text","JES11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["org",{},"text",["INFORM?TICA JUVEN?LIA COM?RCIO E SERVI?OS LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "JES11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JES11",
+        "value" : "http://rdap.labs.lacnic.net/entity/JES11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Elias A. Santana"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJuven?lia, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Juven?lia","MG","04578-000","BR"]],["email",{"type":"work"},"text","JES11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JES11"
+      } ],
+      "entities" : [ ],
+      "handle" : "JES11"
+    } ],
+    "handle" : "BR-IJCS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JES11",
+      "value" : "http://rdap.labs.lacnic.net/entity/JES11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Elias A. Santana"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJuven?lia, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Juven?lia","MG","04578-000","BR"]],["email",{"type":"work"},"text","JES11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JES11"
+    } ],
+    "entities" : [ ],
+    "handle" : "JES11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JES11",
+      "value" : "http://rdap.labs.lacnic.net/entity/JES11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Elias A. Santana"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJuven?lia, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Juven?lia","MG","04578-000","BR"]],["email",{"type":"work"},"text","JES11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JES11"
+    } ],
+    "entities" : [ ],
+    "handle" : "JES11"
+  } ],
+  "type" : null,
+  "handle" : "262576-LACNIC",
+  "country" : "BR"
+}

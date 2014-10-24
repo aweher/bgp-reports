@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263074,
+  "endAutnum" : 263074,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263074",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263074"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120328",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130404",
+    "eventActor" : "ZOL"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ZTIC-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ZTIC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Delaisthenes Teixeira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTatu?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tatu?","SP","04578-000","BR"]],["email",{"type":"work"},"text","DET8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["org",{},"text",["ZOL TECNOLOGIA DA INFORMACAO E COMUNICACAO"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140225",
+      "eventActor" : "DET8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DET8",
+        "value" : "http://rdap.labs.lacnic.net/entity/DET8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Delaisthenes Teixeira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTatu?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tatu?","SP","04578-000","BR"]],["email",{"type":"work"},"text","DET8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DET8"
+      } ],
+      "entities" : [ ],
+      "handle" : "DET8"
+    } ],
+    "handle" : "BR-ZTIC-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ZOL",
+      "value" : "http://rdap.labs.lacnic.net/entity/ZOL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ZOL LTI"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTatu?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tatu?","","04578-000","BR"]],["email",{"type":"work"},"text","ZOL@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130402",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130402",
+      "eventActor" : "ZOL"
+    } ],
+    "entities" : [ ],
+    "handle" : "ZOL"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ZOL",
+      "value" : "http://rdap.labs.lacnic.net/entity/ZOL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ZOL LTI"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTatu?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tatu?","","04578-000","BR"]],["email",{"type":"work"},"text","ZOL@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130402",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130402",
+      "eventActor" : "ZOL"
+    } ],
+    "entities" : [ ],
+    "handle" : "ZOL"
+  } ],
+  "type" : null,
+  "handle" : "263074-LACNIC",
+  "country" : "BR"
+}

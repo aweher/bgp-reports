@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262281,
+  "endAutnum" : 262281,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262281",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262281"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120703",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140201",
+    "eventActor" : "MMO4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MBML1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MBML1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","alcides maciel fleitas"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? dos Campos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? dos Campos","SP","04578-000","BR"]],["email",{"type":"work"},"text","AMF17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 12 55093511 ()"],["org",{},"text",["M.M.V.A do Brasil Multimidia Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140201",
+      "eventActor" : "AMF17"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/AMF17",
+        "value" : "http://rdap.labs.lacnic.net/entity/AMF17"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","alcides maciel fleitas"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? dos Campos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? dos Campos","SP","04578-000","BR"]],["email",{"type":"work"},"text","AMF17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 12 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "AMF17"
+      } ],
+      "entities" : [ ],
+      "handle" : "AMF17"
+    } ],
+    "handle" : "BR-MBML1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MMO4",
+      "value" : "http://rdap.labs.lacnic.net/entity/MMO4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Martins de Oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? dos Campos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? dos Campos","SP","04578-000","BR"]],["email",{"type":"work"},"text","MMO4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 12 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MMO4"
+    } ],
+    "entities" : [ ],
+    "handle" : "MMO4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MMO4",
+      "value" : "http://rdap.labs.lacnic.net/entity/MMO4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Martins de Oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? dos Campos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? dos Campos","SP","04578-000","BR"]],["email",{"type":"work"},"text","MMO4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 12 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MMO4"
+    } ],
+    "entities" : [ ],
+    "handle" : "MMO4"
+  } ],
+  "type" : null,
+  "handle" : "262281-LACNIC",
+  "country" : "BR"
+}

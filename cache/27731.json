@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27731,
+  "endAutnum" : 27731,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27731",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27731"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20040225",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20050909",
+    "eventActor" : "SAC2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-ACCO6-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-ACCO6-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Soporte ACH Colombia"],["adr",{"label":"Transv 23 # 97 73 (Piso 3)\nBogota,  --\nCO","type":"work"},"text",["","","Transv 23 # 97 73 (Piso 3)","Bogota","","--","CO"]],["email",{"type":"work"},"text","dbolivar@ACHCOLOMBIA.COM.CO"],["tel",{"type":"work"},"text","57 1 7438300 ()"],["org",{},"text",["ACH Colombia"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031230",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130822",
+      "eventActor" : "SAC2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SAC2",
+        "value" : "http://rdap.labs.lacnic.net/entity/SAC2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Soporte ACH Colombia"],["adr",{"label":"Transv 23 # 97 - 73 piso 3 Piso (3)\nBogota,  571\nCO","type":"work"},"text",["","","Transv 23 # 97 - 73 piso 3 Piso (3)","Bogota","","571","CO"]],["email",{"type":"work"},"text","dbolivar@ACHCOLOMBIA.COM.CO"],["tel",{"type":"work"},"text","57 1 7438300 (1644)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050824",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130816",
+        "eventActor" : "SAC2"
+      } ],
+      "entities" : [ ],
+      "handle" : "SAC2"
+    } ],
+    "handle" : "CO-ACCO6-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SAC2",
+      "value" : "http://rdap.labs.lacnic.net/entity/SAC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Soporte ACH Colombia"],["adr",{"label":"Transv 23 # 97 - 73 piso 3 Piso (3)\nBogota,  571\nCO","type":"work"},"text",["","","Transv 23 # 97 - 73 piso 3 Piso (3)","Bogota","","571","CO"]],["email",{"type":"work"},"text","dbolivar@ACHCOLOMBIA.COM.CO"],["tel",{"type":"work"},"text","57 1 7438300 (1644)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050824",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130816",
+      "eventActor" : "SAC2"
+    } ],
+    "entities" : [ ],
+    "handle" : "SAC2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SAC2",
+      "value" : "http://rdap.labs.lacnic.net/entity/SAC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Soporte ACH Colombia"],["adr",{"label":"Transv 23 # 97 - 73 piso 3 Piso (3)\nBogota,  571\nCO","type":"work"},"text",["","","Transv 23 # 97 - 73 piso 3 Piso (3)","Bogota","","571","CO"]],["email",{"type":"work"},"text","dbolivar@ACHCOLOMBIA.COM.CO"],["tel",{"type":"work"},"text","57 1 7438300 (1644)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050824",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130816",
+      "eventActor" : "SAC2"
+    } ],
+    "entities" : [ ],
+    "handle" : "SAC2"
+  } ],
+  "type" : null,
+  "handle" : "27731-LACNIC",
+  "country" : "CO"
+}

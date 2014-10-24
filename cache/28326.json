@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28326,
+  "endAutnum" : 28326,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28326",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28326"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070716",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "URG2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TTLT41-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TTLT41-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","URBI GO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoi?nia, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goi?nia","GO","04578-000","BR"]],["email",{"type":"work"},"text","URG2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["org",{},"text",["Urbi Telecom Provider"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140217",
+      "eventActor" : "URG2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/URG2",
+        "value" : "http://rdap.labs.lacnic.net/entity/URG2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","URBI GO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoi?nia, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goi?nia","GO","04578-000","BR"]],["email",{"type":"work"},"text","URG2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "URG2"
+      } ],
+      "entities" : [ ],
+      "handle" : "URG2"
+    } ],
+    "handle" : "BR-TTLT41-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/URG2",
+      "value" : "http://rdap.labs.lacnic.net/entity/URG2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","URBI GO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoi?nia, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goi?nia","GO","04578-000","BR"]],["email",{"type":"work"},"text","URG2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "URG2"
+    } ],
+    "entities" : [ ],
+    "handle" : "URG2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/URG2",
+      "value" : "http://rdap.labs.lacnic.net/entity/URG2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","URBI GO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoi?nia, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goi?nia","GO","04578-000","BR"]],["email",{"type":"work"},"text","URG2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "URG2"
+    } ],
+    "entities" : [ ],
+    "handle" : "URG2"
+  } ],
+  "type" : null,
+  "handle" : "28326-LACNIC",
+  "country" : "BR"
+}

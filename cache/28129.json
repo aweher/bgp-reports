@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28129,
+  "endAutnum" : 28129,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28129",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28129"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20081230",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "PRD6"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-UNPE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-UNPE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","UNOPAR - Universidade Noret do Paran?"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLondrina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Londrina","PR","04578-000","BR"]],["email",{"type":"work"},"text","UUP2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["org",{},"text",["Uni?o Norte do Paran? de Ensino LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "UUP2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/UUP2",
+        "value" : "http://rdap.labs.lacnic.net/entity/UUP2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","UNOPAR - Universidade Noret do Paran?"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLondrina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Londrina","PR","04578-000","BR"]],["email",{"type":"work"},"text","UUP2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "UUP2"
+      } ],
+      "entities" : [ ],
+      "handle" : "UUP2"
+    } ],
+    "handle" : "BR-UNPE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PRD6",
+      "value" : "http://rdap.labs.lacnic.net/entity/PRD6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo Ricardo Torres Diniz"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLondrina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Londrina","PR","04578-000","BR"]],["email",{"type":"work"},"text","PRD6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PRD6"
+    } ],
+    "entities" : [ ],
+    "handle" : "PRD6"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PRD6",
+      "value" : "http://rdap.labs.lacnic.net/entity/PRD6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo Ricardo Torres Diniz"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLondrina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Londrina","PR","04578-000","BR"]],["email",{"type":"work"},"text","PRD6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PRD6"
+    } ],
+    "entities" : [ ],
+    "handle" : "PRD6"
+  } ],
+  "type" : null,
+  "handle" : "28129-LACNIC",
+  "country" : "BR"
+}

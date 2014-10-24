@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28260,
+  "endAutnum" : 28260,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28260",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28260"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20081010",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MIS37"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ATPI1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ATPI1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauricio Iezzi da Silveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeres?polis, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teres?polis","RJ","04578-000","BR"]],["email",{"type":"work"},"text","MIS37@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["org",{},"text",["Altarede de Teresopolis Provedor de Internet Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MIS37"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MIS37",
+        "value" : "http://rdap.labs.lacnic.net/entity/MIS37"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauricio Iezzi da Silveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBom Jardim, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bom Jardim","RJ","04578-000","BR"]],["email",{"type":"work"},"text","MIS37@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MIS37"
+      } ],
+      "entities" : [ ],
+      "handle" : "MIS37"
+    } ],
+    "handle" : "BR-ATPI1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MIS37",
+      "value" : "http://rdap.labs.lacnic.net/entity/MIS37"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauricio Iezzi da Silveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBom Jardim, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bom Jardim","RJ","04578-000","BR"]],["email",{"type":"work"},"text","MIS37@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MIS37"
+    } ],
+    "entities" : [ ],
+    "handle" : "MIS37"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MIS37",
+      "value" : "http://rdap.labs.lacnic.net/entity/MIS37"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauricio Iezzi da Silveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBom Jardim, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bom Jardim","RJ","04578-000","BR"]],["email",{"type":"work"},"text","MIS37@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MIS37"
+    } ],
+    "entities" : [ ],
+    "handle" : "MIS37"
+  } ],
+  "type" : null,
+  "handle" : "28260-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262366,
+  "endAutnum" : 262366,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262366",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262366"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120127",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ENS18"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SBSL4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SBSL4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sky Brasil Servi?os - Gerencia TI"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSantana de Parna?ba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santana de Parna?ba","SP","04578-000","BR"]],["email",{"type":"work"},"text","SBT2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["Sky Brasil Servicos Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SBT2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SBT2",
+        "value" : "http://rdap.labs.lacnic.net/entity/SBT2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sky Brasil Servi?os - Gerencia TI"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","SBT2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SBT2"
+      } ],
+      "entities" : [ ],
+      "handle" : "SBT2"
+    } ],
+    "handle" : "BR-SBSL4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ENS18",
+      "value" : "http://rdap.labs.lacnic.net/entity/ENS18"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Engenharia SKY"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSantana de Parna?ba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santana de Parna?ba","SP","04578-000","BR"]],["email",{"type":"work"},"text","ENS18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ENS18"
+    } ],
+    "entities" : [ ],
+    "handle" : "ENS18"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ENS18",
+      "value" : "http://rdap.labs.lacnic.net/entity/ENS18"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Engenharia SKY"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSantana de Parna?ba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santana de Parna?ba","SP","04578-000","BR"]],["email",{"type":"work"},"text","ENS18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ENS18"
+    } ],
+    "entities" : [ ],
+    "handle" : "ENS18"
+  } ],
+  "type" : null,
+  "handle" : "262366-LACNIC",
+  "country" : "BR"
+}

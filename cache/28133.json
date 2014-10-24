@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28133,
+  "endAutnum" : 28133,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28133",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28133"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090220",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "PEL31"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PELT41-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PELT41-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","PROVEDOR ELOINET LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEl?i Mendes, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","El?i Mendes","MG","04578-000","BR"]],["email",{"type":"work"},"text","PEL31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["org",{},"text",["Provedor Eloinet Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PEL31"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PEL31",
+        "value" : "http://rdap.labs.lacnic.net/entity/PEL31"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","PROVEDOR ELOINET LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEl?i Mendes, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","El?i Mendes","MG","04578-000","BR"]],["email",{"type":"work"},"text","PEL31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PEL31"
+      } ],
+      "entities" : [ ],
+      "handle" : "PEL31"
+    } ],
+    "handle" : "BR-PELT41-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PEL31",
+      "value" : "http://rdap.labs.lacnic.net/entity/PEL31"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","PROVEDOR ELOINET LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEl?i Mendes, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","El?i Mendes","MG","04578-000","BR"]],["email",{"type":"work"},"text","PEL31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PEL31"
+    } ],
+    "entities" : [ ],
+    "handle" : "PEL31"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PEL31",
+      "value" : "http://rdap.labs.lacnic.net/entity/PEL31"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","PROVEDOR ELOINET LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEl?i Mendes, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","El?i Mendes","MG","04578-000","BR"]],["email",{"type":"work"},"text","PEL31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PEL31"
+    } ],
+    "entities" : [ ],
+    "handle" : "PEL31"
+  } ],
+  "type" : null,
+  "handle" : "28133-LACNIC",
+  "country" : "BR"
+}

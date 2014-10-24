@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52326",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52326"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-PRON-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-PRON-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Maximo Bistue Cobos"],["adr",{"label":"BELGRANO 182 (-)\nMENDOZA, - 5500\nAR","type":"work"},"text",["","","BELGRANO 182 (-)","MENDOZA","-","5500","AR"]],["email",{"type":"work"},"text","maximo@PRONETWORK.NET.AR"],["tel",{"type":"work"},"text","54 261 4200729 ()"],["org",{},"text",["PRONETWORK"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MBC3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MBC3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Maximo Bistue Cobos"],["adr",{"label":"Belgrano 182 ()\nMendoza, null 5500\nAR","type":"work"},"text",["","","Belgrano 182 ()","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","maximo@PRONETWORK.NET.AR"],["tel",{"type":"work"},"text","54 261 4200729 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090714",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20090714",
+        "eventActor" : "MBC3"
+      } ],
+      "handle" : "MBC3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090715",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "MBC3"
+    } ],
+    "handle" : "AR-PRON-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MBC3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MBC3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Maximo Bistue Cobos"],["adr",{"label":"Belgrano 182 ()\nMendoza, null 5500\nAR","type":"work"},"text",["","","Belgrano 182 ()","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","maximo@PRONETWORK.NET.AR"],["tel",{"type":"work"},"text","54 261 4200729 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090714",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090714",
+      "eventActor" : "MBC3"
+    } ],
+    "handle" : "MBC3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MBC3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MBC3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Maximo Bistue Cobos"],["adr",{"label":"Belgrano 182 ()\nMendoza, null 5500\nAR","type":"work"},"text",["","","Belgrano 182 ()","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","maximo@PRONETWORK.NET.AR"],["tel",{"type":"work"},"text","54 261 4200729 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090714",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090714",
+      "eventActor" : "MBC3"
+    } ],
+    "handle" : "MBC3"
+  } ],
+  "startAutnum" : 52326,
+  "endAutnum" : 52326,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110610",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110610",
+    "eventActor" : "MBC3"
+  } ],
+  "type" : null,
+  "handle" : "52326-LACNIC",
+  "country" : "AR"
+}

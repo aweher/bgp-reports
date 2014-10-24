@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28602,
+  "endAutnum" : 28602,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28602",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28602"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20050916",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "GRC12"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CPDE3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CPDE3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","grupo redes cepromat"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuiab?, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cuiab?","MT","04578-000","BR"]],["email",{"type":"work"},"text","GRC12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 65 55093511 ()"],["org",{},"text",["CENTRO DE PROC. DE DADOS DO ESTADO DE MATO GROSSO"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "GRC12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GRC12",
+        "value" : "http://rdap.labs.lacnic.net/entity/GRC12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","grupo redes cepromat"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuiab?, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cuiab?","MT","04578-000","BR"]],["email",{"type":"work"},"text","GRC12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 65 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "GRC12"
+      } ],
+      "entities" : [ ],
+      "handle" : "GRC12"
+    } ],
+    "handle" : "BR-CPDE3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GRC12",
+      "value" : "http://rdap.labs.lacnic.net/entity/GRC12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","grupo redes cepromat"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuiab?, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cuiab?","MT","04578-000","BR"]],["email",{"type":"work"},"text","GRC12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 65 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GRC12"
+    } ],
+    "entities" : [ ],
+    "handle" : "GRC12"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GRC12",
+      "value" : "http://rdap.labs.lacnic.net/entity/GRC12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","grupo redes cepromat"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuiab?, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cuiab?","MT","04578-000","BR"]],["email",{"type":"work"},"text","GRC12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 65 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GRC12"
+    } ],
+    "entities" : [ ],
+    "handle" : "GRC12"
+  } ],
+  "type" : null,
+  "handle" : "28602-LACNIC",
+  "country" : "BR"
+}

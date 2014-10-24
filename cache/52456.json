@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52456,
+  "endAutnum" : 52456,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52456",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52456"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130408",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130408",
+    "eventActor" : "LFA6"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-EPME8-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-EPME8-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Fernando Ramirez Arrubla"],["adr",{"label":"Carrera 58 Nro. 42-125 - (-)\nMedellin, AN 050034\nCO","type":"work"},"text",["","","Carrera 58 Nro. 42-125 - (-)","Medellin","AN","050034","CO"]],["email",{"type":"work"},"text","Luis.Ramirez.Arrubla@EPM.COM.CO"],["tel",{"type":"work"},"text","57 4 3806555 ()"],["org",{},"text",["Empresas P?blicas de Medell?n E.S.P."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130201",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130613",
+      "eventActor" : "LFA6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LFA6",
+        "value" : "http://rdap.labs.lacnic.net/entity/LFA6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Fernando Ramirez Arrubla"],["adr",{"label":"Carrera 58 Nro. 42-125  ()\nMedellin, null 050034\nCO","type":"work"},"text",["","","Carrera 58 Nro. 42-125  ()","Medellin","","050034","CO"]],["email",{"type":"work"},"text","Luis.Ramirez.Arrubla@EPM.COM.CO"],["tel",{"type":"work"},"text","57 4 3806555 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20121025",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121025",
+        "eventActor" : "LFA6"
+      } ],
+      "entities" : [ ],
+      "handle" : "LFA6"
+    } ],
+    "handle" : "CO-EPME8-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LFA6",
+      "value" : "http://rdap.labs.lacnic.net/entity/LFA6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Fernando Ramirez Arrubla"],["adr",{"label":"Carrera 58 Nro. 42-125  ()\nMedellin, null 050034\nCO","type":"work"},"text",["","","Carrera 58 Nro. 42-125  ()","Medellin","","050034","CO"]],["email",{"type":"work"},"text","Luis.Ramirez.Arrubla@EPM.COM.CO"],["tel",{"type":"work"},"text","57 4 3806555 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20121025",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121025",
+      "eventActor" : "LFA6"
+    } ],
+    "entities" : [ ],
+    "handle" : "LFA6"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LFA6",
+      "value" : "http://rdap.labs.lacnic.net/entity/LFA6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Fernando Ramirez Arrubla"],["adr",{"label":"Carrera 58 Nro. 42-125  ()\nMedellin, null 050034\nCO","type":"work"},"text",["","","Carrera 58 Nro. 42-125  ()","Medellin","","050034","CO"]],["email",{"type":"work"},"text","Luis.Ramirez.Arrubla@EPM.COM.CO"],["tel",{"type":"work"},"text","57 4 3806555 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20121025",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121025",
+      "eventActor" : "LFA6"
+    } ],
+    "entities" : [ ],
+    "handle" : "LFA6"
+  } ],
+  "type" : null,
+  "handle" : "52456-LACNIC",
+  "country" : "CO"
+}

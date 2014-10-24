@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27818",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27818"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-COTE6-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-COTE6-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cooperativa Telef?nica SMA - Cotesma"],["adr",{"label":"Capit?n Drury 761 ()\nSan Mart?n de los Andes - NQN, NQ 8370\nAR","type":"work"},"text",["","","Capit?n Drury 761 ()","San Mart?n de los Andes - NQN","NQ","8370","AR"]],["email",{"type":"work"},"text","redadmin@COTESMA.COM.AR"],["tel",{"type":"work"},"text","0054 2972 427000 (102)"],["org",{},"text",["Cotesma"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ANM7",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ANM7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cooperativa Telef?nica SMA - Cotesma"],["adr",{"label":"Cap. Drury 761 ()\nSan Martin de los Andes, NQ 8370\nAR","type":"work"},"text",["","","Cap. Drury 761 ()","San Martin de los Andes","NQ","8370","AR"]],["email",{"type":"work"},"text","redadmin@COTESMA.COM.AR"],["tel",{"type":"work"},"text","54 2972 427000 (116)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050908",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20060420",
+        "eventActor" : "ANM7"
+      } ],
+      "handle" : "ANM7"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20051027",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130209",
+      "eventActor" : "ANM7"
+    } ],
+    "handle" : "AR-COTE6-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ANM7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ANM7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cooperativa Telef?nica SMA - Cotesma"],["adr",{"label":"Cap. Drury 761 ()\nSan Martin de los Andes, NQ 8370\nAR","type":"work"},"text",["","","Cap. Drury 761 ()","San Martin de los Andes","NQ","8370","AR"]],["email",{"type":"work"},"text","redadmin@COTESMA.COM.AR"],["tel",{"type":"work"},"text","54 2972 427000 (116)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050908",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060420",
+      "eventActor" : "ANM7"
+    } ],
+    "handle" : "ANM7"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ANM7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ANM7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cooperativa Telef?nica SMA - Cotesma"],["adr",{"label":"Cap. Drury 761 ()\nSan Martin de los Andes, NQ 8370\nAR","type":"work"},"text",["","","Cap. Drury 761 ()","San Martin de los Andes","NQ","8370","AR"]],["email",{"type":"work"},"text","redadmin@COTESMA.COM.AR"],["tel",{"type":"work"},"text","54 2972 427000 (116)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050908",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060420",
+      "eventActor" : "ANM7"
+    } ],
+    "handle" : "ANM7"
+  } ],
+  "startAutnum" : 27818,
+  "endAutnum" : 27818,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060331",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20060401",
+    "eventActor" : "ANM7"
+  } ],
+  "type" : null,
+  "handle" : "27818-LACNIC",
+  "country" : "AR"
+}

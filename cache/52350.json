@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52350",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52350"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CCSC1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CCSC1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Pablo Hiernard"],["adr",{"label":"Rivadavia 276 ()\nSuipacha, BA 6612\nAR","type":"work"},"text",["","","Rivadavia 276 ()","Suipacha","BA","6612","AR"]],["email",{"type":"work"},"text","soporte@COESANET.COM.AR"],["tel",{"type":"work"},"text","54 2324 480043 ()"],["org",{},"text",["Cooperativa de Electricidad, Obras y Servicios P?blicos Suipacha JJ Almeira Ltda."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JPH3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JPH3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Pablo Hiernard"],["adr",{"label":"Rivadavia 276 (--)\nSuipacha, null 6612\nAR","type":"work"},"text",["","","Rivadavia 276 (--)","Suipacha","","6612","AR"]],["email",{"type":"work"},"text","soporte@COESANET.COM.AR"],["tel",{"type":"work"},"text","54 2324 480043 (0)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110831",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110831",
+        "eventActor" : "JPH3"
+      } ],
+      "handle" : "JPH3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091019",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "JPH3"
+    } ],
+    "handle" : "AR-CCSC1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JPH3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JPH3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Pablo Hiernard"],["adr",{"label":"Rivadavia 276 (--)\nSuipacha, null 6612\nAR","type":"work"},"text",["","","Rivadavia 276 (--)","Suipacha","","6612","AR"]],["email",{"type":"work"},"text","soporte@COESANET.COM.AR"],["tel",{"type":"work"},"text","54 2324 480043 (0)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110831",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110831",
+      "eventActor" : "JPH3"
+    } ],
+    "handle" : "JPH3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JPH3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JPH3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Pablo Hiernard"],["adr",{"label":"Rivadavia 276 (--)\nSuipacha, null 6612\nAR","type":"work"},"text",["","","Rivadavia 276 (--)","Suipacha","","6612","AR"]],["email",{"type":"work"},"text","soporte@COESANET.COM.AR"],["tel",{"type":"work"},"text","54 2324 480043 (0)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110831",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110831",
+      "eventActor" : "JPH3"
+    } ],
+    "handle" : "JPH3"
+  } ],
+  "startAutnum" : 52350,
+  "endAutnum" : 52350,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111026",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20111026",
+    "eventActor" : "JPH3"
+  } ],
+  "type" : null,
+  "handle" : "52350-LACNIC",
+  "country" : "AR"
+}

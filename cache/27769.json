@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27769",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27769"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-DCSA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-DCSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hugo Montanari"],["adr",{"label":"Moreno 1808 ()\nCiudad Aut?noma de Buenos Aires,  1094\nAR","type":"work"},"text",["","","Moreno 1808 ()","Ciudad Aut?noma de Buenos Aires","","1094","AR"]],["email",{"type":"work"},"text","ipadmin@CROSSFONE.COM.AR"],["tel",{"type":"work"},"text","54 11 59175943 ()"],["org",{},"text",["DSR Comunicaciones S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/IAC",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/IAC"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hugo Montanari"],["adr",{"label":"Moreno 1808 ()\nBuenos Aires,  1094\nAR","type":"work"},"text",["","","Moreno 1808 ()","Buenos Aires","","1094","AR"]],["email",{"type":"work"},"text","ipadmin@CROSSFONE.COM.AR"],["tel",{"type":"work"},"text","54 11 59175943 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050504",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121219",
+        "eventActor" : "IAC"
+      } ],
+      "handle" : "IAC"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050511",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121221",
+      "eventActor" : "IAC"
+    } ],
+    "handle" : "AR-DCSA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/IAC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/IAC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hugo Montanari"],["adr",{"label":"Moreno 1808 ()\nBuenos Aires,  1094\nAR","type":"work"},"text",["","","Moreno 1808 ()","Buenos Aires","","1094","AR"]],["email",{"type":"work"},"text","ipadmin@CROSSFONE.COM.AR"],["tel",{"type":"work"},"text","54 11 59175943 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050504",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121219",
+      "eventActor" : "IAC"
+    } ],
+    "handle" : "IAC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/IAC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/IAC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hugo Montanari"],["adr",{"label":"Moreno 1808 ()\nBuenos Aires,  1094\nAR","type":"work"},"text",["","","Moreno 1808 ()","Buenos Aires","","1094","AR"]],["email",{"type":"work"},"text","ipadmin@CROSSFONE.COM.AR"],["tel",{"type":"work"},"text","54 11 59175943 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050504",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121219",
+      "eventActor" : "IAC"
+    } ],
+    "handle" : "IAC"
+  } ],
+  "startAutnum" : 27769,
+  "endAutnum" : 27769,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20050520",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20060715",
+    "eventActor" : "IAC"
+  } ],
+  "type" : null,
+  "handle" : "27769-LACNIC",
+  "country" : "AR"
+}

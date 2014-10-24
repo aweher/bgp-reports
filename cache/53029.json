@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53029,
+  "endAutnum" : 53029,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53029",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53029"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110824",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "SMR3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SILT54-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SILT54-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","sergio maia dos reis"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSeabra, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Seabra","BA","04578-000","BR"]],["email",{"type":"work"},"text","SMR3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["org",{},"text",["Seabra Informatica Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "SMR3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SMR3",
+        "value" : "http://rdap.labs.lacnic.net/entity/SMR3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","sergio maia dos reis"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSeabra, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Seabra","BA","04578-000","BR"]],["email",{"type":"work"},"text","SMR3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SMR3"
+      } ],
+      "entities" : [ ],
+      "handle" : "SMR3"
+    } ],
+    "handle" : "BR-SILT54-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SMR3",
+      "value" : "http://rdap.labs.lacnic.net/entity/SMR3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","sergio maia dos reis"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSeabra, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Seabra","BA","04578-000","BR"]],["email",{"type":"work"},"text","SMR3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SMR3"
+    } ],
+    "entities" : [ ],
+    "handle" : "SMR3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SMR3",
+      "value" : "http://rdap.labs.lacnic.net/entity/SMR3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","sergio maia dos reis"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSeabra, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Seabra","BA","04578-000","BR"]],["email",{"type":"work"},"text","SMR3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SMR3"
+    } ],
+    "entities" : [ ],
+    "handle" : "SMR3"
+  } ],
+  "type" : null,
+  "handle" : "53029-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262423,
+  "endAutnum" : 262423,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262423",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262423"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110324",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "DAM56"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PALT9-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PALT9-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Danilo Meles"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Sebasti?o do Para?so, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Sebasti?o do Para?so","MG","04578-000","BR"]],["email",{"type":"work"},"text","DAM56@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 03 555093511 ()"],["org",{},"text",["PARAISONET LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "DAM56"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DAM56",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAM56"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Danilo Meles"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS.S. Paraiso, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S.S. Paraiso","MG","04578-000","BR"]],["email",{"type":"work"},"text","DAM56@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DAM56"
+      } ],
+      "entities" : [ ],
+      "handle" : "DAM56"
+    } ],
+    "handle" : "BR-PALT9-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DAM56",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAM56"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Danilo Meles"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS.S. Paraiso, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S.S. Paraiso","MG","04578-000","BR"]],["email",{"type":"work"},"text","DAM56@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DAM56"
+    } ],
+    "entities" : [ ],
+    "handle" : "DAM56"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DAM56",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAM56"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Danilo Meles"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS.S. Paraiso, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S.S. Paraiso","MG","04578-000","BR"]],["email",{"type":"work"},"text","DAM56@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DAM56"
+    } ],
+    "entities" : [ ],
+    "handle" : "DAM56"
+  } ],
+  "type" : null,
+  "handle" : "262423-LACNIC",
+  "country" : "BR"
+}

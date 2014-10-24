@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52661,
+  "endAutnum" : 52661,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52661",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52661"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121121",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130508",
+    "eventActor" : "JOC108"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-OAIL2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-OAIL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Aquarius de Eden"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBrumadinho, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Brumadinho","MG","04578-000","BR"]],["email",{"type":"work"},"text","AQE@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["org",{},"text",["Oliveira e Andrade Inform?tica LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131024",
+      "eventActor" : "AQE"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/AQE",
+        "value" : "http://rdap.labs.lacnic.net/entity/AQE"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Aquarius de Eden"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBrumadinho, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Brumadinho","MG","04578-000","BR"]],["email",{"type":"work"},"text","AQE@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "AQE"
+      } ],
+      "entities" : [ ],
+      "handle" : "AQE"
+    } ],
+    "handle" : "BR-OAIL2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JOC108",
+      "value" : "http://rdap.labs.lacnic.net/entity/JOC108"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JONY CRUZ"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","","04578-000","BR"]],["email",{"type":"work"},"text","JOC108@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130508",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130508",
+      "eventActor" : "JOC108"
+    } ],
+    "entities" : [ ],
+    "handle" : "JOC108"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JOC108",
+      "value" : "http://rdap.labs.lacnic.net/entity/JOC108"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JONY CRUZ"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","","04578-000","BR"]],["email",{"type":"work"},"text","JOC108@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130508",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130508",
+      "eventActor" : "JOC108"
+    } ],
+    "entities" : [ ],
+    "handle" : "JOC108"
+  } ],
+  "type" : null,
+  "handle" : "52661-LACNIC",
+  "country" : "BR"
+}

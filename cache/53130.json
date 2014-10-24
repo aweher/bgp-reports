@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53130,
+  "endAutnum" : 53130,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53130",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53130"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100303",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130909",
+    "eventActor" : "MBF10"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-IPMB-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-IPMB-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauricio Moraes da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMuzambinho, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Muzambinho","MG","04578-000","BR"]],["email",{"type":"work"},"text","MMS8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["org",{},"text",["Internet Provider Mil Br Net Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130909",
+      "eventActor" : "MMS8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MMS8",
+        "value" : "http://rdap.labs.lacnic.net/entity/MMS8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauricio Moraes da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMuzambinho, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Muzambinho","MG","04578-000","BR"]],["email",{"type":"work"},"text","MMS8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MMS8"
+      } ],
+      "entities" : [ ],
+      "handle" : "MMS8"
+    } ],
+    "handle" : "BR-IPMB-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MBF10",
+      "value" : "http://rdap.labs.lacnic.net/entity/MBF10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Bueno Guimar?es Filho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMuzambinho, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Muzambinho","MG","04578-000","BR"]],["email",{"type":"work"},"text","MBF10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130909",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130909",
+      "eventActor" : "MBF10"
+    } ],
+    "entities" : [ ],
+    "handle" : "MBF10"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MMS8",
+      "value" : "http://rdap.labs.lacnic.net/entity/MMS8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauricio Moraes da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMuzambinho, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Muzambinho","MG","04578-000","BR"]],["email",{"type":"work"},"text","MMS8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MMS8"
+    } ],
+    "entities" : [ ],
+    "handle" : "MMS8"
+  } ],
+  "type" : null,
+  "handle" : "53130-LACNIC",
+  "country" : "BR"
+}

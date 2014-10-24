@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/26610",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/26610"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-UTFS1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-UTFS1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gonzalo Vasquez"],["adr",{"label":"Avenida Espana 1680 ()\nValparaiso,  110-V\nCL","type":"work"},"text",["","","Avenida Espana 1680 ()","Valparaiso","","110-V","CL"]],["email",{"type":"work"},"text","nic@USM.CL"],["tel",{"type":"work"},"text","56 32 654237 ()"],["org",{},"text",["Universidad Tecnica Federico Santa Maria"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MAM",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAM"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gonzalo Vasquez"],["adr",{"label":"Avenida Espana 1680 ()\nValparaiso,  110-V\nCL","type":"work"},"text",["","","Avenida Espana 1680 ()","Valparaiso","","110-V","CL"]],["email",{"type":"work"},"text","nic@USM.CL"],["tel",{"type":"work"},"text","56 32 654237 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20020906",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110221",
+        "eventActor" : "MAM"
+      } ],
+      "handle" : "MAM"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020906",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110221",
+      "eventActor" : "MAM"
+    } ],
+    "handle" : "CL-UTFS1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gonzalo Vasquez"],["adr",{"label":"Avenida Espana 1680 ()\nValparaiso,  110-V\nCL","type":"work"},"text",["","","Avenida Espana 1680 ()","Valparaiso","","110-V","CL"]],["email",{"type":"work"},"text","nic@USM.CL"],["tel",{"type":"work"},"text","56 32 654237 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020906",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110221",
+      "eventActor" : "MAM"
+    } ],
+    "handle" : "MAM"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gonzalo Vasquez"],["adr",{"label":"Avenida Espana 1680 ()\nValparaiso,  110-V\nCL","type":"work"},"text",["","","Avenida Espana 1680 ()","Valparaiso","","110-V","CL"]],["email",{"type":"work"},"text","nic@USM.CL"],["tel",{"type":"work"},"text","56 32 654237 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020906",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110221",
+      "eventActor" : "MAM"
+    } ],
+    "handle" : "MAM"
+  } ],
+  "startAutnum" : 26610,
+  "endAutnum" : 26610,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20021023",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20060815",
+    "eventActor" : "MAM"
+  } ],
+  "type" : null,
+  "handle" : "26610-LACNIC",
+  "country" : "CL"
+}

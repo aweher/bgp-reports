@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52540,
+  "endAutnum" : 52540,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52540",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52540"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130610",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130610",
+    "eventActor" : "HFL2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-HFIC-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-HFIC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","H & F Inform?tica e Consultoria Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEspig?o do Oeste, RO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Espig?o do Oeste","RO","04578-000","BR"]],["email",{"type":"work"},"text","HFL2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 69 55093511 ()"],["org",{},"text",["H & F Informatica e Consultoria Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "HFL2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/HFL2",
+        "value" : "http://rdap.labs.lacnic.net/entity/HFL2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","H & F Inform?tica e Consultoria Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEspig?o do Oeste, RO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Espig?o do Oeste","RO","04578-000","BR"]],["email",{"type":"work"},"text","HFL2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 69 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "HFL2"
+      } ],
+      "entities" : [ ],
+      "handle" : "HFL2"
+    } ],
+    "handle" : "BR-HFIC-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HFL2",
+      "value" : "http://rdap.labs.lacnic.net/entity/HFL2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","H & F Inform?tica e Consultoria Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEspig?o do Oeste, RO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Espig?o do Oeste","RO","04578-000","BR"]],["email",{"type":"work"},"text","HFL2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 69 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "HFL2"
+    } ],
+    "entities" : [ ],
+    "handle" : "HFL2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HFL2",
+      "value" : "http://rdap.labs.lacnic.net/entity/HFL2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","H & F Inform?tica e Consultoria Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEspig?o do Oeste, RO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Espig?o do Oeste","RO","04578-000","BR"]],["email",{"type":"work"},"text","HFL2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 69 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "HFL2"
+    } ],
+    "entities" : [ ],
+    "handle" : "HFL2"
+  } ],
+  "type" : null,
+  "handle" : "52540-LACNIC",
+  "country" : "BR"
+}

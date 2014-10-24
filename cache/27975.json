@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27975,
+  "endAutnum" : 27975,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27975",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27975"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080610",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131211",
+    "eventActor" : "JCR49"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-DCLT-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-DCLT-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Diaz"],["adr",{"label":"CARRERA 14 85-68 (piso 5)\nBogota, Cu 057\nCO","type":"work"},"text",["","","CARRERA 14 85-68 (piso 5)","Bogota","Cu","057","CO"]],["email",{"type":"work"},"text","CDIAZ@SYNAPSIS-IT.COM"],["tel",{"type":"work"},"text","57 1 6322999 (1421)"],["org",{},"text",["SYNAPSIS COLOMBIA SAS"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030123",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131211",
+      "eventActor" : "JUC3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JUC3",
+        "value" : "http://rdap.labs.lacnic.net/entity/JUC3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Diaz"],["adr",{"label":"Transversal 18 No. 96-41-piso 3 1 (1)\nBogota, Cu 110221\nCO","type":"work"},"text",["","","Transversal 18 No. 96-41-piso 3 1 (1)","Bogota","Cu","110221","CO"]],["email",{"type":"work"},"text","CDIAZ@SYNAPSIS-IT.COM"],["tel",{"type":"work"},"text","57 1 6322999 (1445)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030120",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131025",
+        "eventActor" : "JUC3"
+      } ],
+      "entities" : [ ],
+      "handle" : "JUC3"
+    } ],
+    "handle" : "CO-DCLT-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JCR49",
+      "value" : "http://rdap.labs.lacnic.net/entity/JCR49"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julio Cesar Ricaurte"],["adr",{"label":"Carrera 14 N? 85 - 68, Piso 5 Edificio Torres 85  ()\nBogota,  \nCO","type":"work"},"text",["","","Carrera 14 N? 85 - 68, Piso 5 Edificio Torres 85  ()","Bogota","","","CO"]],["email",{"type":"work"},"text","jricaurte@SYNAPSIS-IT.COM"],["tel",{"type":"work"},"text","57 1 6322999 (1421)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131120",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131120",
+      "eventActor" : "JCR49"
+    } ],
+    "entities" : [ ],
+    "handle" : "JCR49"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JCR49",
+      "value" : "http://rdap.labs.lacnic.net/entity/JCR49"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julio Cesar Ricaurte"],["adr",{"label":"Carrera 14 N? 85 - 68, Piso 5 Edificio Torres 85  ()\nBogota,  \nCO","type":"work"},"text",["","","Carrera 14 N? 85 - 68, Piso 5 Edificio Torres 85  ()","Bogota","","","CO"]],["email",{"type":"work"},"text","jricaurte@SYNAPSIS-IT.COM"],["tel",{"type":"work"},"text","57 1 6322999 (1421)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131120",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131120",
+      "eventActor" : "JCR49"
+    } ],
+    "entities" : [ ],
+    "handle" : "JCR49"
+  } ],
+  "type" : null,
+  "handle" : "27975-LACNIC",
+  "country" : "CO"
+}

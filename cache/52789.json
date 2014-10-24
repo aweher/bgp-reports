@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52789,
+  "endAutnum" : 52789,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52789",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52789"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120925",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ROP38"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SNPI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SNPI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ronaldo Pelizon"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJa?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ja?","SP","04578-000","BR"]],["email",{"type":"work"},"text","ROP38@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["SILVA NET PROVEDOR DE INTERNET LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "ROP38"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ROP38",
+        "value" : "http://rdap.labs.lacnic.net/entity/ROP38"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ronaldo Pelizon"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJa?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ja?","SP","04578-000","BR"]],["email",{"type":"work"},"text","ROP38@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ROP38"
+      } ],
+      "entities" : [ ],
+      "handle" : "ROP38"
+    } ],
+    "handle" : "BR-SNPI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ROP38",
+      "value" : "http://rdap.labs.lacnic.net/entity/ROP38"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ronaldo Pelizon"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJa?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ja?","SP","04578-000","BR"]],["email",{"type":"work"},"text","ROP38@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ROP38"
+    } ],
+    "entities" : [ ],
+    "handle" : "ROP38"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WIT4",
+      "value" : "http://rdap.labs.lacnic.net/entity/WIT4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","W2i Telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJa?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ja?","SP","04578-000","BR"]],["email",{"type":"work"},"text","WIT4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WIT4"
+    } ],
+    "entities" : [ ],
+    "handle" : "WIT4"
+  } ],
+  "type" : null,
+  "handle" : "52789-LACNIC",
+  "country" : "BR"
+}

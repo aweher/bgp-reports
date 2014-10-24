@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28348,
+  "endAutnum" : 28348,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28348",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28348"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070925",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "LPM4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-LILT15-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-LILT15-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luiz Paulo Ramos de Melo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOliveira, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Oliveira","MG","04578-000","BR"]],["email",{"type":"work"},"text","LPM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["org",{},"text",["LUMA INFORMATICA LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131217",
+      "eventActor" : "LPM4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LPM4",
+        "value" : "http://rdap.labs.lacnic.net/entity/LPM4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luiz Paulo Ramos de Melo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNova Lima, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Nova Lima","MG","04578-000","BR"]],["email",{"type":"work"},"text","LPM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LPM4"
+      } ],
+      "entities" : [ ],
+      "handle" : "LPM4"
+    } ],
+    "handle" : "BR-LILT15-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LPM4",
+      "value" : "http://rdap.labs.lacnic.net/entity/LPM4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luiz Paulo Ramos de Melo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNova Lima, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Nova Lima","MG","04578-000","BR"]],["email",{"type":"work"},"text","LPM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LPM4"
+    } ],
+    "entities" : [ ],
+    "handle" : "LPM4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LPM4",
+      "value" : "http://rdap.labs.lacnic.net/entity/LPM4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luiz Paulo Ramos de Melo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNova Lima, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Nova Lima","MG","04578-000","BR"]],["email",{"type":"work"},"text","LPM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LPM4"
+    } ],
+    "entities" : [ ],
+    "handle" : "LPM4"
+  } ],
+  "type" : null,
+  "handle" : "28348-LACNIC",
+  "country" : "BR"
+}

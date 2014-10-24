@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52383",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52383"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CEAL2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CEAL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Silvio Diaz"],["adr",{"label":"Yrigoyen 318 ()\nAzul, BA 7300\nAR","type":"work"},"text",["","","Yrigoyen 318 ()","Azul","BA","7300","AR"]],["email",{"type":"work"},"text","tecnica@CEAL.COM.AR"],["tel",{"type":"work"},"text","54 2281 431600 ()"],["org",{},"text",["Cooperativa El?ctrica de Azul Ltda."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CEL16",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CEL16"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Silvio Diaz"],["adr",{"label":"Hipolito Yrigoyen 318 ()\nAzul,  7300\nAR","type":"work"},"text",["","","Hipolito Yrigoyen 318 ()","Azul","","7300","AR"]],["email",{"type":"work"},"text","tecnica@CEAL.COM.AR"],["tel",{"type":"work"},"text","54 2281 431600 (137)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120123",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130613",
+        "eventActor" : "CEL16"
+      } ],
+      "handle" : "CEL16"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101007",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "CEL16"
+    } ],
+    "handle" : "AR-CEAL2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CEL16",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CEL16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Silvio Diaz"],["adr",{"label":"Hipolito Yrigoyen 318 ()\nAzul,  7300\nAR","type":"work"},"text",["","","Hipolito Yrigoyen 318 ()","Azul","","7300","AR"]],["email",{"type":"work"},"text","tecnica@CEAL.COM.AR"],["tel",{"type":"work"},"text","54 2281 431600 (137)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120123",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130613",
+      "eventActor" : "CEL16"
+    } ],
+    "handle" : "CEL16"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CEL16",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CEL16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Silvio Diaz"],["adr",{"label":"Hipolito Yrigoyen 318 ()\nAzul,  7300\nAR","type":"work"},"text",["","","Hipolito Yrigoyen 318 ()","Azul","","7300","AR"]],["email",{"type":"work"},"text","tecnica@CEAL.COM.AR"],["tel",{"type":"work"},"text","54 2281 431600 (137)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120123",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130613",
+      "eventActor" : "CEL16"
+    } ],
+    "handle" : "CEL16"
+  } ],
+  "startAutnum" : 52383,
+  "endAutnum" : 52383,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120720",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120720",
+    "eventActor" : "CEL16"
+  } ],
+  "type" : null,
+  "handle" : "52383-LACNIC",
+  "country" : "AR"
+}

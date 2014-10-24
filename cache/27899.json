@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27899",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27899"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-QSIS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-QSIS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hernan Fernandez"],["adr",{"label":"750-1391 6403 (569)\nSANTIAGO, RM 750-1391\nCL","type":"work"},"text",["","","750-1391 6403 (569)","SANTIAGO","RM","750-1391","CL"]],["email",{"type":"work"},"text","hfernandez@QUINTEC.CL"],["tel",{"type":"work"},"text","56 2 6403400 ()"],["org",{},"text",["Quintec Soluciones Informaticas S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/HEF7",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/HEF7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hernan Fernandez"],["adr",{"label":"750-1391 6403 (569)\nSantiago, null 750-1391\nCL","type":"work"},"text",["","","750-1391 6403 (569)","Santiago","","750-1391","CL"]],["email",{"type":"work"},"text","hfernandez@QUINTEC.CL"],["tel",{"type":"work"},"text","56 2 6403400 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20070323",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20070323",
+        "eventActor" : "HEF7"
+      } ],
+      "handle" : "HEF7"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070416",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20081113",
+      "eventActor" : "HEF7"
+    } ],
+    "handle" : "CL-QSIS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CPV2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CPV2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cristian Paul Villaseñor"],["adr",{"label":"7501391 6403 (417)\nSantiago, null 7501391\nCL","type":"work"},"text",["","","7501391 6403 (417)","Santiago","","7501391","CL"]],["email",{"type":"work"},"text","cpaul@QUINTEC.CL"],["tel",{"type":"work"},"text","56 02 6403400 (417)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070314",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070314",
+      "eventActor" : "CPV2"
+    } ],
+    "handle" : "CPV2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CPV2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CPV2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cristian Paul Villaseñor"],["adr",{"label":"7501391 6403 (417)\nSantiago, null 7501391\nCL","type":"work"},"text",["","","7501391 6403 (417)","Santiago","","7501391","CL"]],["email",{"type":"work"},"text","cpaul@QUINTEC.CL"],["tel",{"type":"work"},"text","56 02 6403400 (417)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070314",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070314",
+      "eventActor" : "CPV2"
+    } ],
+    "handle" : "CPV2"
+  } ],
+  "startAutnum" : 27899,
+  "endAutnum" : 27899,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070426",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20091228",
+    "eventActor" : "CPV2"
+  } ],
+  "type" : null,
+  "handle" : "27899-LACNIC",
+  "country" : "CL"
+}

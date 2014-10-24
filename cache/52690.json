@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52690,
+  "endAutnum" : 52690,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52690",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52690"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121214",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MAN63"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VPTI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VPTI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MIGUEL ANTONIO DE OLIVEIRA NETO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeresina, PI 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teresina","PI","04578-000","BR"]],["email",{"type":"work"},"text","MAN63@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 86 55093511 ()"],["org",{},"text",["VIA PERSONAL TECNOLOGIA, INFORMA??O E COMUNICA??O"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "MAN63"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MAN63",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAN63"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MIGUEL ANTONIO DE OLIVEIRA NETO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeresina, PI 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teresina","PI","04578-000","BR"]],["email",{"type":"work"},"text","MAN63@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 86 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MAN63"
+      } ],
+      "entities" : [ ],
+      "handle" : "MAN63"
+    } ],
+    "handle" : "BR-VPTI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAN63",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAN63"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MIGUEL ANTONIO DE OLIVEIRA NETO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeresina, PI 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teresina","PI","04578-000","BR"]],["email",{"type":"work"},"text","MAN63@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 86 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAN63"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAN63"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAN63",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAN63"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MIGUEL ANTONIO DE OLIVEIRA NETO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeresina, PI 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teresina","PI","04578-000","BR"]],["email",{"type":"work"},"text","MAN63@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 86 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAN63"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAN63"
+  } ],
+  "type" : null,
+  "handle" : "52690-LACNIC",
+  "country" : "BR"
+}

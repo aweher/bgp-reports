@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52800,
+  "endAutnum" : 52800,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52800",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52800"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121002",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ALG94"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-OSEW-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-OSEW-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Anderson Leandro Gon?alez"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItirapina, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itirapina","SP","04578-000","BR"]],["email",{"type":"work"},"text","ALG94@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["OS CONNECT INFORMATICA EIRELI - EPP"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140603",
+      "eventActor" : "ALG94"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ALG94",
+        "value" : "http://rdap.labs.lacnic.net/entity/ALG94"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Anderson Leandro Gon?alez"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItirapina, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itirapina","SP","04578-000","BR"]],["email",{"type":"work"},"text","ALG94@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ALG94"
+      } ],
+      "entities" : [ ],
+      "handle" : "ALG94"
+    } ],
+    "handle" : "BR-OSEW-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALG94",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALG94"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Anderson Leandro Gon?alez"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItirapina, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itirapina","SP","04578-000","BR"]],["email",{"type":"work"},"text","ALG94@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ALG94"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALG94"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WAS31",
+      "value" : "http://rdap.labs.lacnic.net/entity/WAS31"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Waiton Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItirapina, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itirapina","SP","04578-000","BR"]],["email",{"type":"work"},"text","WAS31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WAS31"
+    } ],
+    "entities" : [ ],
+    "handle" : "WAS31"
+  } ],
+  "type" : null,
+  "handle" : "52800-LACNIC",
+  "country" : "BR"
+}

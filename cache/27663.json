@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27663,
+  "endAutnum" : 27663,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27663",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27663"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20041110",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20041110",
+    "eventActor" : "BCS"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-BCSA1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-BCSA1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","BRINKS DE COLOMBIA S.A"],["adr",{"label":"Cll 164 (39-20)\nBogota,  01\nCO","type":"work"},"text",["","","Cll 164 (39-20)","Bogota","","01","CO"]],["email",{"type":"work"},"text","dominio@BRINKS.COM.CO"],["tel",{"type":"work"},"text","57 1 6671150 (2115)"],["org",{},"text",["BRINKS DE COLOMBIA S.A."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040823",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121206",
+      "eventActor" : "BCS"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/BCS",
+        "value" : "http://rdap.labs.lacnic.net/entity/BCS"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","BRINKS DE COLOMBIA S.A"],["adr",{"label":"Cll 23 No. 72A-80  ()\nBogota, 01 01\nCO","type":"work"},"text",["","","Cll 23 No. 72A-80  ()","Bogota","01","01","CO"]],["email",{"type":"work"},"text","dominio@BRINKS.COM.CO"],["tel",{"type":"work"},"text","57 1 4199696 (2740)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20040804",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121101",
+        "eventActor" : "BCS"
+      } ],
+      "entities" : [ ],
+      "handle" : "BCS"
+    } ],
+    "handle" : "CO-BCSA1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BCS",
+      "value" : "http://rdap.labs.lacnic.net/entity/BCS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","BRINKS DE COLOMBIA S.A"],["adr",{"label":"Cll 23 No. 72A-80  ()\nBogota, 01 01\nCO","type":"work"},"text",["","","Cll 23 No. 72A-80  ()","Bogota","01","01","CO"]],["email",{"type":"work"},"text","dominio@BRINKS.COM.CO"],["tel",{"type":"work"},"text","57 1 4199696 (2740)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040804",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121101",
+      "eventActor" : "BCS"
+    } ],
+    "entities" : [ ],
+    "handle" : "BCS"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BCS",
+      "value" : "http://rdap.labs.lacnic.net/entity/BCS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","BRINKS DE COLOMBIA S.A"],["adr",{"label":"Cll 23 No. 72A-80  ()\nBogota, 01 01\nCO","type":"work"},"text",["","","Cll 23 No. 72A-80  ()","Bogota","01","01","CO"]],["email",{"type":"work"},"text","dominio@BRINKS.COM.CO"],["tel",{"type":"work"},"text","57 1 4199696 (2740)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040804",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121101",
+      "eventActor" : "BCS"
+    } ],
+    "entities" : [ ],
+    "handle" : "BCS"
+  } ],
+  "type" : null,
+  "handle" : "27663-LACNIC",
+  "country" : "CO"
+}

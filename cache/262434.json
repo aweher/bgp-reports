@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262434,
+  "endAutnum" : 262434,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262434",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262434"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110406",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "WPL4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-WPSI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-WPSI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","WLN - PROVEDOR DE SERVIOS DE INTERNET LT"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRealeza, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Realeza","PR","04578-000","BR"]],["email",{"type":"work"},"text","WPL4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["org",{},"text",["WIIP TELECOM SERVI?OS DE INTERNET LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140523",
+      "eventActor" : "WPL4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/WPL4",
+        "value" : "http://rdap.labs.lacnic.net/entity/WPL4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","WLN - PROVEDOR DE SERVIOS DE INTERNET LT"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRealeza, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Realeza","PR","04578-000","BR"]],["email",{"type":"work"},"text","WPL4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "WPL4"
+      } ],
+      "entities" : [ ],
+      "handle" : "WPL4"
+    } ],
+    "handle" : "BR-WPSI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WPL4",
+      "value" : "http://rdap.labs.lacnic.net/entity/WPL4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","WLN - PROVEDOR DE SERVIOS DE INTERNET LT"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRealeza, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Realeza","PR","04578-000","BR"]],["email",{"type":"work"},"text","WPL4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WPL4"
+    } ],
+    "entities" : [ ],
+    "handle" : "WPL4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WPL4",
+      "value" : "http://rdap.labs.lacnic.net/entity/WPL4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","WLN - PROVEDOR DE SERVIOS DE INTERNET LT"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRealeza, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Realeza","PR","04578-000","BR"]],["email",{"type":"work"},"text","WPL4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WPL4"
+    } ],
+    "entities" : [ ],
+    "handle" : "WPL4"
+  } ],
+  "type" : null,
+  "handle" : "262434-LACNIC",
+  "country" : "BR"
+}

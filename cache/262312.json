@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262312,
+  "endAutnum" : 262312,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262312",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262312"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111214",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "DSR2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VTST-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VTST-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","David de Sousa Rodrigues"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJaguaribe, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jaguaribe","CE","04578-000","BR"]],["email",{"type":"work"},"text","DSR2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 88 55093511 ()"],["org",{},"text",["VEX TELECOM SERVI?OS DE TELECOMUNICA??O LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "DSR2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DSR2",
+        "value" : "http://rdap.labs.lacnic.net/entity/DSR2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","David de Sousa Rodrigues"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJaguaribe, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jaguaribe","CE","04578-000","BR"]],["email",{"type":"work"},"text","DSR2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 88 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DSR2"
+      } ],
+      "entities" : [ ],
+      "handle" : "DSR2"
+    } ],
+    "handle" : "BR-VTST-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DSR2",
+      "value" : "http://rdap.labs.lacnic.net/entity/DSR2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","David de Sousa Rodrigues"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJaguaribe, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jaguaribe","CE","04578-000","BR"]],["email",{"type":"work"},"text","DSR2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 88 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DSR2"
+    } ],
+    "entities" : [ ],
+    "handle" : "DSR2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DSR2",
+      "value" : "http://rdap.labs.lacnic.net/entity/DSR2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","David de Sousa Rodrigues"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJaguaribe, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jaguaribe","CE","04578-000","BR"]],["email",{"type":"work"},"text","DSR2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 88 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DSR2"
+    } ],
+    "entities" : [ ],
+    "handle" : "DSR2"
+  } ],
+  "type" : null,
+  "handle" : "262312-LACNIC",
+  "country" : "BR"
+}

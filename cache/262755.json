@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262755,
+  "endAutnum" : 262755,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262755",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262755"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100723",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "AIP7"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-APIL4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-APIL4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Aonet Internet Provider"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDuartina, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Duartina","SP","04578-000","BR"]],["email",{"type":"work"},"text","AIP7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["org",{},"text",["Aonet Provedor de Internet LTDA - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130726",
+      "eventActor" : "AIP7"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/AIP7",
+        "value" : "http://rdap.labs.lacnic.net/entity/AIP7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Aonet Internet Provider"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDuartina, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Duartina","SP","04578-000","BR"]],["email",{"type":"work"},"text","AIP7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "AIP7"
+      } ],
+      "entities" : [ ],
+      "handle" : "AIP7"
+    } ],
+    "handle" : "BR-APIL4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AIP7",
+      "value" : "http://rdap.labs.lacnic.net/entity/AIP7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Aonet Internet Provider"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDuartina, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Duartina","SP","04578-000","BR"]],["email",{"type":"work"},"text","AIP7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AIP7"
+    } ],
+    "entities" : [ ],
+    "handle" : "AIP7"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AIP7",
+      "value" : "http://rdap.labs.lacnic.net/entity/AIP7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Aonet Internet Provider"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDuartina, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Duartina","SP","04578-000","BR"]],["email",{"type":"work"},"text","AIP7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AIP7"
+    } ],
+    "entities" : [ ],
+    "handle" : "AIP7"
+  } ],
+  "type" : null,
+  "handle" : "262755-LACNIC",
+  "country" : "BR"
+}

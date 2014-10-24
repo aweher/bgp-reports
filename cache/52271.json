@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52271",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52271"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CEEY1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CEEY1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alejandro Rivero"],["adr",{"label":"9 de Julio 158 ()\nLas Varillas, CO 5940\nAR","type":"work"},"text",["","","9 de Julio 158 ()","Las Varillas","CO","5940","AR"]],["email",{"type":"work"},"text","alerivero@LASVARINET.COM.AR"],["tel",{"type":"work"},"text","54 0353 422070 (118)"],["org",{},"text",["Coop. Energ?a Elect. y Otros Servicios Las Varillas"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ALR25",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ALR25"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alejandro Rivero"],["adr",{"label":"9 de Julio 148 ()\nLas Varillas, null 5940\nAR","type":"work"},"text",["","","9 de Julio 148 ()","Las Varillas","","5940","AR"]],["email",{"type":"work"},"text","alerivero@LASVARINET.COM.AR"],["tel",{"type":"work"},"text","54 0353 422070 (118)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20091202",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20091202",
+        "eventActor" : "ALR25"
+      } ],
+      "handle" : "ALR25"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100209",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "ALR25"
+    } ],
+    "handle" : "AR-CEEY1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ALR25",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALR25"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alejandro Rivero"],["adr",{"label":"9 de Julio 148 ()\nLas Varillas, null 5940\nAR","type":"work"},"text",["","","9 de Julio 148 ()","Las Varillas","","5940","AR"]],["email",{"type":"work"},"text","alerivero@LASVARINET.COM.AR"],["tel",{"type":"work"},"text","54 0353 422070 (118)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091202",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20091202",
+      "eventActor" : "ALR25"
+    } ],
+    "handle" : "ALR25"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ALR25",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALR25"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alejandro Rivero"],["adr",{"label":"9 de Julio 148 ()\nLas Varillas, null 5940\nAR","type":"work"},"text",["","","9 de Julio 148 ()","Las Varillas","","5940","AR"]],["email",{"type":"work"},"text","alerivero@LASVARINET.COM.AR"],["tel",{"type":"work"},"text","54 0353 422070 (118)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091202",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20091202",
+      "eventActor" : "ALR25"
+    } ],
+    "handle" : "ALR25"
+  } ],
+  "startAutnum" : 52271,
+  "endAutnum" : 52271,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100812",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100813",
+    "eventActor" : "ALR25"
+  } ],
+  "type" : null,
+  "handle" : "52271-LACNIC",
+  "country" : "AR"
+}

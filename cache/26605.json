@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 26605,
+  "endAutnum" : 26605,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/26605",
+    "value" : "http://rdap.labs.lacnic.net/autnum/26605"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20040722",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20040722",
+    "eventActor" : "ENT"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-UISU-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-UISU-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jaime Sarmiento"],["adr",{"label":"Carrera 27 9 (Ciud. Univer)\nBucaramanga, Sa 9999\nCO","type":"work"},"text",["","","Carrera 27 9 (Ciud. Univer)","Bucaramanga","Sa","9999","CO"]],["email",{"type":"work"},"text","jaimesar@UIS.EDU.CO"],["tel",{"type":"work"},"text","57 7 6454959 ()"],["org",{},"text",["Universidad Industrial de Santander - UIS"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040526",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120229",
+      "eventActor" : "ENT"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ENT",
+        "value" : "http://rdap.labs.lacnic.net/entity/ENT"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jaime Sarmiento"],["adr",{"label":"Carrera 27 9 (Cuid. Univer)\nBucaramanga, Sa 9999\nCO","type":"work"},"text",["","","Carrera 27 9 (Cuid. Univer)","Bucaramanga","Sa","9999","CO"]],["email",{"type":"work"},"text","jaimesar@UIS.EDU.CO"],["tel",{"type":"work"},"text","57 7 6454959 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20040526",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110325",
+        "eventActor" : "ENT"
+      } ],
+      "entities" : [ ],
+      "handle" : "ENT"
+    } ],
+    "handle" : "CO-UISU-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ENT",
+      "value" : "http://rdap.labs.lacnic.net/entity/ENT"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jaime Sarmiento"],["adr",{"label":"Carrera 27 9 (Cuid. Univer)\nBucaramanga, Sa 9999\nCO","type":"work"},"text",["","","Carrera 27 9 (Cuid. Univer)","Bucaramanga","Sa","9999","CO"]],["email",{"type":"work"},"text","jaimesar@UIS.EDU.CO"],["tel",{"type":"work"},"text","57 7 6454959 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040526",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110325",
+      "eventActor" : "ENT"
+    } ],
+    "entities" : [ ],
+    "handle" : "ENT"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ENT",
+      "value" : "http://rdap.labs.lacnic.net/entity/ENT"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jaime Sarmiento"],["adr",{"label":"Carrera 27 9 (Cuid. Univer)\nBucaramanga, Sa 9999\nCO","type":"work"},"text",["","","Carrera 27 9 (Cuid. Univer)","Bucaramanga","Sa","9999","CO"]],["email",{"type":"work"},"text","jaimesar@UIS.EDU.CO"],["tel",{"type":"work"},"text","57 7 6454959 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040526",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110325",
+      "eventActor" : "ENT"
+    } ],
+    "entities" : [ ],
+    "handle" : "ENT"
+  } ],
+  "type" : null,
+  "handle" : "26605-LACNIC",
+  "country" : "CO"
+}

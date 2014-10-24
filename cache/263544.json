@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263544,
+  "endAutnum" : 263544,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263544",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263544"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140128",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140128",
+    "eventActor" : "SSC10"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VNTL2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VNTL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","sinvaldo santos correia"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nV?rzea Paulista, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","V?rzea Paulista","","04578-000","BR"]],["email",{"type":"work"},"text","SSC10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["VARZEA NET TELECOMUNICACOES LTDA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "SSC10"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SSC10",
+        "value" : "http://rdap.labs.lacnic.net/entity/SSC10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","sinvaldo santos correia"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nV?rzea Paulista, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","V?rzea Paulista","SP","04578-000","BR"]],["email",{"type":"work"},"text","SSC10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SSC10"
+      } ],
+      "entities" : [ ],
+      "handle" : "SSC10"
+    } ],
+    "handle" : "BR-VNTL2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SSC10",
+      "value" : "http://rdap.labs.lacnic.net/entity/SSC10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","sinvaldo santos correia"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nV?rzea Paulista, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","V?rzea Paulista","SP","04578-000","BR"]],["email",{"type":"work"},"text","SSC10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SSC10"
+    } ],
+    "entities" : [ ],
+    "handle" : "SSC10"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SSC10",
+      "value" : "http://rdap.labs.lacnic.net/entity/SSC10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","sinvaldo santos correia"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nV?rzea Paulista, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","V?rzea Paulista","SP","04578-000","BR"]],["email",{"type":"work"},"text","SSC10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SSC10"
+    } ],
+    "entities" : [ ],
+    "handle" : "SSC10"
+  } ],
+  "type" : null,
+  "handle" : "263544-LACNIC",
+  "country" : "BR"
+}

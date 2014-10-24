@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61446,
+  "endAutnum" : 61446,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61446",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61446"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140627",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140627",
+    "eventActor" : "GAL31"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-STAR1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-STAR1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gonzalo Rugeles"],["adr",{"label":"AV 12 DE OCTUBRE CALLE 7A 10 (33)\nManizales, CL \nCO","type":"work"},"text",["","","AV 12 DE OCTUBRE CALLE 7A 10 (33)","Manizales","CL","","CO"]],["email",{"type":"work"},"text","grugeles@AZTECA-COMUNICACIONES.COM"],["tel",{"type":"work"},"text","57  3182574439 ()"],["org",{},"text",["STARCOMUNICACIONES"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140124",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140124",
+      "eventActor" : "GOR12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GOR12",
+        "value" : "http://rdap.labs.lacnic.net/entity/GOR12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gonzalo Rugeles"],["adr",{"label":"Kra 43-37 29 (casa A6)\nsanta marta, mg NONE\nCO","type":"work"},"text",["","","Kra 43-37 29 (casa A6)","santa marta","mg","NONE","CO"]],["email",{"type":"work"},"text","grugeles@AZTECA-COMUNICACIONES.COM"],["tel",{"type":"work"},"text","57 5 4208432 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20140107",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140107",
+        "eventActor" : "GOR12"
+      } ],
+      "entities" : [ ],
+      "handle" : "GOR12"
+    } ],
+    "handle" : "CO-STAR1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GAL31",
+      "value" : "http://rdap.labs.lacnic.net/entity/GAL31"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Giovan Alberto Alarcon Lancheros"],["adr",{"label":"Av 12 de Octubre Calle 7A # 10-33  ()\nManizales, ca 472\nCO","type":"work"},"text",["","","Av 12 de Octubre Calle 7A # 10-33  ()","Manizales","ca","472","CO"]],["email",{"type":"work"},"text","conectividad@STARCOMUNICACIONES.INFO"],["tel",{"type":"work"},"text","57 6 8930800 (107)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140520",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140520",
+      "eventActor" : "GAL31"
+    } ],
+    "entities" : [ ],
+    "handle" : "GAL31"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GAL31",
+      "value" : "http://rdap.labs.lacnic.net/entity/GAL31"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Giovan Alberto Alarcon Lancheros"],["adr",{"label":"Av 12 de Octubre Calle 7A # 10-33  ()\nManizales, ca 472\nCO","type":"work"},"text",["","","Av 12 de Octubre Calle 7A # 10-33  ()","Manizales","ca","472","CO"]],["email",{"type":"work"},"text","conectividad@STARCOMUNICACIONES.INFO"],["tel",{"type":"work"},"text","57 6 8930800 (107)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140520",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140520",
+      "eventActor" : "GAL31"
+    } ],
+    "entities" : [ ],
+    "handle" : "GAL31"
+  } ],
+  "type" : null,
+  "handle" : "61446-LACNIC",
+  "country" : "CO"
+}

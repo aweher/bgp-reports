@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262642,
+  "endAutnum" : 262642,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262642",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262642"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111117",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "EAN5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-EANA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-EANA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Erinaldo Alves do Nascimento"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCupira, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cupira","PE","04578-000","BR"]],["email",{"type":"work"},"text","EAN5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["org",{},"text",["ERINALDO ALVES DO NASCIMENTO"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "EAN5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EAN5",
+        "value" : "http://rdap.labs.lacnic.net/entity/EAN5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Erinaldo Alves do Nascimento"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCupira, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cupira","PE","04578-000","BR"]],["email",{"type":"work"},"text","EAN5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EAN5"
+      } ],
+      "entities" : [ ],
+      "handle" : "EAN5"
+    } ],
+    "handle" : "BR-EANA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EAN5",
+      "value" : "http://rdap.labs.lacnic.net/entity/EAN5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Erinaldo Alves do Nascimento"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCupira, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cupira","PE","04578-000","BR"]],["email",{"type":"work"},"text","EAN5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EAN5"
+    } ],
+    "entities" : [ ],
+    "handle" : "EAN5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EAN5",
+      "value" : "http://rdap.labs.lacnic.net/entity/EAN5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Erinaldo Alves do Nascimento"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCupira, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cupira","PE","04578-000","BR"]],["email",{"type":"work"},"text","EAN5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EAN5"
+    } ],
+    "entities" : [ ],
+    "handle" : "EAN5"
+  } ],
+  "type" : null,
+  "handle" : "262642-LACNIC",
+  "country" : "BR"
+}

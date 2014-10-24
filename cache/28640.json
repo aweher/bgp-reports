@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28640,
+  "endAutnum" : 28640,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28640",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28640"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060328",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "VCC8"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VSTL2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VSTL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Valmir Claudio Consoni"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSantos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santos","SP","04578-000","BR"]],["email",{"type":"work"},"text","VCC8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 13 55093511 ()"],["org",{},"text",["VIPWay Servi?os de Telecomunica??es Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "VCC8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/VCC8",
+        "value" : "http://rdap.labs.lacnic.net/entity/VCC8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Valmir Claudio Consoni"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSantos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santos","SP","04578-000","BR"]],["email",{"type":"work"},"text","VCC8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 13 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "VCC8"
+      } ],
+      "entities" : [ ],
+      "handle" : "VCC8"
+    } ],
+    "handle" : "BR-VSTL2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VCC8",
+      "value" : "http://rdap.labs.lacnic.net/entity/VCC8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Valmir Claudio Consoni"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSantos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santos","SP","04578-000","BR"]],["email",{"type":"work"},"text","VCC8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 13 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VCC8"
+    } ],
+    "entities" : [ ],
+    "handle" : "VCC8"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GSI3",
+      "value" : "http://rdap.labs.lacnic.net/entity/GSI3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gerencia de Seguran?a da Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSantos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santos","SP","04578-000","BR"]],["email",{"type":"work"},"text","GSI3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 13 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GSI3"
+    } ],
+    "entities" : [ ],
+    "handle" : "GSI3"
+  } ],
+  "type" : null,
+  "handle" : "28640-LACNIC",
+  "country" : "BR"
+}

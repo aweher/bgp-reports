@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27979",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27979"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-SCSA28-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-SCSA28-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Meneses"],["adr",{"label":"Agustinas 1490 (Piso 10)\nSantiago, RM 8340466\nCL","type":"work"},"text",["","","Agustinas 1490 (Piso 10)","Santiago","RM","8340466","CL"]],["email",{"type":"work"},"text","mmeneses@STEL.CL"],["tel",{"type":"work"},"text","56 2 4201418 ()"],["org",{},"text",["Stel Chile S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MAM77",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAM77"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Meneses"],["adr",{"label":"agustinas 1490 (piso 10)\nsantiago, null \nCL","type":"work"},"text",["","","agustinas 1490 (piso 10)","santiago","","","CL"]],["email",{"type":"work"},"text","mmeneses@STEL.CL"],["tel",{"type":"work"},"text","56 02 5732000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120302",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120302",
+        "eventActor" : "MAM77"
+      } ],
+      "handle" : "MAM77"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071221",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "MAM77"
+    } ],
+    "handle" : "CL-SCSA28-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ALU2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALU2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alejandra Ulloa"],["adr",{"label":"Calle Agustinas 1490 (Piso 10)\nSantiago, null 8340466\nCL","type":"work"},"text",["","","Calle Agustinas 1490 (Piso 10)","Santiago","","8340466","CL"]],["email",{"type":"work"},"text","alejandra@STELSA.CL"],["tel",{"type":"work"},"text","56 2 4201418 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070515",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070515",
+      "eventActor" : "ALU2"
+    } ],
+    "handle" : "ALU2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ALU2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALU2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alejandra Ulloa"],["adr",{"label":"Calle Agustinas 1490 (Piso 10)\nSantiago, null 8340466\nCL","type":"work"},"text",["","","Calle Agustinas 1490 (Piso 10)","Santiago","","8340466","CL"]],["email",{"type":"work"},"text","alejandra@STELSA.CL"],["tel",{"type":"work"},"text","56 2 4201418 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070515",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070515",
+      "eventActor" : "ALU2"
+    } ],
+    "handle" : "ALU2"
+  } ],
+  "startAutnum" : 27979,
+  "endAutnum" : 27979,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080702",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080702",
+    "eventActor" : "ALU2"
+  } ],
+  "type" : null,
+  "handle" : "27979-LACNIC",
+  "country" : "CL"
+}

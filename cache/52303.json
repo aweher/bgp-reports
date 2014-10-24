@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52303",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52303"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-COSP4-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-COSP4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo C. Pascutti"],["adr",{"label":"9 DE JULIO 118 (MARCOS JUAREZ)\nCORDOBA, - -\nAR","type":"work"},"text",["","","9 DE JULIO 118 (MARCOS JUAREZ)","CORDOBA","-","-","AR"]],["email",{"type":"work"},"text","ppascutti@COYSPU.COM.AR"],["tel",{"type":"work"},"text","54 3472 455555 (211)"],["org",{},"text",["COOP.DE OB.Y SERVICIOS PUB. DE MARCOS JUAREZ"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PCP",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PCP"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo C. Pascutti"],["adr",{"label":"champagnat 778 ()\nmarcos juarez,  2580\nAR","type":"work"},"text",["","","champagnat 778 ()","marcos juarez","","2580","AR"]],["email",{"type":"work"},"text","ppascutti@COYSPU.COM.AR"],["tel",{"type":"work"},"text","54 3472 455555 (211)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20081205",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120821",
+        "eventActor" : "PCP"
+      } ],
+      "handle" : "PCP"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100614",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "PCP"
+    } ],
+    "handle" : "AR-COSP4-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PCP",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PCP"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo C. Pascutti"],["adr",{"label":"champagnat 778 ()\nmarcos juarez,  2580\nAR","type":"work"},"text",["","","champagnat 778 ()","marcos juarez","","2580","AR"]],["email",{"type":"work"},"text","ppascutti@COYSPU.COM.AR"],["tel",{"type":"work"},"text","54 3472 455555 (211)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081205",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120821",
+      "eventActor" : "PCP"
+    } ],
+    "handle" : "PCP"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PCP",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PCP"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo C. Pascutti"],["adr",{"label":"champagnat 778 ()\nmarcos juarez,  2580\nAR","type":"work"},"text",["","","champagnat 778 ()","marcos juarez","","2580","AR"]],["email",{"type":"work"},"text","ppascutti@COYSPU.COM.AR"],["tel",{"type":"work"},"text","54 3472 455555 (211)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081205",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120821",
+      "eventActor" : "PCP"
+    } ],
+    "handle" : "PCP"
+  } ],
+  "startAutnum" : 52303,
+  "endAutnum" : 52303,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101223",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20101224",
+    "eventActor" : "PCP"
+  } ],
+  "type" : null,
+  "handle" : "52303-LACNIC",
+  "country" : "AR"
+}

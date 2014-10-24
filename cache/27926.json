@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27926",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27926"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-ASSR2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-ASSR2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","HSI Networks"],["adr",{"label":"25 de Mayo 778 ()\nGeneral Roca, RN R8332AIP\nAR","type":"work"},"text",["","","25 de Mayo 778 ()","General Roca","RN","R8332AIP","AR"]],["email",{"type":"work"},"text","it@HSINETWORKS.COM.AR"],["tel",{"type":"work"},"text","54 29 41 421566 ()"],["org",{},"text",["ASA SRL"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PAL5",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PAL5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","HSI Networks"],["adr",{"label":"25 de Mayo 778 ()\nGral. Roca, RN R8332AIP\nAR","type":"work"},"text",["","","25 de Mayo 778 ()","Gral. Roca","RN","R8332AIP","AR"]],["email",{"type":"work"},"text","it@HSINETWORKS.COM.AR"],["tel",{"type":"work"},"text","54 2941 421566 (218)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060713",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20090723",
+        "eventActor" : "PAL5"
+      } ],
+      "handle" : "PAL5"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070731",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "PAL5"
+    } ],
+    "handle" : "AR-ASSR2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAL5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAL5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","HSI Networks"],["adr",{"label":"25 de Mayo 778 ()\nGral. Roca, RN R8332AIP\nAR","type":"work"},"text",["","","25 de Mayo 778 ()","Gral. Roca","RN","R8332AIP","AR"]],["email",{"type":"work"},"text","it@HSINETWORKS.COM.AR"],["tel",{"type":"work"},"text","54 2941 421566 (218)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060713",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090723",
+      "eventActor" : "PAL5"
+    } ],
+    "handle" : "PAL5"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAL5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAL5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","HSI Networks"],["adr",{"label":"25 de Mayo 778 ()\nGral. Roca, RN R8332AIP\nAR","type":"work"},"text",["","","25 de Mayo 778 ()","Gral. Roca","RN","R8332AIP","AR"]],["email",{"type":"work"},"text","it@HSINETWORKS.COM.AR"],["tel",{"type":"work"},"text","54 2941 421566 (218)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060713",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090723",
+      "eventActor" : "PAL5"
+    } ],
+    "handle" : "PAL5"
+  } ],
+  "startAutnum" : 27926,
+  "endAutnum" : 27926,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070829",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20070830",
+    "eventActor" : "PAL5"
+  } ],
+  "type" : null,
+  "handle" : "27926-LACNIC",
+  "country" : "AR"
+}

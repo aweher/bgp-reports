@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27855,
+  "endAutnum" : 27855,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27855",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27855"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20061002",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130617",
+    "eventActor" : "JAM79"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-AXSA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-AXSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Henry Bruges"],["adr",{"label":"Carrera 7 No. 71-52, Oficina 509 57 (Torre B)\nBogot?, CU --\nCO","type":"work"},"text",["","","Carrera 7 No. 71-52, Oficina 509 57 (Torre B)","Bogot?","CU","--","CO"]],["email",{"type":"work"},"text","henry.bruges@AXESAT.COM"],["tel",{"type":"work"},"text","57 1 2916464 (203)"],["org",{},"text",["AXESAT S.A"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060913",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130813",
+      "eventActor" : "OMS2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/OMS2",
+        "value" : "http://rdap.labs.lacnic.net/entity/OMS2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Henry Bruges"],["adr",{"label":"Av Boyaca # 95 51 int 14 57 ()\nBogota, Cu 11001000\nCO","type":"work"},"text",["","","Av Boyaca # 95 51 int 14 57 ()","Bogota","Cu","11001000","CO"]],["email",{"type":"work"},"text","henry.bruges@AXESAT.COM"],["tel",{"type":"work"},"text","57 1 2916464 (203)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060908",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110113",
+        "eventActor" : "OMS2"
+      } ],
+      "entities" : [ ],
+      "handle" : "OMS2"
+    } ],
+    "handle" : "CO-AXSA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JAM79",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAM79"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Alexander Mesa"],["adr",{"label":"Carrera 7 # 71-52 Torre B Oficina 505 71-52 (Torre B)\nBogota, null \nCO","type":"work"},"text",["","","Carrera 7 # 71-52 Torre B Oficina 505 71-52 (Torre B)","Bogota","","","CO"]],["email",{"type":"work"},"text","infraestructura@AXESAT.COM"],["tel",{"type":"work"},"text","57 1 2916466 (4116)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130617",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130617",
+      "eventActor" : "JAM79"
+    } ],
+    "entities" : [ ],
+    "handle" : "JAM79"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JAM79",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAM79"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Alexander Mesa"],["adr",{"label":"Carrera 7 # 71-52 Torre B Oficina 505 71-52 (Torre B)\nBogota, null \nCO","type":"work"},"text",["","","Carrera 7 # 71-52 Torre B Oficina 505 71-52 (Torre B)","Bogota","","","CO"]],["email",{"type":"work"},"text","infraestructura@AXESAT.COM"],["tel",{"type":"work"},"text","57 1 2916466 (4116)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130617",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130617",
+      "eventActor" : "JAM79"
+    } ],
+    "entities" : [ ],
+    "handle" : "JAM79"
+  } ],
+  "type" : null,
+  "handle" : "27855-LACNIC",
+  "country" : "CO"
+}

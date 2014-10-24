@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52626,
+  "endAutnum" : 52626,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52626",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52626"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130403",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140215",
+    "eventActor" : "CRC32"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NPWL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NPWL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lauren Cesar Lima"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNovo Progresso, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Novo Progresso","PA","04578-000","BR"]],["email",{"type":"work"},"text","LCL30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 93 55093511 ()"],["org",{},"text",["NovaNet Provedor e Web Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130313",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140128",
+      "eventActor" : "LCL30"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LCL30",
+        "value" : "http://rdap.labs.lacnic.net/entity/LCL30"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lauren Cesar Lima"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNovo Progresso, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Novo Progresso","","04578-000","BR"]],["email",{"type":"work"},"text","LCL30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 93 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130313",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130313",
+        "eventActor" : "LCL30"
+      } ],
+      "entities" : [ ],
+      "handle" : "LCL30"
+    } ],
+    "handle" : "BR-NPWL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CRC32",
+      "value" : "http://rdap.labs.lacnic.net/entity/CRC32"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Consultik - Rafael Galdino da Cunha"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVit?ria, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vit?ria","","04578-000","BR"]],["email",{"type":"work"},"text","CRC32@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130702",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130702",
+      "eventActor" : "CRC32"
+    } ],
+    "entities" : [ ],
+    "handle" : "CRC32"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CRC32",
+      "value" : "http://rdap.labs.lacnic.net/entity/CRC32"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Consultik - Rafael Galdino da Cunha"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVit?ria, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vit?ria","","04578-000","BR"]],["email",{"type":"work"},"text","CRC32@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130702",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130702",
+      "eventActor" : "CRC32"
+    } ],
+    "entities" : [ ],
+    "handle" : "CRC32"
+  } ],
+  "type" : null,
+  "handle" : "52626-LACNIC",
+  "country" : "BR"
+}

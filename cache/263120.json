@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263120,
+  "endAutnum" : 263120,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263120",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263120"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140508",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140623",
+    "eventActor" : "GCS20"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SNCO-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SNCO-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Filipe lucas de sousa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLimeira, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Limeira","SP","04578-000","BR"]],["email",{"type":"work"},"text","FLS40@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["Star Net Comunicaco"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140404",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140404",
+      "eventActor" : "FLS40"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FLS40",
+        "value" : "http://rdap.labs.lacnic.net/entity/FLS40"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Filipe lucas de sousa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLimeira, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Limeira","SP","04578-000","BR"]],["email",{"type":"work"},"text","FLS40@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20140404",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140404",
+        "eventActor" : "FLS40"
+      } ],
+      "entities" : [ ],
+      "handle" : "FLS40"
+    } ],
+    "handle" : "BR-SNCO-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GCS20",
+      "value" : "http://rdap.labs.lacnic.net/entity/GCS20"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gedilson Custodio Santana"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLimeira, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Limeira","SP","04578-000","BR"]],["email",{"type":"work"},"text","GCS20@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140623",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140623",
+      "eventActor" : "GCS20"
+    } ],
+    "entities" : [ ],
+    "handle" : "GCS20"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FLS40",
+      "value" : "http://rdap.labs.lacnic.net/entity/FLS40"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Filipe lucas de sousa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLimeira, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Limeira","SP","04578-000","BR"]],["email",{"type":"work"},"text","FLS40@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140404",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140404",
+      "eventActor" : "FLS40"
+    } ],
+    "entities" : [ ],
+    "handle" : "FLS40"
+  } ],
+  "type" : null,
+  "handle" : "263120-LACNIC",
+  "country" : "BR"
+}

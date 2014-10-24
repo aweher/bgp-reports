@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/15034",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/15034"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TISA3-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TISA3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Rojas"],["adr",{"label":"Austria 2900 ()\nBuenos Aires,  C1425EGX\nAR","type":"work"},"text",["","","Austria 2900 ()","Buenos Aires","","C1425EGX","AR"]],["email",{"type":"work"},"text","j.rojas@TIBA.COM"],["tel",{"type":"work"},"text","54 11 48068400 (232)"],["org",{},"text",["TIBA S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JUR",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JUR"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Rojas"],["adr",{"label":"Saenz Valiente 2420 ()\nMartinez, BA 1640\nAR","type":"work"},"text",["","","Saenz Valiente 2420 ()","Martinez","BA","1640","AR"]],["email",{"type":"work"},"text","j.rojas@TIBA.COM"],["tel",{"type":"work"},"text","54 11 41068400 (344)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030317",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110103",
+        "eventActor" : "JUR"
+      } ],
+      "handle" : "JUR"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020917",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "JUR"
+    } ],
+    "handle" : "AR-TISA3-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JUR",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JUR"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Rojas"],["adr",{"label":"Saenz Valiente 2420 ()\nMartinez, BA 1640\nAR","type":"work"},"text",["","","Saenz Valiente 2420 ()","Martinez","BA","1640","AR"]],["email",{"type":"work"},"text","j.rojas@TIBA.COM"],["tel",{"type":"work"},"text","54 11 41068400 (344)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030317",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110103",
+      "eventActor" : "JUR"
+    } ],
+    "handle" : "JUR"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JUR",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JUR"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Rojas"],["adr",{"label":"Saenz Valiente 2420 ()\nMartinez, BA 1640\nAR","type":"work"},"text",["","","Saenz Valiente 2420 ()","Martinez","BA","1640","AR"]],["email",{"type":"work"},"text","j.rojas@TIBA.COM"],["tel",{"type":"work"},"text","54 11 41068400 (344)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030317",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110103",
+      "eventActor" : "JUR"
+    } ],
+    "handle" : "JUR"
+  } ],
+  "startAutnum" : 15034,
+  "endAutnum" : 15034,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20000310",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20030317",
+    "eventActor" : "JUR"
+  } ],
+  "type" : null,
+  "handle" : "15034-LACNIC",
+  "country" : "AR"
+}

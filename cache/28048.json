@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28048",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28048"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-IPTG-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-IPTG-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gaitan Jose Walter"],["adr",{"label":"Av. Facundo Quiroga 947 ()\nLa Rioja,  5300\nAR","type":"work"},"text",["","","Av. Facundo Quiroga 947 ()","La Rioja","","5300","AR"]],["email",{"type":"work"},"text","joseg@IPARATODOS.COM.AR"],["tel",{"type":"work"},"text","54 3822 15660919 ()"],["org",{},"text",["Internet Para Todos - Gobierno de La Rioja"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GJW",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GJW"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gaitan Jose Walter"],["adr",{"label":"Calle Mayas, Barrio Juan F. Quiroga 40 ()\nLa Rioja,  5300\nAR","type":"work"},"text",["","","Calle Mayas, Barrio Juan F. Quiroga 40 ()","La Rioja","","5300","AR"]],["email",{"type":"work"},"text","joseg@IPARATODOS.COM.AR"],["tel",{"type":"work"},"text","54 3822 423146 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080908",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140130",
+        "eventActor" : "GJW"
+      } ],
+      "handle" : "GJW"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080916",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "GJW"
+    } ],
+    "handle" : "AR-IPTG-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GJW",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GJW"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gaitan Jose Walter"],["adr",{"label":"Calle Mayas, Barrio Juan F. Quiroga 40 ()\nLa Rioja,  5300\nAR","type":"work"},"text",["","","Calle Mayas, Barrio Juan F. Quiroga 40 ()","La Rioja","","5300","AR"]],["email",{"type":"work"},"text","joseg@IPARATODOS.COM.AR"],["tel",{"type":"work"},"text","54 3822 423146 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080908",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140130",
+      "eventActor" : "GJW"
+    } ],
+    "handle" : "GJW"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GJW",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GJW"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gaitan Jose Walter"],["adr",{"label":"Calle Mayas, Barrio Juan F. Quiroga 40 ()\nLa Rioja,  5300\nAR","type":"work"},"text",["","","Calle Mayas, Barrio Juan F. Quiroga 40 ()","La Rioja","","5300","AR"]],["email",{"type":"work"},"text","joseg@IPARATODOS.COM.AR"],["tel",{"type":"work"},"text","54 3822 423146 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080908",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140130",
+      "eventActor" : "GJW"
+    } ],
+    "handle" : "GJW"
+  } ],
+  "startAutnum" : 28048,
+  "endAutnum" : 28048,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090331",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090331",
+    "eventActor" : "GJW"
+  } ],
+  "type" : null,
+  "handle" : "28048-LACNIC",
+  "country" : "AR"
+}

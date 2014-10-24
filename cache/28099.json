@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28099",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28099"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-ISIL2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-ISIL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andrés Bravo"],["adr",{"label":"4 Norte 1233 (Oficina C.)\nVi?a del Mar, VR ---\nCL","type":"work"},"text",["","","4 Norte 1233 (Oficina C.)","Vi?a del Mar","VR","---","CL"]],["email",{"type":"work"},"text","andres@IHOSTING.CL"],["tel",{"type":"work"},"text","56 32 2768037 (1000)"],["org",{},"text",["iHosting Servicios Internet Ltda."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ANB11",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ANB11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andrés Bravo"],["adr",{"label":"4 Norte 1233 (Of. C)\nViña del Mar, null 000000\nCL","type":"work"},"text",["","","4 Norte 1233 (Of. C)","Viña del Mar","","000000","CL"]],["email",{"type":"work"},"text","andres@IHOSTING.CL"],["tel",{"type":"work"},"text","56 32 2768037 (1000)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20091021",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20091021",
+        "eventActor" : "ANB11"
+      } ],
+      "handle" : "ANB11"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091113",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "ANB11"
+    } ],
+    "handle" : "CL-ISIL2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ANB11",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ANB11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andrés Bravo"],["adr",{"label":"4 Norte 1233 (Of. C)\nViña del Mar, null 000000\nCL","type":"work"},"text",["","","4 Norte 1233 (Of. C)","Viña del Mar","","000000","CL"]],["email",{"type":"work"},"text","andres@IHOSTING.CL"],["tel",{"type":"work"},"text","56 32 2768037 (1000)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091021",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20091021",
+      "eventActor" : "ANB11"
+    } ],
+    "handle" : "ANB11"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ANB11",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ANB11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andrés Bravo"],["adr",{"label":"4 Norte 1233 (Of. C)\nViña del Mar, null 000000\nCL","type":"work"},"text",["","","4 Norte 1233 (Of. C)","Viña del Mar","","000000","CL"]],["email",{"type":"work"},"text","andres@IHOSTING.CL"],["tel",{"type":"work"},"text","56 32 2768037 (1000)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091021",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20091021",
+      "eventActor" : "ANB11"
+    } ],
+    "handle" : "ANB11"
+  } ],
+  "startAutnum" : 28099,
+  "endAutnum" : 28099,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091124",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20091125",
+    "eventActor" : "ANB11"
+  } ],
+  "type" : null,
+  "handle" : "28099-LACNIC",
+  "country" : "CL"
+}

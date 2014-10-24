@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52693,
+  "endAutnum" : 52693,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52693",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52693"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121217",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "CLC49"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CTIL5-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CTIL5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Luiz Cant?"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPomerode, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pomerode","SC","04578-000","BR"]],["email",{"type":"work"},"text","CLC49@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["org",{},"text",["Conectel Telecomunica??es e Inform?tica Ltda ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130403",
+      "eventActor" : "CLC49"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CLC49",
+        "value" : "http://rdap.labs.lacnic.net/entity/CLC49"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Luiz Cant?"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTimb?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Timb?","SC","04578-000","BR"]],["email",{"type":"work"},"text","CLC49@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CLC49"
+      } ],
+      "entities" : [ ],
+      "handle" : "CLC49"
+    } ],
+    "handle" : "BR-CTIL5-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CLC49",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLC49"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Luiz Cant?"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTimb?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Timb?","SC","04578-000","BR"]],["email",{"type":"work"},"text","CLC49@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CLC49"
+    } ],
+    "entities" : [ ],
+    "handle" : "CLC49"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CLC49",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLC49"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Luiz Cant?"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTimb?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Timb?","SC","04578-000","BR"]],["email",{"type":"work"},"text","CLC49@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CLC49"
+    } ],
+    "entities" : [ ],
+    "handle" : "CLC49"
+  } ],
+  "type" : null,
+  "handle" : "52693-LACNIC",
+  "country" : "BR"
+}

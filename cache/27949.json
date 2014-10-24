@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27949",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27949"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-ANSE1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-ANSE1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Reyna"],["adr",{"label":"C?rdoba 720 ()\nBuenos Aires,  C1054AAT\nAR","type":"work"},"text",["","","C?rdoba 720 ()","Buenos Aires","","C1054AAT","AR"]],["email",{"type":"work"},"text","ASNTecnico@ANSES.GOV.AR"],["tel",{"type":"work"},"text","54 11 4015-2000 ()"],["org",{},"text",["ANSES - Administraci?n Nacional de la Seguridad Social"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GAR4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GAR4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Reyna"],["adr",{"label":"Defensa 192 (Piso 1)\nBuenos Aires, null C1065AAB\nAR","type":"work"},"text",["","","Defensa 192 (Piso 1)","Buenos Aires","","C1065AAB","AR"]],["email",{"type":"work"},"text","ASNTecnico@ANSES.GOV.AR"],["tel",{"type":"work"},"text","54 11 4015-2262 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20070627",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20070627",
+        "eventActor" : "GAR4"
+      } ],
+      "handle" : "GAR4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070131",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "GAR4"
+    } ],
+    "handle" : "AR-ANSE1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GAR4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GAR4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Reyna"],["adr",{"label":"Defensa 192 (Piso 1)\nBuenos Aires, null C1065AAB\nAR","type":"work"},"text",["","","Defensa 192 (Piso 1)","Buenos Aires","","C1065AAB","AR"]],["email",{"type":"work"},"text","ASNTecnico@ANSES.GOV.AR"],["tel",{"type":"work"},"text","54 11 4015-2262 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070627",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070627",
+      "eventActor" : "GAR4"
+    } ],
+    "handle" : "GAR4"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GAR4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GAR4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Reyna"],["adr",{"label":"Defensa 192 (Piso 1)\nBuenos Aires, null C1065AAB\nAR","type":"work"},"text",["","","Defensa 192 (Piso 1)","Buenos Aires","","C1065AAB","AR"]],["email",{"type":"work"},"text","ASNTecnico@ANSES.GOV.AR"],["tel",{"type":"work"},"text","54 11 4015-2262 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070627",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070627",
+      "eventActor" : "GAR4"
+    } ],
+    "handle" : "GAR4"
+  } ],
+  "startAutnum" : 27949,
+  "endAutnum" : 27949,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080114",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080114",
+    "eventActor" : "GAR4"
+  } ],
+  "type" : null,
+  "handle" : "27949-LACNIC",
+  "country" : "AR"
+}

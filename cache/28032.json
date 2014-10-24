@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28032,
+  "endAutnum" : 28032,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28032",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28032"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090123",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20101229",
+    "eventActor" : "HEJ"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PE-INSA24-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/PE-INSA24-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP-ITX"],["adr",{"label":"CALLE JULIO BECERRA 290, MIRAFLORES 000 (00000)\nLima, Li 0000\nPE","type":"work"},"text",["","","CALLE JULIO BECERRA 290, MIRAFLORES 000 (00000)","Lima","Li","0000","PE"]],["email",{"type":"work"},"text","adminred@INTERNEXA.COM"],["tel",{"type":"work"},"text","51 1 2557373 ()"],["org",{},"text",["INTERNEXA PERU S.A"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090108",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140409",
+      "eventActor" : "HEJ"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/HEJ",
+        "value" : "http://rdap.labs.lacnic.net/entity/HEJ"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP-ITX"],["adr",{"label":"Cl 12 sur # 18 - 168 bloque 5 Piso 2 00 (00000)\nMedellin, CO 00000\nCO","type":"work"},"text",["","","Cl 12 sur # 18 - 168 bloque 5 Piso 2 00 (00000)","Medellin","CO","00000","CO"]],["email",{"type":"work"},"text","adminred@INTERNEXA.COM"],["tel",{"type":"work"},"text","57 4 3171111 (73341)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090515",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130920",
+        "eventActor" : "HEJ"
+      } ],
+      "entities" : [ ],
+      "handle" : "HEJ"
+    } ],
+    "handle" : "PE-INSA24-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HEJ",
+      "value" : "http://rdap.labs.lacnic.net/entity/HEJ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP-ITX"],["adr",{"label":"Cl 12 sur # 18 - 168 bloque 5 Piso 2 00 (00000)\nMedellin, CO 00000\nCO","type":"work"},"text",["","","Cl 12 sur # 18 - 168 bloque 5 Piso 2 00 (00000)","Medellin","CO","00000","CO"]],["email",{"type":"work"},"text","adminred@INTERNEXA.COM"],["tel",{"type":"work"},"text","57 4 3171111 (73341)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090515",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130920",
+      "eventActor" : "HEJ"
+    } ],
+    "entities" : [ ],
+    "handle" : "HEJ"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HEJ",
+      "value" : "http://rdap.labs.lacnic.net/entity/HEJ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP-ITX"],["adr",{"label":"Cl 12 sur # 18 - 168 bloque 5 Piso 2 00 (00000)\nMedellin, CO 00000\nCO","type":"work"},"text",["","","Cl 12 sur # 18 - 168 bloque 5 Piso 2 00 (00000)","Medellin","CO","00000","CO"]],["email",{"type":"work"},"text","adminred@INTERNEXA.COM"],["tel",{"type":"work"},"text","57 4 3171111 (73341)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090515",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130920",
+      "eventActor" : "HEJ"
+    } ],
+    "entities" : [ ],
+    "handle" : "HEJ"
+  } ],
+  "type" : null,
+  "handle" : "28032-LACNIC",
+  "country" : "PE"
+}

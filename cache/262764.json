@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262764,
+  "endAutnum" : 262764,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262764",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262764"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100813",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "UTE"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-UTLE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-UTLE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","USONET TECNOLOGIC LTDA EPP"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNavira?, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Navira?","MS","04578-000","BR"]],["email",{"type":"work"},"text","UTE@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["org",{},"text",["USONET TECNOLOGIC LTDA - EPP"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "UTE"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/UTE",
+        "value" : "http://rdap.labs.lacnic.net/entity/UTE"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","USONET TECNOLOGIC LTDA EPP"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNavira?, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Navira?","MS","04578-000","BR"]],["email",{"type":"work"},"text","UTE@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "UTE"
+      } ],
+      "entities" : [ ],
+      "handle" : "UTE"
+    } ],
+    "handle" : "BR-UTLE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/UTE",
+      "value" : "http://rdap.labs.lacnic.net/entity/UTE"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","USONET TECNOLOGIC LTDA EPP"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNavira?, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Navira?","MS","04578-000","BR"]],["email",{"type":"work"},"text","UTE@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "UTE"
+    } ],
+    "entities" : [ ],
+    "handle" : "UTE"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LEV10",
+      "value" : "http://rdap.labs.lacnic.net/entity/LEV10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano Emilio Veras Vieira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNavira?, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Navira?","MS","04578-000","BR"]],["email",{"type":"work"},"text","LEV10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LEV10"
+    } ],
+    "entities" : [ ],
+    "handle" : "LEV10"
+  } ],
+  "type" : null,
+  "handle" : "262764-LACNIC",
+  "country" : "BR"
+}

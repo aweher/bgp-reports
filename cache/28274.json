@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28274,
+  "endAutnum" : 28274,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28274",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28274"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070222",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140528",
+    "eventActor" : "HEB27"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MIBL2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MIBL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rogerio da Costa Perez"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Bernardo do Campo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Bernardo do Campo","SP","04578-000","BR"]],["email",{"type":"work"},"text","RCP20@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["HEWLETT-PACKARD SERVI?OS LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140528",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140715",
+      "eventActor" : "RCP20"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RCP20",
+        "value" : "http://rdap.labs.lacnic.net/entity/RCP20"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rogerio da Costa Perez"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS.Caetano do Sul, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S.Caetano do Sul","SP","04578-000","BR"]],["email",{"type":"work"},"text","RCP20@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20140528",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140528",
+        "eventActor" : "RCP20"
+      } ],
+      "entities" : [ ],
+      "handle" : "RCP20"
+    } ],
+    "handle" : "BR-MIBL2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HEB27",
+      "value" : "http://rdap.labs.lacnic.net/entity/HEB27"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","HP ES Network Engineering Brazil"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Bernardo do Campo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Bernardo do Campo","SP","04578-000","BR"]],["email",{"type":"work"},"text","HEB27@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "HEB27"
+    } ],
+    "entities" : [ ],
+    "handle" : "HEB27"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HEB27",
+      "value" : "http://rdap.labs.lacnic.net/entity/HEB27"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","HP ES Network Engineering Brazil"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Bernardo do Campo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Bernardo do Campo","SP","04578-000","BR"]],["email",{"type":"work"},"text","HEB27@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "HEB27"
+    } ],
+    "entities" : [ ],
+    "handle" : "HEB27"
+  } ],
+  "type" : null,
+  "handle" : "28274-LACNIC",
+  "country" : "BR"
+}

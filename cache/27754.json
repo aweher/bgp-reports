@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27754",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27754"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CBOY-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CBOY-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Casaliggi"],["adr",{"label":"Julian Rios 4215 ()\nBatan, BA 7601\nAR","type":"work"},"text",["","","Julian Rios 4215 ()","Batan","BA","7601","AR"]],["email",{"type":"work"},"text","gabriel@ECOLAN.COM"],["tel",{"type":"work"},"text","54 223 464-3007 ()"],["org",{},"text",["Cooperativa Batan de Obras y Serv. Publicos Ltda"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ROF8",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ROF8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Casaliggi"],["adr",{"label":"Julian Rios 4215 ()\nBatan, BA 7601\nAR","type":"work"},"text",["","","Julian Rios 4215 ()","Batan","BA","7601","AR"]],["email",{"type":"work"},"text","gabriel@ECOLAN.COM"],["tel",{"type":"work"},"text","54 223 464-3007 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20041001",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100430",
+        "eventActor" : "ROF8"
+      } ],
+      "handle" : "ROF8"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041206",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130711",
+      "eventActor" : "ROF8"
+    } ],
+    "handle" : "AR-CBOY-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ROF8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ROF8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Casaliggi"],["adr",{"label":"Julian Rios 4215 ()\nBatan, BA 7601\nAR","type":"work"},"text",["","","Julian Rios 4215 ()","Batan","BA","7601","AR"]],["email",{"type":"work"},"text","gabriel@ECOLAN.COM"],["tel",{"type":"work"},"text","54 223 464-3007 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041001",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100430",
+      "eventActor" : "ROF8"
+    } ],
+    "handle" : "ROF8"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ROF8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ROF8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Casaliggi"],["adr",{"label":"Julian Rios 4215 ()\nBatan, BA 7601\nAR","type":"work"},"text",["","","Julian Rios 4215 ()","Batan","BA","7601","AR"]],["email",{"type":"work"},"text","gabriel@ECOLAN.COM"],["tel",{"type":"work"},"text","54 223 464-3007 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041001",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100430",
+      "eventActor" : "ROF8"
+    } ],
+    "handle" : "ROF8"
+  } ],
+  "startAutnum" : 27754,
+  "endAutnum" : 27754,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20041229",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20041229",
+    "eventActor" : "ROF8"
+  } ],
+  "type" : null,
+  "handle" : "27754-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52431",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52431"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CYBE6-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CYBE6-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Sosa Lugones"],["adr",{"label":"Santiago del Estero 1741 (7? Of A)\nMar del Plata, BA 7600\nAR","type":"work"},"text",["","","Santiago del Estero 1741 (7? Of A)","Mar del Plata","BA","7600","AR"]],["email",{"type":"work"},"text","noc@CYBERTECH.COM.AR"],["tel",{"type":"work"},"text","54 223 410 (4400)"],["org",{},"text",["CyberWave S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GRC7",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GRC7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Sosa Lugones"],["adr",{"label":"Santiago del Estero 1741 (7)\nMar del Plata, BA 7600\nAR","type":"work"},"text",["","","Santiago del Estero 1741 (7)","Mar del Plata","BA","7600","AR"]],["email",{"type":"work"},"text","noc@CYBERTECH.COM.AR"],["tel",{"type":"work"},"text","54 223 4104400 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20111123",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20111125",
+        "eventActor" : "GRC7"
+      } ],
+      "handle" : "GRC7"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100610",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "GRC7"
+    } ],
+    "handle" : "AR-CYBE6-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GRC7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GRC7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Sosa Lugones"],["adr",{"label":"Santiago del Estero 1741 (7)\nMar del Plata, BA 7600\nAR","type":"work"},"text",["","","Santiago del Estero 1741 (7)","Mar del Plata","BA","7600","AR"]],["email",{"type":"work"},"text","noc@CYBERTECH.COM.AR"],["tel",{"type":"work"},"text","54 223 4104400 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20111123",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111125",
+      "eventActor" : "GRC7"
+    } ],
+    "handle" : "GRC7"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GRC7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GRC7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Sosa Lugones"],["adr",{"label":"Santiago del Estero 1741 (7)\nMar del Plata, BA 7600\nAR","type":"work"},"text",["","","Santiago del Estero 1741 (7)","Mar del Plata","BA","7600","AR"]],["email",{"type":"work"},"text","noc@CYBERTECH.COM.AR"],["tel",{"type":"work"},"text","54 223 4104400 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20111123",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111125",
+      "eventActor" : "GRC7"
+    } ],
+    "handle" : "GRC7"
+  } ],
+  "startAutnum" : 52431,
+  "endAutnum" : 52431,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121217",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121217",
+    "eventActor" : "GRC7"
+  } ],
+  "type" : null,
+  "handle" : "52431-LACNIC",
+  "country" : "AR"
+}

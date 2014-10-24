@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27881",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27881"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-IPSA6-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-IPSA6-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Augusto Heiderscheid"],["adr",{"label":"Velez Sarsfield 285 ()\nAvellaneda, BA 1788\nAR","type":"work"},"text",["","","Velez Sarsfield 285 ()","Avellaneda","BA","1788","AR"]],["email",{"type":"work"},"text","augusto@IPNEXT.NET.AR"],["tel",{"type":"work"},"text","54 11 53684000 ()"],["org",{},"text",["IPNEXT S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/AUH",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/AUH"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Augusto Heiderscheid"],["adr",{"label":"Velez Sarfield 285 ()\nAvellaneda,  1788\nAR","type":"work"},"text",["","","Velez Sarfield 285 ()","Avellaneda","","1788","AR"]],["email",{"type":"work"},"text","augusto@IPNEXT.NET.AR"],["tel",{"type":"work"},"text","54 11 53684000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060918",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110112",
+        "eventActor" : "AUH"
+      } ],
+      "handle" : "AUH"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060927",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "AUH"
+    } ],
+    "handle" : "AR-IPSA6-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AUH",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AUH"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Augusto Heiderscheid"],["adr",{"label":"Velez Sarfield 285 ()\nAvellaneda,  1788\nAR","type":"work"},"text",["","","Velez Sarfield 285 ()","Avellaneda","","1788","AR"]],["email",{"type":"work"},"text","augusto@IPNEXT.NET.AR"],["tel",{"type":"work"},"text","54 11 53684000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060918",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110112",
+      "eventActor" : "AUH"
+    } ],
+    "handle" : "AUH"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AUH",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AUH"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Augusto Heiderscheid"],["adr",{"label":"Velez Sarfield 285 ()\nAvellaneda,  1788\nAR","type":"work"},"text",["","","Velez Sarfield 285 ()","Avellaneda","","1788","AR"]],["email",{"type":"work"},"text","augusto@IPNEXT.NET.AR"],["tel",{"type":"work"},"text","54 11 53684000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060918",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110112",
+      "eventActor" : "AUH"
+    } ],
+    "handle" : "AUH"
+  } ],
+  "startAutnum" : 27881,
+  "endAutnum" : 27881,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070207",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20070207",
+    "eventActor" : "AUH"
+  } ],
+  "type" : null,
+  "handle" : "27881-LACNIC",
+  "country" : "AR"
+}

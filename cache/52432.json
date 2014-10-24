@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52432",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52432"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CUEY2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CUEY2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Pablo Orruño"],["adr",{"label":"C. Pellegrini 237 ()\nCastelli, BA 7114\nAR","type":"work"},"text",["","","C. Pellegrini 237 ()","Castelli","BA","7114","AR"]],["email",{"type":"work"},"text","soporte@CUECCA.COM.AR"],["tel",{"type":"work"},"text","54 0224 480435 ()"],["org",{},"text",["Cooperativa de Usuarios de Electricidad y de Consumo de Castelli Ltda."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JPO2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JPO2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Pablo Orruño"],["adr",{"label":"C. Pellegrini 237 ()\nCastelli, null 7114\nAR","type":"work"},"text",["","","C. Pellegrini 237 ()","Castelli","","7114","AR"]],["email",{"type":"work"},"text","soporte@CUECCA.COM.AR"],["tel",{"type":"work"},"text","54 2245 480435 (109)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20121025",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121025",
+        "eventActor" : "JPO2"
+      } ],
+      "handle" : "JPO2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071116",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "JPO2"
+    } ],
+    "handle" : "AR-CUEY2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JPO2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JPO2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Pablo Orruño"],["adr",{"label":"C. Pellegrini 237 ()\nCastelli, null 7114\nAR","type":"work"},"text",["","","C. Pellegrini 237 ()","Castelli","","7114","AR"]],["email",{"type":"work"},"text","soporte@CUECCA.COM.AR"],["tel",{"type":"work"},"text","54 2245 480435 (109)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20121025",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121025",
+      "eventActor" : "JPO2"
+    } ],
+    "handle" : "JPO2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JPO2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JPO2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Pablo Orruño"],["adr",{"label":"C. Pellegrini 237 ()\nCastelli, null 7114\nAR","type":"work"},"text",["","","C. Pellegrini 237 ()","Castelli","","7114","AR"]],["email",{"type":"work"},"text","soporte@CUECCA.COM.AR"],["tel",{"type":"work"},"text","54 2245 480435 (109)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20121025",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121025",
+      "eventActor" : "JPO2"
+    } ],
+    "handle" : "JPO2"
+  } ],
+  "startAutnum" : 52432,
+  "endAutnum" : 52432,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121220",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121220",
+    "eventActor" : "JPO2"
+  } ],
+  "type" : null,
+  "handle" : "52432-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262249",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262249"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-SLYT-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-SLYT-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Brenta"],["adr",{"label":"25 de Mayo 606 (Piso 5)\nBuenos Aires,  1002\nAR","type":"work"},"text",["","","25 de Mayo 606 (Piso 5)","Buenos Aires","","1002","AR"]],["email",{"type":"work"},"text","gbrenta@BOLETINOFICIAL.GOV.AR"],["tel",{"type":"work"},"text","54 11 52188485 ()"],["org",{},"text",["Secretaria Legal y Tecnica"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GAB10",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GAB10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Brenta"],["adr",{"label":"Suipacha 767  ()\nCABA, CA 1165\nAR","type":"work"},"text",["","","Suipacha 767  ()","CABA","CA","1165","AR"]],["email",{"type":"work"},"text","gbrenta@BOLETINOFICIAL.GOV.AR"],["tel",{"type":"work"},"text","54 11 52188400 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120621",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120910",
+        "eventActor" : "GAB10"
+      } ],
+      "handle" : "GAB10"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120806",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121107",
+      "eventActor" : "GAB10"
+    } ],
+    "handle" : "AR-SLYT-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GAB10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GAB10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Brenta"],["adr",{"label":"Suipacha 767  ()\nCABA, CA 1165\nAR","type":"work"},"text",["","","Suipacha 767  ()","CABA","CA","1165","AR"]],["email",{"type":"work"},"text","gbrenta@BOLETINOFICIAL.GOV.AR"],["tel",{"type":"work"},"text","54 11 52188400 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120621",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120910",
+      "eventActor" : "GAB10"
+    } ],
+    "handle" : "GAB10"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GAB10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GAB10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Brenta"],["adr",{"label":"Suipacha 767  ()\nCABA, CA 1165\nAR","type":"work"},"text",["","","Suipacha 767  ()","CABA","CA","1165","AR"]],["email",{"type":"work"},"text","gbrenta@BOLETINOFICIAL.GOV.AR"],["tel",{"type":"work"},"text","54 11 52188400 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120621",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120910",
+      "eventActor" : "GAB10"
+    } ],
+    "handle" : "GAB10"
+  } ],
+  "startAutnum" : 262249,
+  "endAutnum" : 262249,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121106",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121106",
+    "eventActor" : "GAB10"
+  } ],
+  "type" : null,
+  "handle" : "262249-LACNIC",
+  "country" : "AR"
+}

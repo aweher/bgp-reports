@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 14080,
+  "endAutnum" : 14080,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/14080",
+    "value" : "http://rdap.labs.lacnic.net/autnum/14080"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19991015",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20010126",
+    "eventActor" : "ATI"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-ACSA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-ACSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Network Security Team"],["adr",{"label":"CLARO FIJO COLOMBIA - Cra 7 No. 63-44 11111 ()\nBogota, DC 11111\nCO","type":"work"},"text",["","","CLARO FIJO COLOMBIA - Cra 7 No. 63-44 11111 ()","Bogota","DC","11111","CO"]],["email",{"type":"work"},"text","abuse@TELMEXLA.NET.CO"],["tel",{"type":"work"},"text","57 01 7480000 ()"],["org",{},"text",["Telmex Colombia S.A."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020917",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130808",
+      "eventActor" : "ATI"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ATI",
+        "value" : "http://rdap.labs.lacnic.net/entity/ATI"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Network Security Team"],["adr",{"label":"Cra 7 # 63-44 Piso 6 00 (00)\nBogota, DC 10\nCO","type":"work"},"text",["","","Cra 7 # 63-44 Piso 6 00 (00)","Bogota","DC","10","CO"]],["email",{"type":"work"},"text","abuse@TELMEXLA.NET.CO"],["tel",{"type":"work"},"text","57 01 7480456 (81966)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20020909",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130417",
+        "eventActor" : "ATI"
+      } ],
+      "entities" : [ ],
+      "handle" : "ATI"
+    } ],
+    "handle" : "CO-ACSA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ATI",
+      "value" : "http://rdap.labs.lacnic.net/entity/ATI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Network Security Team"],["adr",{"label":"Cra 7 # 63-44 Piso 6 00 (00)\nBogota, DC 10\nCO","type":"work"},"text",["","","Cra 7 # 63-44 Piso 6 00 (00)","Bogota","DC","10","CO"]],["email",{"type":"work"},"text","abuse@TELMEXLA.NET.CO"],["tel",{"type":"work"},"text","57 01 7480456 (81966)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020909",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130417",
+      "eventActor" : "ATI"
+    } ],
+    "entities" : [ ],
+    "handle" : "ATI"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ATI",
+      "value" : "http://rdap.labs.lacnic.net/entity/ATI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Network Security Team"],["adr",{"label":"Cra 7 # 63-44 Piso 6 00 (00)\nBogota, DC 10\nCO","type":"work"},"text",["","","Cra 7 # 63-44 Piso 6 00 (00)","Bogota","DC","10","CO"]],["email",{"type":"work"},"text","abuse@TELMEXLA.NET.CO"],["tel",{"type":"work"},"text","57 01 7480456 (81966)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020909",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130417",
+      "eventActor" : "ATI"
+    } ],
+    "entities" : [ ],
+    "handle" : "ATI"
+  } ],
+  "type" : null,
+  "handle" : "14080-LACNIC",
+  "country" : "CO"
+}

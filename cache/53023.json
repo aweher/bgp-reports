@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53023,
+  "endAutnum" : 53023,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53023",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53023"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110816",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "JPC20"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PNLT4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PNLT4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jean Pierre Ceppo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVeran?polis, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Veran?polis","RS","04578-000","BR"]],["email",{"type":"work"},"text","JPC20@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["org",{},"text",["Pressa Networks Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "JPC20"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JPC20",
+        "value" : "http://rdap.labs.lacnic.net/entity/JPC20"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jean Pierre Ceppo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVeranopolis, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Veranopolis","RS","04578-000","BR"]],["email",{"type":"work"},"text","JPC20@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JPC20"
+      } ],
+      "entities" : [ ],
+      "handle" : "JPC20"
+    } ],
+    "handle" : "BR-PNLT4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JPC20",
+      "value" : "http://rdap.labs.lacnic.net/entity/JPC20"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jean Pierre Ceppo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVeranopolis, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Veranopolis","RS","04578-000","BR"]],["email",{"type":"work"},"text","JPC20@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JPC20"
+    } ],
+    "entities" : [ ],
+    "handle" : "JPC20"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JPC20",
+      "value" : "http://rdap.labs.lacnic.net/entity/JPC20"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jean Pierre Ceppo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVeranopolis, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Veranopolis","RS","04578-000","BR"]],["email",{"type":"work"},"text","JPC20@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JPC20"
+    } ],
+    "entities" : [ ],
+    "handle" : "JPC20"
+  } ],
+  "type" : null,
+  "handle" : "53023-LACNIC",
+  "country" : "BR"
+}

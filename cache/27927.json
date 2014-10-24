@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27927",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27927"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CPEO3-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CPEO3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Regunaga"],["adr",{"label":"Raul B. Diaz 218 ()\nSanta Rosa, LP 6300\nAR","type":"work"},"text",["","","Raul B. Diaz 218 ()","Santa Rosa","LP","6300","AR"]],["email",{"type":"work"},"text","pregunaga@CPENET.COM.AR"],["tel",{"type":"work"},"text","54 2954 412275 ()"],["org",{},"text",["Coop. Popular de Elec., Obras y Servicios Pub. de Santa Rosa LTDA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PAR4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PAR4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Regunaga"],["adr",{"label":"1ro. de Mayo 530 ()\nSanta Rosa,  6300\nAR","type":"work"},"text",["","","1ro. de Mayo 530 ()","Santa Rosa","","6300","AR"]],["email",{"type":"work"},"text","pregunaga@CPENET.COM.AR"],["tel",{"type":"work"},"text","54 2954 412275 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20070607",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110928",
+        "eventActor" : "PAR4"
+      } ],
+      "handle" : "PAR4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070621",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "PAR4"
+    } ],
+    "handle" : "AR-CPEO3-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAR4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAR4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Regunaga"],["adr",{"label":"1ro. de Mayo 530 ()\nSanta Rosa,  6300\nAR","type":"work"},"text",["","","1ro. de Mayo 530 ()","Santa Rosa","","6300","AR"]],["email",{"type":"work"},"text","pregunaga@CPENET.COM.AR"],["tel",{"type":"work"},"text","54 2954 412275 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070607",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110928",
+      "eventActor" : "PAR4"
+    } ],
+    "handle" : "PAR4"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAR4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAR4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Regunaga"],["adr",{"label":"1ro. de Mayo 530 ()\nSanta Rosa,  6300\nAR","type":"work"},"text",["","","1ro. de Mayo 530 ()","Santa Rosa","","6300","AR"]],["email",{"type":"work"},"text","pregunaga@CPENET.COM.AR"],["tel",{"type":"work"},"text","54 2954 412275 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070607",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110928",
+      "eventActor" : "PAR4"
+    } ],
+    "handle" : "PAR4"
+  } ],
+  "startAutnum" : 27927,
+  "endAutnum" : 27927,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070829",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20070830",
+    "eventActor" : "PAR4"
+  } ],
+  "type" : null,
+  "handle" : "27927-LACNIC",
+  "country" : "AR"
+}

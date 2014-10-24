@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52473",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52473"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CTAB1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CTAB1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Morales Gonzalo Hern?n"],["adr",{"label":"Calle 208 y 516 - (-)\nAbasto, BA -1903\nAR","type":"work"},"text",["","","Calle 208 y 516 - (-)","Abasto","BA","-1903","AR"]],["email",{"type":"work"},"text","administrador@COTEA.COM.AR"],["tel",{"type":"work"},"text","54 221 4913000 (134)"],["org",{},"text",["Cooperativa Telef?nica de Abasto"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CTA5",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CTA5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Morales Gonzalo Hern?n"],["adr",{"label":"208 y 516 s/n ()\nLa Plata,  1903\nAR","type":"work"},"text",["","","208 y 516 s/n ()","La Plata","","1903","AR"]],["email",{"type":"work"},"text","administrador@COTEA.COM.AR"],["tel",{"type":"work"},"text","54 221 4913000 (134)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110527",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110602",
+        "eventActor" : "CTA5"
+      } ],
+      "handle" : "CTA5"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031118",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130515",
+      "eventActor" : "CTA5"
+    } ],
+    "handle" : "AR-CTAB1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CTA5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CTA5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Morales Gonzalo Hern?n"],["adr",{"label":"208 y 516 s/n ()\nLa Plata,  1903\nAR","type":"work"},"text",["","","208 y 516 s/n ()","La Plata","","1903","AR"]],["email",{"type":"work"},"text","administrador@COTEA.COM.AR"],["tel",{"type":"work"},"text","54 221 4913000 (134)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110527",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110602",
+      "eventActor" : "CTA5"
+    } ],
+    "handle" : "CTA5"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CTA5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CTA5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Morales Gonzalo Hern?n"],["adr",{"label":"208 y 516 s/n ()\nLa Plata,  1903\nAR","type":"work"},"text",["","","208 y 516 s/n ()","La Plata","","1903","AR"]],["email",{"type":"work"},"text","administrador@COTEA.COM.AR"],["tel",{"type":"work"},"text","54 221 4913000 (134)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110527",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110602",
+      "eventActor" : "CTA5"
+    } ],
+    "handle" : "CTA5"
+  } ],
+  "startAutnum" : 52473,
+  "endAutnum" : 52473,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130514",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130514",
+    "eventActor" : "CTA5"
+  } ],
+  "type" : null,
+  "handle" : "52473-LACNIC",
+  "country" : "AR"
+}

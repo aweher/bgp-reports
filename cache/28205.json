@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28205,
+  "endAutnum" : 28205,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28205",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28205"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080423",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "EMR13"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ITPA3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ITPA3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emerson Rodrigues"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGovernador Valadares, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Governador Valadares","MG","04578-000","BR"]],["email",{"type":"work"},"text","EMR13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 33 55093511 ()"],["org",{},"text",["Ibituruna TV por assinatura S/C Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EMR13"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EMR13",
+        "value" : "http://rdap.labs.lacnic.net/entity/EMR13"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emerson Rodrigues"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGovernador Valadares, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Governador Valadares","MG","04578-000","BR"]],["email",{"type":"work"},"text","EMR13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 33 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EMR13"
+      } ],
+      "entities" : [ ],
+      "handle" : "EMR13"
+    } ],
+    "handle" : "BR-ITPA3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EMR13",
+      "value" : "http://rdap.labs.lacnic.net/entity/EMR13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emerson Rodrigues"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGovernador Valadares, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Governador Valadares","MG","04578-000","BR"]],["email",{"type":"work"},"text","EMR13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 33 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EMR13"
+    } ],
+    "entities" : [ ],
+    "handle" : "EMR13"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EMR13",
+      "value" : "http://rdap.labs.lacnic.net/entity/EMR13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emerson Rodrigues"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGovernador Valadares, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Governador Valadares","MG","04578-000","BR"]],["email",{"type":"work"},"text","EMR13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 33 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EMR13"
+    } ],
+    "entities" : [ ],
+    "handle" : "EMR13"
+  } ],
+  "type" : null,
+  "handle" : "28205-LACNIC",
+  "country" : "BR"
+}

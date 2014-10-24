@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52494",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52494"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-MASA41-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-MASA41-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Benavente"],["adr",{"label":"Av. El Bosque 90 ()\nSantiago, RM 7550248\nCL","type":"work"},"text",["","","Av. El Bosque 90 ()","Santiago","RM","7550248","CL"]],["email",{"type":"work"},"text","diego.benavente@GRUPOMOK.COM"],["tel",{"type":"work"},"text","56 2 24434500 ()"],["org",{},"text",["MULTI ASSIST S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/DIB15",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/DIB15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Benavente"],["adr",{"label":"Av. El Bosque 90 ()\nSantiago, RM 7550248\nCL","type":"work"},"text",["","","Av. El Bosque 90 ()","Santiago","RM","7550248","CL"]],["email",{"type":"work"},"text","diego.benavente@GRUPOMOK.COM"],["tel",{"type":"work"},"text","56 2 24334500 (8120)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130826",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130826",
+        "eventActor" : "DIB15"
+      } ],
+      "handle" : "DIB15"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130902",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130902",
+      "eventActor" : "DIB15"
+    } ],
+    "handle" : "CL-MASA41-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DIB15",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DIB15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Benavente"],["adr",{"label":"Av. El Bosque 90 ()\nSantiago, RM 7550248\nCL","type":"work"},"text",["","","Av. El Bosque 90 ()","Santiago","RM","7550248","CL"]],["email",{"type":"work"},"text","diego.benavente@GRUPOMOK.COM"],["tel",{"type":"work"},"text","56 2 24334500 (8120)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130826",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130826",
+      "eventActor" : "DIB15"
+    } ],
+    "handle" : "DIB15"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DIB15",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DIB15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Benavente"],["adr",{"label":"Av. El Bosque 90 ()\nSantiago, RM 7550248\nCL","type":"work"},"text",["","","Av. El Bosque 90 ()","Santiago","RM","7550248","CL"]],["email",{"type":"work"},"text","diego.benavente@GRUPOMOK.COM"],["tel",{"type":"work"},"text","56 2 24334500 (8120)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130826",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130826",
+      "eventActor" : "DIB15"
+    } ],
+    "handle" : "DIB15"
+  } ],
+  "startAutnum" : 52494,
+  "endAutnum" : 52494,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131031",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131031",
+    "eventActor" : "DIB15"
+  } ],
+  "type" : null,
+  "handle" : "52494-LACNIC",
+  "country" : "CL"
+}

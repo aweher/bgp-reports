@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262191,
+  "endAutnum" : 262191,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262191",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262191"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111003",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20111118",
+    "eventActor" : "WIF3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-CNIT-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-CNIT-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Wilson Fajardo"],["adr",{"label":"Carrera 69 No. 25B-44  (Oficina 601)\nBogota,  \nCO","type":"work"},"text",["","","Carrera 69 No. 25B-44  (Oficina 601)","Bogota","","","CO"]],["email",{"type":"work"},"text","wfajardo@COLUMBUS.CO"],["tel",{"type":"work"},"text","57 1 4290840 ()"],["org",{},"text",["COLUMBUS NETWORKS COLOMBIA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110126",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "WIF3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/WIF3",
+        "value" : "http://rdap.labs.lacnic.net/entity/WIF3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Wilson Fajardo"],["adr",{"label":"Calle 108 45-30 PARALELO 108 Torre 3-Piso 9  ()\nBogota,  \nCO","type":"work"},"text",["","","Calle 108 45-30 PARALELO 108 Torre 3-Piso 9  ()","Bogota","","","CO"]],["email",{"type":"work"},"text","wfajardo@COLUMBUS.CO"],["tel",{"type":"work"},"text","57 1 4291400 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110126",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140107",
+        "eventActor" : "WIF3"
+      } ],
+      "entities" : [ ],
+      "handle" : "WIF3"
+    } ],
+    "handle" : "CO-CNIT-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WIF3",
+      "value" : "http://rdap.labs.lacnic.net/entity/WIF3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Wilson Fajardo"],["adr",{"label":"Calle 108 45-30 PARALELO 108 Torre 3-Piso 9  ()\nBogota,  \nCO","type":"work"},"text",["","","Calle 108 45-30 PARALELO 108 Torre 3-Piso 9  ()","Bogota","","","CO"]],["email",{"type":"work"},"text","wfajardo@COLUMBUS.CO"],["tel",{"type":"work"},"text","57 1 4291400 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110126",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140107",
+      "eventActor" : "WIF3"
+    } ],
+    "entities" : [ ],
+    "handle" : "WIF3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WIF3",
+      "value" : "http://rdap.labs.lacnic.net/entity/WIF3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Wilson Fajardo"],["adr",{"label":"Calle 108 45-30 PARALELO 108 Torre 3-Piso 9  ()\nBogota,  \nCO","type":"work"},"text",["","","Calle 108 45-30 PARALELO 108 Torre 3-Piso 9  ()","Bogota","","","CO"]],["email",{"type":"work"},"text","wfajardo@COLUMBUS.CO"],["tel",{"type":"work"},"text","57 1 4291400 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110126",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140107",
+      "eventActor" : "WIF3"
+    } ],
+    "entities" : [ ],
+    "handle" : "WIF3"
+  } ],
+  "type" : null,
+  "handle" : "262191-LACNIC",
+  "country" : "CO"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53080,
+  "endAutnum" : 53080,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53080",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53080"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091007",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "JRJ11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-RIIL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-RIIL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Roberto Pasqualete J?nior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAndradina, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Andradina","SP","04578-000","BR"]],["email",{"type":"work"},"text","JRJ11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["org",{},"text",["Rede Inform?tica e Internet Ltda- EPP"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140110",
+      "eventActor" : "JRJ11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JRJ11",
+        "value" : "http://rdap.labs.lacnic.net/entity/JRJ11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Roberto Pasqualete J?nior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAndradina, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Andradina","SP","04578-000","BR"]],["email",{"type":"work"},"text","JRJ11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JRJ11"
+      } ],
+      "entities" : [ ],
+      "handle" : "JRJ11"
+    } ],
+    "handle" : "BR-RIIL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JRJ11",
+      "value" : "http://rdap.labs.lacnic.net/entity/JRJ11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Roberto Pasqualete J?nior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAndradina, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Andradina","SP","04578-000","BR"]],["email",{"type":"work"},"text","JRJ11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JRJ11"
+    } ],
+    "entities" : [ ],
+    "handle" : "JRJ11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JRJ11",
+      "value" : "http://rdap.labs.lacnic.net/entity/JRJ11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Roberto Pasqualete J?nior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAndradina, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Andradina","SP","04578-000","BR"]],["email",{"type":"work"},"text","JRJ11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JRJ11"
+    } ],
+    "entities" : [ ],
+    "handle" : "JRJ11"
+  } ],
+  "type" : null,
+  "handle" : "53080-LACNIC",
+  "country" : "BR"
+}

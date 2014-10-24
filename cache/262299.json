@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262299,
+  "endAutnum" : 262299,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262299",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262299"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120716",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MRP5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-IFJP-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-IFJP-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MATHEUS RICARDO PENSO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRondon?polis, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rondon?polis","MT","04578-000","BR"]],["email",{"type":"work"},"text","MRP5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["org",{},"text",["INEXA - Flavio Jose Penso Junior - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "MRP5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MRP5",
+        "value" : "http://rdap.labs.lacnic.net/entity/MRP5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MATHEUS RICARDO PENSO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRondon?polis, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rondon?polis","MT","04578-000","BR"]],["email",{"type":"work"},"text","MRP5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MRP5"
+      } ],
+      "entities" : [ ],
+      "handle" : "MRP5"
+    } ],
+    "handle" : "BR-IFJP-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MRP5",
+      "value" : "http://rdap.labs.lacnic.net/entity/MRP5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MATHEUS RICARDO PENSO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRondon?polis, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rondon?polis","MT","04578-000","BR"]],["email",{"type":"work"},"text","MRP5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MRP5"
+    } ],
+    "entities" : [ ],
+    "handle" : "MRP5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MRP5",
+      "value" : "http://rdap.labs.lacnic.net/entity/MRP5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MATHEUS RICARDO PENSO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRondon?polis, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rondon?polis","MT","04578-000","BR"]],["email",{"type":"work"},"text","MRP5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MRP5"
+    } ],
+    "entities" : [ ],
+    "handle" : "MRP5"
+  } ],
+  "type" : null,
+  "handle" : "262299-LACNIC",
+  "country" : "BR"
+}

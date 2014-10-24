@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28276,
+  "endAutnum" : 28276,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28276",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28276"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070403",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "RCM16"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MILT87-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MILT87-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo C?zar Fernandes de Melo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMossor?, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mossor?","RN","04578-000","BR"]],["email",{"type":"work"},"text","RCM16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["org",{},"text",["Mikrocenter Inform?tica Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RCM16"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RCM16",
+        "value" : "http://rdap.labs.lacnic.net/entity/RCM16"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo C?zar Fernandes de Melo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMossor?, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mossor?","RN","04578-000","BR"]],["email",{"type":"work"},"text","RCM16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "RCM16"
+      } ],
+      "entities" : [ ],
+      "handle" : "RCM16"
+    } ],
+    "handle" : "BR-MILT87-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RCM16",
+      "value" : "http://rdap.labs.lacnic.net/entity/RCM16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo C?zar Fernandes de Melo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMossor?, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mossor?","RN","04578-000","BR"]],["email",{"type":"work"},"text","RCM16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RCM16"
+    } ],
+    "entities" : [ ],
+    "handle" : "RCM16"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RCM16",
+      "value" : "http://rdap.labs.lacnic.net/entity/RCM16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo C?zar Fernandes de Melo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMossor?, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mossor?","RN","04578-000","BR"]],["email",{"type":"work"},"text","RCM16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RCM16"
+    } ],
+    "entities" : [ ],
+    "handle" : "RCM16"
+  } ],
+  "type" : null,
+  "handle" : "28276-LACNIC",
+  "country" : "BR"
+}

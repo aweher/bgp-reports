@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263132,
+  "endAutnum" : 263132,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263132",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263132"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140513",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140513",
+    "eventActor" : "DEP11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SSCP1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SSCP1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jo?o Paulo C.A.Ferreira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","","04578-000","BR"]],["email",{"type":"work"},"text","JPC16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["org",{},"text",["SHIBUYA SYSTEM COMERCIO DE PRODUTOS ELETRONICOS LT"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "JPC16"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JPC16",
+        "value" : "http://rdap.labs.lacnic.net/entity/JPC16"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jo?o Paulo C.A.Ferreira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTaubat?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Taubat?","SP","04578-000","BR"]],["email",{"type":"work"},"text","JPC16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 12 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JPC16"
+      } ],
+      "entities" : [ ],
+      "handle" : "JPC16"
+    } ],
+    "handle" : "BR-SSCP1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DEP11",
+      "value" : "http://rdap.labs.lacnic.net/entity/DEP11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Delaini Pereira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPetr?polis, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Petr?polis","RJ","04578-000","BR"]],["email",{"type":"work"},"text","DEP11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DEP11"
+    } ],
+    "entities" : [ ],
+    "handle" : "DEP11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DEP11",
+      "value" : "http://rdap.labs.lacnic.net/entity/DEP11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Delaini Pereira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPetr?polis, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Petr?polis","RJ","04578-000","BR"]],["email",{"type":"work"},"text","DEP11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DEP11"
+    } ],
+    "entities" : [ ],
+    "handle" : "DEP11"
+  } ],
+  "type" : null,
+  "handle" : "263132-LACNIC",
+  "country" : "BR"
+}

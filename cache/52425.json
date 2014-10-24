@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52425",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52425"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-RCSA13-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-RCSA13-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio M. Bottini"],["adr",{"label":"Colon 845 ()\nCoronel Pringles, BA 7530\nAR","type":"work"},"text",["","","Colon 845 ()","Coronel Pringles","BA","7530","AR"]],["email",{"type":"work"},"text","dominios@PRINGLES.COM.AR"],["tel",{"type":"work"},"text","54 2922 465050 ()"],["org",{},"text",["RELTID CV S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CMB4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CMB4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio M. Bottini"],["adr",{"label":"Colon 845 ()\nCoronel Pringles, null 7530\nAR","type":"work"},"text",["","","Colon 845 ()","Coronel Pringles","","7530","AR"]],["email",{"type":"work"},"text","dominios@PRINGLES.COM.AR"],["tel",{"type":"work"},"text","054 2922 465050 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100630",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100630",
+        "eventActor" : "CMB4"
+      } ],
+      "handle" : "CMB4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120523",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "CMB4"
+    } ],
+    "handle" : "AR-RCSA13-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CMB4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CMB4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio M. Bottini"],["adr",{"label":"Colon 845 ()\nCoronel Pringles, null 7530\nAR","type":"work"},"text",["","","Colon 845 ()","Coronel Pringles","","7530","AR"]],["email",{"type":"work"},"text","dominios@PRINGLES.COM.AR"],["tel",{"type":"work"},"text","054 2922 465050 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100630",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100630",
+      "eventActor" : "CMB4"
+    } ],
+    "handle" : "CMB4"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CMB4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CMB4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio M. Bottini"],["adr",{"label":"Colon 845 ()\nCoronel Pringles, null 7530\nAR","type":"work"},"text",["","","Colon 845 ()","Coronel Pringles","","7530","AR"]],["email",{"type":"work"},"text","dominios@PRINGLES.COM.AR"],["tel",{"type":"work"},"text","054 2922 465050 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100630",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100630",
+      "eventActor" : "CMB4"
+    } ],
+    "handle" : "CMB4"
+  } ],
+  "startAutnum" : 52425,
+  "endAutnum" : 52425,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121122",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121122",
+    "eventActor" : "CMB4"
+  } ],
+  "type" : null,
+  "handle" : "52425-LACNIC",
+  "country" : "AR"
+}

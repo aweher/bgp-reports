@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263522,
+  "endAutnum" : 263522,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263522",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263522"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140113",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140113",
+    "eventActor" : "GLB10"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-GLLF-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-GLLF-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TopSapp Solution Provider"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPianc?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pianc?","","04578-000","BR"]],["email",{"type":"work"},"text","TSP3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["org",{},"text",["GUILHERME LUIZ LEITE FERREIRA BRASILEIRO"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "TSP3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/TSP3",
+        "value" : "http://rdap.labs.lacnic.net/entity/TSP3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TopSapp Solution Provider"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSinop, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sinop","MT","04578-000","BR"]],["email",{"type":"work"},"text","TSP3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "TSP3"
+      } ],
+      "entities" : [ ],
+      "handle" : "TSP3"
+    } ],
+    "handle" : "BR-GLLF-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GLB10",
+      "value" : "http://rdap.labs.lacnic.net/entity/GLB10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","GUILHERME LUIZ LEITE FERREIRA BRASILEIRO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPianc?, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pianc?","PB","04578-000","BR"]],["email",{"type":"work"},"text","GLB10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131216",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131216",
+      "eventActor" : "GLB10"
+    } ],
+    "entities" : [ ],
+    "handle" : "GLB10"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GLB10",
+      "value" : "http://rdap.labs.lacnic.net/entity/GLB10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","GUILHERME LUIZ LEITE FERREIRA BRASILEIRO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPianc?, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pianc?","PB","04578-000","BR"]],["email",{"type":"work"},"text","GLB10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131216",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131216",
+      "eventActor" : "GLB10"
+    } ],
+    "entities" : [ ],
+    "handle" : "GLB10"
+  } ],
+  "type" : null,
+  "handle" : "263522-LACNIC",
+  "country" : "BR"
+}

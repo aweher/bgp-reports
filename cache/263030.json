@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263030,
+  "endAutnum" : 263030,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263030",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263030"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120606",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "GUC22"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CPIL12-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CPIL12-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Camacho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLauro M?ller, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lauro M?ller","SC","04578-000","BR"]],["email",{"type":"work"},"text","GUC22@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["org",{},"text",["CNET Provedor de Internet Ltda ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "GUC22"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GUC22",
+        "value" : "http://rdap.labs.lacnic.net/entity/GUC22"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Camacho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLauro M?ller, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lauro M?ller","SC","04578-000","BR"]],["email",{"type":"work"},"text","GUC22@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "GUC22"
+      } ],
+      "entities" : [ ],
+      "handle" : "GUC22"
+    } ],
+    "handle" : "BR-CPIL12-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GUC22",
+      "value" : "http://rdap.labs.lacnic.net/entity/GUC22"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Camacho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLauro M?ller, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lauro M?ller","SC","04578-000","BR"]],["email",{"type":"work"},"text","GUC22@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GUC22"
+    } ],
+    "entities" : [ ],
+    "handle" : "GUC22"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GUC22",
+      "value" : "http://rdap.labs.lacnic.net/entity/GUC22"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Camacho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLauro M?ller, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lauro M?ller","SC","04578-000","BR"]],["email",{"type":"work"},"text","GUC22@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GUC22"
+    } ],
+    "entities" : [ ],
+    "handle" : "GUC22"
+  } ],
+  "type" : null,
+  "handle" : "263030-LACNIC",
+  "country" : "BR"
+}

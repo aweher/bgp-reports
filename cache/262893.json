@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262893,
+  "endAutnum" : 262893,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262893",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262893"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110121",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140702",
+    "eventActor" : "PTM4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PNPL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PNPL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","p4net provedores"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nXanxer?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Xanxer?","SC","04578-000","BR"]],["email",{"type":"work"},"text","PNP@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["org",{},"text",["P4 TELECOM LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140702",
+      "eventActor" : "PNP"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PNP",
+        "value" : "http://rdap.labs.lacnic.net/entity/PNP"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","p4net provedores"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nXanxer?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Xanxer?","SC","04578-000","BR"]],["email",{"type":"work"},"text","PNP@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PNP"
+      } ],
+      "entities" : [ ],
+      "handle" : "PNP"
+    } ],
+    "handle" : "BR-PNPL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PTM4",
+      "value" : "http://rdap.labs.lacnic.net/entity/PTM4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","P4 TELECOM LTDA ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nXanxer?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Xanxer?","SC","04578-000","BR"]],["email",{"type":"work"},"text","PTM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140702",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140702",
+      "eventActor" : "PTM4"
+    } ],
+    "entities" : [ ],
+    "handle" : "PTM4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PTM4",
+      "value" : "http://rdap.labs.lacnic.net/entity/PTM4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","P4 TELECOM LTDA ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nXanxer?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Xanxer?","SC","04578-000","BR"]],["email",{"type":"work"},"text","PTM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140702",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140702",
+      "eventActor" : "PTM4"
+    } ],
+    "entities" : [ ],
+    "handle" : "PTM4"
+  } ],
+  "type" : null,
+  "handle" : "262893-LACNIC",
+  "country" : "BR"
+}

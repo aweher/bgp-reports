@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53240,
+  "endAutnum" : 53240,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53240",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53240"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101222",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "NOL10"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NOPA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NOPA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Net Onze Provedor de Internet Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSerafina Corr?a, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Serafina Corr?a","RS","04578-000","BR"]],["email",{"type":"work"},"text","NOL10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["org",{},"text",["Net Onze Provedor de Acesso a Internet Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "NOL10"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/NOL10",
+        "value" : "http://rdap.labs.lacnic.net/entity/NOL10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Net Onze Provedor de Internet Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSerafina Corr?a, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Serafina Corr?a","RS","04578-000","BR"]],["email",{"type":"work"},"text","NOL10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "NOL10"
+      } ],
+      "entities" : [ ],
+      "handle" : "NOL10"
+    } ],
+    "handle" : "BR-NOPA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NOL10",
+      "value" : "http://rdap.labs.lacnic.net/entity/NOL10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Net Onze Provedor de Internet Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSerafina Corr?a, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Serafina Corr?a","RS","04578-000","BR"]],["email",{"type":"work"},"text","NOL10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NOL10"
+    } ],
+    "entities" : [ ],
+    "handle" : "NOL10"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NOL10",
+      "value" : "http://rdap.labs.lacnic.net/entity/NOL10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Net Onze Provedor de Internet Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSerafina Corr?a, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Serafina Corr?a","RS","04578-000","BR"]],["email",{"type":"work"},"text","NOL10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NOL10"
+    } ],
+    "entities" : [ ],
+    "handle" : "NOL10"
+  } ],
+  "type" : null,
+  "handle" : "53240-LACNIC",
+  "country" : "BR"
+}

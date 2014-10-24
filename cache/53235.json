@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53235,
+  "endAutnum" : 53235,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53235",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53235"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101207",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "LGC11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ECES-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ECES-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Gustavo Coelho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFlorian?polis, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Florian?polis","SC","04578-000","BR"]],["email",{"type":"work"},"text","LGC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["org",{},"text",["Eletrosul Centrais El?tricas S.A."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "LGC11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LGC11",
+        "value" : "http://rdap.labs.lacnic.net/entity/LGC11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Gustavo Coelho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFlorian?polis, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Florian?polis","SC","04578-000","BR"]],["email",{"type":"work"},"text","LGC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LGC11"
+      } ],
+      "entities" : [ ],
+      "handle" : "LGC11"
+    } ],
+    "handle" : "BR-ECES-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LGC11",
+      "value" : "http://rdap.labs.lacnic.net/entity/LGC11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Gustavo Coelho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFlorian?polis, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Florian?polis","SC","04578-000","BR"]],["email",{"type":"work"},"text","LGC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LGC11"
+    } ],
+    "entities" : [ ],
+    "handle" : "LGC11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VEF",
+      "value" : "http://rdap.labs.lacnic.net/entity/VEF"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","V?nia Elza de Farias"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFlorian?polis, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Florian?polis","SC","04578-000","BR"]],["email",{"type":"work"},"text","VEF@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VEF"
+    } ],
+    "entities" : [ ],
+    "handle" : "VEF"
+  } ],
+  "type" : null,
+  "handle" : "53235-LACNIC",
+  "country" : "BR"
+}

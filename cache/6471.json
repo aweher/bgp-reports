@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/6471",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/6471"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-ECSA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-ECSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Leon"],["adr",{"label":"Andr?s Bello 2687 ()\nSantiago,  56\nCL","type":"work"},"text",["","","Andr?s Bello 2687 ()","Santiago","","56","CL"]],["email",{"type":"work"},"text","enteladminip@ENTEL.CL"],["tel",{"type":"work"},"text","56 2 3600123 ()"],["org",{},"text",["ENTEL CHILE S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CLS4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CLS4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Leon"],["adr",{"label":"Amunategui 20 ()\nSantiago,  4254\nCL","type":"work"},"text",["","","Amunategui 20 ()","Santiago","","4254","CL"]],["email",{"type":"work"},"text","enteladminip@ENTEL.CL"],["tel",{"type":"work"},"text","56 2 3600123 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050311",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121019",
+        "eventActor" : "CLS4"
+      } ],
+      "handle" : "CLS4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030331",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140614",
+      "eventActor" : "CLS4"
+    } ],
+    "handle" : "CL-ECSA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/BRM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/BRM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Bruno Mu?oz"],["adr",{"label":"Amunategui 20 (piso 10)\nSantiago,  4254\nCL","type":"work"},"text",["","","Amunategui 20 (piso 10)","Santiago","","4254","CL"]],["email",{"type":"work"},"text","enteladminip@ENTEL.CL"],["tel",{"type":"work"},"text","56 2 3600123 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030317",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121019",
+      "eventActor" : "BRM"
+    } ],
+    "handle" : "BRM"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/BRM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/BRM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Bruno Mu?oz"],["adr",{"label":"Amunategui 20 (piso 10)\nSantiago,  4254\nCL","type":"work"},"text",["","","Amunategui 20 (piso 10)","Santiago","","4254","CL"]],["email",{"type":"work"},"text","enteladminip@ENTEL.CL"],["tel",{"type":"work"},"text","56 2 3600123 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030317",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121019",
+      "eventActor" : "BRM"
+    } ],
+    "handle" : "BRM"
+  } ],
+  "startAutnum" : 6471,
+  "endAutnum" : 6471,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19960425",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20010508",
+    "eventActor" : "BRM"
+  } ],
+  "type" : null,
+  "handle" : "6471-LACNIC",
+  "country" : "CL"
+}

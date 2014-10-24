@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27897",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27897"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-SECO2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-SECO2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Universidad de Santiago de Chile."],["adr",{"label":"Matucana 28 (D)\nSantiago, RM 917-0019\nCL","type":"work"},"text",["","","Matucana 28 (D)","Santiago","RM","917-0019","CL"]],["email",{"type":"work"},"text","cristian.rojas@SEGIC.USACH.CL"],["tel",{"type":"work"},"text","56 2 7180200 (80203)"],["org",{},"text",["SEGIC USACH LTDA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/USC3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/USC3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Universidad de Santiago de Chile."],["adr",{"label":"Matucana 28 (D)\nSantiago,  917-0019\nCL","type":"work"},"text",["","","Matucana 28 (D)","Santiago","","917-0019","CL"]],["email",{"type":"work"},"text","cristian.rojas@SEGIC.USACH.CL"],["tel",{"type":"work"},"text","56 2 7180200 (80218)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20070119",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110812",
+        "eventActor" : "USC3"
+      } ],
+      "handle" : "USC3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070419",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110819",
+      "eventActor" : "USC3"
+    } ],
+    "handle" : "CL-SECO2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/USC3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/USC3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Universidad de Santiago de Chile."],["adr",{"label":"Matucana 28 (D)\nSantiago,  917-0019\nCL","type":"work"},"text",["","","Matucana 28 (D)","Santiago","","917-0019","CL"]],["email",{"type":"work"},"text","cristian.rojas@SEGIC.USACH.CL"],["tel",{"type":"work"},"text","56 2 7180200 (80218)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070119",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110812",
+      "eventActor" : "USC3"
+    } ],
+    "handle" : "USC3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/USC3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/USC3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Universidad de Santiago de Chile."],["adr",{"label":"Matucana 28 (D)\nSantiago,  917-0019\nCL","type":"work"},"text",["","","Matucana 28 (D)","Santiago","","917-0019","CL"]],["email",{"type":"work"},"text","cristian.rojas@SEGIC.USACH.CL"],["tel",{"type":"work"},"text","56 2 7180200 (80218)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070119",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110812",
+      "eventActor" : "USC3"
+    } ],
+    "handle" : "USC3"
+  } ],
+  "startAutnum" : 27897,
+  "endAutnum" : 27897,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070424",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20070424",
+    "eventActor" : "USC3"
+  } ],
+  "type" : null,
+  "handle" : "27897-LACNIC",
+  "country" : "CL"
+}

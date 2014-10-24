@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52299",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52299"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-MRLP1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-MRLP1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gaston Demichelis"],["adr",{"label":"Uruguay 4075 ()\nVictoria, BA B1644HKG\nAR","type":"work"},"text",["","","Uruguay 4075 ()","Victoria","BA","B1644HKG","AR"]],["email",{"type":"work"},"text","gaston.demichelis@MOLINOS.COM.AR"],["tel",{"type":"work"},"text","54 11 43401470 ()"],["org",{},"text",["Molinos Rio de la Plata S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GAD6",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GAD6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gaston Demichelis"],["adr",{"label":"Uruguay 4075 ()\nVictoria, null B1644HKG\nAR","type":"work"},"text",["","","Uruguay 4075 ()","Victoria","","B1644HKG","AR"]],["email",{"type":"work"},"text","gaston.demichelis@MOLINOS.COM.AR"],["tel",{"type":"work"},"text","54 011 43401470 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090701",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20090701",
+        "eventActor" : "GAD6"
+      } ],
+      "handle" : "GAD6"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101005",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101126",
+      "eventActor" : "GAD6"
+    } ],
+    "handle" : "AR-MRLP1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GAD6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GAD6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gaston Demichelis"],["adr",{"label":"Uruguay 4075 ()\nVictoria, null B1644HKG\nAR","type":"work"},"text",["","","Uruguay 4075 ()","Victoria","","B1644HKG","AR"]],["email",{"type":"work"},"text","gaston.demichelis@MOLINOS.COM.AR"],["tel",{"type":"work"},"text","54 011 43401470 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090701",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090701",
+      "eventActor" : "GAD6"
+    } ],
+    "handle" : "GAD6"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GAD6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GAD6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gaston Demichelis"],["adr",{"label":"Uruguay 4075 ()\nVictoria, null B1644HKG\nAR","type":"work"},"text",["","","Uruguay 4075 ()","Victoria","","B1644HKG","AR"]],["email",{"type":"work"},"text","gaston.demichelis@MOLINOS.COM.AR"],["tel",{"type":"work"},"text","54 011 43401470 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090701",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090701",
+      "eventActor" : "GAD6"
+    } ],
+    "handle" : "GAD6"
+  } ],
+  "startAutnum" : 52299,
+  "endAutnum" : 52299,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101125",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20101125",
+    "eventActor" : "GAD6"
+  } ],
+  "type" : null,
+  "handle" : "52299-LACNIC",
+  "country" : "AR"
+}

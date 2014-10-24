@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28015",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28015"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-MECO2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-MECO2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Federico Brandenburg"],["adr",{"label":"25 de Mayo 565 (oficina 5)\nBuenos Aires, CF 1002\nAR","type":"work"},"text",["","","25 de Mayo 565 (oficina 5)","Buenos Aires","CF","1002","AR"]],["email",{"type":"work"},"text","fbrandenburg@GCISERVICIOS.COM.AR"],["tel",{"type":"work"},"text","54 911 50200404 ()"],["org",{},"text",["MERCO COMUNICACIONES"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FEB9",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FEB9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Federico Brandenburg"],["adr",{"label":"25 de Mayo 565 (ofic 5?)\nCapital Federal, CF 1002\nAR","type":"work"},"text",["","","25 de Mayo 565 (ofic 5?)","Capital Federal","CF","1002","AR"]],["email",{"type":"work"},"text","fbrandenburg@GCISERVICIOS.COM.AR"],["tel",{"type":"work"},"text","54 11 43158899 (21)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080213",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140508",
+        "eventActor" : "FEB9"
+      } ],
+      "handle" : "FEB9"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071211",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "FEB9"
+    } ],
+    "handle" : "AR-MECO2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEB9",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEB9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Federico Brandenburg"],["adr",{"label":"25 de Mayo 565 (ofic 5?)\nCapital Federal, CF 1002\nAR","type":"work"},"text",["","","25 de Mayo 565 (ofic 5?)","Capital Federal","CF","1002","AR"]],["email",{"type":"work"},"text","fbrandenburg@GCISERVICIOS.COM.AR"],["tel",{"type":"work"},"text","54 11 43158899 (21)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080213",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140508",
+      "eventActor" : "FEB9"
+    } ],
+    "handle" : "FEB9"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEB9",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEB9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Federico Brandenburg"],["adr",{"label":"25 de Mayo 565 (ofic 5?)\nCapital Federal, CF 1002\nAR","type":"work"},"text",["","","25 de Mayo 565 (ofic 5?)","Capital Federal","CF","1002","AR"]],["email",{"type":"work"},"text","fbrandenburg@GCISERVICIOS.COM.AR"],["tel",{"type":"work"},"text","54 11 43158899 (21)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080213",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140508",
+      "eventActor" : "FEB9"
+    } ],
+    "handle" : "FEB9"
+  } ],
+  "startAutnum" : 28015,
+  "endAutnum" : 28015,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20081105",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20081105",
+    "eventActor" : "FEB9"
+  } ],
+  "type" : null,
+  "handle" : "28015-LACNIC",
+  "country" : "AR"
+}

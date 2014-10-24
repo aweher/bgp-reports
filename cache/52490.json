@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52490",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52490"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CEPL2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CEPL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauricio Felipe Odo"],["adr",{"label":"Calle 101 1076 ()\nPedro Luro,  8148\nAR","type":"work"},"text",["","","Calle 101 1076 ()","Pedro Luro","","8148","AR"]],["email",{"type":"work"},"text","modo@LURONET.COM.AR"],["tel",{"type":"work"},"text","054 2928 410059 (30)"],["org",{},"text",["COOPERATIVA DE ELECTRICIDAD DE PEDRO LURO"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CEL14",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CEL14"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauricio Felipe Odo"],["adr",{"label":"Calle 101 1076 ()\nPEDRO LURO, BA 8148\nAR","type":"work"},"text",["","","Calle 101 1076 ()","PEDRO LURO","BA","8148","AR"]],["email",{"type":"work"},"text","modo@LURONET.COM.AR"],["tel",{"type":"work"},"text","54 2928 410059 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110428",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110823",
+        "eventActor" : "CEL14"
+      } ],
+      "handle" : "CEL14"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050513",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "CEL14"
+    } ],
+    "handle" : "AR-CEPL2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CEL14",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CEL14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauricio Felipe Odo"],["adr",{"label":"Calle 101 1076 ()\nPEDRO LURO, BA 8148\nAR","type":"work"},"text",["","","Calle 101 1076 ()","PEDRO LURO","BA","8148","AR"]],["email",{"type":"work"},"text","modo@LURONET.COM.AR"],["tel",{"type":"work"},"text","54 2928 410059 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110428",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110823",
+      "eventActor" : "CEL14"
+    } ],
+    "handle" : "CEL14"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CEL14",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CEL14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauricio Felipe Odo"],["adr",{"label":"Calle 101 1076 ()\nPEDRO LURO, BA 8148\nAR","type":"work"},"text",["","","Calle 101 1076 ()","PEDRO LURO","BA","8148","AR"]],["email",{"type":"work"},"text","modo@LURONET.COM.AR"],["tel",{"type":"work"},"text","54 2928 410059 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110428",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110823",
+      "eventActor" : "CEL14"
+    } ],
+    "handle" : "CEL14"
+  } ],
+  "startAutnum" : 52490,
+  "endAutnum" : 52490,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130918",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130918",
+    "eventActor" : "CEL14"
+  } ],
+  "type" : null,
+  "handle" : "52490-LACNIC",
+  "country" : "AR"
+}

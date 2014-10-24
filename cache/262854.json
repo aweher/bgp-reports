@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262854,
+  "endAutnum" : 262854,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262854",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262854"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101214",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "TXM"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ASET1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ASET1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TAS DE XEREM INFORMATICA LTDA ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDuque de Caxias, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Duque de Caxias","RJ","04578-000","BR"]],["email",{"type":"work"},"text","TXM@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["org",{},"text",["AFINET SOLUCOES EM TECNOLOGIA DA INFORMACAO LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131011",
+      "eventActor" : "TXM"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/TXM",
+        "value" : "http://rdap.labs.lacnic.net/entity/TXM"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TAS DE XEREM INFORMATICA LTDA ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDuque de Caxias, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Duque de Caxias","RJ","04578-000","BR"]],["email",{"type":"work"},"text","TXM@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "TXM"
+      } ],
+      "entities" : [ ],
+      "handle" : "TXM"
+    } ],
+    "handle" : "BR-ASET1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TXM",
+      "value" : "http://rdap.labs.lacnic.net/entity/TXM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TAS DE XEREM INFORMATICA LTDA ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDuque de Caxias, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Duque de Caxias","RJ","04578-000","BR"]],["email",{"type":"work"},"text","TXM@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TXM"
+    } ],
+    "entities" : [ ],
+    "handle" : "TXM"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TXM",
+      "value" : "http://rdap.labs.lacnic.net/entity/TXM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TAS DE XEREM INFORMATICA LTDA ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDuque de Caxias, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Duque de Caxias","RJ","04578-000","BR"]],["email",{"type":"work"},"text","TXM@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TXM"
+    } ],
+    "entities" : [ ],
+    "handle" : "TXM"
+  } ],
+  "type" : null,
+  "handle" : "262854-LACNIC",
+  "country" : "BR"
+}

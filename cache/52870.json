@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52870,
+  "endAutnum" : 52870,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52870",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52870"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120131",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ENS12"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DSTL2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DSTL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Nunes de Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaracaju, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maracaju","MS","04578-000","BR"]],["email",{"type":"work"},"text","ENS12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["org",{},"text",["Disk Sistema Tele-Informatica Ltda- ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "ENS12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ENS12",
+        "value" : "http://rdap.labs.lacnic.net/entity/ENS12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Nunes de Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaracaju, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maracaju","MS","04578-000","BR"]],["email",{"type":"work"},"text","ENS12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ENS12"
+      } ],
+      "entities" : [ ],
+      "handle" : "ENS12"
+    } ],
+    "handle" : "BR-DSTL2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ENS12",
+      "value" : "http://rdap.labs.lacnic.net/entity/ENS12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Nunes de Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaracaju, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maracaju","MS","04578-000","BR"]],["email",{"type":"work"},"text","ENS12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ENS12"
+    } ],
+    "entities" : [ ],
+    "handle" : "ENS12"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ENS12",
+      "value" : "http://rdap.labs.lacnic.net/entity/ENS12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Nunes de Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaracaju, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maracaju","MS","04578-000","BR"]],["email",{"type":"work"},"text","ENS12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ENS12"
+    } ],
+    "entities" : [ ],
+    "handle" : "ENS12"
+  } ],
+  "type" : null,
+  "handle" : "52870-LACNIC",
+  "country" : "BR"
+}

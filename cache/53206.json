@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53206,
+  "endAutnum" : 53206,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53206",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53206"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100914",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "PRF17"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PFSL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PFSL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Provedor FuturaSC"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmitos, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmitos","SC","04578-000","BR"]],["email",{"type":"work"},"text","PRF17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["org",{},"text",["PROVEDOR FUTURA SC LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "PRF17"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PRF17",
+        "value" : "http://rdap.labs.lacnic.net/entity/PRF17"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Provedor FuturaSC"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmitos, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmitos","SC","04578-000","BR"]],["email",{"type":"work"},"text","PRF17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PRF17"
+      } ],
+      "entities" : [ ],
+      "handle" : "PRF17"
+    } ],
+    "handle" : "BR-PFSL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PRF17",
+      "value" : "http://rdap.labs.lacnic.net/entity/PRF17"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Provedor FuturaSC"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmitos, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmitos","SC","04578-000","BR"]],["email",{"type":"work"},"text","PRF17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PRF17"
+    } ],
+    "entities" : [ ],
+    "handle" : "PRF17"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PRF17",
+      "value" : "http://rdap.labs.lacnic.net/entity/PRF17"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Provedor FuturaSC"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmitos, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmitos","SC","04578-000","BR"]],["email",{"type":"work"},"text","PRF17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PRF17"
+    } ],
+    "entities" : [ ],
+    "handle" : "PRF17"
+  } ],
+  "type" : null,
+  "handle" : "53206-LACNIC",
+  "country" : "BR"
+}

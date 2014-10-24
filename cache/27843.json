@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27843,
+  "endAutnum" : 27843,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27843",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27843"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060801",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20060818",
+    "eventActor" : "JOI"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PE-OPIP1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/PE-OPIP1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Veronica Almanza Avenda?o"],["adr",{"label":"Krumdieck 287 (La Victoria)\nLima, LI 13\nPE","type":"work"},"text",["","","Krumdieck 287 (La Victoria)","Lima","LI","13","PE"]],["email",{"type":"work"},"text","valmanza@OPTICAL.COM.PE"],["tel",{"type":"work"},"text","51 1 4751188 (1101)"],["org",{},"text",["OPTICAL TECHNOLOGIES S.A.C."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060801",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140328",
+      "eventActor" : "JOI"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JOI",
+        "value" : "http://rdap.labs.lacnic.net/entity/JOI"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Veronica Almanza Avenda?o"],["adr",{"label":"Jr. Ernesto Krumdieck 287 (La Victoria)\nLima,  13\nPE","type":"work"},"text",["","","Jr. Ernesto Krumdieck 287 (La Victoria)","Lima","","13","PE"]],["email",{"type":"work"},"text","valmanza@OPTICAL.COM.PE"],["tel",{"type":"work"},"text","51 1 7107500 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20041009",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140505",
+        "eventActor" : "JOI"
+      } ],
+      "entities" : [ ],
+      "handle" : "JOI"
+    } ],
+    "handle" : "PE-OPIP1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JOI",
+      "value" : "http://rdap.labs.lacnic.net/entity/JOI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Veronica Almanza Avenda?o"],["adr",{"label":"Jr. Ernesto Krumdieck 287 (La Victoria)\nLima,  13\nPE","type":"work"},"text",["","","Jr. Ernesto Krumdieck 287 (La Victoria)","Lima","","13","PE"]],["email",{"type":"work"},"text","valmanza@OPTICAL.COM.PE"],["tel",{"type":"work"},"text","51 1 7107500 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041009",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140505",
+      "eventActor" : "JOI"
+    } ],
+    "entities" : [ ],
+    "handle" : "JOI"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JOI",
+      "value" : "http://rdap.labs.lacnic.net/entity/JOI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Veronica Almanza Avenda?o"],["adr",{"label":"Jr. Ernesto Krumdieck 287 (La Victoria)\nLima,  13\nPE","type":"work"},"text",["","","Jr. Ernesto Krumdieck 287 (La Victoria)","Lima","","13","PE"]],["email",{"type":"work"},"text","valmanza@OPTICAL.COM.PE"],["tel",{"type":"work"},"text","51 1 7107500 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041009",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140505",
+      "eventActor" : "JOI"
+    } ],
+    "entities" : [ ],
+    "handle" : "JOI"
+  } ],
+  "type" : null,
+  "handle" : "27843-LACNIC",
+  "country" : "PE"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52713,
+  "endAutnum" : 52713,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52713",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52713"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130107",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "IEC5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PTUR-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PTUR-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ilma Estev?o Clemente"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nContagem, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Contagem","MG","04578-000","BR"]],["email",{"type":"work"},"text","IEC5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["org",{},"text",["Patrus Transportes Urgentes"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "IEC5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/IEC5",
+        "value" : "http://rdap.labs.lacnic.net/entity/IEC5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ilma Estev?o Clemente"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nContagem, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Contagem","MG","04578-000","BR"]],["email",{"type":"work"},"text","IEC5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131008",
+        "eventActor" : "IEC5"
+      } ],
+      "entities" : [ ],
+      "handle" : "IEC5"
+    } ],
+    "handle" : "BR-PTUR-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IEC5",
+      "value" : "http://rdap.labs.lacnic.net/entity/IEC5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ilma Estev?o Clemente"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nContagem, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Contagem","MG","04578-000","BR"]],["email",{"type":"work"},"text","IEC5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131008",
+      "eventActor" : "IEC5"
+    } ],
+    "entities" : [ ],
+    "handle" : "IEC5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IEC5",
+      "value" : "http://rdap.labs.lacnic.net/entity/IEC5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ilma Estev?o Clemente"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nContagem, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Contagem","MG","04578-000","BR"]],["email",{"type":"work"},"text","IEC5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131008",
+      "eventActor" : "IEC5"
+    } ],
+    "entities" : [ ],
+    "handle" : "IEC5"
+  } ],
+  "type" : null,
+  "handle" : "52713-LACNIC",
+  "country" : "BR"
+}

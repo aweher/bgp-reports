@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263266,
+  "endAutnum" : 263266,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263266",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263266"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140410",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140410",
+    "eventActor" : "LMA14"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-JRCA3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-JRCA3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Rodrigo Cabral"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMorro Agudo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Morro Agudo","SP","04578-000","BR"]],["email",{"type":"work"},"text","JRC25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["org",{},"text",["Jos? Rodrigo Cabral"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140104",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140104",
+      "eventActor" : "JRC25"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JRC25",
+        "value" : "http://rdap.labs.lacnic.net/entity/JRC25"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Rodrigo Cabral"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMorro Agudo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Morro Agudo","SP","04578-000","BR"]],["email",{"type":"work"},"text","JRC25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20140104",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140104",
+        "eventActor" : "JRC25"
+      } ],
+      "entities" : [ ],
+      "handle" : "JRC25"
+    } ],
+    "handle" : "BR-JRCA3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LMA14",
+      "value" : "http://rdap.labs.lacnic.net/entity/LMA14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","luciano marcelo amaro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMorro Agudo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Morro Agudo","SP","04578-000","BR"]],["email",{"type":"work"},"text","LMA14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140331",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140331",
+      "eventActor" : "LMA14"
+    } ],
+    "entities" : [ ],
+    "handle" : "LMA14"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LMA14",
+      "value" : "http://rdap.labs.lacnic.net/entity/LMA14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","luciano marcelo amaro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMorro Agudo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Morro Agudo","SP","04578-000","BR"]],["email",{"type":"work"},"text","LMA14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140331",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140331",
+      "eventActor" : "LMA14"
+    } ],
+    "entities" : [ ],
+    "handle" : "LMA14"
+  } ],
+  "type" : null,
+  "handle" : "263266-LACNIC",
+  "country" : "BR"
+}

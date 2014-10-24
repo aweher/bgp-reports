@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52489",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52489"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-TCSA41-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-TCSA41-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Technical Contact Telefonica Chile S.A."],["adr",{"label":"AVENIDA PROVIDENCIA 111 (COMUNA DE PROVIDENCIA)\nSANTIAGO, RM 7500775\nCL","type":"work"},"text",["","","AVENIDA PROVIDENCIA 111 (COMUNA DE PROVIDENCIA)","SANTIAGO","RM","7500775","CL"]],["email",{"type":"work"},"text","technical.isp.tch@GMAIL.COM"],["tel",{"type":"work"},"text","56 2 3306932 ()"],["org",{},"text",["TELEF?NICA CHILE S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/TCS5",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/TCS5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Technical Contact Telefonica Chile S.A."],["adr",{"label":"Miraflores 130 (Piso 6)\nsantiago, m 8320215\nCL","type":"work"},"text",["","","Miraflores 130 (Piso 6)","santiago","m","8320215","CL"]],["email",{"type":"work"},"text","technical.isp.tch@GMAIL.COM"],["tel",{"type":"work"},"text","56 2 6616815 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110502",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140130",
+        "eventActor" : "TCS5"
+      } ],
+      "handle" : "TCS5"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100127",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "TCS5"
+    } ],
+    "handle" : "CL-TCSA41-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/TCS5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/TCS5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Technical Contact Telefonica Chile S.A."],["adr",{"label":"Miraflores 130 (Piso 6)\nsantiago, m 8320215\nCL","type":"work"},"text",["","","Miraflores 130 (Piso 6)","santiago","m","8320215","CL"]],["email",{"type":"work"},"text","technical.isp.tch@GMAIL.COM"],["tel",{"type":"work"},"text","56 2 6616815 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110502",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140130",
+      "eventActor" : "TCS5"
+    } ],
+    "handle" : "TCS5"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/TCS5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/TCS5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Technical Contact Telefonica Chile S.A."],["adr",{"label":"Miraflores 130 (Piso 6)\nsantiago, m 8320215\nCL","type":"work"},"text",["","","Miraflores 130 (Piso 6)","santiago","m","8320215","CL"]],["email",{"type":"work"},"text","technical.isp.tch@GMAIL.COM"],["tel",{"type":"work"},"text","56 2 6616815 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110502",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140130",
+      "eventActor" : "TCS5"
+    } ],
+    "handle" : "TCS5"
+  } ],
+  "startAutnum" : 52489,
+  "endAutnum" : 52489,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130813",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130813",
+    "eventActor" : "TCS5"
+  } ],
+  "type" : null,
+  "handle" : "52489-LACNIC",
+  "country" : "CL"
+}

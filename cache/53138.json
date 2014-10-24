@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53138,
+  "endAutnum" : 53138,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53138",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53138"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100415",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "CSI11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CSIL2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CSIL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Conectlan Servi?os de Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGurupi, TO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Gurupi","TO","04578-000","BR"]],["email",{"type":"work"},"text","CSI11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["org",{},"text",["Conectlan Servi?os de Internet"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130324",
+      "eventActor" : "CSI11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CSI11",
+        "value" : "http://rdap.labs.lacnic.net/entity/CSI11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Conectlan Servi?os de Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGurupi, TO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Gurupi","TO","04578-000","BR"]],["email",{"type":"work"},"text","CSI11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CSI11"
+      } ],
+      "entities" : [ ],
+      "handle" : "CSI11"
+    } ],
+    "handle" : "BR-CSIL2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CSI11",
+      "value" : "http://rdap.labs.lacnic.net/entity/CSI11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Conectlan Servi?os de Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGurupi, TO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Gurupi","TO","04578-000","BR"]],["email",{"type":"work"},"text","CSI11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CSI11"
+    } ],
+    "entities" : [ ],
+    "handle" : "CSI11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CSI11",
+      "value" : "http://rdap.labs.lacnic.net/entity/CSI11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Conectlan Servi?os de Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGurupi, TO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Gurupi","TO","04578-000","BR"]],["email",{"type":"work"},"text","CSI11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CSI11"
+    } ],
+    "entities" : [ ],
+    "handle" : "CSI11"
+  } ],
+  "type" : null,
+  "handle" : "53138-LACNIC",
+  "country" : "BR"
+}

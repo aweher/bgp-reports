@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53236,
+  "endAutnum" : 53236,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53236",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53236"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101207",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "JRN6"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-JSIL2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-JSIL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jo?o Rosa Nascimento Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEst?ncia, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Est?ncia","SE","04578-000","BR"]],["email",{"type":"work"},"text","JRN6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["org",{},"text",["JF Solu??es Inform?tica Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "JRN6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JRN6",
+        "value" : "http://rdap.labs.lacnic.net/entity/JRN6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jo?o Rosa Nascimento Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEst?ncia, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Est?ncia","SE","04578-000","BR"]],["email",{"type":"work"},"text","JRN6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JRN6"
+      } ],
+      "entities" : [ ],
+      "handle" : "JRN6"
+    } ],
+    "handle" : "BR-JSIL2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JRN6",
+      "value" : "http://rdap.labs.lacnic.net/entity/JRN6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jo?o Rosa Nascimento Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEst?ncia, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Est?ncia","SE","04578-000","BR"]],["email",{"type":"work"},"text","JRN6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JRN6"
+    } ],
+    "entities" : [ ],
+    "handle" : "JRN6"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FVB3",
+      "value" : "http://rdap.labs.lacnic.net/entity/FVB3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Vasconcelos Brasileiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEst?ncia, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Est?ncia","SE","04578-000","BR"]],["email",{"type":"work"},"text","FVB3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FVB3"
+    } ],
+    "entities" : [ ],
+    "handle" : "FVB3"
+  } ],
+  "type" : null,
+  "handle" : "53236-LACNIC",
+  "country" : "BR"
+}

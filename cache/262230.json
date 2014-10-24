@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262230",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262230"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-HSIS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-HSIS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Adrian Lucci"],["adr",{"label":"Montevideo esquina 2 -- (Torre 110 - 1er. piso)\nBerisso,  1923\nAR","type":"work"},"text",["","","Montevideo esquina 2 -- (Torre 110 - 1er. piso)","Berisso","","1923","AR"]],["email",{"type":"work"},"text","jlucci@HORUSNET.COM.AR"],["tel",{"type":"work"},"text","54 221 4100800 ()"],["org",{},"text",["HORUS SISTEMAS INFORMATICOS SRL"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JAL15",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JAL15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Adrian Lucci"],["adr",{"label":"calle 12 836 (1ro A)\nLa Plata, AR 1900\nAR","type":"work"},"text",["","","calle 12 836 (1ro A)","La Plata","AR","1900","AR"]],["email",{"type":"work"},"text","jlucci@HORUSNET.COM.AR"],["tel",{"type":"work"},"text","54 221 4100800 (0802)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120313",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130409",
+        "eventActor" : "JAL15"
+      } ],
+      "handle" : "JAL15"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030926",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "JAL15"
+    } ],
+    "handle" : "AR-HSIS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CMM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CMM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Miguel Godoy Mart?n"],["adr",{"label":"Calle 78 bis 933 ()\nLa Plata, BA B1912AMY\nAR","type":"work"},"text",["","","Calle 78 bis 933 ()","La Plata","BA","B1912AMY","AR"]],["email",{"type":"work"},"text","soporte@CGMI.COM.AR"],["tel",{"type":"work"},"text","54 221 4535264 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040302",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130226",
+      "eventActor" : "CMM"
+    } ],
+    "handle" : "CMM"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CMM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CMM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Miguel Godoy Mart?n"],["adr",{"label":"Calle 78 bis 933 ()\nLa Plata, BA B1912AMY\nAR","type":"work"},"text",["","","Calle 78 bis 933 ()","La Plata","BA","B1912AMY","AR"]],["email",{"type":"work"},"text","soporte@CGMI.COM.AR"],["tel",{"type":"work"},"text","54 221 4535264 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040302",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130226",
+      "eventActor" : "CMM"
+    } ],
+    "handle" : "CMM"
+  } ],
+  "startAutnum" : 262230,
+  "endAutnum" : 262230,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120418",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120420",
+    "eventActor" : "CMM"
+  } ],
+  "type" : null,
+  "handle" : "262230-LACNIC",
+  "country" : "AR"
+}

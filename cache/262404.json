@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262404,
+  "endAutnum" : 262404,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262404",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262404"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110223",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "JTT3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-JTST1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-JTST1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JC TELECOM SERVI?OS TELECOMUNICA??O"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nReden??o, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Reden??o","PA","04578-000","BR"]],["email",{"type":"work"},"text","JTT3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["org",{},"text",["JC TELECOM SERVI?OS DE TELECOMUNICA??ES LTDA EPP"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140122",
+      "eventActor" : "JTT3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JTT3",
+        "value" : "http://rdap.labs.lacnic.net/entity/JTT3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JC TELECOM SERVI?OS TELECOMUNICA??O"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nReden??o, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Reden??o","PA","04578-000","BR"]],["email",{"type":"work"},"text","JTT3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JTT3"
+      } ],
+      "entities" : [ ],
+      "handle" : "JTT3"
+    } ],
+    "handle" : "BR-JTST1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JTT3",
+      "value" : "http://rdap.labs.lacnic.net/entity/JTT3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JC TELECOM SERVI?OS TELECOMUNICA??O"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nReden??o, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Reden??o","PA","04578-000","BR"]],["email",{"type":"work"},"text","JTT3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JTT3"
+    } ],
+    "entities" : [ ],
+    "handle" : "JTT3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JTT3",
+      "value" : "http://rdap.labs.lacnic.net/entity/JTT3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JC TELECOM SERVI?OS TELECOMUNICA??O"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nReden??o, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Reden??o","PA","04578-000","BR"]],["email",{"type":"work"},"text","JTT3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JTT3"
+    } ],
+    "entities" : [ ],
+    "handle" : "JTT3"
+  } ],
+  "type" : null,
+  "handle" : "262404-LACNIC",
+  "country" : "BR"
+}

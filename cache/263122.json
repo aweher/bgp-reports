@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263122,
+  "endAutnum" : 263122,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263122",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263122"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140509",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140509",
+    "eventActor" : "EVP2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MVSA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MVSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emerson Valdir Pellis"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJaragu? do Sul, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jaragu? do Sul","SC","04578-000","BR"]],["email",{"type":"work"},"text","EVP2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["org",{},"text",["Marisol Vestuario S.A."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140509",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140510",
+      "eventActor" : "EVP2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EVP2",
+        "value" : "http://rdap.labs.lacnic.net/entity/EVP2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emerson Valdir Pellis"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\njaragua do sul, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","jaragua do sul","SC","04578-000","BR"]],["email",{"type":"work"},"text","EVP2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EVP2"
+      } ],
+      "entities" : [ ],
+      "handle" : "EVP2"
+    } ],
+    "handle" : "BR-MVSA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EVP2",
+      "value" : "http://rdap.labs.lacnic.net/entity/EVP2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emerson Valdir Pellis"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\njaragua do sul, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","jaragua do sul","SC","04578-000","BR"]],["email",{"type":"work"},"text","EVP2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EVP2"
+    } ],
+    "entities" : [ ],
+    "handle" : "EVP2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EVP2",
+      "value" : "http://rdap.labs.lacnic.net/entity/EVP2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emerson Valdir Pellis"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\njaragua do sul, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","jaragua do sul","SC","04578-000","BR"]],["email",{"type":"work"},"text","EVP2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EVP2"
+    } ],
+    "entities" : [ ],
+    "handle" : "EVP2"
+  } ],
+  "type" : null,
+  "handle" : "263122-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27851",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27851"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CEYS3-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CEYS3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Mariano Fern?ndez"],["adr",{"label":"Humberto I 863 ()\nLuj?n, BA 6700\nAR","type":"work"},"text",["","","Humberto I 863 ()","Luj?n","BA","6700","AR"]],["email",{"type":"work"},"text","pablof@COOPERATIVADELUJAN.COM.AR"],["tel",{"type":"work"},"text","54 2323 441144 ()"],["org",{},"text",["Coop. El?ctrica y de Servicios P?blicos Luj?n"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PMF",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PMF"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Mariano Fern?ndez"],["adr",{"label":"Humberto I? 863 ()\nLuj?n, BA 6700\nAR","type":"work"},"text",["","","Humberto I? 863 ()","Luj?n","BA","6700","AR"]],["email",{"type":"work"},"text","pablof@COOPERATIVADELUJAN.COM.AR"],["tel",{"type":"work"},"text","54 2323 441117 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20021010",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121016",
+        "eventActor" : "PMF"
+      } ],
+      "handle" : "PMF"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021016",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140501",
+      "eventActor" : "PMF"
+    } ],
+    "handle" : "AR-CEYS3-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PMF",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PMF"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Mariano Fern?ndez"],["adr",{"label":"Humberto I? 863 ()\nLuj?n, BA 6700\nAR","type":"work"},"text",["","","Humberto I? 863 ()","Luj?n","BA","6700","AR"]],["email",{"type":"work"},"text","pablof@COOPERATIVADELUJAN.COM.AR"],["tel",{"type":"work"},"text","54 2323 441117 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021010",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121016",
+      "eventActor" : "PMF"
+    } ],
+    "handle" : "PMF"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PMF",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PMF"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Mariano Fern?ndez"],["adr",{"label":"Humberto I? 863 ()\nLuj?n, BA 6700\nAR","type":"work"},"text",["","","Humberto I? 863 ()","Luj?n","BA","6700","AR"]],["email",{"type":"work"},"text","pablof@COOPERATIVADELUJAN.COM.AR"],["tel",{"type":"work"},"text","54 2323 441117 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021010",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121016",
+      "eventActor" : "PMF"
+    } ],
+    "handle" : "PMF"
+  } ],
+  "startAutnum" : 27851,
+  "endAutnum" : 27851,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060920",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20061219",
+    "eventActor" : "PMF"
+  } ],
+  "type" : null,
+  "handle" : "27851-LACNIC",
+  "country" : "AR"
+}

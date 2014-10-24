@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52635,
+  "endAutnum" : 52635,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52635",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52635"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130409",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130409",
+    "eventActor" : "ENF4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-STEQ-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-STEQ-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","eduardo noleto de freitas"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nImperatriz, MA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Imperatriz","MA","04578-000","BR"]],["email",{"type":"work"},"text","ENF4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 99 55093511 ()"],["org",{},"text",["SPEEDCONNECT - TECNOLOGIA E EQUIPAMENTOS"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130404",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "ENF4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ENF4",
+        "value" : "http://rdap.labs.lacnic.net/entity/ENF4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","eduardo noleto de freitas"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nImperatriz, MA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Imperatriz","MA","04578-000","BR"]],["email",{"type":"work"},"text","ENF4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 99 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ENF4"
+      } ],
+      "entities" : [ ],
+      "handle" : "ENF4"
+    } ],
+    "handle" : "BR-STEQ-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ENF4",
+      "value" : "http://rdap.labs.lacnic.net/entity/ENF4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","eduardo noleto de freitas"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nImperatriz, MA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Imperatriz","MA","04578-000","BR"]],["email",{"type":"work"},"text","ENF4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 99 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ENF4"
+    } ],
+    "entities" : [ ],
+    "handle" : "ENF4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ENF4",
+      "value" : "http://rdap.labs.lacnic.net/entity/ENF4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","eduardo noleto de freitas"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nImperatriz, MA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Imperatriz","MA","04578-000","BR"]],["email",{"type":"work"},"text","ENF4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 99 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ENF4"
+    } ],
+    "entities" : [ ],
+    "handle" : "ENF4"
+  } ],
+  "type" : null,
+  "handle" : "52635-LACNIC",
+  "country" : "BR"
+}

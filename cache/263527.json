@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263527,
+  "endAutnum" : 263527,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263527",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263527"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140114",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140114",
+    "eventActor" : "FRR31"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SGSP1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SGSP1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","jose luis gomes santos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta Rosa de Lima, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa Rosa de Lima","","04578-000","BR"]],["email",{"type":"work"},"text","JLS16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["org",{},"text",["SERRA GERAL SOLUCOES PARA INTERNET LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "JLS16"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JLS16",
+        "value" : "http://rdap.labs.lacnic.net/entity/JLS16"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","jose luis gomes santos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCriciuma, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Criciuma","SC","04578-000","BR"]],["email",{"type":"work"},"text","JLS16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JLS16"
+      } ],
+      "entities" : [ ],
+      "handle" : "JLS16"
+    } ],
+    "handle" : "BR-SGSP1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FRR31",
+      "value" : "http://rdap.labs.lacnic.net/entity/FRR31"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francini Roecker Ricken"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio Fortuna, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio Fortuna","SC","04578-000","BR"]],["email",{"type":"work"},"text","FRR31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131223",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131223",
+      "eventActor" : "FRR31"
+    } ],
+    "entities" : [ ],
+    "handle" : "FRR31"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FRR31",
+      "value" : "http://rdap.labs.lacnic.net/entity/FRR31"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francini Roecker Ricken"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio Fortuna, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio Fortuna","SC","04578-000","BR"]],["email",{"type":"work"},"text","FRR31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131223",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131223",
+      "eventActor" : "FRR31"
+    } ],
+    "entities" : [ ],
+    "handle" : "FRR31"
+  } ],
+  "type" : null,
+  "handle" : "263527-LACNIC",
+  "country" : "BR"
+}

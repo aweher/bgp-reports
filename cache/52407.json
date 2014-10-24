@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52407",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52407"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-CYAE2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-CYAE2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Antonio Torrejón Abarzúa"],["adr",{"label":"Calle Hindemburg, Providencia 680 ()\nSantiago,  7501250\nCL","type":"work"},"text",["","","Calle Hindemburg, Providencia 680 ()","Santiago","","7501250","CL"]],["email",{"type":"work"},"text","pablo@ESTENO.CL"],["tel",{"type":"work"},"text","56 2 2090525 ()"],["org",{},"text",["Comercializadora Y Asesoria Esteno Chile Limitada"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PAA24",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PAA24"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Antonio Torrejón Abarzúa"],["adr",{"label":"Calle Hindemburg 680 ()\nSantiago de Chile, null 7501250\nCL","type":"work"},"text",["","","Calle Hindemburg 680 ()","Santiago de Chile","","7501250","CL"]],["email",{"type":"work"},"text","pablo@ESTENO.CL"],["tel",{"type":"work"},"text","56 2 2090525 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120829",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120829",
+        "eventActor" : "PAA24"
+      } ],
+      "handle" : "PAA24"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120813",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130826",
+      "eventActor" : "PAA24"
+    } ],
+    "handle" : "CL-CYAE2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/EMC12",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/EMC12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Elias Maximo Cumsille"],["adr",{"label":"Hindemburg 680 ()\nSantiago, null \nCL","type":"work"},"text",["","","Hindemburg 680 ()","Santiago","","","CL"]],["email",{"type":"work"},"text","max@ASTRO-READING.COM"],["tel",{"type":"work"},"text","56 2 2090525 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120829",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120829",
+      "eventActor" : "EMC12"
+    } ],
+    "handle" : "EMC12"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/EMC12",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/EMC12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Elias Maximo Cumsille"],["adr",{"label":"Hindemburg 680 ()\nSantiago, null \nCL","type":"work"},"text",["","","Hindemburg 680 ()","Santiago","","","CL"]],["email",{"type":"work"},"text","max@ASTRO-READING.COM"],["tel",{"type":"work"},"text","56 2 2090525 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120829",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120829",
+      "eventActor" : "EMC12"
+    } ],
+    "handle" : "EMC12"
+  } ],
+  "startAutnum" : 52407,
+  "endAutnum" : 52407,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120927",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130826",
+    "eventActor" : "EMC12"
+  } ],
+  "type" : null,
+  "handle" : "52407-LACNIC",
+  "country" : "CL"
+}

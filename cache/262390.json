@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262390,
+  "endAutnum" : 262390,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262390",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262390"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120217",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "RTW"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CCUM-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CCUM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Cordeiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaring?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maring?","PR","04578-000","BR"]],["email",{"type":"work"},"text","FEC55@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["org",{},"text",["CESUMAR - CENTRO UNIVERSITARIO DE MARINGA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "FEC55"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FEC55",
+        "value" : "http://rdap.labs.lacnic.net/entity/FEC55"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Cordeiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaring?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maring?","PR","04578-000","BR"]],["email",{"type":"work"},"text","FEC55@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FEC55"
+      } ],
+      "entities" : [ ],
+      "handle" : "FEC55"
+    } ],
+    "handle" : "BR-CCUM-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RTW",
+      "value" : "http://rdap.labs.lacnic.net/entity/RTW"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Tizzot Wittig"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaring?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maring?","PR","04578-000","BR"]],["email",{"type":"work"},"text","RTW@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RTW"
+    } ],
+    "entities" : [ ],
+    "handle" : "RTW"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FEC55",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEC55"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Cordeiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaring?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maring?","PR","04578-000","BR"]],["email",{"type":"work"},"text","FEC55@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FEC55"
+    } ],
+    "entities" : [ ],
+    "handle" : "FEC55"
+  } ],
+  "type" : null,
+  "handle" : "262390-LACNIC",
+  "country" : "BR"
+}

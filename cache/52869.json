@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52869,
+  "endAutnum" : 52869,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52869",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52869"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120126",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140306",
+    "eventActor" : "JLP19"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-WTLT17-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-WTLT17-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JOSE LEONARDO PEDROSO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Leopoldo, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Leopoldo","RS","04578-000","BR"]],["email",{"type":"work"},"text","JLP19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["WEBMAX TECNOLOGIA LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "JLP19"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JLP19",
+        "value" : "http://rdap.labs.lacnic.net/entity/JLP19"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JOSE LEONARDO PEDROSO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Leopoldo, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Leopoldo","RS","04578-000","BR"]],["email",{"type":"work"},"text","JLP19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JLP19"
+      } ],
+      "entities" : [ ],
+      "handle" : "JLP19"
+    } ],
+    "handle" : "BR-WTLT17-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JLP19",
+      "value" : "http://rdap.labs.lacnic.net/entity/JLP19"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JOSE LEONARDO PEDROSO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Leopoldo, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Leopoldo","RS","04578-000","BR"]],["email",{"type":"work"},"text","JLP19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JLP19"
+    } ],
+    "entities" : [ ],
+    "handle" : "JLP19"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AAL7",
+      "value" : "http://rdap.labs.lacnic.net/entity/AAL7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Anderson Albarnaz Cardoso & Cia. Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCa?apava do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ca?apava do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","AAL7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AAL7"
+    } ],
+    "entities" : [ ],
+    "handle" : "AAL7"
+  } ],
+  "type" : null,
+  "handle" : "52869-LACNIC",
+  "country" : "BR"
+}

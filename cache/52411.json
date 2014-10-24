@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52411",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52411"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-UNDE4-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-UNDE4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Matias Fernandez"],["adr",{"label":"Avenida Las Condes 11287 ()\nSantiago, RM 7590992\nCL","type":"work"},"text",["","","Avenida Las Condes 11287 ()","Santiago","RM","7590992","CL"]],["email",{"type":"work"},"text","admin@UDD.CL"],["tel",{"type":"work"},"text","56 2327 9408 ()"],["org",{},"text",["Universidad del Desarrollo"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JOG48",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JOG48"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Matias Fernandez"],["adr",{"label":"Avenida Las Condes 11287 (Torre A Piso 3)\nSantiago, RM 7590992\nCL","type":"work"},"text",["","","Avenida Las Condes 11287 (Torre A Piso 3)","Santiago","RM","7590992","CL"]],["email",{"type":"work"},"text","admin@UDD.CL"],["tel",{"type":"work"},"text","56 2 3279708 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120821",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130405",
+        "eventActor" : "JOG48"
+      } ],
+      "handle" : "JOG48"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120911",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121020",
+      "eventActor" : "JOG48"
+    } ],
+    "handle" : "CL-UNDE4-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JOG48",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JOG48"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Matias Fernandez"],["adr",{"label":"Avenida Las Condes 11287 (Torre A Piso 3)\nSantiago, RM 7590992\nCL","type":"work"},"text",["","","Avenida Las Condes 11287 (Torre A Piso 3)","Santiago","RM","7590992","CL"]],["email",{"type":"work"},"text","admin@UDD.CL"],["tel",{"type":"work"},"text","56 2 3279708 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120821",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130405",
+      "eventActor" : "JOG48"
+    } ],
+    "handle" : "JOG48"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JOG48",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JOG48"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Matias Fernandez"],["adr",{"label":"Avenida Las Condes 11287 (Torre A Piso 3)\nSantiago, RM 7590992\nCL","type":"work"},"text",["","","Avenida Las Condes 11287 (Torre A Piso 3)","Santiago","RM","7590992","CL"]],["email",{"type":"work"},"text","admin@UDD.CL"],["tel",{"type":"work"},"text","56 2 3279708 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120821",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130405",
+      "eventActor" : "JOG48"
+    } ],
+    "handle" : "JOG48"
+  } ],
+  "startAutnum" : 52411,
+  "endAutnum" : 52411,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121019",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121019",
+    "eventActor" : "JOG48"
+  } ],
+  "type" : null,
+  "handle" : "52411-LACNIC",
+  "country" : "CL"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 26611,
+  "endAutnum" : 26611,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/26611",
+    "value" : "http://rdap.labs.lacnic.net/autnum/26611"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20021101",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20091124",
+    "eventActor" : "JAE"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-COSA8-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-COSA8-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Comcel S.A."],["adr",{"label":"CLARO MOVIL COLOMBIA - CALLE 90 14-37 ()\nBOGOTA, DC -\nCO","type":"work"},"text",["","","CLARO MOVIL COLOMBIA - CALLE 90 14-37 ()","BOGOTA","DC","-","CO"]],["email",{"type":"work"},"text","iplacnic@COMCEL.COM.CO"],["tel",{"type":"work"},"text","57 91 6169797 ()"],["org",{},"text",["COMCEL S.A."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020926",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131108",
+      "eventActor" : "IEP"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/IEP",
+        "value" : "http://rdap.labs.lacnic.net/entity/IEP"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Comcel S.A."],["adr",{"label":"Calle 90 14 37  ()\nBogota,  \nCO","type":"work"},"text",["","","Calle 90 14 37  ()","Bogota","","","CO"]],["email",{"type":"work"},"text","iplacnic@COMCEL.COM.CO"],["tel",{"type":"work"},"text","57 1 6169797 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120903",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130315",
+        "eventActor" : "IEP"
+      } ],
+      "entities" : [ ],
+      "handle" : "IEP"
+    } ],
+    "handle" : "CO-COSA8-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JAE",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAE"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ivan Pernett"],["adr",{"label":"CALLE 90 14-37 ()\nBOGOTA, CU 571\nCO","type":"work"},"text",["","","CALLE 90 14-37 ()","BOGOTA","CU","571","CO"]],["email",{"type":"work"},"text","Ivan.Pernett@CLARO.COM.CO"],["tel",{"type":"work"},"text","57 1 6169797 (2333)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020925",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131108",
+      "eventActor" : "JAE"
+    } ],
+    "entities" : [ ],
+    "handle" : "JAE"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JAE",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAE"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ivan Pernett"],["adr",{"label":"CALLE 90 14-37 ()\nBOGOTA, CU 571\nCO","type":"work"},"text",["","","CALLE 90 14-37 ()","BOGOTA","CU","571","CO"]],["email",{"type":"work"},"text","Ivan.Pernett@CLARO.COM.CO"],["tel",{"type":"work"},"text","57 1 6169797 (2333)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020925",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131108",
+      "eventActor" : "JAE"
+    } ],
+    "entities" : [ ],
+    "handle" : "JAE"
+  } ],
+  "type" : null,
+  "handle" : "26611-LACNIC",
+  "country" : "CO"
+}

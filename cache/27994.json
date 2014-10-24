@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27994",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27994"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-SPET-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-SPET-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gonzalo Llanos"],["adr",{"label":"Arist?bulo del Valle 1257 (Piso 2)\nBuenos Aires, CF C1295ADA\nAR","type":"work"},"text",["","","Arist?bulo del Valle 1257 (Piso 2)","Buenos Aires","CF","C1295ADA","AR"]],["email",{"type":"work"},"text","gllanos@BOLDT.COM.AR"],["tel",{"type":"work"},"text","54 11 43095476 (5476)"],["org",{},"text",["Servicios para el Transporte de Informaci?n S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GOL",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GOL"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gonzalo Llanos"],["adr",{"label":"Aristobulo del Valle 1257 ()\nCiudad Autonoma, BA C1295ADA\nAR","type":"work"},"text",["","","Aristobulo del Valle 1257 ()","Ciudad Autonoma","BA","C1295ADA","AR"]],["email",{"type":"work"},"text","gllanos@BOLDT.COM.AR"],["tel",{"type":"work"},"text","54 11 43095476 (5476)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080717",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20091222",
+        "eventActor" : "GOL"
+      } ],
+      "handle" : "GOL"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080801",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "GOL"
+    } ],
+    "handle" : "AR-SPET-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GOL",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GOL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gonzalo Llanos"],["adr",{"label":"Aristobulo del Valle 1257 ()\nCiudad Autonoma, BA C1295ADA\nAR","type":"work"},"text",["","","Aristobulo del Valle 1257 ()","Ciudad Autonoma","BA","C1295ADA","AR"]],["email",{"type":"work"},"text","gllanos@BOLDT.COM.AR"],["tel",{"type":"work"},"text","54 11 43095476 (5476)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080717",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20091222",
+      "eventActor" : "GOL"
+    } ],
+    "handle" : "GOL"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GOL",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GOL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gonzalo Llanos"],["adr",{"label":"Aristobulo del Valle 1257 ()\nCiudad Autonoma, BA C1295ADA\nAR","type":"work"},"text",["","","Aristobulo del Valle 1257 ()","Ciudad Autonoma","BA","C1295ADA","AR"]],["email",{"type":"work"},"text","gllanos@BOLDT.COM.AR"],["tel",{"type":"work"},"text","54 11 43095476 (5476)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080717",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20091222",
+      "eventActor" : "GOL"
+    } ],
+    "handle" : "GOL"
+  } ],
+  "startAutnum" : 27994,
+  "endAutnum" : 27994,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080908",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080908",
+    "eventActor" : "GOL"
+  } ],
+  "type" : null,
+  "handle" : "27994-LACNIC",
+  "country" : "AR"
+}

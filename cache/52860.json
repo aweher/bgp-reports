@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52860,
+  "endAutnum" : 52860,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52860",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52860"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111213",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "IOS3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-IOSA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-IOSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Isaque Oliveira de Santana"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nParipiranga, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Paripiranga","BA","04578-000","BR"]],["email",{"type":"work"},"text","IOS3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["org",{},"text",["Isaque Oliveira de Santana"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "IOS3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/IOS3",
+        "value" : "http://rdap.labs.lacnic.net/entity/IOS3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Isaque Oliveira de Santana"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nParipiranga, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Paripiranga","BA","04578-000","BR"]],["email",{"type":"work"},"text","IOS3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "IOS3"
+      } ],
+      "entities" : [ ],
+      "handle" : "IOS3"
+    } ],
+    "handle" : "BR-IOSA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IOS3",
+      "value" : "http://rdap.labs.lacnic.net/entity/IOS3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Isaque Oliveira de Santana"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nParipiranga, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Paripiranga","BA","04578-000","BR"]],["email",{"type":"work"},"text","IOS3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "IOS3"
+    } ],
+    "entities" : [ ],
+    "handle" : "IOS3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IOS3",
+      "value" : "http://rdap.labs.lacnic.net/entity/IOS3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Isaque Oliveira de Santana"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nParipiranga, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Paripiranga","BA","04578-000","BR"]],["email",{"type":"work"},"text","IOS3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "IOS3"
+    } ],
+    "entities" : [ ],
+    "handle" : "IOS3"
+  } ],
+  "type" : null,
+  "handle" : "52860-LACNIC",
+  "country" : "BR"
+}

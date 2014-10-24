@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52859,
+  "endAutnum" : 52859,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52859",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52859"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111208",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MAS223"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SSSL16-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SSSL16-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Sassi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? do Rio Pardo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? do Rio Pardo","SP","04578-000","BR"]],["email",{"type":"work"},"text","MAS223@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["Sassi Sampaio S/S LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "MAS223"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MAS223",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAS223"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Sassi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? do Rio Pardo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? do Rio Pardo","SP","04578-000","BR"]],["email",{"type":"work"},"text","MAS223@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MAS223"
+      } ],
+      "entities" : [ ],
+      "handle" : "MAS223"
+    } ],
+    "handle" : "BR-SSSL16-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAS223",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAS223"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Sassi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? do Rio Pardo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? do Rio Pardo","SP","04578-000","BR"]],["email",{"type":"work"},"text","MAS223@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAS223"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAS223"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAS223",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAS223"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Sassi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? do Rio Pardo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? do Rio Pardo","SP","04578-000","BR"]],["email",{"type":"work"},"text","MAS223@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAS223"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAS223"
+  } ],
+  "type" : null,
+  "handle" : "52859-LACNIC",
+  "country" : "BR"
+}

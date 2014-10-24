@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263478,
+  "endAutnum" : 263478,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263478",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263478"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131219",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131219",
+    "eventActor" : "RMB20"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-RMBA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-RMBA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lucas Vincius Santos LVS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCurvelo, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curvelo","MG","04578-000","BR"]],["email",{"type":"work"},"text","LVL7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["org",{},"text",["Renard Mendes Batista"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130805",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130805",
+      "eventActor" : "LVL7"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LVL7",
+        "value" : "http://rdap.labs.lacnic.net/entity/LVL7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lucas Vincius Santos LVS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCl?udio, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cl?udio","MG","04578-000","BR"]],["email",{"type":"work"},"text","LVL7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LVL7"
+      } ],
+      "entities" : [ ],
+      "handle" : "LVL7"
+    } ],
+    "handle" : "BR-RMBA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RMB20",
+      "value" : "http://rdap.labs.lacnic.net/entity/RMB20"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Renard Mendes Batista"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCurvelo, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curvelo","MG","04578-000","BR"]],["email",{"type":"work"},"text","RMB20@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131007",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131007",
+      "eventActor" : "RMB20"
+    } ],
+    "entities" : [ ],
+    "handle" : "RMB20"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RMB20",
+      "value" : "http://rdap.labs.lacnic.net/entity/RMB20"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Renard Mendes Batista"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCurvelo, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curvelo","MG","04578-000","BR"]],["email",{"type":"work"},"text","RMB20@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131007",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131007",
+      "eventActor" : "RMB20"
+    } ],
+    "entities" : [ ],
+    "handle" : "RMB20"
+  } ],
+  "type" : null,
+  "handle" : "263478-LACNIC",
+  "country" : "BR"
+}

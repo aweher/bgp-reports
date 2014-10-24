@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52605,
+  "endAutnum" : 52605,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52605",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52605"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130321",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130321",
+    "eventActor" : "JMC18"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PSTL6-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PSTL6-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose M. M. Candido"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoiana, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goiana","PE","04578-000","BR"]],["email",{"type":"work"},"text","JMC18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["org",{},"text",["PGI SERVICOS DE TELECOMUNICACOES LTDA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "JMC18"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JMC18",
+        "value" : "http://rdap.labs.lacnic.net/entity/JMC18"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose M. M. Candido"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoiana, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goiana","PE","04578-000","BR"]],["email",{"type":"work"},"text","JMC18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JMC18"
+      } ],
+      "entities" : [ ],
+      "handle" : "JMC18"
+    } ],
+    "handle" : "BR-PSTL6-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JMC18",
+      "value" : "http://rdap.labs.lacnic.net/entity/JMC18"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose M. M. Candido"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoiana, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goiana","PE","04578-000","BR"]],["email",{"type":"work"},"text","JMC18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JMC18"
+    } ],
+    "entities" : [ ],
+    "handle" : "JMC18"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JMC18",
+      "value" : "http://rdap.labs.lacnic.net/entity/JMC18"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose M. M. Candido"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoiana, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goiana","PE","04578-000","BR"]],["email",{"type":"work"},"text","JMC18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JMC18"
+    } ],
+    "entities" : [ ],
+    "handle" : "JMC18"
+  } ],
+  "type" : null,
+  "handle" : "52605-LACNIC",
+  "country" : "BR"
+}

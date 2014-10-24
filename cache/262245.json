@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262245,
+  "endAutnum" : 262245,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262245",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262245"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121004",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121004",
+    "eventActor" : "JRU"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-ULSA1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-ULSA1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Rodriguez UniSabana"],["adr",{"label":"Campus Puente del Comun Km 7 autopista Norte --- ()\nCHIA, BO 11001\nCO","type":"work"},"text",["","","Campus Puente del Comun Km 7 autopista Norte --- ()","CHIA","BO","11001","CO"]],["email",{"type":"work"},"text","javier.rodriguez2@UNISABANA.EDU.CO"],["tel",{"type":"work"},"text","57 1 8615555 ()"],["org",{},"text",["UNIVERSIDAD DE LA SABANA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040928",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121005",
+      "eventActor" : "JRU"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JRU",
+        "value" : "http://rdap.labs.lacnic.net/entity/JRU"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Rodriguez UniSabana"],["adr",{"label":"CAMPUS PUENTE DEL COMUN KM 7 AUTOPISTA NORTE, BOGOTA - CHIA,  ()\nChia, cu \nCO","type":"work"},"text",["","","CAMPUS PUENTE DEL COMUN KM 7 AUTOPISTA NORTE, BOGOTA - CHIA,  ()","Chia","cu","","CO"]],["email",{"type":"work"},"text","javier.rodriguez2@UNISABANA.EDU.CO"],["tel",{"type":"work"},"text","57 1 8615555 (34322)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120910",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121105",
+        "eventActor" : "JRU"
+      } ],
+      "entities" : [ ],
+      "handle" : "JRU"
+    } ],
+    "handle" : "CO-ULSA1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JRU",
+      "value" : "http://rdap.labs.lacnic.net/entity/JRU"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Rodriguez UniSabana"],["adr",{"label":"CAMPUS PUENTE DEL COMUN KM 7 AUTOPISTA NORTE, BOGOTA - CHIA,  ()\nChia, cu \nCO","type":"work"},"text",["","","CAMPUS PUENTE DEL COMUN KM 7 AUTOPISTA NORTE, BOGOTA - CHIA,  ()","Chia","cu","","CO"]],["email",{"type":"work"},"text","javier.rodriguez2@UNISABANA.EDU.CO"],["tel",{"type":"work"},"text","57 1 8615555 (34322)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120910",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121105",
+      "eventActor" : "JRU"
+    } ],
+    "entities" : [ ],
+    "handle" : "JRU"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JRU",
+      "value" : "http://rdap.labs.lacnic.net/entity/JRU"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Rodriguez UniSabana"],["adr",{"label":"CAMPUS PUENTE DEL COMUN KM 7 AUTOPISTA NORTE, BOGOTA - CHIA,  ()\nChia, cu \nCO","type":"work"},"text",["","","CAMPUS PUENTE DEL COMUN KM 7 AUTOPISTA NORTE, BOGOTA - CHIA,  ()","Chia","cu","","CO"]],["email",{"type":"work"},"text","javier.rodriguez2@UNISABANA.EDU.CO"],["tel",{"type":"work"},"text","57 1 8615555 (34322)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120910",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121105",
+      "eventActor" : "JRU"
+    } ],
+    "entities" : [ ],
+    "handle" : "JRU"
+  } ],
+  "type" : null,
+  "handle" : "262245-LACNIC",
+  "country" : "CO"
+}

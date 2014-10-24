@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61910,
+  "endAutnum" : 61910,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61910",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61910"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140429",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140429",
+    "eventActor" : "ADF24"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DFLT1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DFLT1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andreia dos Santos Fernandes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlt?nia, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alt?nia","","04578-000","BR"]],["email",{"type":"work"},"text","ADF24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["org",{},"text",["Dvoranem E Fernandes Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "ADF24"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ADF24",
+        "value" : "http://rdap.labs.lacnic.net/entity/ADF24"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andreia dos Santos Fernandes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlt?nia, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alt?nia","PR","04578-000","BR"]],["email",{"type":"work"},"text","ADF24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ADF24"
+      } ],
+      "entities" : [ ],
+      "handle" : "ADF24"
+    } ],
+    "handle" : "BR-DFLT1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ADF24",
+      "value" : "http://rdap.labs.lacnic.net/entity/ADF24"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andreia dos Santos Fernandes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlt?nia, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alt?nia","PR","04578-000","BR"]],["email",{"type":"work"},"text","ADF24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ADF24"
+    } ],
+    "entities" : [ ],
+    "handle" : "ADF24"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ADF24",
+      "value" : "http://rdap.labs.lacnic.net/entity/ADF24"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andreia dos Santos Fernandes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlt?nia, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alt?nia","PR","04578-000","BR"]],["email",{"type":"work"},"text","ADF24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ADF24"
+    } ],
+    "entities" : [ ],
+    "handle" : "ADF24"
+  } ],
+  "type" : null,
+  "handle" : "61910-LACNIC",
+  "country" : "BR"
+}

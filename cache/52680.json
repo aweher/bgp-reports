@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52680,
+  "endAutnum" : 52680,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52680",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52680"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121204",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "BIL13"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BSIL9-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BSIL9-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","BLZ Inform?tica Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMambor?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mambor?","PR","04578-000","BR"]],["email",{"type":"work"},"text","BIL13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["org",{},"text",["BLZNET SERVICOS DE INTERNET LTDA - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "BIL13"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/BIL13",
+        "value" : "http://rdap.labs.lacnic.net/entity/BIL13"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","BLZ Inform?tica Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampo Mour?o, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campo Mour?o","PR","04578-000","BR"]],["email",{"type":"work"},"text","BIL13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "BIL13"
+      } ],
+      "entities" : [ ],
+      "handle" : "BIL13"
+    } ],
+    "handle" : "BR-BSIL9-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BIL13",
+      "value" : "http://rdap.labs.lacnic.net/entity/BIL13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","BLZ Inform?tica Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampo Mour?o, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campo Mour?o","PR","04578-000","BR"]],["email",{"type":"work"},"text","BIL13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "BIL13"
+    } ],
+    "entities" : [ ],
+    "handle" : "BIL13"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BIL13",
+      "value" : "http://rdap.labs.lacnic.net/entity/BIL13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","BLZ Inform?tica Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCampo Mour?o, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Campo Mour?o","PR","04578-000","BR"]],["email",{"type":"work"},"text","BIL13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "BIL13"
+    } ],
+    "entities" : [ ],
+    "handle" : "BIL13"
+  } ],
+  "type" : null,
+  "handle" : "52680-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262728,
+  "endAutnum" : 262728,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262728",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262728"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100315",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "CEM28"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-EMCL1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-EMCL1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Eduardo Rodrigues Mendes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoian?sia, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goian?sia","GO","04578-000","BR"]],["email",{"type":"work"},"text","CEM28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["org",{},"text",["ELETRODATA LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130827",
+      "eventActor" : "CEM28"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CEM28",
+        "value" : "http://rdap.labs.lacnic.net/entity/CEM28"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Eduardo Rodrigues Mendes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoian?sia, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goian?sia","GO","04578-000","BR"]],["email",{"type":"work"},"text","CEM28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CEM28"
+      } ],
+      "entities" : [ ],
+      "handle" : "CEM28"
+    } ],
+    "handle" : "BR-EMCL1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CEM28",
+      "value" : "http://rdap.labs.lacnic.net/entity/CEM28"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Eduardo Rodrigues Mendes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoian?sia, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goian?sia","GO","04578-000","BR"]],["email",{"type":"work"},"text","CEM28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CEM28"
+    } ],
+    "entities" : [ ],
+    "handle" : "CEM28"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CEM28",
+      "value" : "http://rdap.labs.lacnic.net/entity/CEM28"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Eduardo Rodrigues Mendes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoian?sia, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goian?sia","GO","04578-000","BR"]],["email",{"type":"work"},"text","CEM28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CEM28"
+    } ],
+    "entities" : [ ],
+    "handle" : "CEM28"
+  } ],
+  "type" : null,
+  "handle" : "262728-LACNIC",
+  "country" : "BR"
+}

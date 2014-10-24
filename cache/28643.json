@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28643,
+  "endAutnum" : 28643,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28643",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28643"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060428",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140106",
+    "eventActor" : "FTL9"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-WSCM1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-WSCM1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Antonio Carlos Meira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRecife, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Recife","PE","04578-000","BR"]],["email",{"type":"work"},"text","ACM45@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["org",{},"text",["Wivox Sevi?os de Comunica??o Multim?dia Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140106",
+      "eventActor" : "ACM45"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ACM45",
+        "value" : "http://rdap.labs.lacnic.net/entity/ACM45"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Antonio Carlos Meira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOlinda, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Olinda","PE","04578-000","BR"]],["email",{"type":"work"},"text","ACM45@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ACM45"
+      } ],
+      "entities" : [ ],
+      "handle" : "ACM45"
+    } ],
+    "handle" : "BR-WSCM1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FTL9",
+      "value" : "http://rdap.labs.lacnic.net/entity/FTL9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","FONAR TELECOMUNICA??O BRASILEIRA LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOlinda, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Olinda","PE","04578-000","BR"]],["email",{"type":"work"},"text","FTL9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FTL9"
+    } ],
+    "entities" : [ ],
+    "handle" : "FTL9"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FTL9",
+      "value" : "http://rdap.labs.lacnic.net/entity/FTL9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","FONAR TELECOMUNICA??O BRASILEIRA LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOlinda, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Olinda","PE","04578-000","BR"]],["email",{"type":"work"},"text","FTL9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FTL9"
+    } ],
+    "entities" : [ ],
+    "handle" : "FTL9"
+  } ],
+  "type" : null,
+  "handle" : "28643-LACNIC",
+  "country" : "BR"
+}

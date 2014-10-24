@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52259",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52259"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-STAS2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-STAS2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dario Tuseddu"],["adr",{"label":"Juan B Justo 539 (Neuquen)\nNeuquen,  8300\nAR","type":"work"},"text",["","","Juan B Justo 539 (Neuquen)","Neuquen","","8300","AR"]],["email",{"type":"work"},"text","abuse@SERTECA.COM.AR"],["tel",{"type":"work"},"text","54 299 4476404 (104)"],["org",{},"text",["SERVICIOS DE TECNOLOGIA APLICADA SRL"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/DAT8",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAT8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dario Tuseddu"],["adr",{"label":"Juan B Justo 539 ()\nNeuquen, NQ 8300\nAR","type":"work"},"text",["","","Juan B Justo 539 ()","Neuquen","NQ","8300","AR"]],["email",{"type":"work"},"text","abuse@SERTECA.COM.AR"],["tel",{"type":"work"},"text","0054 299 4476404 (104)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100328",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110523",
+        "eventActor" : "DAT8"
+      } ],
+      "handle" : "DAT8"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031113",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "DAT8"
+    } ],
+    "handle" : "AR-STAS2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DAT8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAT8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dario Tuseddu"],["adr",{"label":"Juan B Justo 539 ()\nNeuquen, NQ 8300\nAR","type":"work"},"text",["","","Juan B Justo 539 ()","Neuquen","NQ","8300","AR"]],["email",{"type":"work"},"text","abuse@SERTECA.COM.AR"],["tel",{"type":"work"},"text","0054 299 4476404 (104)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100328",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110523",
+      "eventActor" : "DAT8"
+    } ],
+    "handle" : "DAT8"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DAT8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAT8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dario Tuseddu"],["adr",{"label":"Juan B Justo 539 ()\nNeuquen, NQ 8300\nAR","type":"work"},"text",["","","Juan B Justo 539 ()","Neuquen","NQ","8300","AR"]],["email",{"type":"work"},"text","abuse@SERTECA.COM.AR"],["tel",{"type":"work"},"text","0054 299 4476404 (104)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100328",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110523",
+      "eventActor" : "DAT8"
+    } ],
+    "handle" : "DAT8"
+  } ],
+  "startAutnum" : 52259,
+  "endAutnum" : 52259,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100622",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100622",
+    "eventActor" : "DAT8"
+  } ],
+  "type" : null,
+  "handle" : "52259-LACNIC",
+  "country" : "AR"
+}

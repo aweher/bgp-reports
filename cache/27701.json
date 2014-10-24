@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27701",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27701"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-NETL-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-NETL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Netline Telecomunicaciones"],["adr",{"label":"Los Conquistadores 2430 ()\nSantiago, RM 7530041\nCL","type":"work"},"text",["","","Los Conquistadores 2430 ()","Santiago","RM","7530041","CL"]],["email",{"type":"work"},"text","noc@NETLINE.NET"],["tel",{"type":"work"},"text","56 2 6560600 ()"],["org",{},"text",["Netline"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/NET",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/NET"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Netline Telecomunicaciones"],["adr",{"label":"Los Conquistadores 2430 (Providencia)\nSantiago, RM 000000\nCL","type":"work"},"text",["","","Los Conquistadores 2430 (Providencia)","Santiago","RM","000000","CL"]],["email",{"type":"work"},"text","noc@NETLINE.NET"],["tel",{"type":"work"},"text","56 2 6560600 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20041004",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20081118",
+        "eventActor" : "NET"
+      } ],
+      "handle" : "NET"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030226",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140219",
+      "eventActor" : "NET"
+    } ],
+    "handle" : "CL-NETL-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NET",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NET"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Netline Telecomunicaciones"],["adr",{"label":"Los Conquistadores 2430 (Providencia)\nSantiago, RM 000000\nCL","type":"work"},"text",["","","Los Conquistadores 2430 (Providencia)","Santiago","RM","000000","CL"]],["email",{"type":"work"},"text","noc@NETLINE.NET"],["tel",{"type":"work"},"text","56 2 6560600 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041004",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20081118",
+      "eventActor" : "NET"
+    } ],
+    "handle" : "NET"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NET",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NET"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Netline Telecomunicaciones"],["adr",{"label":"Los Conquistadores 2430 (Providencia)\nSantiago, RM 000000\nCL","type":"work"},"text",["","","Los Conquistadores 2430 (Providencia)","Santiago","RM","000000","CL"]],["email",{"type":"work"},"text","noc@NETLINE.NET"],["tel",{"type":"work"},"text","56 2 6560600 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041004",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20081118",
+      "eventActor" : "NET"
+    } ],
+    "handle" : "NET"
+  } ],
+  "startAutnum" : 27701,
+  "endAutnum" : 27701,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20030912",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080613",
+    "eventActor" : "NET"
+  } ],
+  "type" : null,
+  "handle" : "27701-LACNIC",
+  "country" : "CL"
+}

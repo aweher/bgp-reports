@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52591,
+  "endAutnum" : 52591,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52591",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52591"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130312",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130312",
+    "eventActor" : "SCT3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SCTC3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SCTC3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sirilo Cristiano Terres"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTr?s Barras do Paran?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tr?s Barras do Paran?","PR","04578-000","BR"]],["email",{"type":"work"},"text","SCT3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["org",{},"text",["S. C. Terres e Cia Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130313",
+      "eventActor" : "SCT3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SCT3",
+        "value" : "http://rdap.labs.lacnic.net/entity/SCT3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sirilo Cristiano Terres"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTr?s Barras do Paran?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tr?s Barras do Paran?","PR","04578-000","BR"]],["email",{"type":"work"},"text","SCT3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SCT3"
+      } ],
+      "entities" : [ ],
+      "handle" : "SCT3"
+    } ],
+    "handle" : "BR-SCTC3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SCT3",
+      "value" : "http://rdap.labs.lacnic.net/entity/SCT3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sirilo Cristiano Terres"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTr?s Barras do Paran?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tr?s Barras do Paran?","PR","04578-000","BR"]],["email",{"type":"work"},"text","SCT3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SCT3"
+    } ],
+    "entities" : [ ],
+    "handle" : "SCT3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SCT3",
+      "value" : "http://rdap.labs.lacnic.net/entity/SCT3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sirilo Cristiano Terres"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTr?s Barras do Paran?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tr?s Barras do Paran?","PR","04578-000","BR"]],["email",{"type":"work"},"text","SCT3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SCT3"
+    } ],
+    "entities" : [ ],
+    "handle" : "SCT3"
+  } ],
+  "type" : null,
+  "handle" : "52591-LACNIC",
+  "country" : "BR"
+}

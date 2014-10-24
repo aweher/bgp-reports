@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53226,
+  "endAutnum" : 53226,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53226",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53226"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101122",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130405",
+    "eventActor" : "MIA30"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NILT5-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NILT5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Roberto Zart Olanyk"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","PR","04578-000","BR"]],["email",{"type":"work"},"text","LRO5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 04 555093511 ()"],["org",{},"text",["NETCERTTO INFORMATICA LTDA."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LRO5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LRO5",
+        "value" : "http://rdap.labs.lacnic.net/entity/LRO5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Roberto Zart Olanyk"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","PR","04578-000","BR"]],["email",{"type":"work"},"text","LRO5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LRO5"
+      } ],
+      "entities" : [ ],
+      "handle" : "LRO5"
+    } ],
+    "handle" : "BR-NILT5-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MIA30",
+      "value" : "http://rdap.labs.lacnic.net/entity/MIA30"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Michell Antunes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","","04578-000","BR"]],["email",{"type":"work"},"text","MIA30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130405",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130405",
+      "eventActor" : "MIA30"
+    } ],
+    "entities" : [ ],
+    "handle" : "MIA30"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MIA30",
+      "value" : "http://rdap.labs.lacnic.net/entity/MIA30"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Michell Antunes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCascavel, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cascavel","","04578-000","BR"]],["email",{"type":"work"},"text","MIA30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130405",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130405",
+      "eventActor" : "MIA30"
+    } ],
+    "entities" : [ ],
+    "handle" : "MIA30"
+  } ],
+  "type" : null,
+  "handle" : "53226-LACNIC",
+  "country" : "BR"
+}

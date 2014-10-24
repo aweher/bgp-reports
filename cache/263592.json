@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263592,
+  "endAutnum" : 263592,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263592",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263592"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130822",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130822",
+    "eventActor" : "IDG3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MAIN1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MAIN1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Italo Diego Moreira Gon?alves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarro, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barro","","04578-000","BR"]],["email",{"type":"work"},"text","IDG3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 88 55093511 ()"],["org",{},"text",["MARQUES INFORMATICA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "IDG3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/IDG3",
+        "value" : "http://rdap.labs.lacnic.net/entity/IDG3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Italo Diego Moreira Gon?alves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarro, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barro","CE","04578-000","BR"]],["email",{"type":"work"},"text","IDG3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 88 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "IDG3"
+      } ],
+      "entities" : [ ],
+      "handle" : "IDG3"
+    } ],
+    "handle" : "BR-MAIN1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IDG3",
+      "value" : "http://rdap.labs.lacnic.net/entity/IDG3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Italo Diego Moreira Gon?alves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarro, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barro","CE","04578-000","BR"]],["email",{"type":"work"},"text","IDG3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 88 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "IDG3"
+    } ],
+    "entities" : [ ],
+    "handle" : "IDG3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IDG3",
+      "value" : "http://rdap.labs.lacnic.net/entity/IDG3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Italo Diego Moreira Gon?alves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarro, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barro","CE","04578-000","BR"]],["email",{"type":"work"},"text","IDG3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 88 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "IDG3"
+    } ],
+    "entities" : [ ],
+    "handle" : "IDG3"
+  } ],
+  "type" : null,
+  "handle" : "263592-LACNIC",
+  "country" : "BR"
+}

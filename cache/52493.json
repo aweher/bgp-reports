@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52493",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52493"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-VELO4-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-VELO4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo De Ambrosio"],["adr",{"label":"20 770  ()\nGeneral Pico, LP 6360\nAR","type":"work"},"text",["","","20 770  ()","General Pico","LP","6360","AR"]],["email",{"type":"work"},"text","marcelo@VELONET.COM.AR"],["tel",{"type":"work"},"text","54 2302 436605 (6024)"],["org",{},"text",["VELONET"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MAA169",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAA169"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo De Ambrosio"],["adr",{"label":"calle 20 770 ()\nGeneral Pico,  6360\nAR","type":"work"},"text",["","","calle 20 770 ()","General Pico","","6360","AR"]],["email",{"type":"work"},"text","marcelo@VELONET.COM.AR"],["tel",{"type":"work"},"text","54 2302 436605 (6024)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130820",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130820",
+        "eventActor" : "MAA169"
+      } ],
+      "handle" : "MAA169"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130906",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130906",
+      "eventActor" : "MAA169"
+    } ],
+    "handle" : "AR-VELO4-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAA169",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAA169"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo De Ambrosio"],["adr",{"label":"calle 20 770 ()\nGeneral Pico,  6360\nAR","type":"work"},"text",["","","calle 20 770 ()","General Pico","","6360","AR"]],["email",{"type":"work"},"text","marcelo@VELONET.COM.AR"],["tel",{"type":"work"},"text","54 2302 436605 (6024)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130820",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130820",
+      "eventActor" : "MAA169"
+    } ],
+    "handle" : "MAA169"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAA169",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAA169"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo De Ambrosio"],["adr",{"label":"calle 20 770 ()\nGeneral Pico,  6360\nAR","type":"work"},"text",["","","calle 20 770 ()","General Pico","","6360","AR"]],["email",{"type":"work"},"text","marcelo@VELONET.COM.AR"],["tel",{"type":"work"},"text","54 2302 436605 (6024)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130820",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130820",
+      "eventActor" : "MAA169"
+    } ],
+    "handle" : "MAA169"
+  } ],
+  "startAutnum" : 52493,
+  "endAutnum" : 52493,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131028",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131028",
+    "eventActor" : "MAA169"
+  } ],
+  "type" : null,
+  "handle" : "52493-LACNIC",
+  "country" : "AR"
+}

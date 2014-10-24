@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263674,
+  "endAutnum" : 263674,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263674",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263674"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131122",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131126",
+    "eventActor" : "JSJ16"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-JSVJ-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-JSVJ-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","HOMEHOST Hospedagem de Sites"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJales, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jales","SP","04578-000","BR"]],["email",{"type":"work"},"text","HHS6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["org",{},"text",["Joao S Viana Junior ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130916",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130916",
+      "eventActor" : "HHS6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/HHS6",
+        "value" : "http://rdap.labs.lacnic.net/entity/HHS6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","HOMEHOST Hospedagem de Sites"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio de Janeiro, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio de Janeiro","RJ","04578-000","BR"]],["email",{"type":"work"},"text","HHS6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "HHS6"
+      } ],
+      "entities" : [ ],
+      "handle" : "HHS6"
+    } ],
+    "handle" : "BR-JSVJ-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JSJ16",
+      "value" : "http://rdap.labs.lacnic.net/entity/JSJ16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jo?o Soares Viana Junior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJales, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jales","SP","04578-000","BR"]],["email",{"type":"work"},"text","JSJ16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131126",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131126",
+      "eventActor" : "JSJ16"
+    } ],
+    "entities" : [ ],
+    "handle" : "JSJ16"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JSJ16",
+      "value" : "http://rdap.labs.lacnic.net/entity/JSJ16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jo?o Soares Viana Junior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJales, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jales","SP","04578-000","BR"]],["email",{"type":"work"},"text","JSJ16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131126",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131126",
+      "eventActor" : "JSJ16"
+    } ],
+    "entities" : [ ],
+    "handle" : "JSJ16"
+  } ],
+  "type" : null,
+  "handle" : "263674-LACNIC",
+  "country" : "BR"
+}

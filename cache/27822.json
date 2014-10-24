@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27822",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27822"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-EMCA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-EMCA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMC Networking Engineering"],["adr",{"label":"Tte. Gral. J.D. Per?n 949 (14 Piso)\nBuenos Aires, CF C1038AAS\nAR","type":"work"},"text",["","","Tte. Gral. J.D. Per?n 949 (14 Piso)","Buenos Aires","CF","C1038AAS","AR"]],["email",{"type":"work"},"text","ip-eng@EMC-CORP.NET"],["tel",{"type":"work"},"text","54 11 5032-2100 (167)"],["org",{},"text",["Emerging Markets Communications de Argentina S.R.L"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ENE3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ENE3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMC Networking Engineering"],["adr",{"label":"777 Brickell Avenue, 11th Floor, Suite 1150  ()\nMiami, FL FL33131\nUS","type":"work"},"text",["","","777 Brickell Avenue, 11th Floor, Suite 1150  ()","Miami","FL","FL33131","US"]],["email",{"type":"work"},"text","ip-eng@EMC-CORP.NET"],["tel",{"type":"work"},"text","1 305 5391358 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20101008",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110412",
+        "eventActor" : "ENE3"
+      } ],
+      "handle" : "ENE3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060504",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "ENE3"
+    } ],
+    "handle" : "AR-EMCA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ENE3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ENE3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMC Networking Engineering"],["adr",{"label":"777 Brickell Avenue, 11th Floor, Suite 1150  ()\nMiami, FL FL33131\nUS","type":"work"},"text",["","","777 Brickell Avenue, 11th Floor, Suite 1150  ()","Miami","FL","FL33131","US"]],["email",{"type":"work"},"text","ip-eng@EMC-CORP.NET"],["tel",{"type":"work"},"text","1 305 5391358 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101008",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110412",
+      "eventActor" : "ENE3"
+    } ],
+    "handle" : "ENE3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ENE3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ENE3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMC Networking Engineering"],["adr",{"label":"777 Brickell Avenue, 11th Floor, Suite 1150  ()\nMiami, FL FL33131\nUS","type":"work"},"text",["","","777 Brickell Avenue, 11th Floor, Suite 1150  ()","Miami","FL","FL33131","US"]],["email",{"type":"work"},"text","ip-eng@EMC-CORP.NET"],["tel",{"type":"work"},"text","1 305 5391358 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101008",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110412",
+      "eventActor" : "ENE3"
+    } ],
+    "handle" : "ENE3"
+  } ],
+  "startAutnum" : 27822,
+  "endAutnum" : 27822,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060509",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20101008",
+    "eventActor" : "ENE3"
+  } ],
+  "type" : null,
+  "handle" : "27822-LACNIC",
+  "country" : "AR"
+}

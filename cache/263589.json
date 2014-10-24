@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263589,
+  "endAutnum" : 263589,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263589",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263589"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130821",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130821",
+    "eventActor" : "MGP2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MGTE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MGTE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Gleyson Petarnella"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaring?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maring?","","04578-000","BR"]],["email",{"type":"work"},"text","MGP2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["org",{},"text",["MGP TELECOM"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "MGP2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MGP2",
+        "value" : "http://rdap.labs.lacnic.net/entity/MGP2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Gleyson Petarnella"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaring?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maring?","PR","04578-000","BR"]],["email",{"type":"work"},"text","MGP2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MGP2"
+      } ],
+      "entities" : [ ],
+      "handle" : "MGP2"
+    } ],
+    "handle" : "BR-MGTE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MGP2",
+      "value" : "http://rdap.labs.lacnic.net/entity/MGP2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Gleyson Petarnella"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaring?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maring?","PR","04578-000","BR"]],["email",{"type":"work"},"text","MGP2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MGP2"
+    } ],
+    "entities" : [ ],
+    "handle" : "MGP2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MGP2",
+      "value" : "http://rdap.labs.lacnic.net/entity/MGP2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Gleyson Petarnella"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaring?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maring?","PR","04578-000","BR"]],["email",{"type":"work"},"text","MGP2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MGP2"
+    } ],
+    "entities" : [ ],
+    "handle" : "MGP2"
+  } ],
+  "type" : null,
+  "handle" : "263589-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28135,
+  "endAutnum" : 28135,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28135",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28135"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090227",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140620",
+    "eventActor" : "ANC95"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ANPI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ANPI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Percival Henriques de Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJo?o Pessoa, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jo?o Pessoa","PB","04578-000","BR"]],["email",{"type":"work"},"text","PHS6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["org",{},"text",["ASSOCIA??O NACIONAL PARA INCLUS?O DIGITAL - ANID"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140620",
+      "eventActor" : "PHS6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PHS6",
+        "value" : "http://rdap.labs.lacnic.net/entity/PHS6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Percival Henriques de Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJo?o Pessoa, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jo?o Pessoa","PB","04578-000","BR"]],["email",{"type":"work"},"text","PHS6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PHS6"
+      } ],
+      "entities" : [ ],
+      "handle" : "PHS6"
+    } ],
+    "handle" : "BR-ANPI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ANC95",
+      "value" : "http://rdap.labs.lacnic.net/entity/ANC95"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ANID - NETWORK OPERATIONS CENTER"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJo?o Pessoa, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jo?o Pessoa","PB","04578-000","BR"]],["email",{"type":"work"},"text","ANC95@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140603",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140603",
+      "eventActor" : "ANC95"
+    } ],
+    "entities" : [ ],
+    "handle" : "ANC95"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ANC95",
+      "value" : "http://rdap.labs.lacnic.net/entity/ANC95"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ANID - NETWORK OPERATIONS CENTER"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJo?o Pessoa, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jo?o Pessoa","PB","04578-000","BR"]],["email",{"type":"work"},"text","ANC95@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140603",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140603",
+      "eventActor" : "ANC95"
+    } ],
+    "entities" : [ ],
+    "handle" : "ANC95"
+  } ],
+  "type" : null,
+  "handle" : "28135-LACNIC",
+  "country" : "BR"
+}

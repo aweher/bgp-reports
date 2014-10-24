@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52269,
+  "endAutnum" : 52269,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52269",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52269"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100728",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100728",
+    "eventActor" : "MAL28"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-ABYE1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-ABYE1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Miguel Angel Guzm?n Le?n"],["adr",{"label":"Carrera 7 17-01 Piso 3  ()\nBogot?, Cu 11001000\nCO","type":"work"},"text",["","","Carrera 7 17-01 Piso 3  ()","Bogot?","Cu","11001000","CO"]],["email",{"type":"work"},"text","mguzman@ASOBANCARIA.COM"],["tel",{"type":"work"},"text","57 1 3441200 (2631)"],["org",{},"text",["ASOCIACION BANCARIA Y DE ENTIDADES FINANCIERAS DE COLOMBIA ASOBAN"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100429",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100729",
+      "eventActor" : "MAL28"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MAL28",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAL28"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Miguel Angel Guzm?n Le?n"],["adr",{"label":"Carrera 7 17-01 piso 3  ()\nBogota,  \nCO","type":"work"},"text",["","","Carrera 7 17-01 piso 3  ()","Bogota","","","CO"]],["email",{"type":"work"},"text","mguzman@ASOBANCARIA.COM"],["tel",{"type":"work"},"text","57 1 3441200 (2631)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100219",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100219",
+        "eventActor" : "MAL28"
+      } ],
+      "entities" : [ ],
+      "handle" : "MAL28"
+    } ],
+    "handle" : "CO-ABYE1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAL28",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAL28"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Miguel Angel Guzm?n Le?n"],["adr",{"label":"Carrera 7 17-01 piso 3  ()\nBogota,  \nCO","type":"work"},"text",["","","Carrera 7 17-01 piso 3  ()","Bogota","","","CO"]],["email",{"type":"work"},"text","mguzman@ASOBANCARIA.COM"],["tel",{"type":"work"},"text","57 1 3441200 (2631)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100219",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100219",
+      "eventActor" : "MAL28"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAL28"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAL28",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAL28"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Miguel Angel Guzm?n Le?n"],["adr",{"label":"Carrera 7 17-01 piso 3  ()\nBogota,  \nCO","type":"work"},"text",["","","Carrera 7 17-01 piso 3  ()","Bogota","","","CO"]],["email",{"type":"work"},"text","mguzman@ASOBANCARIA.COM"],["tel",{"type":"work"},"text","57 1 3441200 (2631)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100219",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100219",
+      "eventActor" : "MAL28"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAL28"
+  } ],
+  "type" : null,
+  "handle" : "52269-LACNIC",
+  "country" : "CO"
+}

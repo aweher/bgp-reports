@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262263,
+  "endAutnum" : 262263,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262263",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262263"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130802",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130802",
+    "eventActor" : "DFA10"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-VASA1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-VASA1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dario Fernando Agudelo"],["adr",{"label":"Calle 75 No. 5 - 59  ()\nBogota, null 11001\nCO","type":"work"},"text",["","","Calle 75 No. 5 - 59  ()","Bogota","","11001","CO"]],["email",{"type":"work"},"text","nocsec@VALOREM.COM.CO"],["tel",{"type":"work"},"text","57 1 2358600 ()"],["org",{},"text",["VALOREM S.A."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130422",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130422",
+      "eventActor" : "DFA10"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DFA10",
+        "value" : "http://rdap.labs.lacnic.net/entity/DFA10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dario Fernando Agudelo"],["adr",{"label":"Calle 75 5-59  ()\nBogota, null \nCO","type":"work"},"text",["","","Calle 75 5-59  ()","Bogota","","","CO"]],["email",{"type":"work"},"text","nocsec@VALOREM.COM.CO"],["tel",{"type":"work"},"text","57 1 7560809 (40460)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130408",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130408",
+        "eventActor" : "DFA10"
+      } ],
+      "entities" : [ ],
+      "handle" : "DFA10"
+    } ],
+    "handle" : "CO-VASA1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DFA10",
+      "value" : "http://rdap.labs.lacnic.net/entity/DFA10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dario Fernando Agudelo"],["adr",{"label":"Calle 75 5-59  ()\nBogota, null \nCO","type":"work"},"text",["","","Calle 75 5-59  ()","Bogota","","","CO"]],["email",{"type":"work"},"text","nocsec@VALOREM.COM.CO"],["tel",{"type":"work"},"text","57 1 7560809 (40460)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130408",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130408",
+      "eventActor" : "DFA10"
+    } ],
+    "entities" : [ ],
+    "handle" : "DFA10"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DFA10",
+      "value" : "http://rdap.labs.lacnic.net/entity/DFA10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dario Fernando Agudelo"],["adr",{"label":"Calle 75 5-59  ()\nBogota, null \nCO","type":"work"},"text",["","","Calle 75 5-59  ()","Bogota","","","CO"]],["email",{"type":"work"},"text","nocsec@VALOREM.COM.CO"],["tel",{"type":"work"},"text","57 1 7560809 (40460)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130408",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130408",
+      "eventActor" : "DFA10"
+    } ],
+    "entities" : [ ],
+    "handle" : "DFA10"
+  } ],
+  "type" : null,
+  "handle" : "262263-LACNIC",
+  "country" : "CO"
+}

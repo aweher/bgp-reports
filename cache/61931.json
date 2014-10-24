@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61931,
+  "endAutnum" : 61931,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61931",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61931"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140604",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140604",
+    "eventActor" : "JRP13"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-JCSI1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-JCSI1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JULIANA REGINA PERBICHE"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? dos Pinhais, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? dos Pinhais","","04578-000","BR"]],["email",{"type":"work"},"text","JRP13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["org",{},"text",["JRPNET COM?RCIO E SERVI?O DE INFORMATICA LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "JRP13"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JRP13",
+        "value" : "http://rdap.labs.lacnic.net/entity/JRP13"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JULIANA REGINA PERBICHE"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? dos Pinhais, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? dos Pinhais","PR","04578-000","BR"]],["email",{"type":"work"},"text","JRP13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JRP13"
+      } ],
+      "entities" : [ ],
+      "handle" : "JRP13"
+    } ],
+    "handle" : "BR-JCSI1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JRP13",
+      "value" : "http://rdap.labs.lacnic.net/entity/JRP13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JULIANA REGINA PERBICHE"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? dos Pinhais, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? dos Pinhais","PR","04578-000","BR"]],["email",{"type":"work"},"text","JRP13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JRP13"
+    } ],
+    "entities" : [ ],
+    "handle" : "JRP13"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JRP13",
+      "value" : "http://rdap.labs.lacnic.net/entity/JRP13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JULIANA REGINA PERBICHE"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? dos Pinhais, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? dos Pinhais","PR","04578-000","BR"]],["email",{"type":"work"},"text","JRP13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 41 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JRP13"
+    } ],
+    "entities" : [ ],
+    "handle" : "JRP13"
+  } ],
+  "type" : null,
+  "handle" : "61931-LACNIC",
+  "country" : "BR"
+}

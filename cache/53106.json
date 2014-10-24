@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53106,
+  "endAutnum" : 53106,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53106",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53106"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091210",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "LCM6"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NSET-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NSET-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano de Carvalho Medis"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVarginha, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Varginha","MG","04578-000","BR"]],["email",{"type":"work"},"text","LCM6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["org",{},"text",["Netvga Servi?os em Telecomunica??es Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LCM6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LCM6",
+        "value" : "http://rdap.labs.lacnic.net/entity/LCM6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano de Carvalho Medis"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVarginha, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Varginha","MG","04578-000","BR"]],["email",{"type":"work"},"text","LCM6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 03 555093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LCM6"
+      } ],
+      "entities" : [ ],
+      "handle" : "LCM6"
+    } ],
+    "handle" : "BR-NSET-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LCM6",
+      "value" : "http://rdap.labs.lacnic.net/entity/LCM6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano de Carvalho Medis"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVarginha, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Varginha","MG","04578-000","BR"]],["email",{"type":"work"},"text","LCM6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 03 555093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LCM6"
+    } ],
+    "entities" : [ ],
+    "handle" : "LCM6"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LCM6",
+      "value" : "http://rdap.labs.lacnic.net/entity/LCM6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano de Carvalho Medis"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVarginha, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Varginha","MG","04578-000","BR"]],["email",{"type":"work"},"text","LCM6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 03 555093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LCM6"
+    } ],
+    "entities" : [ ],
+    "handle" : "LCM6"
+  } ],
+  "type" : null,
+  "handle" : "53106-LACNIC",
+  "country" : "BR"
+}

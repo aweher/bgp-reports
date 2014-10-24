@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27901",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27901"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-PCSA11-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-PCSA11-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Alejandro Ortiz Muñoz"],["adr",{"label":"Barcelona 1184 ()\nConcepci?n,  406-1440\nCL","type":"work"},"text",["","","Barcelona 1184 ()","Concepci?n","","406-1440","CL"]],["email",{"type":"work"},"text","mortiz@PACIFICOINVERSIONES.CL"],["tel",{"type":"work"},"text","56 44 2850600 ()"],["org",{},"text",["Pacifico Cable S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MAM47",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAM47"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Alejandro Ortiz Muñoz"],["adr",{"label":"Barros Arana 492, piso 10 oficina 105 492 (105)\nConcepcion, null 4070148\nCL","type":"work"},"text",["","","Barros Arana 492, piso 10 oficina 105 492 (105)","Concepcion","","4070148","CL"]],["email",{"type":"work"},"text","mortiz@PACIFICOINVERSIONES.CL"],["tel",{"type":"work"},"text","056 041 2125876 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20081212",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20081212",
+        "eventActor" : "MAM47"
+      } ],
+      "handle" : "MAM47"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070305",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140507",
+      "eventActor" : "MAM47"
+    } ],
+    "handle" : "CL-PCSA11-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAM47",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAM47"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Alejandro Ortiz Muñoz"],["adr",{"label":"Barros Arana 492, piso 10 oficina 105 492 (105)\nConcepcion, null 4070148\nCL","type":"work"},"text",["","","Barros Arana 492, piso 10 oficina 105 492 (105)","Concepcion","","4070148","CL"]],["email",{"type":"work"},"text","mortiz@PACIFICOINVERSIONES.CL"],["tel",{"type":"work"},"text","056 041 2125876 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081212",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20081212",
+      "eventActor" : "MAM47"
+    } ],
+    "handle" : "MAM47"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAM47",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAM47"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Alejandro Ortiz Muñoz"],["adr",{"label":"Barros Arana 492, piso 10 oficina 105 492 (105)\nConcepcion, null 4070148\nCL","type":"work"},"text",["","","Barros Arana 492, piso 10 oficina 105 492 (105)","Concepcion","","4070148","CL"]],["email",{"type":"work"},"text","mortiz@PACIFICOINVERSIONES.CL"],["tel",{"type":"work"},"text","056 041 2125876 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081212",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20081212",
+      "eventActor" : "MAM47"
+    } ],
+    "handle" : "MAM47"
+  } ],
+  "startAutnum" : 27901,
+  "endAutnum" : 27901,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070504",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100330",
+    "eventActor" : "MAM47"
+  } ],
+  "type" : null,
+  "handle" : "27901-LACNIC",
+  "country" : "CL"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263483,
+  "endAutnum" : 263483,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263483",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263483"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131219",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131219",
+    "eventActor" : "BRM10"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DLTS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DLTS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","BRUNO MACIEL"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSorocaba, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sorocaba","","04578-000","BR"]],["email",{"type":"work"},"text","BRM10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["org",{},"text",["DIRECT LAN TELECOMUNICA??ES SOROCABA LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "BRM10"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/BRM10",
+        "value" : "http://rdap.labs.lacnic.net/entity/BRM10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","BRUNO MACIEL"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSorocaba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sorocaba","SP","04578-000","BR"]],["email",{"type":"work"},"text","BRM10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "BRM10"
+      } ],
+      "entities" : [ ],
+      "handle" : "BRM10"
+    } ],
+    "handle" : "BR-DLTS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BRM10",
+      "value" : "http://rdap.labs.lacnic.net/entity/BRM10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","BRUNO MACIEL"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSorocaba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sorocaba","SP","04578-000","BR"]],["email",{"type":"work"},"text","BRM10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "BRM10"
+    } ],
+    "entities" : [ ],
+    "handle" : "BRM10"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BRM10",
+      "value" : "http://rdap.labs.lacnic.net/entity/BRM10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","BRUNO MACIEL"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSorocaba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sorocaba","SP","04578-000","BR"]],["email",{"type":"work"},"text","BRM10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "BRM10"
+    } ],
+    "entities" : [ ],
+    "handle" : "BRM10"
+  } ],
+  "type" : null,
+  "handle" : "263483-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263346,
+  "endAutnum" : 263346,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263346",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263346"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140314",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140314",
+    "eventActor" : "FIL31"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-FILT33-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-FILT33-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lacier da Costa Dias Junior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeresina, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teresina","","04578-000","BR"]],["email",{"type":"work"},"text","LCJ13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 86 55093511 ()"],["org",{},"text",["Fonte Informatica ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "LCJ13"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LCJ13",
+        "value" : "http://rdap.labs.lacnic.net/entity/LCJ13"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lacier da Costa Dias Junior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuiab?, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cuiab?","MT","04578-000","BR"]],["email",{"type":"work"},"text","LCJ13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 65 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LCJ13"
+      } ],
+      "entities" : [ ],
+      "handle" : "LCJ13"
+    } ],
+    "handle" : "BR-FILT33-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FIL31",
+      "value" : "http://rdap.labs.lacnic.net/entity/FIL31"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fonte Inform?tica LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeresina, PI 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teresina","PI","04578-000","BR"]],["email",{"type":"work"},"text","FIL31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 86 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140226",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140226",
+      "eventActor" : "FIL31"
+    } ],
+    "entities" : [ ],
+    "handle" : "FIL31"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FIL31",
+      "value" : "http://rdap.labs.lacnic.net/entity/FIL31"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fonte Inform?tica LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeresina, PI 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teresina","PI","04578-000","BR"]],["email",{"type":"work"},"text","FIL31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 86 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140226",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140226",
+      "eventActor" : "FIL31"
+    } ],
+    "entities" : [ ],
+    "handle" : "FIL31"
+  } ],
+  "type" : null,
+  "handle" : "263346-LACNIC",
+  "country" : "BR"
+}

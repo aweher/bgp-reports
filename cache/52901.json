@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52901,
+  "endAutnum" : 52901,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52901",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52901"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120724",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ELJ"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MNLM1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MNLM1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Minasnet LTDA-ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLagarto, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lagarto","SE","04578-000","BR"]],["email",{"type":"work"},"text","MIL57@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["org",{},"text",["MINAS NET LDTA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140222",
+      "eventActor" : "MIL57"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MIL57",
+        "value" : "http://rdap.labs.lacnic.net/entity/MIL57"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Minasnet LTDA-ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLagarto, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lagarto","SE","04578-000","BR"]],["email",{"type":"work"},"text","MIL57@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MIL57"
+      } ],
+      "entities" : [ ],
+      "handle" : "MIL57"
+    } ],
+    "handle" : "BR-MNLM1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ELJ",
+      "value" : "http://rdap.labs.lacnic.net/entity/ELJ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emanuel Linoan Ferreira Junior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAracaju, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aracaju","SE","04578-000","BR"]],["email",{"type":"work"},"text","ELJ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ELJ"
+    } ],
+    "entities" : [ ],
+    "handle" : "ELJ"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MIL57",
+      "value" : "http://rdap.labs.lacnic.net/entity/MIL57"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Minasnet LTDA-ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLagarto, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lagarto","SE","04578-000","BR"]],["email",{"type":"work"},"text","MIL57@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MIL57"
+    } ],
+    "entities" : [ ],
+    "handle" : "MIL57"
+  } ],
+  "type" : null,
+  "handle" : "52901-LACNIC",
+  "country" : "BR"
+}

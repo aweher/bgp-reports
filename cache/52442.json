@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52442",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52442"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-UNLU1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-UNLU1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Lorge"],["adr",{"label":"Ruta 5 y Avenida Constituci?n  ()\nLUJAN, BA 6700\nAR","type":"work"},"text",["","","Ruta 5 y Avenida Constituci?n  ()","LUJAN","BA","6700","AR"]],["email",{"type":"work"},"text","florge@UNLU.EDU.AR"],["tel",{"type":"work"},"text","54 2323 423064 ()"],["org",{},"text",["Universidad Nacional de Luj?n"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FEL5",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FEL5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Lorge"],["adr",{"label":"Ruta 5 y Avenida Constituci?n  ()\nLUJAN, BA 6700\nAR","type":"work"},"text",["","","Ruta 5 y Avenida Constituci?n  ()","LUJAN","BA","6700","AR"]],["email",{"type":"work"},"text","florge@UNLU.EDU.AR"],["tel",{"type":"work"},"text","54 2323 423064 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110628",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120816",
+        "eventActor" : "FEL5"
+      } ],
+      "handle" : "FEL5"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110628",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131221",
+      "eventActor" : "FEL5"
+    } ],
+    "handle" : "AR-UNLU1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEL5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEL5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Lorge"],["adr",{"label":"Ruta 5 y Avenida Constituci?n  ()\nLUJAN, BA 6700\nAR","type":"work"},"text",["","","Ruta 5 y Avenida Constituci?n  ()","LUJAN","BA","6700","AR"]],["email",{"type":"work"},"text","florge@UNLU.EDU.AR"],["tel",{"type":"work"},"text","54 2323 423064 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110628",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120816",
+      "eventActor" : "FEL5"
+    } ],
+    "handle" : "FEL5"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEL5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEL5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Lorge"],["adr",{"label":"Ruta 5 y Avenida Constituci?n  ()\nLUJAN, BA 6700\nAR","type":"work"},"text",["","","Ruta 5 y Avenida Constituci?n  ()","LUJAN","BA","6700","AR"]],["email",{"type":"work"},"text","florge@UNLU.EDU.AR"],["tel",{"type":"work"},"text","54 2323 423064 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110628",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120816",
+      "eventActor" : "FEL5"
+    } ],
+    "handle" : "FEL5"
+  } ],
+  "startAutnum" : 52442,
+  "endAutnum" : 52442,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130225",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130225",
+    "eventActor" : "FEL5"
+  } ],
+  "type" : null,
+  "handle" : "52442-LACNIC",
+  "country" : "AR"
+}

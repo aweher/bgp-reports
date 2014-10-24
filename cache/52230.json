@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52230",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52230"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-MCSE2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-MCSE2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hugo Cordoba Rosson"],["adr",{"label":"Isidora Goyenechea 3520 (Piso 15)\nSantiago, RM 7550071\nCL","type":"work"},"text",["","","Isidora Goyenechea 3520 (Piso 15)","Santiago","RM","7550071","CL"]],["email",{"type":"work"},"text","hugo.cordoba@MAPFRE.CL"],["tel",{"type":"work"},"text","56 2 6947263 ()"],["org",{},"text",["Mapfre Compa?ia de Seguros"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/HCR",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/HCR"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hugo Cordoba Rosson"],["adr",{"label":"Isidora Goyenechea 3520 (Piso 15)\nSantiago, null 7550071\nCL","type":"work"},"text",["","","Isidora Goyenechea 3520 (Piso 15)","Santiago","","7550071","CL"]],["email",{"type":"work"},"text","hugo.cordoba@MAPFRE.CL"],["tel",{"type":"work"},"text","56 2 6947263 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20091116",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20091116",
+        "eventActor" : "HCR"
+      } ],
+      "handle" : "HCR"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100128",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100319",
+      "eventActor" : "HCR"
+    } ],
+    "handle" : "CL-MCSE2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HCR",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HCR"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hugo Cordoba Rosson"],["adr",{"label":"Isidora Goyenechea 3520 (Piso 15)\nSantiago, null 7550071\nCL","type":"work"},"text",["","","Isidora Goyenechea 3520 (Piso 15)","Santiago","","7550071","CL"]],["email",{"type":"work"},"text","hugo.cordoba@MAPFRE.CL"],["tel",{"type":"work"},"text","56 2 6947263 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091116",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20091116",
+      "eventActor" : "HCR"
+    } ],
+    "handle" : "HCR"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HCR",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HCR"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hugo Cordoba Rosson"],["adr",{"label":"Isidora Goyenechea 3520 (Piso 15)\nSantiago, null 7550071\nCL","type":"work"},"text",["","","Isidora Goyenechea 3520 (Piso 15)","Santiago","","7550071","CL"]],["email",{"type":"work"},"text","hugo.cordoba@MAPFRE.CL"],["tel",{"type":"work"},"text","56 2 6947263 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091116",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20091116",
+      "eventActor" : "HCR"
+    } ],
+    "handle" : "HCR"
+  } ],
+  "startAutnum" : 52230,
+  "endAutnum" : 52230,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100318",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100318",
+    "eventActor" : "HCR"
+  } ],
+  "type" : null,
+  "handle" : "52230-LACNIC",
+  "country" : "CL"
+}

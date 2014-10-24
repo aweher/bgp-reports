@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262855,
+  "endAutnum" : 262855,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262855",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262855"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101214",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "AON"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-AONM-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-AONM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alonso Oliveira Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIpira, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ipira","BA","04578-000","BR"]],["email",{"type":"work"},"text","AON@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["org",{},"text",["ALONSO OLIVEIRA NETO ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "AON"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/AON",
+        "value" : "http://rdap.labs.lacnic.net/entity/AON"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alonso Oliveira Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIpira, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ipira","BA","04578-000","BR"]],["email",{"type":"work"},"text","AON@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "AON"
+      } ],
+      "entities" : [ ],
+      "handle" : "AON"
+    } ],
+    "handle" : "BR-AONM-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AON",
+      "value" : "http://rdap.labs.lacnic.net/entity/AON"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alonso Oliveira Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIpira, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ipira","BA","04578-000","BR"]],["email",{"type":"work"},"text","AON@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AON"
+    } ],
+    "entities" : [ ],
+    "handle" : "AON"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AON",
+      "value" : "http://rdap.labs.lacnic.net/entity/AON"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alonso Oliveira Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIpira, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ipira","BA","04578-000","BR"]],["email",{"type":"work"},"text","AON@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AON"
+    } ],
+    "entities" : [ ],
+    "handle" : "AON"
+  } ],
+  "type" : null,
+  "handle" : "262855-LACNIC",
+  "country" : "BR"
+}

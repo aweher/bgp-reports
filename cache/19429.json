@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 19429,
+  "endAutnum" : 19429,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/19429",
+    "value" : "http://rdap.labs.lacnic.net/autnum/19429"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20010105",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110315",
+    "eventActor" : "CRE"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-ETBE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-ETBE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMPRESA DE TELECOMUNICACIONES DE BOGOTA"],["adr",{"label":"Calle 22 F 39 (16)\nBogota, Cu 9999\nCO","type":"work"},"text",["","","Calle 22 F 39 (16)","Bogota","Cu","9999","CO"]],["email",{"type":"work"},"text","ipadmin@ETB.NET.CO"],["tel",{"type":"work"},"text","57 1 2426104 ()"],["org",{},"text",["ETB - Colombia"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021009",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "CRE"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CRE",
+        "value" : "http://rdap.labs.lacnic.net/entity/CRE"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMPRESA DE TELECOMUNICACIONES DE BOGOTA"],["adr",{"label":"CRA 8 20 (00)\nBogot?, CU 9999\nCO","type":"work"},"text",["","","CRA 8 20 (00)","Bogot?","CU","9999","CO"]],["email",{"type":"work"},"text","ipadmin@ETB.NET.CO"],["tel",{"type":"work"},"text","057 01 2426038 (00)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030224",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140605",
+        "eventActor" : "CRE"
+      } ],
+      "entities" : [ ],
+      "handle" : "CRE"
+    } ],
+    "handle" : "CO-ETBE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CRE",
+      "value" : "http://rdap.labs.lacnic.net/entity/CRE"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMPRESA DE TELECOMUNICACIONES DE BOGOTA"],["adr",{"label":"CRA 8 20 (00)\nBogot?, CU 9999\nCO","type":"work"},"text",["","","CRA 8 20 (00)","Bogot?","CU","9999","CO"]],["email",{"type":"work"},"text","ipadmin@ETB.NET.CO"],["tel",{"type":"work"},"text","057 01 2426038 (00)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030224",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140605",
+      "eventActor" : "CRE"
+    } ],
+    "entities" : [ ],
+    "handle" : "CRE"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CRE",
+      "value" : "http://rdap.labs.lacnic.net/entity/CRE"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMPRESA DE TELECOMUNICACIONES DE BOGOTA"],["adr",{"label":"CRA 8 20 (00)\nBogot?, CU 9999\nCO","type":"work"},"text",["","","CRA 8 20 (00)","Bogot?","CU","9999","CO"]],["email",{"type":"work"},"text","ipadmin@ETB.NET.CO"],["tel",{"type":"work"},"text","057 01 2426038 (00)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030224",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140605",
+      "eventActor" : "CRE"
+    } ],
+    "entities" : [ ],
+    "handle" : "CRE"
+  } ],
+  "type" : null,
+  "handle" : "19429-LACNIC",
+  "country" : "CO"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52369",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52369"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CAPC1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CAPC1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hernan Pablo Fraiese"],["adr",{"label":"Malvinas Argentinas 426 ()\nSan Andres de Giles, BA 6720\nAR","type":"work"},"text",["","","Malvinas Argentinas 426 ()","San Andres de Giles","BA","6720","AR"]],["email",{"type":"work"},"text","hpfraiese@GILESONLINE.COM.AR"],["tel",{"type":"work"},"text","54 2325 442898 ()"],["org",{},"text",["NEOPHONE ARGENTINA SRL"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/HEF9",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/HEF9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hernan Pablo Fraiese"],["adr",{"label":"Malvinas Argentinas 426 ()\nSan Andr?s de Giles, BA 6720\nAR","type":"work"},"text",["","","Malvinas Argentinas 426 ()","San Andr?s de Giles","BA","6720","AR"]],["email",{"type":"work"},"text","hpfraiese@GILESONLINE.COM.AR"],["tel",{"type":"work"},"text","54 2325 442898 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100217",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120319",
+        "eventActor" : "HEF9"
+      } ],
+      "handle" : "HEF9"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080929",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130906",
+      "eventActor" : "HEF9"
+    } ],
+    "handle" : "AR-CAPC1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HEF9",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HEF9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hernan Pablo Fraiese"],["adr",{"label":"Malvinas Argentinas 426 ()\nSan Andr?s de Giles, BA 6720\nAR","type":"work"},"text",["","","Malvinas Argentinas 426 ()","San Andr?s de Giles","BA","6720","AR"]],["email",{"type":"work"},"text","hpfraiese@GILESONLINE.COM.AR"],["tel",{"type":"work"},"text","54 2325 442898 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100217",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120319",
+      "eventActor" : "HEF9"
+    } ],
+    "handle" : "HEF9"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HEF9",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HEF9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hernan Pablo Fraiese"],["adr",{"label":"Malvinas Argentinas 426 ()\nSan Andr?s de Giles, BA 6720\nAR","type":"work"},"text",["","","Malvinas Argentinas 426 ()","San Andr?s de Giles","BA","6720","AR"]],["email",{"type":"work"},"text","hpfraiese@GILESONLINE.COM.AR"],["tel",{"type":"work"},"text","54 2325 442898 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100217",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120319",
+      "eventActor" : "HEF9"
+    } ],
+    "handle" : "HEF9"
+  } ],
+  "startAutnum" : 52369,
+  "endAutnum" : 52369,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120327",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120327",
+    "eventActor" : "HEF9"
+  } ],
+  "type" : null,
+  "handle" : "52369-LACNIC",
+  "country" : "AR"
+}

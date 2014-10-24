@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28634,
+  "endAutnum" : 28634,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28634",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28634"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060308",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "LSL11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-LSCM1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-LSCM1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Life Solucoes em Internet S/C Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMar?lia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mar?lia","SP","04578-000","BR"]],["email",{"type":"work"},"text","LSL11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["org",{},"text",["Life Servi?os de Comunica??o Multimidia Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "LSL11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LSL11",
+        "value" : "http://rdap.labs.lacnic.net/entity/LSL11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Life Solucoes em Internet S/C Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMar?lia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mar?lia","SP","04578-000","BR"]],["email",{"type":"work"},"text","LSL11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LSL11"
+      } ],
+      "entities" : [ ],
+      "handle" : "LSL11"
+    } ],
+    "handle" : "BR-LSCM1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LSL11",
+      "value" : "http://rdap.labs.lacnic.net/entity/LSL11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Life Solucoes em Internet S/C Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMar?lia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mar?lia","SP","04578-000","BR"]],["email",{"type":"work"},"text","LSL11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LSL11"
+    } ],
+    "entities" : [ ],
+    "handle" : "LSL11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LSL11",
+      "value" : "http://rdap.labs.lacnic.net/entity/LSL11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Life Solucoes em Internet S/C Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMar?lia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mar?lia","SP","04578-000","BR"]],["email",{"type":"work"},"text","LSL11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LSL11"
+    } ],
+    "entities" : [ ],
+    "handle" : "LSL11"
+  } ],
+  "type" : null,
+  "handle" : "28634-LACNIC",
+  "country" : "BR"
+}

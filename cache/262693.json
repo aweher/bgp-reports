@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262693,
+  "endAutnum" : 262693,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262693",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262693"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091014",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "CAF35"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-WCST-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-WCST-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Angelo Andrade Ferraz"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSumar?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sumar?","SP","04578-000","BR"]],["email",{"type":"work"},"text","CAF35@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["WCOM COM E SERV TELECOM LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CAF35"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CAF35",
+        "value" : "http://rdap.labs.lacnic.net/entity/CAF35"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Angelo Andrade Ferraz"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSumar?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sumar?","SP","04578-000","BR"]],["email",{"type":"work"},"text","CAF35@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CAF35"
+      } ],
+      "entities" : [ ],
+      "handle" : "CAF35"
+    } ],
+    "handle" : "BR-WCST-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CAF35",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAF35"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Angelo Andrade Ferraz"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSumar?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sumar?","SP","04578-000","BR"]],["email",{"type":"work"},"text","CAF35@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CAF35"
+    } ],
+    "entities" : [ ],
+    "handle" : "CAF35"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RFA6",
+      "value" : "http://rdap.labs.lacnic.net/entity/RFA6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Renato Frederick Pitta de Andrade"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBelo Horizonte, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Belo Horizonte","MG","04578-000","BR"]],["email",{"type":"work"},"text","RFA6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RFA6"
+    } ],
+    "entities" : [ ],
+    "handle" : "RFA6"
+  } ],
+  "type" : null,
+  "handle" : "262693-LACNIC",
+  "country" : "BR"
+}

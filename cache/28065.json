@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28065",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28065"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CISA20-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CISA20-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julio Citarella"],["adr",{"label":"Calle 2 366 ()\nLa Plata, BA 1900\nAR","type":"work"},"text",["","","Calle 2 366 ()","La Plata","BA","1900","AR"]],["email",{"type":"work"},"text","soporte@CITARELLA.COM.AR"],["tel",{"type":"work"},"text","54 221 4229800 ()"],["org",{},"text",["CITARELLA S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SEO",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SEO"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julio Citarella"],["adr",{"label":"Calle 2 366 (e/ 39 y 40)\nLa Plata, BS 1900\nAR","type":"work"},"text",["","","Calle 2 366 (e/ 39 y 40)","La Plata","BS","1900","AR"]],["email",{"type":"work"},"text","soporte@CITARELLA.COM.AR"],["tel",{"type":"work"},"text","54 221 4229800 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090331",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110719",
+        "eventActor" : "SEO"
+      } ],
+      "handle" : "SEO"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090417",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "SEO"
+    } ],
+    "handle" : "AR-CISA20-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SEO",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SEO"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julio Citarella"],["adr",{"label":"Calle 2 366 (e/ 39 y 40)\nLa Plata, BS 1900\nAR","type":"work"},"text",["","","Calle 2 366 (e/ 39 y 40)","La Plata","BS","1900","AR"]],["email",{"type":"work"},"text","soporte@CITARELLA.COM.AR"],["tel",{"type":"work"},"text","54 221 4229800 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090331",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110719",
+      "eventActor" : "SEO"
+    } ],
+    "handle" : "SEO"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SEO",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SEO"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julio Citarella"],["adr",{"label":"Calle 2 366 (e/ 39 y 40)\nLa Plata, BS 1900\nAR","type":"work"},"text",["","","Calle 2 366 (e/ 39 y 40)","La Plata","BS","1900","AR"]],["email",{"type":"work"},"text","soporte@CITARELLA.COM.AR"],["tel",{"type":"work"},"text","54 221 4229800 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090331",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110719",
+      "eventActor" : "SEO"
+    } ],
+    "handle" : "SEO"
+  } ],
+  "startAutnum" : 28065,
+  "endAutnum" : 28065,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090703",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090703",
+    "eventActor" : "SEO"
+  } ],
+  "type" : null,
+  "handle" : "28065-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52436",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52436"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CTCO1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CTCO1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Camardelli"],["adr",{"label":"Comandante Salas 200 ()\nSan Rafael, ME 5600\nAR","type":"work"},"text",["","","Comandante Salas 200 ()","San Rafael","ME","5600","AR"]],["email",{"type":"work"},"text","pcamardelli@CABLETELEVISORACOLOR.COM"],["tel",{"type":"work"},"text","54 260 4403511 ()"],["org",{},"text",["Cable Televisora Color"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PAC27",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PAC27"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Camardelli"],["adr",{"label":"Comandate Salas 200 ()\nSan Rafael, null 5600\nAR","type":"work"},"text",["","","Comandate Salas 200 ()","San Rafael","","5600","AR"]],["email",{"type":"work"},"text","pcamardelli@CABLETELEVISORACOLOR.COM"],["tel",{"type":"work"},"text","54 260 4403511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120611",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120611",
+        "eventActor" : "PAC27"
+      } ],
+      "handle" : "PAC27"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120801",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140523",
+      "eventActor" : "PAC27"
+    } ],
+    "handle" : "AR-CTCO1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAC27",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAC27"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Camardelli"],["adr",{"label":"Comandate Salas 200 ()\nSan Rafael, null 5600\nAR","type":"work"},"text",["","","Comandate Salas 200 ()","San Rafael","","5600","AR"]],["email",{"type":"work"},"text","pcamardelli@CABLETELEVISORACOLOR.COM"],["tel",{"type":"work"},"text","54 260 4403511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120611",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120611",
+      "eventActor" : "PAC27"
+    } ],
+    "handle" : "PAC27"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAC27",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAC27"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Camardelli"],["adr",{"label":"Comandate Salas 200 ()\nSan Rafael, null 5600\nAR","type":"work"},"text",["","","Comandate Salas 200 ()","San Rafael","","5600","AR"]],["email",{"type":"work"},"text","pcamardelli@CABLETELEVISORACOLOR.COM"],["tel",{"type":"work"},"text","54 260 4403511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120611",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120611",
+      "eventActor" : "PAC27"
+    } ],
+    "handle" : "PAC27"
+  } ],
+  "startAutnum" : 52436,
+  "endAutnum" : 52436,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130125",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130125",
+    "eventActor" : "PAC27"
+  } ],
+  "type" : null,
+  "handle" : "52436-LACNIC",
+  "country" : "AR"
+}

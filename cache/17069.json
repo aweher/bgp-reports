@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/17069",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/17069"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CTYO2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CTYO2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andres Gallo"],["adr",{"label":"Paseo 113 y Av. 3 s/n ()\nVilla Gesell, null B7165\nAR","type":"work"},"text",["","","Paseo 113 y Av. 3 s/n ()","Villa Gesell","","B7165","AR"]],["email",{"type":"work"},"text","agallo@COTEL.COM.AR"],["tel",{"type":"work"},"text","54 2255 461600 (641)"],["org",{},"text",["Cooperativa Telefnica y Otros Servicios deVilla Ge"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ANG3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ANG3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andres Gallo"],["adr",{"label":"Paseo 113 y Av. 3 sn ()\nVilla Gesell, null B7165\nAR","type":"work"},"text",["","","Paseo 113 y Av. 3 sn ()","Villa Gesell","","B7165","AR"]],["email",{"type":"work"},"text","agallo@COTEL.COM.AR"],["tel",{"type":"work"},"text","54 2255 461600 (641)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20031114",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20031114",
+        "eventActor" : "ANG3"
+      } ],
+      "handle" : "ANG3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031114",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20031114",
+      "eventActor" : "ANG3"
+    } ],
+    "handle" : "AR-CTYO2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ANG3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ANG3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andres Gallo"],["adr",{"label":"Paseo 113 y Av. 3 sn ()\nVilla Gesell, null B7165\nAR","type":"work"},"text",["","","Paseo 113 y Av. 3 sn ()","Villa Gesell","","B7165","AR"]],["email",{"type":"work"},"text","agallo@COTEL.COM.AR"],["tel",{"type":"work"},"text","54 2255 461600 (641)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031114",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20031114",
+      "eventActor" : "ANG3"
+    } ],
+    "handle" : "ANG3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ANG3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ANG3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andres Gallo"],["adr",{"label":"Paseo 113 y Av. 3 sn ()\nVilla Gesell, null B7165\nAR","type":"work"},"text",["","","Paseo 113 y Av. 3 sn ()","Villa Gesell","","B7165","AR"]],["email",{"type":"work"},"text","agallo@COTEL.COM.AR"],["tel",{"type":"work"},"text","54 2255 461600 (641)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031114",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20031114",
+      "eventActor" : "ANG3"
+    } ],
+    "handle" : "ANG3"
+  } ],
+  "startAutnum" : 17069,
+  "endAutnum" : 17069,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20000719",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20040517",
+    "eventActor" : "ANG3"
+  } ],
+  "type" : null,
+  "handle" : "17069-LACNIC",
+  "country" : "AR"
+}

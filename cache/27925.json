@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27925",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27925"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-EPTS3-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-EPTS3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Catal?n Rodriguez"],["adr",{"label":"Av. Andres Bello 2711 (piso 14)\nSantiago, RM 8340516\nCL","type":"work"},"text",["","","Av. Andres Bello 2711 (piso 14)","Santiago","RM","8340516","CL"]],["email",{"type":"work"},"text","ccatalan@ENTEL.CL"],["tel",{"type":"work"},"text","56 2 3688591 ()"],["org",{},"text",["Entel PCS Telecomunicaciones S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MTH",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MTH"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Catal?n Rodriguez"],["adr",{"label":"Amunategui 20, Piso7 20 ()\nSantiago, RM 8340516\nCL","type":"work"},"text",["","","Amunategui 20, Piso7 20 ()","Santiago","RM","8340516","CL"]],["email",{"type":"work"},"text","ccatalan@ENTEL.CL"],["tel",{"type":"work"},"text","56 2 26507874 (0)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20070208",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140523",
+        "eventActor" : "MTH"
+      } ],
+      "handle" : "MTH"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070725",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140505",
+      "eventActor" : "MTH"
+    } ],
+    "handle" : "CL-EPTS3-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MTH",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MTH"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Catal?n Rodriguez"],["adr",{"label":"Amunategui 20, Piso7 20 ()\nSantiago, RM 8340516\nCL","type":"work"},"text",["","","Amunategui 20, Piso7 20 ()","Santiago","RM","8340516","CL"]],["email",{"type":"work"},"text","ccatalan@ENTEL.CL"],["tel",{"type":"work"},"text","56 2 26507874 (0)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070208",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140523",
+      "eventActor" : "MTH"
+    } ],
+    "handle" : "MTH"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MTH",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MTH"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Catal?n Rodriguez"],["adr",{"label":"Amunategui 20, Piso7 20 ()\nSantiago, RM 8340516\nCL","type":"work"},"text",["","","Amunategui 20, Piso7 20 ()","Santiago","RM","8340516","CL"]],["email",{"type":"work"},"text","ccatalan@ENTEL.CL"],["tel",{"type":"work"},"text","56 2 26507874 (0)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070208",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140523",
+      "eventActor" : "MTH"
+    } ],
+    "handle" : "MTH"
+  } ],
+  "startAutnum" : 27925,
+  "endAutnum" : 27925,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070829",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080408",
+    "eventActor" : "MTH"
+  } ],
+  "type" : null,
+  "handle" : "27925-LACNIC",
+  "country" : "CL"
+}

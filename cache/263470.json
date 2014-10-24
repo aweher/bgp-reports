@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263470,
+  "endAutnum" : 263470,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263470",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263470"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131217",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131217",
+    "eventActor" : "ALF70"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SNPL1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SNPL1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Grupo Provisionamento"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMar?lia, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mar?lia","","04578-000","BR"]],["email",{"type":"work"},"text","GRP6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["org",{},"text",["SPEED NET PROVIDER LTDA-ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "GRP6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GRP6",
+        "value" : "http://rdap.labs.lacnic.net/entity/GRP6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Grupo Provisionamento"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarueri, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barueri","SP","04578-000","BR"]],["email",{"type":"work"},"text","GRP6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "GRP6"
+      } ],
+      "entities" : [ ],
+      "handle" : "GRP6"
+    } ],
+    "handle" : "BR-SNPL1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALF70",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALF70"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alex Fernandes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOscar Bressane, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Oscar Bressane","SP","04578-000","BR"]],["email",{"type":"work"},"text","ALF70@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131106",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131106",
+      "eventActor" : "ALF70"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALF70"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALF70",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALF70"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alex Fernandes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOscar Bressane, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Oscar Bressane","SP","04578-000","BR"]],["email",{"type":"work"},"text","ALF70@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131106",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131106",
+      "eventActor" : "ALF70"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALF70"
+  } ],
+  "type" : null,
+  "handle" : "263470-LACNIC",
+  "country" : "BR"
+}

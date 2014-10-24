@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52558,
+  "endAutnum" : 52558,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52558",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52558"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130214",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ECT3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ETCS2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ETCS2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","econnect telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNiter?i, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Niter?i","RJ","04578-000","BR"]],["email",{"type":"work"},"text","ECT3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["org",{},"text",["Econnect Telecom"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140324",
+      "eventActor" : "ECT3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ECT3",
+        "value" : "http://rdap.labs.lacnic.net/entity/ECT3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","econnect telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNiter?i, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Niter?i","RJ","04578-000","BR"]],["email",{"type":"work"},"text","ECT3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ECT3"
+      } ],
+      "entities" : [ ],
+      "handle" : "ECT3"
+    } ],
+    "handle" : "BR-ETCS2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ECT3",
+      "value" : "http://rdap.labs.lacnic.net/entity/ECT3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","econnect telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNiter?i, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Niter?i","RJ","04578-000","BR"]],["email",{"type":"work"},"text","ECT3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ECT3"
+    } ],
+    "entities" : [ ],
+    "handle" : "ECT3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ECT3",
+      "value" : "http://rdap.labs.lacnic.net/entity/ECT3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","econnect telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNiter?i, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Niter?i","RJ","04578-000","BR"]],["email",{"type":"work"},"text","ECT3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ECT3"
+    } ],
+    "entities" : [ ],
+    "handle" : "ECT3"
+  } ],
+  "type" : null,
+  "handle" : "52558-LACNIC",
+  "country" : "BR"
+}

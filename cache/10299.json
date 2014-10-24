@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 10299,
+  "endAutnum" : 10299,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/10299",
+    "value" : "http://rdap.labs.lacnic.net/autnum/10299"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19970620",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "19970620",
+    "eventActor" : "DBT"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-EMCA2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-EMCA2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Armandy Trujillo - Harold Sarria"],["adr",{"label":"Calle 14 # 33 - 40 Telefonica COLON 33 (40)\nCali, VA 04\nCO","type":"work"},"text",["","","Calle 14 # 33 - 40 Telefonica COLON 33 (40)","Cali","VA","04","CO"]],["email",{"type":"work"},"text","administradores@EMCALI.NET.CO"],["tel",{"type":"work"},"text","57 2 3251860 ()"],["org",{},"text",["EMCATEL"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040714",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "DBT"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DBT",
+        "value" : "http://rdap.labs.lacnic.net/entity/DBT"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Armandy Trujillo - Harold Sarria"],["adr",{"label":"Cl 14C CRA 73-00 TELEFONICA LIMONAR 572 (8998218)\nCali, VA 760033\nCO","type":"work"},"text",["","","Cl 14C CRA 73-00 TELEFONICA LIMONAR 572 (8998218)","Cali","VA","760033","CO"]],["email",{"type":"work"},"text","administradores@EMCALI.NET.CO"],["tel",{"type":"work"},"text","57 2 8998121 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20040305",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140509",
+        "eventActor" : "DBT"
+      } ],
+      "entities" : [ ],
+      "handle" : "DBT"
+    } ],
+    "handle" : "CO-EMCA2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DBT",
+      "value" : "http://rdap.labs.lacnic.net/entity/DBT"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Armandy Trujillo - Harold Sarria"],["adr",{"label":"Cl 14C CRA 73-00 TELEFONICA LIMONAR 572 (8998218)\nCali, VA 760033\nCO","type":"work"},"text",["","","Cl 14C CRA 73-00 TELEFONICA LIMONAR 572 (8998218)","Cali","VA","760033","CO"]],["email",{"type":"work"},"text","administradores@EMCALI.NET.CO"],["tel",{"type":"work"},"text","57 2 8998121 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040305",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140509",
+      "eventActor" : "DBT"
+    } ],
+    "entities" : [ ],
+    "handle" : "DBT"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DBT",
+      "value" : "http://rdap.labs.lacnic.net/entity/DBT"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Armandy Trujillo - Harold Sarria"],["adr",{"label":"Cl 14C CRA 73-00 TELEFONICA LIMONAR 572 (8998218)\nCali, VA 760033\nCO","type":"work"},"text",["","","Cl 14C CRA 73-00 TELEFONICA LIMONAR 572 (8998218)","Cali","VA","760033","CO"]],["email",{"type":"work"},"text","administradores@EMCALI.NET.CO"],["tel",{"type":"work"},"text","57 2 8998121 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040305",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140509",
+      "eventActor" : "DBT"
+    } ],
+    "entities" : [ ],
+    "handle" : "DBT"
+  } ],
+  "type" : null,
+  "handle" : "10299-LACNIC",
+  "country" : "CO"
+}

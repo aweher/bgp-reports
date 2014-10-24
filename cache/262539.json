@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262539,
+  "endAutnum" : 262539,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262539",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262539"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110718",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "TIS7"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DLME-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DLME-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tiago Isoppo Schmid"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSombrio, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sombrio","SC","04578-000","BR"]],["email",{"type":"work"},"text","TIS7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["org",{},"text",["DUNET LTDA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "TIS7"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/TIS7",
+        "value" : "http://rdap.labs.lacnic.net/entity/TIS7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tiago Isoppo Schmid"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSombrio, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sombrio","SC","04578-000","BR"]],["email",{"type":"work"},"text","TIS7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "TIS7"
+      } ],
+      "entities" : [ ],
+      "handle" : "TIS7"
+    } ],
+    "handle" : "BR-DLME-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TIS7",
+      "value" : "http://rdap.labs.lacnic.net/entity/TIS7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tiago Isoppo Schmid"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSombrio, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sombrio","SC","04578-000","BR"]],["email",{"type":"work"},"text","TIS7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TIS7"
+    } ],
+    "entities" : [ ],
+    "handle" : "TIS7"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TIS7",
+      "value" : "http://rdap.labs.lacnic.net/entity/TIS7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tiago Isoppo Schmid"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSombrio, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sombrio","SC","04578-000","BR"]],["email",{"type":"work"},"text","TIS7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TIS7"
+    } ],
+    "entities" : [ ],
+    "handle" : "TIS7"
+  } ],
+  "type" : null,
+  "handle" : "262539-LACNIC",
+  "country" : "BR"
+}

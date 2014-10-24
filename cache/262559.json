@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262559,
+  "endAutnum" : 262559,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262559",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262559"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110816",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "WSJ2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ABPL1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ABPL1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Walter Siquara Neves Jr"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVit?ria, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vit?ria","ES","04578-000","BR"]],["email",{"type":"work"},"text","WSJ2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["org",{},"text",["Aguia Branca Participa??es Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "WSJ2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/WSJ2",
+        "value" : "http://rdap.labs.lacnic.net/entity/WSJ2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Walter Siquara Neves Jr"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCariacica, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cariacica","ES","04578-000","BR"]],["email",{"type":"work"},"text","WSJ2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "WSJ2"
+      } ],
+      "entities" : [ ],
+      "handle" : "WSJ2"
+    } ],
+    "handle" : "BR-ABPL1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WSJ2",
+      "value" : "http://rdap.labs.lacnic.net/entity/WSJ2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Walter Siquara Neves Jr"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCariacica, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cariacica","ES","04578-000","BR"]],["email",{"type":"work"},"text","WSJ2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WSJ2"
+    } ],
+    "entities" : [ ],
+    "handle" : "WSJ2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WSJ2",
+      "value" : "http://rdap.labs.lacnic.net/entity/WSJ2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Walter Siquara Neves Jr"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCariacica, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cariacica","ES","04578-000","BR"]],["email",{"type":"work"},"text","WSJ2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 27 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WSJ2"
+    } ],
+    "entities" : [ ],
+    "handle" : "WSJ2"
+  } ],
+  "type" : null,
+  "handle" : "262559-LACNIC",
+  "country" : "BR"
+}

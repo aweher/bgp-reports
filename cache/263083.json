@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263083,
+  "endAutnum" : 263083,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263083",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263083"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120412",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130607",
+    "eventActor" : "JPB8"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-FPTI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-FPTI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Silvio Henrique Mendes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFoz do Igua?u, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Foz do Igua?u","PR","04578-000","BR"]],["email",{"type":"work"},"text","SHM8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["org",{},"text",["FUNDACAO PARQUE TECNOLOGICO ITAIPU - BRASIL"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140324",
+      "eventActor" : "SHM8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SHM8",
+        "value" : "http://rdap.labs.lacnic.net/entity/SHM8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Silvio Henrique Mendes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFoz do Igua?u, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Foz do Igua?u","PR","04578-000","BR"]],["email",{"type":"work"},"text","SHM8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SHM8"
+      } ],
+      "entities" : [ ],
+      "handle" : "SHM8"
+    } ],
+    "handle" : "BR-FPTI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JPB8",
+      "value" : "http://rdap.labs.lacnic.net/entity/JPB8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jo?o Paulo de Lima Barbosa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFoz do Igua?u, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Foz do Igua?u","PR","04578-000","BR"]],["email",{"type":"work"},"text","JPB8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130428",
+      "eventActor" : "JPB8"
+    } ],
+    "entities" : [ ],
+    "handle" : "JPB8"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JPB8",
+      "value" : "http://rdap.labs.lacnic.net/entity/JPB8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jo?o Paulo de Lima Barbosa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFoz do Igua?u, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Foz do Igua?u","PR","04578-000","BR"]],["email",{"type":"work"},"text","JPB8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 45 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130428",
+      "eventActor" : "JPB8"
+    } ],
+    "entities" : [ ],
+    "handle" : "JPB8"
+  } ],
+  "type" : null,
+  "handle" : "263083-LACNIC",
+  "country" : "BR"
+}

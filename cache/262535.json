@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262535,
+  "endAutnum" : 262535,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262535",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262535"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110715",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "EBB9"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-FBLM1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-FBLM1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Beraramo Bersaneti"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVotuporanga, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Votuporanga","SP","04578-000","BR"]],["email",{"type":"work"},"text","EBB9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["org",{},"text",["Flash Net Brasil Telecom Ltda - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130730",
+      "eventActor" : "EBB9"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EBB9",
+        "value" : "http://rdap.labs.lacnic.net/entity/EBB9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Beraramo Bersaneti"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVotuporanga, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Votuporanga","SP","04578-000","BR"]],["email",{"type":"work"},"text","EBB9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EBB9"
+      } ],
+      "entities" : [ ],
+      "handle" : "EBB9"
+    } ],
+    "handle" : "BR-FBLM1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EBB9",
+      "value" : "http://rdap.labs.lacnic.net/entity/EBB9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Beraramo Bersaneti"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVotuporanga, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Votuporanga","SP","04578-000","BR"]],["email",{"type":"work"},"text","EBB9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EBB9"
+    } ],
+    "entities" : [ ],
+    "handle" : "EBB9"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EBB9",
+      "value" : "http://rdap.labs.lacnic.net/entity/EBB9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Beraramo Bersaneti"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVotuporanga, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Votuporanga","SP","04578-000","BR"]],["email",{"type":"work"},"text","EBB9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EBB9"
+    } ],
+    "entities" : [ ],
+    "handle" : "EBB9"
+  } ],
+  "type" : null,
+  "handle" : "262535-LACNIC",
+  "country" : "BR"
+}

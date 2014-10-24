@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27674",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27674"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-SMNA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-SMNA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Rodriguez Bastos"],["adr",{"label":"25 de Mayo 658 ()\nBuenos Aires,  1002\nAR","type":"work"},"text",["","","25 de Mayo 658 ()","Buenos Aires","","1002","AR"]],["email",{"type":"work"},"text","grb@SMN.GOV.AR"],["tel",{"type":"work"},"text","54 11 51676767 (18211)"],["org",{},"text",["SERVICIO METEOROLOGICO NACIONAL"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GRB",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GRB"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Rodriguez Bastos"],["adr",{"label":"25 de mayo 658 ()\nBuenos Aires,  1002\nAR","type":"work"},"text",["","","25 de mayo 658 ()","Buenos Aires","","1002","AR"]],["email",{"type":"work"},"text","grb@SMN.GOV.AR"],["tel",{"type":"work"},"text","54 011 51676767 (18243)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20040310",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20101215",
+        "eventActor" : "GRB"
+      } ],
+      "handle" : "GRB"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040924",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20050810",
+      "eventActor" : "GRB"
+    } ],
+    "handle" : "AR-SMNA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GRB",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GRB"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Rodriguez Bastos"],["adr",{"label":"25 de mayo 658 ()\nBuenos Aires,  1002\nAR","type":"work"},"text",["","","25 de mayo 658 ()","Buenos Aires","","1002","AR"]],["email",{"type":"work"},"text","grb@SMN.GOV.AR"],["tel",{"type":"work"},"text","54 011 51676767 (18243)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040310",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101215",
+      "eventActor" : "GRB"
+    } ],
+    "handle" : "GRB"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GRB",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GRB"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Rodriguez Bastos"],["adr",{"label":"25 de mayo 658 ()\nBuenos Aires,  1002\nAR","type":"work"},"text",["","","25 de mayo 658 ()","Buenos Aires","","1002","AR"]],["email",{"type":"work"},"text","grb@SMN.GOV.AR"],["tel",{"type":"work"},"text","54 011 51676767 (18243)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040310",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101215",
+      "eventActor" : "GRB"
+    } ],
+    "handle" : "GRB"
+  } ],
+  "startAutnum" : 27674,
+  "endAutnum" : 27674,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20041116",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20041116",
+    "eventActor" : "GRB"
+  } ],
+  "type" : null,
+  "handle" : "27674-LACNIC",
+  "country" : "AR"
+}

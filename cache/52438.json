@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52438",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52438"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-PLSA10-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-PLSA10-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Alberto Horowicz"],["adr",{"label":"Alvarez Thomas 198 (3ero L)\nBuenos Aires,  1427\nAR","type":"work"},"text",["","","Alvarez Thomas 198 (3ero L)","Buenos Aires","","1427","AR"]],["email",{"type":"work"},"text","carlos@PLANISYS.COM"],["tel",{"type":"work"},"text","54 911 59601211 ()"],["org",{},"text",["PLANISYS S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CAH11",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CAH11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Alberto Horowicz"],["adr",{"label":"Alvarez Thomas 198 (3-L)\nBuenos Aires, BA C1427CCO\nAR","type":"work"},"text",["","","Alvarez Thomas 198 (3-L)","Buenos Aires","BA","C1427CCO","AR"]],["email",{"type":"work"},"text","carlos@PLANISYS.COM"],["tel",{"type":"work"},"text","54 11 59601211 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120425",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130318",
+        "eventActor" : "CAH11"
+      } ],
+      "handle" : "CAH11"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090805",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130725",
+      "eventActor" : "CAH11"
+    } ],
+    "handle" : "AR-PLSA10-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CAH11",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAH11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Alberto Horowicz"],["adr",{"label":"Alvarez Thomas 198 (3-L)\nBuenos Aires, BA C1427CCO\nAR","type":"work"},"text",["","","Alvarez Thomas 198 (3-L)","Buenos Aires","BA","C1427CCO","AR"]],["email",{"type":"work"},"text","carlos@PLANISYS.COM"],["tel",{"type":"work"},"text","54 11 59601211 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120425",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130318",
+      "eventActor" : "CAH11"
+    } ],
+    "handle" : "CAH11"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CAH11",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAH11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Alberto Horowicz"],["adr",{"label":"Alvarez Thomas 198 (3-L)\nBuenos Aires, BA C1427CCO\nAR","type":"work"},"text",["","","Alvarez Thomas 198 (3-L)","Buenos Aires","BA","C1427CCO","AR"]],["email",{"type":"work"},"text","carlos@PLANISYS.COM"],["tel",{"type":"work"},"text","54 11 59601211 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120425",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130318",
+      "eventActor" : "CAH11"
+    } ],
+    "handle" : "CAH11"
+  } ],
+  "startAutnum" : 52438,
+  "endAutnum" : 52438,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130204",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130204",
+    "eventActor" : "CAH11"
+  } ],
+  "type" : null,
+  "handle" : "52438-LACNIC",
+  "country" : "AR"
+}

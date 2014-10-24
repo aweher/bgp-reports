@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 8163,
+  "endAutnum" : 8163,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/8163",
+    "value" : "http://rdap.labs.lacnic.net/autnum/8163"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19970505",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20030723",
+    "eventActor" : "MRS"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-MRSA1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-MRSA1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mario Salcedo"],["adr",{"label":"CALLE 74 57 (35)\nBARRANQUILLA, AT 57555\nCO","type":"work"},"text",["","","CALLE 74 57 (35)","BARRANQUILLA","AT","57555","CO"]],["email",{"type":"work"},"text","msalcedo@METROTEL.COM.CO"],["tel",{"type":"work"},"text","57 5 3613309 ()"],["org",{},"text",["Metrotel SA ESP"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021031",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140527",
+      "eventActor" : "MAS27"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MAS27",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAS27"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mario Salcedo"],["adr",{"label":"Calle 74 57 (35)\nBarranquilla, At NONE\nCO","type":"work"},"text",["","","Calle 74 57 (35)","Barranquilla","At","NONE","CO"]],["email",{"type":"work"},"text","msalcedo@METROTEL.COM.CO"],["tel",{"type":"work"},"text","57 5 3613391 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20081006",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120810",
+        "eventActor" : "MAS27"
+      } ],
+      "entities" : [ ],
+      "handle" : "MAS27"
+    } ],
+    "handle" : "CO-MRSA1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MRS",
+      "value" : "http://rdap.labs.lacnic.net/entity/MRS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","METROTEL REDES S.A."],["adr",{"label":"Calle 74 57 (35)\nBARRANQUILLA, AT 12345\nCO","type":"work"},"text",["","","Calle 74 57 (35)","BARRANQUILLA","AT","12345","CO"]],["email",{"type":"work"},"text","admin_ip@METROTEL.NET.CO"],["tel",{"type":"work"},"text","57 5 3600000 (391)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021031",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080112",
+      "eventActor" : "MRS"
+    } ],
+    "entities" : [ ],
+    "handle" : "MRS"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MRS",
+      "value" : "http://rdap.labs.lacnic.net/entity/MRS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","METROTEL REDES S.A."],["adr",{"label":"Calle 74 57 (35)\nBARRANQUILLA, AT 12345\nCO","type":"work"},"text",["","","Calle 74 57 (35)","BARRANQUILLA","AT","12345","CO"]],["email",{"type":"work"},"text","admin_ip@METROTEL.NET.CO"],["tel",{"type":"work"},"text","57 5 3600000 (391)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021031",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080112",
+      "eventActor" : "MRS"
+    } ],
+    "entities" : [ ],
+    "handle" : "MRS"
+  } ],
+  "type" : null,
+  "handle" : "8163-LACNIC",
+  "country" : "CO"
+}

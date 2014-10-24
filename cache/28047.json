@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28047",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28047"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-ECSA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-ECSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Leon"],["adr",{"label":"Andr?s Bello 2687 ()\nSantiago,  56\nCL","type":"work"},"text",["","","Andr?s Bello 2687 ()","Santiago","","56","CL"]],["email",{"type":"work"},"text","enteladminip@ENTEL.CL"],["tel",{"type":"work"},"text","56 2 3600123 ()"],["org",{},"text",["ENTEL CHILE S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CLS4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CLS4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Leon"],["adr",{"label":"Amunategui 20 ()\nSantiago,  4254\nCL","type":"work"},"text",["","","Amunategui 20 ()","Santiago","","4254","CL"]],["email",{"type":"work"},"text","enteladminip@ENTEL.CL"],["tel",{"type":"work"},"text","56 2 3600123 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050311",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121019",
+        "eventActor" : "CLS4"
+      } ],
+      "handle" : "CLS4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030331",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140614",
+      "eventActor" : "CLS4"
+    } ],
+    "handle" : "CL-ECSA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/VIO3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/VIO3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Viviana Ortega"],["adr",{"label":"Amunategui 20 (piso 6)\nSantiago,  8340516\nCL","type":"work"},"text",["","","Amunategui 20 (piso 6)","Santiago","","8340516","CL"]],["email",{"type":"work"},"text","vortega@ENTEL.CL"],["tel",{"type":"work"},"text","56 2 23606869 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090206",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130311",
+      "eventActor" : "VIO3"
+    } ],
+    "handle" : "VIO3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/VIO3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/VIO3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Viviana Ortega"],["adr",{"label":"Amunategui 20 (piso 6)\nSantiago,  8340516\nCL","type":"work"},"text",["","","Amunategui 20 (piso 6)","Santiago","","8340516","CL"]],["email",{"type":"work"},"text","vortega@ENTEL.CL"],["tel",{"type":"work"},"text","56 2 23606869 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090206",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130311",
+      "eventActor" : "VIO3"
+    } ],
+    "handle" : "VIO3"
+  } ],
+  "startAutnum" : 28047,
+  "endAutnum" : 28047,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090330",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131204",
+    "eventActor" : "VIO3"
+  } ],
+  "type" : null,
+  "handle" : "28047-LACNIC",
+  "country" : "CL"
+}

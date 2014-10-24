@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27803,
+  "endAutnum" : 27803,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27803",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27803"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060116",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20060116",
+    "eventActor" : "ALN"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-WCLT1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-WCLT1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alejandro Navarro"],["adr",{"label":"CL 76 54 (11 Of. 308)\nBarranquilla, AT NONE\nCO","type":"work"},"text",["","","CL 76 54 (11 Of. 308)","Barranquilla","AT","NONE","CO"]],["email",{"type":"work"},"text","anavarro@DINANET.NET.CO"],["tel",{"type":"work"},"text","57 5 3689954 ()"],["org",{},"text",["WorldAdmin Colombia Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060105",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060117",
+      "eventActor" : "ALN"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ALN",
+        "value" : "http://rdap.labs.lacnic.net/entity/ALN"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alejandro Navarro"],["adr",{"label":"Cl 76 No. 54-11 of 308 none (none)\nBarranquilla, AT NONE\nCO","type":"work"},"text",["","","Cl 76 No. 54-11 of 308 none (none)","Barranquilla","AT","NONE","CO"]],["email",{"type":"work"},"text","anavarro@DINANET.NET.CO"],["tel",{"type":"work"},"text","57 5 3689310 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20020905",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20050301",
+        "eventActor" : "ALN"
+      } ],
+      "entities" : [ ],
+      "handle" : "ALN"
+    } ],
+    "handle" : "CO-WCLT1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALN",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALN"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alejandro Navarro"],["adr",{"label":"Cl 76 No. 54-11 of 308 none (none)\nBarranquilla, AT NONE\nCO","type":"work"},"text",["","","Cl 76 No. 54-11 of 308 none (none)","Barranquilla","AT","NONE","CO"]],["email",{"type":"work"},"text","anavarro@DINANET.NET.CO"],["tel",{"type":"work"},"text","57 5 3689310 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020905",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20050301",
+      "eventActor" : "ALN"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALN"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALN",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALN"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alejandro Navarro"],["adr",{"label":"Cl 76 No. 54-11 of 308 none (none)\nBarranquilla, AT NONE\nCO","type":"work"},"text",["","","Cl 76 No. 54-11 of 308 none (none)","Barranquilla","AT","NONE","CO"]],["email",{"type":"work"},"text","anavarro@DINANET.NET.CO"],["tel",{"type":"work"},"text","57 5 3689310 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020905",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20050301",
+      "eventActor" : "ALN"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALN"
+  } ],
+  "type" : null,
+  "handle" : "27803-LACNIC",
+  "country" : "CO"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53174,
+  "endAutnum" : 53174,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53174",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53174"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100730",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "AAL7"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PSOL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PSOL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sandro Cadore"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEncantado, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Encantado","RS","04578-000","BR"]],["email",{"type":"work"},"text","SAC28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 05 155093511 ()"],["org",{},"text",["Pannet Servi?os On Line Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "SAC28"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SAC28",
+        "value" : "http://rdap.labs.lacnic.net/entity/SAC28"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sandro Cadore"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEncantado, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Encantado","RS","04578-000","BR"]],["email",{"type":"work"},"text","SAC28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140417",
+        "eventActor" : "SAC28"
+      } ],
+      "entities" : [ ],
+      "handle" : "SAC28"
+    } ],
+    "handle" : "BR-PSOL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AAL7",
+      "value" : "http://rdap.labs.lacnic.net/entity/AAL7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Anderson Albarnaz Cardoso & Cia. Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCa?apava do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ca?apava do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","AAL7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AAL7"
+    } ],
+    "entities" : [ ],
+    "handle" : "AAL7"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AAL7",
+      "value" : "http://rdap.labs.lacnic.net/entity/AAL7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Anderson Albarnaz Cardoso & Cia. Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCa?apava do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ca?apava do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","AAL7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AAL7"
+    } ],
+    "entities" : [ ],
+    "handle" : "AAL7"
+  } ],
+  "type" : null,
+  "handle" : "53174-LACNIC",
+  "country" : "BR"
+}

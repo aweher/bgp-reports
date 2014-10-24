@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262538,
+  "endAutnum" : 262538,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262538",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262538"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110718",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130925",
+    "eventActor" : "ASH6"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ASHT1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ASHT1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jean Pierre Maylart"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarra Bonita, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barra Bonita","SP","04578-000","BR"]],["email",{"type":"work"},"text","JPM12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["org",{},"text",["A S HERMIDA TELECOMUNICA?OES LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130913",
+      "eventActor" : "JPM12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JPM12",
+        "value" : "http://rdap.labs.lacnic.net/entity/JPM12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jean Pierre Maylart"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarra Bonita, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barra Bonita","SP","04578-000","BR"]],["email",{"type":"work"},"text","JPM12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JPM12"
+      } ],
+      "entities" : [ ],
+      "handle" : "JPM12"
+    } ],
+    "handle" : "BR-ASHT1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ASH6",
+      "value" : "http://rdap.labs.lacnic.net/entity/ASH6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre da Silva Hermida"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarra Bonita, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barra Bonita","SP","04578-000","BR"]],["email",{"type":"work"},"text","ASH6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130913",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130913",
+      "eventActor" : "ASH6"
+    } ],
+    "entities" : [ ],
+    "handle" : "ASH6"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JPM12",
+      "value" : "http://rdap.labs.lacnic.net/entity/JPM12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jean Pierre Maylart"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarra Bonita, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barra Bonita","SP","04578-000","BR"]],["email",{"type":"work"},"text","JPM12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JPM12"
+    } ],
+    "entities" : [ ],
+    "handle" : "JPM12"
+  } ],
+  "type" : null,
+  "handle" : "262538-LACNIC",
+  "country" : "BR"
+}

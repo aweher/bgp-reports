@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263387,
+  "endAutnum" : 263387,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263387",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263387"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140326",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140326",
+    "eventActor" : "AML47"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PLNE1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PLNE1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andr? Brugnaro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio Claro, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio Claro","SP","04578-000","BR"]],["email",{"type":"work"},"text","ANB57@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["Planet net"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140215",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140215",
+      "eventActor" : "ANB57"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ANB57",
+        "value" : "http://rdap.labs.lacnic.net/entity/ANB57"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andr? Brugnaro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLimeira, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Limeira","","04578-000","BR"]],["email",{"type":"work"},"text","ANB57@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130620",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130620",
+        "eventActor" : "ANB57"
+      } ],
+      "entities" : [ ],
+      "handle" : "ANB57"
+    } ],
+    "handle" : "BR-PLNE1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AML47",
+      "value" : "http://rdap.labs.lacnic.net/entity/AML47"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Antonio Marcos Lepre"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio Claro, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio Claro","SP","04578-000","BR"]],["email",{"type":"work"},"text","AML47@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140312",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140312",
+      "eventActor" : "AML47"
+    } ],
+    "entities" : [ ],
+    "handle" : "AML47"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AML47",
+      "value" : "http://rdap.labs.lacnic.net/entity/AML47"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Antonio Marcos Lepre"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio Claro, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio Claro","SP","04578-000","BR"]],["email",{"type":"work"},"text","AML47@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140312",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140312",
+      "eventActor" : "AML47"
+    } ],
+    "entities" : [ ],
+    "handle" : "AML47"
+  } ],
+  "type" : null,
+  "handle" : "263387-LACNIC",
+  "country" : "BR"
+}

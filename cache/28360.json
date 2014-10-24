@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28360,
+  "endAutnum" : 28360,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28360",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28360"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20071114",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ESM11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-WAES-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-WAES-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eust?quio Souza Martins"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGovernador Valadares, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Governador Valadares","MG","04578-000","BR"]],["email",{"type":"work"},"text","ESM11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 33 55093511 ()"],["org",{},"text",["WKVE Asses. em Servi?os de Inform. e Telecom. Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140115",
+      "eventActor" : "ESM11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ESM11",
+        "value" : "http://rdap.labs.lacnic.net/entity/ESM11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eust?quio Souza Martins"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGovernador Valadares, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Governador Valadares","MG","04578-000","BR"]],["email",{"type":"work"},"text","ESM11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 33 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ESM11"
+      } ],
+      "entities" : [ ],
+      "handle" : "ESM11"
+    } ],
+    "handle" : "BR-WAES-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ESM11",
+      "value" : "http://rdap.labs.lacnic.net/entity/ESM11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eust?quio Souza Martins"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGovernador Valadares, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Governador Valadares","MG","04578-000","BR"]],["email",{"type":"work"},"text","ESM11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 33 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ESM11"
+    } ],
+    "entities" : [ ],
+    "handle" : "ESM11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ESM11",
+      "value" : "http://rdap.labs.lacnic.net/entity/ESM11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eust?quio Souza Martins"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGovernador Valadares, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Governador Valadares","MG","04578-000","BR"]],["email",{"type":"work"},"text","ESM11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 33 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ESM11"
+    } ],
+    "entities" : [ ],
+    "handle" : "ESM11"
+  } ],
+  "type" : null,
+  "handle" : "28360-LACNIC",
+  "country" : "BR"
+}

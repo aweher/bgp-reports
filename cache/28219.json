@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28219,
+  "endAutnum" : 28219,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28219",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28219"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080606",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "CMF11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NRCS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NRCS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Maur?cio Barros Filho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarbacena, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barbacena","MG","04578-000","BR"]],["email",{"type":"work"},"text","CMF11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["org",{},"text",["Net Rosas Com?rcio e Servi?os em Inform?tica Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "CMF11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CMF11",
+        "value" : "http://rdap.labs.lacnic.net/entity/CMF11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Maur?cio Barros Filho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarbacena, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barbacena","MG","04578-000","BR"]],["email",{"type":"work"},"text","CMF11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CMF11"
+      } ],
+      "entities" : [ ],
+      "handle" : "CMF11"
+    } ],
+    "handle" : "BR-NRCS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CMF11",
+      "value" : "http://rdap.labs.lacnic.net/entity/CMF11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Maur?cio Barros Filho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarbacena, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barbacena","MG","04578-000","BR"]],["email",{"type":"work"},"text","CMF11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CMF11"
+    } ],
+    "entities" : [ ],
+    "handle" : "CMF11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CMF11",
+      "value" : "http://rdap.labs.lacnic.net/entity/CMF11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Maur?cio Barros Filho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarbacena, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barbacena","MG","04578-000","BR"]],["email",{"type":"work"},"text","CMF11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CMF11"
+    } ],
+    "entities" : [ ],
+    "handle" : "CMF11"
+  } ],
+  "type" : null,
+  "handle" : "28219-LACNIC",
+  "country" : "BR"
+}

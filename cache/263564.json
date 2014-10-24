@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263564,
+  "endAutnum" : 263564,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263564",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263564"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130802",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130802",
+    "eventActor" : "IRS17"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-IGNB-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-IGNB-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonardo de Lima Gomes Filho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMonteiro, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Monteiro","","04578-000","BR"]],["email",{"type":"work"},"text","LLF2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["org",{},"text",["ITANA GABRIELA DO NASCIMENTO BEZERRA 07302188483"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "LLF2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LLF2",
+        "value" : "http://rdap.labs.lacnic.net/entity/LLF2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonardo de Lima Gomes Filho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta Luzia, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa Luzia","PB","04578-000","BR"]],["email",{"type":"work"},"text","LLF2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LLF2"
+      } ],
+      "entities" : [ ],
+      "handle" : "LLF2"
+    } ],
+    "handle" : "BR-IGNB-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IRS17",
+      "value" : "http://rdap.labs.lacnic.net/entity/IRS17"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Irandy Roberto Cavalcante dos Santos"],["adr",{"label":"Av. das Nações Unidas 11541 (7º andar)\nMonteiro, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Nações Unidas 11541 (7º andar)","Monteiro","PB","04578-000","BR"]],["email",{"type":"work"},"text","IRS17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130719",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130719",
+      "eventActor" : "IRS17"
+    } ],
+    "entities" : [ ],
+    "handle" : "IRS17"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IRS17",
+      "value" : "http://rdap.labs.lacnic.net/entity/IRS17"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Irandy Roberto Cavalcante dos Santos"],["adr",{"label":"Av. das Nações Unidas 11541 (7º andar)\nMonteiro, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Nações Unidas 11541 (7º andar)","Monteiro","PB","04578-000","BR"]],["email",{"type":"work"},"text","IRS17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130719",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130719",
+      "eventActor" : "IRS17"
+    } ],
+    "entities" : [ ],
+    "handle" : "IRS17"
+  } ],
+  "type" : null,
+  "handle" : "263564-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52421",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52421"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TFSA3-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TFSA3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","David Lazo"],["adr",{"label":"Ricardo Rojas 864 (-)\nRio Grande, TF 9420\nAR","type":"work"},"text",["","","Ricardo Rojas 864 (-)","Rio Grande","TF","9420","AR"]],["email",{"type":"work"},"text","dhlazo@TVFUEGO.COM.AR"],["tel",{"type":"work"},"text","54 2964 432064 (15)"],["org",{},"text",["TV Fuego S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/DAL14",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAL14"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","David Lazo"],["adr",{"label":"Ricardo Rojas 864 (P.B.)\nRio Grande, null 9420\nAR","type":"work"},"text",["","","Ricardo Rojas 864 (P.B.)","Rio Grande","","9420","AR"]],["email",{"type":"work"},"text","dhlazo@TVFUEGO.COM.AR"],["tel",{"type":"work"},"text","54 2964 432064 (15)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110923",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110923",
+        "eventActor" : "DAL14"
+      } ],
+      "handle" : "DAL14"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110930",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140529",
+      "eventActor" : "DAL14"
+    } ],
+    "handle" : "AR-TFSA3-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DAL14",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAL14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","David Lazo"],["adr",{"label":"Ricardo Rojas 864 (P.B.)\nRio Grande, null 9420\nAR","type":"work"},"text",["","","Ricardo Rojas 864 (P.B.)","Rio Grande","","9420","AR"]],["email",{"type":"work"},"text","dhlazo@TVFUEGO.COM.AR"],["tel",{"type":"work"},"text","54 2964 432064 (15)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110923",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110923",
+      "eventActor" : "DAL14"
+    } ],
+    "handle" : "DAL14"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DAL14",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAL14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","David Lazo"],["adr",{"label":"Ricardo Rojas 864 (P.B.)\nRio Grande, null 9420\nAR","type":"work"},"text",["","","Ricardo Rojas 864 (P.B.)","Rio Grande","","9420","AR"]],["email",{"type":"work"},"text","dhlazo@TVFUEGO.COM.AR"],["tel",{"type":"work"},"text","54 2964 432064 (15)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110923",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110923",
+      "eventActor" : "DAL14"
+    } ],
+    "handle" : "DAL14"
+  } ],
+  "startAutnum" : 52421,
+  "endAutnum" : 52421,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121109",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121109",
+    "eventActor" : "DAL14"
+  } ],
+  "type" : null,
+  "handle" : "52421-LACNIC",
+  "country" : "AR"
+}

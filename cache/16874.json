@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/16874",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/16874"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-SOSA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-SOSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Concha"],["adr",{"label":"Teatinos 550 ()\nSantiago,  834-0306\nCL","type":"work"},"text",["","","Teatinos 550 ()","Santiago","","834-0306","CL"]],["email",{"type":"work"},"text","claudio.concha@SONDA.COM"],["tel",{"type":"work"},"text","56 02 6575246 ()"],["org",{},"text",["SONDA S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CLC3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CLC3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Concha"],["adr",{"label":"teatinos 550 ()\nsantiago, null 6500332\nCL","type":"work"},"text",["","","teatinos 550 ()","santiago","","6500332","CL"]],["email",{"type":"work"},"text","claudio.concha@SONDA.COM"],["tel",{"type":"work"},"text","56 02 6575246 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060509",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20060509",
+        "eventActor" : "CLC3"
+      } ],
+      "handle" : "CLC3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031010",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130225",
+      "eventActor" : "CLC3"
+    } ],
+    "handle" : "CL-SOSA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CLC3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLC3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Concha"],["adr",{"label":"teatinos 550 ()\nsantiago, null 6500332\nCL","type":"work"},"text",["","","teatinos 550 ()","santiago","","6500332","CL"]],["email",{"type":"work"},"text","claudio.concha@SONDA.COM"],["tel",{"type":"work"},"text","56 02 6575246 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060509",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060509",
+      "eventActor" : "CLC3"
+    } ],
+    "handle" : "CLC3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CLC3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLC3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Concha"],["adr",{"label":"teatinos 550 ()\nsantiago, null 6500332\nCL","type":"work"},"text",["","","teatinos 550 ()","santiago","","6500332","CL"]],["email",{"type":"work"},"text","claudio.concha@SONDA.COM"],["tel",{"type":"work"},"text","56 02 6575246 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060509",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060509",
+      "eventActor" : "CLC3"
+    } ],
+    "handle" : "CLC3"
+  } ],
+  "startAutnum" : 16874,
+  "endAutnum" : 16874,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20000622",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110513",
+    "eventActor" : "CLC3"
+  } ],
+  "type" : null,
+  "handle" : "16874-LACNIC",
+  "country" : "CL"
+}

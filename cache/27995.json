@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27995",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27995"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-CCSA39-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-CCSA39-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Sepulveda Salas"],["adr",{"label":"Avda Del Condor 820 (Huechuraba)\nSantiago, RM 858-0704\nCL","type":"work"},"text",["","","Avda Del Condor 820 (Huechuraba)","Santiago","RM","858-0704","CL"]],["email",{"type":"work"},"text","gustavo.sepulveda@DMDGROUP.NET"],["tel",{"type":"work"},"text","56 2 24445202 ()"],["org",{},"text",["CLARO CHILE S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GSS",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GSS"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Sepulveda Salas"],["adr",{"label":"Avenida Las Condes 9792 9792 (Las Condes)\nSantiago, CL 759-1094\nCL","type":"work"},"text",["","","Avenida Las Condes 9792 9792 (Las Condes)","Santiago","CL","759-1094","CL"]],["email",{"type":"work"},"text","gustavo.sepulveda@DMDGROUP.NET"],["tel",{"type":"work"},"text","56 2 23710054 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20040504",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140217",
+        "eventActor" : "GSS"
+      } ],
+      "handle" : "GSS"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130902",
+      "eventActor" : "GSS"
+    } ],
+    "handle" : "CL-CCSA39-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GSS",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GSS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Sepulveda Salas"],["adr",{"label":"Avenida Las Condes 9792 9792 (Las Condes)\nSantiago, CL 759-1094\nCL","type":"work"},"text",["","","Avenida Las Condes 9792 9792 (Las Condes)","Santiago","CL","759-1094","CL"]],["email",{"type":"work"},"text","gustavo.sepulveda@DMDGROUP.NET"],["tel",{"type":"work"},"text","56 2 23710054 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040504",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140217",
+      "eventActor" : "GSS"
+    } ],
+    "handle" : "GSS"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AAU",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AAU"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andres Amestica Undurraga"],["adr",{"label":"avenida del condor 820 (Huechuraba)\nSantiago, CL 858-0704\nCL","type":"work"},"text",["","","avenida del condor 820 (Huechuraba)","Santiago","CL","858-0704","CL"]],["email",{"type":"work"},"text","aamestica@CLAROCHILE.CL"],["tel",{"type":"work"},"text","56 02 24445202 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100813",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130830",
+      "eventActor" : "AAU"
+    } ],
+    "handle" : "AAU"
+  } ],
+  "startAutnum" : 27995,
+  "endAutnum" : 27995,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080908",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100813",
+    "eventActor" : "GSS"
+  } ],
+  "type" : null,
+  "handle" : "27995-LACNIC",
+  "country" : "CL"
+}

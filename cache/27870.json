@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27870",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27870"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CSCO2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CSCO2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Fabroni"],["adr",{"label":"Av. Vte. Lopez 2745 ()\nQuilmes, BA B1878DWB\nAR","type":"work"},"text",["","","Av. Vte. Lopez 2745 ()","Quilmes","BA","B1878DWB","AR"]],["email",{"type":"work"},"text","claudiof@CSCOM.COM.AR"],["tel",{"type":"work"},"text","54 11 4254-7352 ()"],["org",{},"text",["CSCOM"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CLF",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CLF"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Fabroni"],["adr",{"label":"Av. Vte. Lopez 2745 ()\nQuilmes, BA B1878BWB\nAR","type":"work"},"text",["","","Av. Vte. Lopez 2745 ()","Quilmes","BA","B1878BWB","AR"]],["email",{"type":"work"},"text","claudiof@CSCOM.COM.AR"],["tel",{"type":"work"},"text","54 11 4254-7352 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20021123",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20061011",
+        "eventActor" : "CLF"
+      } ],
+      "handle" : "CLF"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021126",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "CLF"
+    } ],
+    "handle" : "AR-CSCO2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CLF",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLF"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Fabroni"],["adr",{"label":"Av. Vte. Lopez 2745 ()\nQuilmes, BA B1878BWB\nAR","type":"work"},"text",["","","Av. Vte. Lopez 2745 ()","Quilmes","BA","B1878BWB","AR"]],["email",{"type":"work"},"text","claudiof@CSCOM.COM.AR"],["tel",{"type":"work"},"text","54 11 4254-7352 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021123",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20061011",
+      "eventActor" : "CLF"
+    } ],
+    "handle" : "CLF"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CLF",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLF"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Fabroni"],["adr",{"label":"Av. Vte. Lopez 2745 ()\nQuilmes, BA B1878BWB\nAR","type":"work"},"text",["","","Av. Vte. Lopez 2745 ()","Quilmes","BA","B1878BWB","AR"]],["email",{"type":"work"},"text","claudiof@CSCOM.COM.AR"],["tel",{"type":"work"},"text","54 11 4254-7352 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021123",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20061011",
+      "eventActor" : "CLF"
+    } ],
+    "handle" : "CLF"
+  } ],
+  "startAutnum" : 27870,
+  "endAutnum" : 27870,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20061110",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20061110",
+    "eventActor" : "CLF"
+  } ],
+  "type" : null,
+  "handle" : "27870-LACNIC",
+  "country" : "AR"
+}

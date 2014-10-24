@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52279",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52279"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CGSA3-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CGSA3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Tormes"],["adr",{"label":"Istilart 255 (-)\nTRES ARROYOS ( BS.AS.),  7500\nAR","type":"work"},"text",["","","Istilart 255 (-)","TRES ARROYOS ( BS.AS.)","","7500","AR"]],["email",{"type":"work"},"text","diegotormes@ETERNET.CC"],["tel",{"type":"work"},"text","54 2983 432332 ()"],["org",{},"text",["ETERNET S.R.L."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CIG",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CIG"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Tormes"],["adr",{"label":"Istilart 255 ()\nTres Arroyos, BA 7500\nAR","type":"work"},"text",["","","Istilart 255 ()","Tres Arroyos","BA","7500","AR"]],["email",{"type":"work"},"text","diegotormes@ETERNET.CC"],["tel",{"type":"work"},"text","54 2983 513040 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050502",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131216",
+        "eventActor" : "CIG"
+      } ],
+      "handle" : "CIG"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050510",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "CIG"
+    } ],
+    "handle" : "AR-CGSA3-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CIG",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CIG"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Tormes"],["adr",{"label":"Istilart 255 ()\nTres Arroyos, BA 7500\nAR","type":"work"},"text",["","","Istilart 255 ()","Tres Arroyos","BA","7500","AR"]],["email",{"type":"work"},"text","diegotormes@ETERNET.CC"],["tel",{"type":"work"},"text","54 2983 513040 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050502",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131216",
+      "eventActor" : "CIG"
+    } ],
+    "handle" : "CIG"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CIG",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CIG"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Tormes"],["adr",{"label":"Istilart 255 ()\nTres Arroyos, BA 7500\nAR","type":"work"},"text",["","","Istilart 255 ()","Tres Arroyos","BA","7500","AR"]],["email",{"type":"work"},"text","diegotormes@ETERNET.CC"],["tel",{"type":"work"},"text","54 2983 513040 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050502",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131216",
+      "eventActor" : "CIG"
+    } ],
+    "handle" : "CIG"
+  } ],
+  "startAutnum" : 52279,
+  "endAutnum" : 52279,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100908",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110730",
+    "eventActor" : "CIG"
+  } ],
+  "type" : null,
+  "handle" : "52279-LACNIC",
+  "country" : "AR"
+}

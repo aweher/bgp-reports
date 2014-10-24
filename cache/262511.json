@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262511,
+  "endAutnum" : 262511,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262511",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262511"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110628",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "AJA17"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-UFPA5-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-UFPA5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Centro de Tecnologia da Informa??o e Com"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBel?m, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bel?m","PA","04578-000","BR"]],["email",{"type":"work"},"text","CTC9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 91 55093511 ()"],["org",{},"text",["Universidade Federal do Par?"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CTC9"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CTC9",
+        "value" : "http://rdap.labs.lacnic.net/entity/CTC9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Centro de Tecnologia da Informa??o e Com"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBel?m, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bel?m","PA","04578-000","BR"]],["email",{"type":"work"},"text","CTC9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 91 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CTC9"
+      } ],
+      "entities" : [ ],
+      "handle" : "CTC9"
+    } ],
+    "handle" : "BR-UFPA5-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AJA17",
+      "value" : "http://rdap.labs.lacnic.net/entity/AJA17"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Antonio Jorge Gomes Abel?m"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBel?m, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bel?m","PA","04578-000","BR"]],["email",{"type":"work"},"text","AJA17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 91 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AJA17"
+    } ],
+    "entities" : [ ],
+    "handle" : "AJA17"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AJA17",
+      "value" : "http://rdap.labs.lacnic.net/entity/AJA17"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Antonio Jorge Gomes Abel?m"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBel?m, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bel?m","PA","04578-000","BR"]],["email",{"type":"work"},"text","AJA17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 91 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AJA17"
+    } ],
+    "entities" : [ ],
+    "handle" : "AJA17"
+  } ],
+  "type" : null,
+  "handle" : "262511-LACNIC",
+  "country" : "BR"
+}

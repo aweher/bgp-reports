@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262170",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262170"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-VISU-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-VISU-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sebastian Gabriel Alfonso"],["adr",{"label":"Chacabuco 145 (Piso 3)\nBuenos Aires,  C1069AAC\nAR","type":"work"},"text",["","","Chacabuco 145 (Piso 3)","Buenos Aires","","C1069AAC","AR"]],["email",{"type":"work"},"text","salfonso@VISUALHOSTING.NET"],["tel",{"type":"work"},"text","54 11 50328133 (1210)"],["org",{},"text",["Visualhosting.net"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SGA",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SGA"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sebastian Gabriel Alfonso"],["adr",{"label":"Chacabuco 145 ()\nCapital Federal,  C1069AAC\nAR","type":"work"},"text",["","","Chacabuco 145 ()","Capital Federal","","C1069AAC","AR"]],["email",{"type":"work"},"text","salfonso@VISUALHOSTING.NET"],["tel",{"type":"work"},"text","54 11 52196610 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20070119",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130727",
+        "eventActor" : "SGA"
+      } ],
+      "handle" : "SGA"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070119",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130702",
+      "eventActor" : "SGA"
+    } ],
+    "handle" : "AR-VISU-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SGA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SGA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sebastian Gabriel Alfonso"],["adr",{"label":"Chacabuco 145 ()\nCapital Federal,  C1069AAC\nAR","type":"work"},"text",["","","Chacabuco 145 ()","Capital Federal","","C1069AAC","AR"]],["email",{"type":"work"},"text","salfonso@VISUALHOSTING.NET"],["tel",{"type":"work"},"text","54 11 52196610 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070119",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130727",
+      "eventActor" : "SGA"
+    } ],
+    "handle" : "SGA"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SGA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SGA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sebastian Gabriel Alfonso"],["adr",{"label":"Chacabuco 145 ()\nCapital Federal,  C1069AAC\nAR","type":"work"},"text",["","","Chacabuco 145 ()","Capital Federal","","C1069AAC","AR"]],["email",{"type":"work"},"text","salfonso@VISUALHOSTING.NET"],["tel",{"type":"work"},"text","54 11 52196610 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070119",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130727",
+      "eventActor" : "SGA"
+    } ],
+    "handle" : "SGA"
+  } ],
+  "startAutnum" : 262170,
+  "endAutnum" : 262170,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110719",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110719",
+    "eventActor" : "SGA"
+  } ],
+  "type" : null,
+  "handle" : "262170-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52936,
+  "endAutnum" : 52936,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52936",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52936"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120817",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "EVG5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ISLT20-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ISLT20-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jaime Gustavo Veras Alves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMarab?, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Marab?","PA","04578-000","BR"]],["email",{"type":"work"},"text","JGA11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["org",{},"text",["ISOTELCO LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "JGA11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JGA11",
+        "value" : "http://rdap.labs.lacnic.net/entity/JGA11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jaime Gustavo Veras Alves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMarab?, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Marab?","PA","04578-000","BR"]],["email",{"type":"work"},"text","JGA11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JGA11"
+      } ],
+      "entities" : [ ],
+      "handle" : "JGA11"
+    } ],
+    "handle" : "BR-ISLT20-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EVG5",
+      "value" : "http://rdap.labs.lacnic.net/entity/EVG5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Evandro Goncalves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMarab?, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Marab?","PA","04578-000","BR"]],["email",{"type":"work"},"text","EVG5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EVG5"
+    } ],
+    "entities" : [ ],
+    "handle" : "EVG5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JGA11",
+      "value" : "http://rdap.labs.lacnic.net/entity/JGA11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jaime Gustavo Veras Alves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMarab?, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Marab?","PA","04578-000","BR"]],["email",{"type":"work"},"text","JGA11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JGA11"
+    } ],
+    "entities" : [ ],
+    "handle" : "JGA11"
+  } ],
+  "type" : null,
+  "handle" : "52936-LACNIC",
+  "country" : "BR"
+}

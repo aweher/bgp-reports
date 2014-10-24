@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27883",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27883"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-UTNA2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-UTNA2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Uriel Cukierman"],["adr",{"label":"Sarmiento 440 ()\nCiudad Aut. de Buenos Aires, BA C1041AAJ\nAR","type":"work"},"text",["","","Sarmiento 440 ()","Ciudad Aut. de Buenos Aires","BA","C1041AAJ","AR"]],["email",{"type":"work"},"text","uriel@UTN.EDU.AR"],["tel",{"type":"work"},"text","54 11 53715600 ()"],["org",{},"text",["Universidad Tecnologica Nacional"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/URC",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/URC"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Uriel Cukierman"],["adr",{"label":"Sarmiento 440 (Piso 5)\nBuenos Aires,  C1041AAJ\nAR","type":"work"},"text",["","","Sarmiento 440 (Piso 5)","Buenos Aires","","C1041AAJ","AR"]],["email",{"type":"work"},"text","uriel@UTN.EDU.AR"],["tel",{"type":"work"},"text","54 11 53715666 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20061006",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130102",
+        "eventActor" : "URC"
+      } ],
+      "handle" : "URC"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20061012",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130213",
+      "eventActor" : "URC"
+    } ],
+    "handle" : "AR-UTNA2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GBF",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GBF"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gerardo B Fernandez"],["adr",{"label":"Sarmiento 440 (piso 5)\nCdad. Autonoma de Buenos Aires, null C1041AAJ\nAR","type":"work"},"text",["","","Sarmiento 440 (piso 5)","Cdad. Autonoma de Buenos Aires","","C1041AAJ","AR"]],["email",{"type":"work"},"text","gfernandez@REC.UTN.EDU.AR"],["tel",{"type":"work"},"text","54 11 5371 (5667)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091103",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20091103",
+      "eventActor" : "GBF"
+    } ],
+    "handle" : "GBF"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GBF",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GBF"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gerardo B Fernandez"],["adr",{"label":"Sarmiento 440 (piso 5)\nCdad. Autonoma de Buenos Aires, null C1041AAJ\nAR","type":"work"},"text",["","","Sarmiento 440 (piso 5)","Cdad. Autonoma de Buenos Aires","","C1041AAJ","AR"]],["email",{"type":"work"},"text","gfernandez@REC.UTN.EDU.AR"],["tel",{"type":"work"},"text","54 11 5371 (5667)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091103",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20091103",
+      "eventActor" : "GBF"
+    } ],
+    "handle" : "GBF"
+  } ],
+  "startAutnum" : 27883,
+  "endAutnum" : 27883,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070302",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140623",
+    "eventActor" : "GBF"
+  } ],
+  "type" : null,
+  "handle" : "27883-LACNIC",
+  "country" : "AR"
+}

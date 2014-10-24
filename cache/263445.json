@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263445,
+  "endAutnum" : 263445,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263445",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263445"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131206",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131216",
+    "eventActor" : "RCS49"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SLCL3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SLCL3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ednei oliveira augusto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGuarulhos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Guarulhos","SP","04578-000","BR"]],["email",{"type":"work"},"text","EOA4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["SEM LIMITE COMUNICA??ES LTDA - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131206",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131217",
+      "eventActor" : "EOA4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EOA4",
+        "value" : "http://rdap.labs.lacnic.net/entity/EOA4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ednei oliveira augusto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGuarulhos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Guarulhos","SP","04578-000","BR"]],["email",{"type":"work"},"text","EOA4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20131206",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131206",
+        "eventActor" : "EOA4"
+      } ],
+      "entities" : [ ],
+      "handle" : "EOA4"
+    } ],
+    "handle" : "BR-SLCL3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RCS49",
+      "value" : "http://rdap.labs.lacnic.net/entity/RCS49"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rosmayer Carmen dos Reis Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGuarulhos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Guarulhos","SP","04578-000","BR"]],["email",{"type":"work"},"text","RCS49@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131216",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131216",
+      "eventActor" : "RCS49"
+    } ],
+    "entities" : [ ],
+    "handle" : "RCS49"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RCS49",
+      "value" : "http://rdap.labs.lacnic.net/entity/RCS49"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rosmayer Carmen dos Reis Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGuarulhos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Guarulhos","SP","04578-000","BR"]],["email",{"type":"work"},"text","RCS49@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131216",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131216",
+      "eventActor" : "RCS49"
+    } ],
+    "entities" : [ ],
+    "handle" : "RCS49"
+  } ],
+  "type" : null,
+  "handle" : "263445-LACNIC",
+  "country" : "BR"
+}

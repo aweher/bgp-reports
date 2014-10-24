@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/263230",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263230"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CCCC2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CCCC2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ancls arg"],["adr",{"label":"San Juan s/n  ()\nAlmafuerte, null \nAR","type":"work"},"text",["","","San Juan s/n  ()","Almafuerte","","","AR"]],["email",{"type":"work"},"text","lacnic_ancls@GLOBALCROSSING.COM"],["tel",{"type":"work"},"text","357 1 485650 ()"],["org",{},"text",["Cooperaticas de Calamuchita - Consorcio de Cooperaci?n"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ANA10",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ANA10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ancls arg"],["adr",{"label":"Alferez Pareja 256 (Costanera)\nBuenos Aires,  C1107BJD\nAR","type":"work"},"text",["","","Alferez Pareja 256 (Costanera)","Buenos Aires","","C1107BJD","AR"]],["email",{"type":"work"},"text","lacnic_ancls@GLOBALCROSSING.COM"],["tel",{"type":"work"},"text","54 11 51706819 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110321",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120802",
+        "eventActor" : "ANA10"
+      } ],
+      "handle" : "ANA10"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130109",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130109",
+      "eventActor" : "ANA10"
+    } ],
+    "handle" : "AR-CCCC2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAR181",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAR181"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Rosenda"],["adr",{"label":"Libertad 579 ()\nSanta Rosa de Calamuchita, Cb X5196\nAR","type":"work"},"text",["","","Libertad 579 ()","Santa Rosa de Calamuchita","Cb","X5196","AR"]],["email",{"type":"work"},"text","marcosroasenda@GMAIL.COM"],["tel",{"type":"work"},"text","54 3546 402157 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131001",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131001",
+      "eventActor" : "MAR181"
+    } ],
+    "handle" : "MAR181"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAR181",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAR181"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos Rosenda"],["adr",{"label":"Libertad 579 ()\nSanta Rosa de Calamuchita, Cb X5196\nAR","type":"work"},"text",["","","Libertad 579 ()","Santa Rosa de Calamuchita","Cb","X5196","AR"]],["email",{"type":"work"},"text","marcosroasenda@GMAIL.COM"],["tel",{"type":"work"},"text","54 3546 402157 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131001",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131001",
+      "eventActor" : "MAR181"
+    } ],
+    "handle" : "MAR181"
+  } ],
+  "startAutnum" : 263230,
+  "endAutnum" : 263230,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140507",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140507",
+    "eventActor" : "MAR181"
+  } ],
+  "type" : null,
+  "handle" : "263230-LACNIC",
+  "country" : "AR"
+}

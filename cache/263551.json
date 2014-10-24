@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263551,
+  "endAutnum" : 263551,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263551",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263551"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140204",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140204",
+    "eventActor" : "HES17"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-HLME-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-HLME-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","H?lder Serafim"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nErmo, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ermo","","04578-000","BR"]],["email",{"type":"work"},"text","HES17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["org",{},"text",["HPNetwork LTDA. ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "HES17"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/HES17",
+        "value" : "http://rdap.labs.lacnic.net/entity/HES17"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","H?lder Serafim"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nErmo, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ermo","SC","04578-000","BR"]],["email",{"type":"work"},"text","HES17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "HES17"
+      } ],
+      "entities" : [ ],
+      "handle" : "HES17"
+    } ],
+    "handle" : "BR-HLME-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HES17",
+      "value" : "http://rdap.labs.lacnic.net/entity/HES17"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","H?lder Serafim"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nErmo, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ermo","SC","04578-000","BR"]],["email",{"type":"work"},"text","HES17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "HES17"
+    } ],
+    "entities" : [ ],
+    "handle" : "HES17"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HES17",
+      "value" : "http://rdap.labs.lacnic.net/entity/HES17"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","H?lder Serafim"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nErmo, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ermo","SC","04578-000","BR"]],["email",{"type":"work"},"text","HES17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "HES17"
+    } ],
+    "entities" : [ ],
+    "handle" : "HES17"
+  } ],
+  "type" : null,
+  "handle" : "263551-LACNIC",
+  "country" : "BR"
+}

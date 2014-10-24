@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262452,
+  "endAutnum" : 262452,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262452",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262452"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110428",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "RVC2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VSTE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VSTE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ronaldo Vieira da Costa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmas, TO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmas","TO","04578-000","BR"]],["email",{"type":"work"},"text","RVC2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["org",{},"text",["VCNETWORK SOLUCOES TECNOLOGICA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130422",
+      "eventActor" : "RVC2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RVC2",
+        "value" : "http://rdap.labs.lacnic.net/entity/RVC2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ronaldo Vieira da Costa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmas, TO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmas","TO","04578-000","BR"]],["email",{"type":"work"},"text","RVC2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "RVC2"
+      } ],
+      "entities" : [ ],
+      "handle" : "RVC2"
+    } ],
+    "handle" : "BR-VSTE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RVC2",
+      "value" : "http://rdap.labs.lacnic.net/entity/RVC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ronaldo Vieira da Costa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmas, TO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmas","TO","04578-000","BR"]],["email",{"type":"work"},"text","RVC2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RVC2"
+    } ],
+    "entities" : [ ],
+    "handle" : "RVC2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RVC2",
+      "value" : "http://rdap.labs.lacnic.net/entity/RVC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ronaldo Vieira da Costa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmas, TO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmas","TO","04578-000","BR"]],["email",{"type":"work"},"text","RVC2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RVC2"
+    } ],
+    "entities" : [ ],
+    "handle" : "RVC2"
+  } ],
+  "type" : null,
+  "handle" : "262452-LACNIC",
+  "country" : "BR"
+}

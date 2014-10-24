@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262641,
+  "endAutnum" : 262641,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262641",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262641"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111117",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "STL9"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SNTE1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SNTE1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SNI Telecom Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJoaquim T?vora, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Joaquim T?vora","PR","04578-000","BR"]],["email",{"type":"work"},"text","STL9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["org",{},"text",["SNI Telecom"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "STL9"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/STL9",
+        "value" : "http://rdap.labs.lacnic.net/entity/STL9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SNI Telecom Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJoaquim T?vora, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Joaquim T?vora","PR","04578-000","BR"]],["email",{"type":"work"},"text","STL9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "STL9"
+      } ],
+      "entities" : [ ],
+      "handle" : "STL9"
+    } ],
+    "handle" : "BR-SNTE1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/STL9",
+      "value" : "http://rdap.labs.lacnic.net/entity/STL9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SNI Telecom Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJoaquim T?vora, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Joaquim T?vora","PR","04578-000","BR"]],["email",{"type":"work"},"text","STL9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "STL9"
+    } ],
+    "entities" : [ ],
+    "handle" : "STL9"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/STL9",
+      "value" : "http://rdap.labs.lacnic.net/entity/STL9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SNI Telecom Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJoaquim T?vora, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Joaquim T?vora","PR","04578-000","BR"]],["email",{"type":"work"},"text","STL9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "STL9"
+    } ],
+    "entities" : [ ],
+    "handle" : "STL9"
+  } ],
+  "type" : null,
+  "handle" : "262641-LACNIC",
+  "country" : "BR"
+}

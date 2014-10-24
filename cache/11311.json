@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/11311",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/11311"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-SISA7-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-SISA7-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","UOL Sinectis S.A."],["adr",{"label":"Florida 537 (Piso 6)\nBuenosAires,  C1005AAK\nAR","type":"work"},"text",["","","Florida 537 (Piso 6)","BuenosAires","","C1005AAK","AR"]],["email",{"type":"work"},"text","nets@UOLSINECTIS.COM.AR"],["tel",{"type":"work"},"text","54 11 43219110 (2555)"],["org",{},"text",["Sinectis S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/EMM",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/EMM"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","UOL Sinectis S.A."],["adr",{"label":"Cabildo 2677 (piso 7)\nBuenosAires,  C1428AAI\nAR","type":"work"},"text",["","","Cabildo 2677 (piso 7)","BuenosAires","","C1428AAI","AR"]],["email",{"type":"work"},"text","nets@UOLSINECTIS.COM.AR"],["tel",{"type":"work"},"text","54 11 43219110 (2555)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030624",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140319",
+        "eventActor" : "EMM"
+      } ],
+      "handle" : "EMM"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030624",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "EMM"
+    } ],
+    "handle" : "AR-SISA7-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/EMM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/EMM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","UOL Sinectis S.A."],["adr",{"label":"Cabildo 2677 (piso 7)\nBuenosAires,  C1428AAI\nAR","type":"work"},"text",["","","Cabildo 2677 (piso 7)","BuenosAires","","C1428AAI","AR"]],["email",{"type":"work"},"text","nets@UOLSINECTIS.COM.AR"],["tel",{"type":"work"},"text","54 11 43219110 (2555)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030624",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140319",
+      "eventActor" : "EMM"
+    } ],
+    "handle" : "EMM"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/EMM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/EMM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","UOL Sinectis S.A."],["adr",{"label":"Cabildo 2677 (piso 7)\nBuenosAires,  C1428AAI\nAR","type":"work"},"text",["","","Cabildo 2677 (piso 7)","BuenosAires","","C1428AAI","AR"]],["email",{"type":"work"},"text","nets@UOLSINECTIS.COM.AR"],["tel",{"type":"work"},"text","54 11 43219110 (2555)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030624",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140319",
+      "eventActor" : "EMM"
+    } ],
+    "handle" : "EMM"
+  } ],
+  "startAutnum" : 11311,
+  "endAutnum" : 11311,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19980624",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20030926",
+    "eventActor" : "EMM"
+  } ],
+  "type" : null,
+  "handle" : "11311-LACNIC",
+  "country" : "AR"
+}

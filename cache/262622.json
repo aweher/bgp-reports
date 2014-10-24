@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262622,
+  "endAutnum" : 262622,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262622",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262622"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111026",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MTB3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DIPS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DIPS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Tangerino Basso"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLen??is Paulista, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Len??is Paulista","SP","04578-000","BR"]],["email",{"type":"work"},"text","MTB3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["org",{},"text",["DAVOI ISP - Provedor de sol. e ac. a internet Ltl"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "MTB3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MTB3",
+        "value" : "http://rdap.labs.lacnic.net/entity/MTB3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Tangerino Basso"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLen??is Paulista, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Len??is Paulista","SP","04578-000","BR"]],["email",{"type":"work"},"text","MTB3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MTB3"
+      } ],
+      "entities" : [ ],
+      "handle" : "MTB3"
+    } ],
+    "handle" : "BR-DIPS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MTB3",
+      "value" : "http://rdap.labs.lacnic.net/entity/MTB3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Tangerino Basso"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLen??is Paulista, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Len??is Paulista","SP","04578-000","BR"]],["email",{"type":"work"},"text","MTB3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MTB3"
+    } ],
+    "entities" : [ ],
+    "handle" : "MTB3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MTB3",
+      "value" : "http://rdap.labs.lacnic.net/entity/MTB3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Tangerino Basso"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLen??is Paulista, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Len??is Paulista","SP","04578-000","BR"]],["email",{"type":"work"},"text","MTB3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MTB3"
+    } ],
+    "entities" : [ ],
+    "handle" : "MTB3"
+  } ],
+  "type" : null,
+  "handle" : "262622-LACNIC",
+  "country" : "BR"
+}

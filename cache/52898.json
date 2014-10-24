@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52898,
+  "endAutnum" : 52898,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52898",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52898"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120719",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "FIM3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MSIN4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MSIN4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Filipe Mejdalani"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPira?, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pira?","RJ","04578-000","BR"]],["email",{"type":"work"},"text","FIM3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["org",{},"text",["Multipla Servi?os Inteligentes"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "FIM3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FIM3",
+        "value" : "http://rdap.labs.lacnic.net/entity/FIM3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Filipe Mejdalani"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPira?, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pira?","RJ","04578-000","BR"]],["email",{"type":"work"},"text","FIM3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FIM3"
+      } ],
+      "entities" : [ ],
+      "handle" : "FIM3"
+    } ],
+    "handle" : "BR-MSIN4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FIM3",
+      "value" : "http://rdap.labs.lacnic.net/entity/FIM3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Filipe Mejdalani"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPira?, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pira?","RJ","04578-000","BR"]],["email",{"type":"work"},"text","FIM3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FIM3"
+    } ],
+    "entities" : [ ],
+    "handle" : "FIM3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FIM3",
+      "value" : "http://rdap.labs.lacnic.net/entity/FIM3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Filipe Mejdalani"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPira?, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pira?","RJ","04578-000","BR"]],["email",{"type":"work"},"text","FIM3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FIM3"
+    } ],
+    "entities" : [ ],
+    "handle" : "FIM3"
+  } ],
+  "type" : null,
+  "handle" : "52898-LACNIC",
+  "country" : "BR"
+}

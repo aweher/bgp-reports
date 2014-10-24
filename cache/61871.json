@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61871,
+  "endAutnum" : 61871,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61871",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61871"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140710",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140710",
+    "eventActor" : "FAS64"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-FASM3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-FASM3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","FRANCISCO DE ASSIS SIQUEIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLagoa, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lagoa","PB","04578-000","BR"]],["email",{"type":"work"},"text","FAS64@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["org",{},"text",["FRANCISCO DE ASSIS SIQUEIRA - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140710",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140711",
+      "eventActor" : "FAS64"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FAS64",
+        "value" : "http://rdap.labs.lacnic.net/entity/FAS64"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","FRANCISCO DE ASSIS SIQUEIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLagoa, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lagoa","PB","04578-000","BR"]],["email",{"type":"work"},"text","FAS64@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FAS64"
+      } ],
+      "entities" : [ ],
+      "handle" : "FAS64"
+    } ],
+    "handle" : "BR-FASM3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAS64",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAS64"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","FRANCISCO DE ASSIS SIQUEIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLagoa, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lagoa","PB","04578-000","BR"]],["email",{"type":"work"},"text","FAS64@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FAS64"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAS64"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAS64",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAS64"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","FRANCISCO DE ASSIS SIQUEIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLagoa, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lagoa","PB","04578-000","BR"]],["email",{"type":"work"},"text","FAS64@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FAS64"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAS64"
+  } ],
+  "type" : null,
+  "handle" : "61871-LACNIC",
+  "country" : "BR"
+}

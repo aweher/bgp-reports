@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52972,
+  "endAutnum" : 52972,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52972",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52972"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110217",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "TCT2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TCBS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TCBS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tech Cable do Brasil Sistemas de Telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPetr?polis, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Petr?polis","RJ","04578-000","BR"]],["email",{"type":"work"},"text","TCT2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["org",{},"text",["Tech Cable do Brasil Sist. de Telec. Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "TCT2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/TCT2",
+        "value" : "http://rdap.labs.lacnic.net/entity/TCT2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tech Cable do Brasil Sistemas de Telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPetr?polis, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Petr?polis","RJ","04578-000","BR"]],["email",{"type":"work"},"text","TCT2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "TCT2"
+      } ],
+      "entities" : [ ],
+      "handle" : "TCT2"
+    } ],
+    "handle" : "BR-TCBS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TCT2",
+      "value" : "http://rdap.labs.lacnic.net/entity/TCT2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tech Cable do Brasil Sistemas de Telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPetr?polis, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Petr?polis","RJ","04578-000","BR"]],["email",{"type":"work"},"text","TCT2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TCT2"
+    } ],
+    "entities" : [ ],
+    "handle" : "TCT2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TCT2",
+      "value" : "http://rdap.labs.lacnic.net/entity/TCT2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tech Cable do Brasil Sistemas de Telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPetr?polis, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Petr?polis","RJ","04578-000","BR"]],["email",{"type":"work"},"text","TCT2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TCT2"
+    } ],
+    "entities" : [ ],
+    "handle" : "TCT2"
+  } ],
+  "type" : null,
+  "handle" : "52972-LACNIC",
+  "country" : "BR"
+}

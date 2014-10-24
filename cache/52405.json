@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52405",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52405"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CVCS4-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CVCS4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julio Rodriguez"],["adr",{"label":"San Jose Obrero 1357 ()\nCaleta Olivia, SC 9011\nAR","type":"work"},"text",["","","San Jose Obrero 1357 ()","Caleta Olivia","SC","9011","AR"]],["email",{"type":"work"},"text","julio@ICALETA.COM.AR"],["tel",{"type":"work"},"text","54 297 4851002 ()"],["org",{},"text",["Caleta Video Cable SRL"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GJL3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GJL3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julio Rodriguez"],["adr",{"label":"San Jose Obrero 1357 ()\nCaleta Olivia, SC 9011\nAR","type":"work"},"text",["","","San Jose Obrero 1357 ()","Caleta Olivia","SC","9011","AR"]],["email",{"type":"work"},"text","julio@ICALETA.COM.AR"],["tel",{"type":"work"},"text","54 297 4851002 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110325",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131015",
+        "eventActor" : "GJL3"
+      } ],
+      "handle" : "GJL3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110712",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "GJL3"
+    } ],
+    "handle" : "AR-CVCS4-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GJL3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GJL3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julio Rodriguez"],["adr",{"label":"San Jose Obrero 1357 ()\nCaleta Olivia, SC 9011\nAR","type":"work"},"text",["","","San Jose Obrero 1357 ()","Caleta Olivia","SC","9011","AR"]],["email",{"type":"work"},"text","julio@ICALETA.COM.AR"],["tel",{"type":"work"},"text","54 297 4851002 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110325",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131015",
+      "eventActor" : "GJL3"
+    } ],
+    "handle" : "GJL3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GJL3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GJL3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julio Rodriguez"],["adr",{"label":"San Jose Obrero 1357 ()\nCaleta Olivia, SC 9011\nAR","type":"work"},"text",["","","San Jose Obrero 1357 ()","Caleta Olivia","SC","9011","AR"]],["email",{"type":"work"},"text","julio@ICALETA.COM.AR"],["tel",{"type":"work"},"text","54 297 4851002 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110325",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131015",
+      "eventActor" : "GJL3"
+    } ],
+    "handle" : "GJL3"
+  } ],
+  "startAutnum" : 52405,
+  "endAutnum" : 52405,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120925",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120925",
+    "eventActor" : "GJL3"
+  } ],
+  "type" : null,
+  "handle" : "52405-LACNIC",
+  "country" : "AR"
+}

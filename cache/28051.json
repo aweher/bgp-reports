@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28051",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28051"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CVFL-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CVFL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Coop. Telefonica de Villa Flandria"],["adr",{"label":"Los Tilos 885 ()\nLujan ? J?uregui, BA 6706\nAR","type":"work"},"text",["","","Los Tilos 885 ()","Lujan ? J?uregui","BA","6706","AR"]],["email",{"type":"work"},"text","coopflan@COOPFLAN.COM.AR"],["tel",{"type":"work"},"text","54 2323 494200 ()"],["org",{},"text",["Coop. Telef?nica y de obras y serv. p?blicos de Villa Flandria"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CTF",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CTF"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Coop. Telefonica de Villa Flandria"],["adr",{"label":"Los tilos 885 ()\nLujan, BA 6712\nAR","type":"work"},"text",["","","Los tilos 885 ()","Lujan","BA","6712","AR"]],["email",{"type":"work"},"text","coopflan@COOPFLAN.COM.AR"],["tel",{"type":"work"},"text","54 2323 494200 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20061227",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20081204",
+        "eventActor" : "CTF"
+      } ],
+      "handle" : "CTF"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050704",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "CTF"
+    } ],
+    "handle" : "AR-CVFL-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CTF",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CTF"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Coop. Telefonica de Villa Flandria"],["adr",{"label":"Los tilos 885 ()\nLujan, BA 6712\nAR","type":"work"},"text",["","","Los tilos 885 ()","Lujan","BA","6712","AR"]],["email",{"type":"work"},"text","coopflan@COOPFLAN.COM.AR"],["tel",{"type":"work"},"text","54 2323 494200 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20061227",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20081204",
+      "eventActor" : "CTF"
+    } ],
+    "handle" : "CTF"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CTF",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CTF"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Coop. Telefonica de Villa Flandria"],["adr",{"label":"Los tilos 885 ()\nLujan, BA 6712\nAR","type":"work"},"text",["","","Los tilos 885 ()","Lujan","BA","6712","AR"]],["email",{"type":"work"},"text","coopflan@COOPFLAN.COM.AR"],["tel",{"type":"work"},"text","54 2323 494200 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20061227",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20081204",
+      "eventActor" : "CTF"
+    } ],
+    "handle" : "CTF"
+  } ],
+  "startAutnum" : 28051,
+  "endAutnum" : 28051,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090406",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20091010",
+    "eventActor" : "CTF"
+  } ],
+  "type" : null,
+  "handle" : "28051-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262487,
+  "endAutnum" : 262487,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262487",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262487"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110606",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "IBI"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ITIL3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ITIL3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","IBINET INTERNET"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIbitinga, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ibitinga","SP","04578-000","BR"]],["email",{"type":"work"},"text","IBI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["org",{},"text",["IFI - Tecnologia e Inform?tica LTDA-ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "IBI"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/IBI",
+        "value" : "http://rdap.labs.lacnic.net/entity/IBI"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","IBINET INTERNET"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIbitinga, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ibitinga","SP","04578-000","BR"]],["email",{"type":"work"},"text","IBI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "IBI"
+      } ],
+      "entities" : [ ],
+      "handle" : "IBI"
+    } ],
+    "handle" : "BR-ITIL3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IBI",
+      "value" : "http://rdap.labs.lacnic.net/entity/IBI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","IBINET INTERNET"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIbitinga, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ibitinga","SP","04578-000","BR"]],["email",{"type":"work"},"text","IBI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "IBI"
+    } ],
+    "entities" : [ ],
+    "handle" : "IBI"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IBI",
+      "value" : "http://rdap.labs.lacnic.net/entity/IBI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","IBINET INTERNET"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIbitinga, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ibitinga","SP","04578-000","BR"]],["email",{"type":"work"},"text","IBI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "IBI"
+    } ],
+    "entities" : [ ],
+    "handle" : "IBI"
+  } ],
+  "type" : null,
+  "handle" : "262487-LACNIC",
+  "country" : "BR"
+}

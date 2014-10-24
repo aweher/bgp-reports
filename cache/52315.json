@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52315",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52315"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-SAPS5-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-SAPS5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Diaz Pezoa"],["adr",{"label":"Marchant Pereira 10 (Piso 20)\nSantiago, SA 7500024\nCL","type":"work"},"text",["","","Marchant Pereira 10 (Piso 20)","Santiago","SA","7500024","CL"]],["email",{"type":"work"},"text","mdiaz@PREVIRED.COM"],["tel",{"type":"work"},"text","56 2 4288268 ()"],["org",{},"text",["Servicios de Administracion Previsional S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MDP2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MDP2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Diaz Pezoa"],["adr",{"label":"Marchant Pereira 10 ()\nSantiago, null 7500024\nCL","type":"work"},"text",["","","Marchant Pereira 10 ()","Santiago","","7500024","CL"]],["email",{"type":"work"},"text","mdiaz@PREVIRED.COM"],["tel",{"type":"work"},"text","56 2 4288268 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100813",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100813",
+        "eventActor" : "MDP2"
+      } ],
+      "handle" : "MDP2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101129",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "MDP2"
+    } ],
+    "handle" : "CL-SAPS5-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MDP2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MDP2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Diaz Pezoa"],["adr",{"label":"Marchant Pereira 10 ()\nSantiago, null 7500024\nCL","type":"work"},"text",["","","Marchant Pereira 10 ()","Santiago","","7500024","CL"]],["email",{"type":"work"},"text","mdiaz@PREVIRED.COM"],["tel",{"type":"work"},"text","56 2 4288268 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100813",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100813",
+      "eventActor" : "MDP2"
+    } ],
+    "handle" : "MDP2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MDP2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MDP2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Diaz Pezoa"],["adr",{"label":"Marchant Pereira 10 ()\nSantiago, null 7500024\nCL","type":"work"},"text",["","","Marchant Pereira 10 ()","Santiago","","7500024","CL"]],["email",{"type":"work"},"text","mdiaz@PREVIRED.COM"],["tel",{"type":"work"},"text","56 2 4288268 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100813",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100813",
+      "eventActor" : "MDP2"
+    } ],
+    "handle" : "MDP2"
+  } ],
+  "startAutnum" : 52315,
+  "endAutnum" : 52315,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110214",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110214",
+    "eventActor" : "MDP2"
+  } ],
+  "type" : null,
+  "handle" : "52315-LACNIC",
+  "country" : "CL"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263052,
+  "endAutnum" : 263052,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263052",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263052"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120313",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140219",
+    "eventActor" : "MAD61"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-LTLT6-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-LTLT6-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael Filipe Strassburger"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSapiranga, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sapiranga","RS","04578-000","BR"]],["email",{"type":"work"},"text","RFS27@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["LineFree Tecnologia Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140219",
+      "eventActor" : "RFS27"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RFS27",
+        "value" : "http://rdap.labs.lacnic.net/entity/RFS27"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael Filipe Strassburger"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSapiranga, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sapiranga","RS","04578-000","BR"]],["email",{"type":"work"},"text","RFS27@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "RFS27"
+      } ],
+      "entities" : [ ],
+      "handle" : "RFS27"
+    } ],
+    "handle" : "BR-LTLT6-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAD61",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAD61"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marco Defferrari"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNovo Hamburgo, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Novo Hamburgo","RS","04578-000","BR"]],["email",{"type":"work"},"text","MAD61@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAD61"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAD61"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAD61",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAD61"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marco Defferrari"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNovo Hamburgo, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Novo Hamburgo","RS","04578-000","BR"]],["email",{"type":"work"},"text","MAD61@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAD61"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAD61"
+  } ],
+  "type" : null,
+  "handle" : "263052-LACNIC",
+  "country" : "BR"
+}

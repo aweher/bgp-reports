@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53184,
+  "endAutnum" : 53184,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53184",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53184"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100820",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140210",
+    "eventActor" : "FEB44"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-IILT66-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-IILT66-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","INB Informatica LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto Ant?nio da Patrulha, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo Ant?nio da Patrulha","RS","04578-000","BR"]],["email",{"type":"work"},"text","IIL35@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["INB Inform?tica LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140210",
+      "eventActor" : "IIL35"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/IIL35",
+        "value" : "http://rdap.labs.lacnic.net/entity/IIL35"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","INB Informatica LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto Ant?nio da Patrulha, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo Ant?nio da Patrulha","RS","04578-000","BR"]],["email",{"type":"work"},"text","IIL35@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "IIL35"
+      } ],
+      "entities" : [ ],
+      "handle" : "IIL35"
+    } ],
+    "handle" : "BR-IILT66-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FEB44",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEB44"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Becker"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto Ant?nio da Patrulha, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo Ant?nio da Patrulha","RS","04578-000","BR"]],["email",{"type":"work"},"text","FEB44@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140210",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140210",
+      "eventActor" : "FEB44"
+    } ],
+    "entities" : [ ],
+    "handle" : "FEB44"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FEB44",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEB44"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Becker"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto Ant?nio da Patrulha, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo Ant?nio da Patrulha","RS","04578-000","BR"]],["email",{"type":"work"},"text","FEB44@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140210",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140210",
+      "eventActor" : "FEB44"
+    } ],
+    "entities" : [ ],
+    "handle" : "FEB44"
+  } ],
+  "type" : null,
+  "handle" : "53184-LACNIC",
+  "country" : "BR"
+}

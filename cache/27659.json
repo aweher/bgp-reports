@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27659",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27659"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-IILT2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-IILT2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Carlos Olivera Cerpa"],["adr",{"label":"Alameda 580 (of 23)\nsantiago, rm 6513677\nCL","type":"work"},"text",["","","Alameda 580 (of 23)","santiago","rm","6513677","CL"]],["email",{"type":"work"},"text","redes.internet@IIA.CL"],["tel",{"type":"work"},"text","56 2 6333823 ()"],["org",{},"text",["Ingenier?a e Inform?tica Asociada Ltda (IIA Ltda)"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JCC2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JCC2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Carlos Olivera Cerpa"],["adr",{"label":"Alameda #580 local 23 3 ()\nSantiago, rm 8330045\nCL","type":"work"},"text",["","","Alameda #580 local 23 3 ()","Santiago","rm","8330045","CL"]],["email",{"type":"work"},"text","redes.internet@IIA.CL"],["tel",{"type":"work"},"text","56 2 6333823 (0000)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20021231",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120703",
+        "eventActor" : "JCC2"
+      } ],
+      "handle" : "JCC2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030113",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "JCC2"
+    } ],
+    "handle" : "CL-IILT2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JCC2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JCC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Carlos Olivera Cerpa"],["adr",{"label":"Alameda #580 local 23 3 ()\nSantiago, rm 8330045\nCL","type":"work"},"text",["","","Alameda #580 local 23 3 ()","Santiago","rm","8330045","CL"]],["email",{"type":"work"},"text","redes.internet@IIA.CL"],["tel",{"type":"work"},"text","56 2 6333823 (0000)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021231",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120703",
+      "eventActor" : "JCC2"
+    } ],
+    "handle" : "JCC2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SII10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SII10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SOPORTE IIA INTERNET"],["adr",{"label":"Avenida Libertador Bernardo Ohiggins 580 ()\nSantiago, RM 8330045\nCL","type":"work"},"text",["","","Avenida Libertador Bernardo Ohiggins 580 ()","Santiago","RM","8330045","CL"]],["email",{"type":"work"},"text","soporte.internet@IIA.CL"],["tel",{"type":"work"},"text","56 2 28401100 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140430",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140430",
+      "eventActor" : "SII10"
+    } ],
+    "handle" : "SII10"
+  } ],
+  "startAutnum" : 27659,
+  "endAutnum" : 27659,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20030115",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140430",
+    "eventActor" : "JCC2"
+  } ],
+  "type" : null,
+  "handle" : "27659-LACNIC",
+  "country" : "CL"
+}

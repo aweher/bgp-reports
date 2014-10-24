@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53109,
+  "endAutnum" : 53109,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53109",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53109"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091210",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "KMC4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-LSIL1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-LSIL1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Keylla Mara Oliveira Custodio"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta Luzia, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa Luzia","MG","04578-000","BR"]],["email",{"type":"work"},"text","KMC4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["org",{},"text",["Lidernet Solucoes de Internet LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "KMC4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/KMC4",
+        "value" : "http://rdap.labs.lacnic.net/entity/KMC4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Keylla Mara Oliveira Custodio"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta Luzia, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa Luzia","MG","04578-000","BR"]],["email",{"type":"work"},"text","KMC4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "KMC4"
+      } ],
+      "entities" : [ ],
+      "handle" : "KMC4"
+    } ],
+    "handle" : "BR-LSIL1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/KMC4",
+      "value" : "http://rdap.labs.lacnic.net/entity/KMC4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Keylla Mara Oliveira Custodio"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta Luzia, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa Luzia","MG","04578-000","BR"]],["email",{"type":"work"},"text","KMC4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "KMC4"
+    } ],
+    "entities" : [ ],
+    "handle" : "KMC4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/KMC4",
+      "value" : "http://rdap.labs.lacnic.net/entity/KMC4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Keylla Mara Oliveira Custodio"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta Luzia, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa Luzia","MG","04578-000","BR"]],["email",{"type":"work"},"text","KMC4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "KMC4"
+    } ],
+    "entities" : [ ],
+    "handle" : "KMC4"
+  } ],
+  "type" : null,
+  "handle" : "53109-LACNIC",
+  "country" : "BR"
+}

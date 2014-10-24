@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52643,
+  "endAutnum" : 52643,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52643",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52643"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130415",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130415",
+    "eventActor" : "NTL15"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NTLT48-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NTLT48-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","N&G Tecnologia LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalvador do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salvador do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","NTL15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["N&G Tecnologia LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130415",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130416",
+      "eventActor" : "NTL15"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/NTL15",
+        "value" : "http://rdap.labs.lacnic.net/entity/NTL15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","N&G Tecnologia LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalvador do Sul, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salvador do Sul","","04578-000","BR"]],["email",{"type":"work"},"text","NTL15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130415",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130415",
+        "eventActor" : "NTL15"
+      } ],
+      "entities" : [ ],
+      "handle" : "NTL15"
+    } ],
+    "handle" : "BR-NTLT48-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NTL15",
+      "value" : "http://rdap.labs.lacnic.net/entity/NTL15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","N&G Tecnologia LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalvador do Sul, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salvador do Sul","","04578-000","BR"]],["email",{"type":"work"},"text","NTL15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130415",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130415",
+      "eventActor" : "NTL15"
+    } ],
+    "entities" : [ ],
+    "handle" : "NTL15"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NTL15",
+      "value" : "http://rdap.labs.lacnic.net/entity/NTL15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","N&G Tecnologia LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSalvador do Sul, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Salvador do Sul","","04578-000","BR"]],["email",{"type":"work"},"text","NTL15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130415",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130415",
+      "eventActor" : "NTL15"
+    } ],
+    "entities" : [ ],
+    "handle" : "NTL15"
+  } ],
+  "type" : null,
+  "handle" : "52643-LACNIC",
+  "country" : "BR"
+}

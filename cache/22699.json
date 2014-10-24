@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/22699",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/22699"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-FDCS1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-FDCS1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Fabian Speranza"],["adr",{"label":"Peru 143 ()\nBuenos Aires, CF C1067AAC\nAR","type":"work"},"text",["","","Peru 143 ()","Buenos Aires","CF","C1067AAC","AR"]],["email",{"type":"work"},"text","carlos.speranza@FIRSTDATA.COM.AR"],["tel",{"type":"work"},"text","54 11 43409800 (4328)"],["org",{},"text",["First Data Conosur S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CFS3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CFS3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Fabian Speranza"],["adr",{"label":"Peru 143 ()\nAutonoma de BA, null C1067AAC\nAR","type":"work"},"text",["","","Peru 143 ()","Autonoma de BA","","C1067AAC","AR"]],["email",{"type":"work"},"text","carlos.speranza@FIRSTDATA.COM.AR"],["tel",{"type":"work"},"text","054 11 4340-9800 (4328)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090611",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20090611",
+        "eventActor" : "CFS3"
+      } ],
+      "handle" : "CFS3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091028",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131021",
+      "eventActor" : "CFS3"
+    } ],
+    "handle" : "AR-FDCS1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CFS3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CFS3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Fabian Speranza"],["adr",{"label":"Peru 143 ()\nAutonoma de BA, null C1067AAC\nAR","type":"work"},"text",["","","Peru 143 ()","Autonoma de BA","","C1067AAC","AR"]],["email",{"type":"work"},"text","carlos.speranza@FIRSTDATA.COM.AR"],["tel",{"type":"work"},"text","054 11 4340-9800 (4328)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090611",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090611",
+      "eventActor" : "CFS3"
+    } ],
+    "handle" : "CFS3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CFS3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CFS3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Fabian Speranza"],["adr",{"label":"Peru 143 ()\nAutonoma de BA, null C1067AAC\nAR","type":"work"},"text",["","","Peru 143 ()","Autonoma de BA","","C1067AAC","AR"]],["email",{"type":"work"},"text","carlos.speranza@FIRSTDATA.COM.AR"],["tel",{"type":"work"},"text","054 11 4340-9800 (4328)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090611",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090611",
+      "eventActor" : "CFS3"
+    } ],
+    "handle" : "CFS3"
+  } ],
+  "startAutnum" : 22699,
+  "endAutnum" : 22699,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20011106",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20091028",
+    "eventActor" : "CFS3"
+  } ],
+  "type" : null,
+  "handle" : "22699-LACNIC",
+  "country" : "AR"
+}

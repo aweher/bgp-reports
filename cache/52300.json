@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52300",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52300"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-INLO-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-INLO-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","fernandez miguel angel"],["adr",{"label":"Libertad 288 (2d0)\nCa?uelas, BA 1814\nAR","type":"work"},"text",["","","Libertad 288 (2d0)","Ca?uelas","BA","1814","AR"]],["email",{"type":"work"},"text","mafernandez@INTERNETLOCAL.COM.AR"],["tel",{"type":"work"},"text","54 11 66329000 ()"],["org",{},"text",["Internet Local"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FMA4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FMA4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","fernandez miguel angel"],["adr",{"label":"libertad 388 ()\ncañuelas, null 1814\nAR","type":"work"},"text",["","","libertad 388 ()","cañuelas","","1814","AR"]],["email",{"type":"work"},"text","mafernandez@INTERNETLOCAL.COM.AR"],["tel",{"type":"work"},"text","054 2226 15520749 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120217",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120217",
+        "eventActor" : "FMA4"
+      } ],
+      "handle" : "FMA4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100924",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "FMA4"
+    } ],
+    "handle" : "AR-INLO-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RBM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RBM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Roberto Boero Mansilla"],["adr",{"label":"Los nogales 535 (1)\nMarcos Paz, Buenos Aires, BA 1727\nAR","type":"work"},"text",["","","Los nogales 535 (1)","Marcos Paz, Buenos Aires","BA","1727","AR"]],["email",{"type":"work"},"text","rboero@SOMTIK.COM"],["tel",{"type":"work"},"text","54 11 6632 (9000)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071127",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130604",
+      "eventActor" : "RBM"
+    } ],
+    "handle" : "RBM"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RBM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RBM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Roberto Boero Mansilla"],["adr",{"label":"Los nogales 535 (1)\nMarcos Paz, Buenos Aires, BA 1727\nAR","type":"work"},"text",["","","Los nogales 535 (1)","Marcos Paz, Buenos Aires","BA","1727","AR"]],["email",{"type":"work"},"text","rboero@SOMTIK.COM"],["tel",{"type":"work"},"text","54 11 6632 (9000)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071127",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130604",
+      "eventActor" : "RBM"
+    } ],
+    "handle" : "RBM"
+  } ],
+  "startAutnum" : 52300,
+  "endAutnum" : 52300,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101202",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20101203",
+    "eventActor" : "RBM"
+  } ],
+  "type" : null,
+  "handle" : "52300-LACNIC",
+  "country" : "AR"
+}

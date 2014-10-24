@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52247,
+  "endAutnum" : 52247,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52247",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52247"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100507",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100507",
+    "eventActor" : "AFL"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-SSSA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-SSSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andr?s Felipe Restrepo Londo?o"],["adr",{"label":"Carrera 64B 49A (30)\nMedell?n, AN MDE\nCO","type":"work"},"text",["","","Carrera 64B 49A (30)","Medell?n","AN","MDE","CO"]],["email",{"type":"work"},"text","afrestrepo@SURAMERICANA.COM.CO"],["tel",{"type":"work"},"text","57 4 2602100 (5485)"],["org",{},"text",["Suramericana de Seguros S.A."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031017",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130201",
+      "eventActor" : "AFL"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/AFL",
+        "value" : "http://rdap.labs.lacnic.net/entity/AFL"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andr?s Felipe Restrepo Londo?o"],["adr",{"label":"Carrera 64B 49A (30)\nMedell?n, AN MDE\nCO","type":"work"},"text",["","","Carrera 64B 49A (30)","Medell?n","AN","MDE","CO"]],["email",{"type":"work"},"text","afrestrepo@SURAMERICANA.COM.CO"],["tel",{"type":"work"},"text","57 4 2602100 (5485)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20031017",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130612",
+        "eventActor" : "AFL"
+      } ],
+      "entities" : [ ],
+      "handle" : "AFL"
+    } ],
+    "handle" : "CO-SSSA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AFL",
+      "value" : "http://rdap.labs.lacnic.net/entity/AFL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andr?s Felipe Restrepo Londo?o"],["adr",{"label":"Carrera 64B 49A (30)\nMedell?n, AN MDE\nCO","type":"work"},"text",["","","Carrera 64B 49A (30)","Medell?n","AN","MDE","CO"]],["email",{"type":"work"},"text","afrestrepo@SURAMERICANA.COM.CO"],["tel",{"type":"work"},"text","57 4 2602100 (5485)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031017",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130612",
+      "eventActor" : "AFL"
+    } ],
+    "entities" : [ ],
+    "handle" : "AFL"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AFL",
+      "value" : "http://rdap.labs.lacnic.net/entity/AFL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andr?s Felipe Restrepo Londo?o"],["adr",{"label":"Carrera 64B 49A (30)\nMedell?n, AN MDE\nCO","type":"work"},"text",["","","Carrera 64B 49A (30)","Medell?n","AN","MDE","CO"]],["email",{"type":"work"},"text","afrestrepo@SURAMERICANA.COM.CO"],["tel",{"type":"work"},"text","57 4 2602100 (5485)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031017",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130612",
+      "eventActor" : "AFL"
+    } ],
+    "entities" : [ ],
+    "handle" : "AFL"
+  } ],
+  "type" : null,
+  "handle" : "52247-LACNIC",
+  "country" : "CO"
+}

@@ -1,0 +1,304 @@
+{"service" : {
+  "name" : "search"
+},
+"parameters" : {
+  "inverse-lookup" : { },
+  "type-filters" : { },
+  "flags" : { },
+  "query-strings" : {
+    "query-string" : [ {
+      "value" : "as12989"
+    } ]
+  },
+  "sources" : { }
+},
+"objects" : {
+  "object" : [ {
+    "type" : "as-block",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/as-block/AS12557 - AS13223"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS12557 - AS13223"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS12557 - AS13223"
+      }, {
+        "name" : "descr",
+        "value" : "RIPE NCC ASN block"
+      }, {
+        "name" : "remarks",
+        "value" : "These AS Numbers are assigned to network operators in the RIPE NCC service region."
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "aut-num",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/aut-num/AS12989"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS12989"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS12989"
+      }, {
+        "name" : "as-name",
+        "value" : "HWNG"
+      }, {
+        "name" : "descr",
+        "value" : "Eweka Internet Services B.V."
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/organisation/ORG-EIS3-RIPE"
+        },
+        "name" : "org",
+        "value" : "ORG-EIS3-RIPE",
+        "referenced-type" : "organisation"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/HWNG-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "HWNG-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/HWNG-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "HWNG-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "name" : "remarks",
+        "value" : "For information on \"status:\" attribute read https://www.ripe.net/data-tools/db/faq/faq-status-values-legacy-resources"
+      }, {
+        "name" : "status",
+        "value" : "ASSIGNED"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-END-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-END-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/HWNG-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "HWNG-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/HWNG-MNT"
+        },
+        "name" : "mnt-routes",
+        "value" : "HWNG-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    },
+    "tags" : {
+      "tag" : [ {
+        "id" : "RIPE-REGISTRY-RESOURCE",
+        "data" : null
+      } ]
+    }
+  }, {
+    "type" : "organisation",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/organisation/ORG-EIS3-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "organisation",
+        "value" : "ORG-EIS3-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "organisation",
+        "value" : "ORG-EIS3-RIPE"
+      }, {
+        "name" : "org-name",
+        "value" : "Eweka Internet Services B.V."
+      }, {
+        "name" : "org-type",
+        "value" : "LIR"
+      }, {
+        "name" : "address",
+        "value" : "Eweka Internet Services Otterkoog 57-59 1822 BW Alkmaar Netherlands"
+      }, {
+        "name" : "phone",
+        "value" : "+31 72 5640406"
+      }, {
+        "name" : "fax-no",
+        "value" : "+31 72 5645132"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/PB6260-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "PB6260-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/PS12989-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "PS12989-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/eweka-mnt"
+        },
+        "name" : "mnt-ref",
+        "value" : "eweka-mnt",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-ref",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/EAC43-RIPE"
+        },
+        "name" : "abuse-c",
+        "value" : "EAC43-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "role",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/role/HWNG-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "nic-hdl",
+        "value" : "HWNG-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "role",
+        "value" : "Highwinds Network Group"
+      }, {
+        "name" : "address",
+        "value" : "3300 N Central Ave"
+      }, {
+        "name" : "address",
+        "value" : "Ste 200"
+      }, {
+        "name" : "address",
+        "value" : "85012 Phoenix, AZ USA"
+      }, {
+        "name" : "abuse-mailbox",
+        "value" : "abuse@hwng.net"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/HNGN1-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "HNGN1-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/HNGN1-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "HNGN1-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "name" : "nic-hdl",
+        "value" : "HWNG-RIPE"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/HWNG-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "HWNG-MNT",
+        "referenced-type" : "mntner"
+      } ]
+    }
+  } ]
+},
+"terms-and-conditions" : {
+  "type" : "locator",
+  "href" : "http://www.ripe.net/db/support/db-terms-conditions.pdf"
+}
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 14187,
+  "endAutnum" : 14187,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/14187",
+    "value" : "http://rdap.labs.lacnic.net/autnum/14187"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19991104",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131115",
+    "eventActor" : "OSL"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-COCO24-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-COCO24-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan David Jimenez"],["adr",{"label":"Calle 113 7-21 (Torre A Oficina 1112)\nBogot?, BO 10000\nCO","type":"work"},"text",["","","Calle 113 7-21 (Torre A Oficina 1112)","Bogot?","BO","10000","CO"]],["email",{"type":"work"},"text","juandavid.jimenez@BT.COM"],["tel",{"type":"work"},"text","57 1 6292262 (8470)"],["org",{},"text",["COMSAT COLOMBIA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131030",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131030",
+      "eventActor" : "JDJ6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JDJ6",
+        "value" : "http://rdap.labs.lacnic.net/entity/JDJ6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan David Jimenez"],["adr",{"label":"Calle 113 7-21 Torre A 1112 (N/A)\nBogot?, Cu 10000\nCO","type":"work"},"text",["","","Calle 113 7-21 Torre A 1112 (N/A)","Bogot?","Cu","10000","CO"]],["email",{"type":"work"},"text","juandavid.jimenez@BT.COM"],["tel",{"type":"work"},"text","57 1 6292262 (8470)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20131029",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131029",
+        "eventActor" : "JDJ6"
+      } ],
+      "entities" : [ ],
+      "handle" : "JDJ6"
+    } ],
+    "handle" : "CO-COCO24-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/OSL",
+      "value" : "http://rdap.labs.lacnic.net/entity/OSL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","BT LatAm Colombia"],["adr",{"label":"Calle 113 No. 7-21 Torre A Of. 1112 na (na)\nBOGOTA, DC NA\nCO","type":"work"},"text",["","","Calle 113 No. 7-21 Torre A Of. 1112 na (na)","BOGOTA","DC","NA","CO"]],["email",{"type":"work"},"text","orlando.caicedo@BT.COM"],["tel",{"type":"work"},"text","57 1 5782888 (8565)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030226",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130111",
+      "eventActor" : "OSL"
+    } ],
+    "entities" : [ ],
+    "handle" : "OSL"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/OSL",
+      "value" : "http://rdap.labs.lacnic.net/entity/OSL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","BT LatAm Colombia"],["adr",{"label":"Calle 113 No. 7-21 Torre A Of. 1112 na (na)\nBOGOTA, DC NA\nCO","type":"work"},"text",["","","Calle 113 No. 7-21 Torre A Of. 1112 na (na)","BOGOTA","DC","NA","CO"]],["email",{"type":"work"},"text","orlando.caicedo@BT.COM"],["tel",{"type":"work"},"text","57 1 5782888 (8565)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030226",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130111",
+      "eventActor" : "OSL"
+    } ],
+    "entities" : [ ],
+    "handle" : "OSL"
+  } ],
+  "type" : null,
+  "handle" : "14187-LACNIC",
+  "country" : "CO"
+}

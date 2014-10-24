@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263672,
+  "endAutnum" : 263672,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263672",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263672"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131122",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131122",
+    "eventActor" : "EMR6"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CTPL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CTPL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emerson Rodrigues"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Carlos, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Carlos","","04578-000","BR"]],["email",{"type":"work"},"text","EMR6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["org",{},"text",["Consult Telecom Provedor LTDA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "EMR6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EMR6",
+        "value" : "http://rdap.labs.lacnic.net/entity/EMR6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emerson Rodrigues"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Carlos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Carlos","SP","04578-000","BR"]],["email",{"type":"work"},"text","EMR6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EMR6"
+      } ],
+      "entities" : [ ],
+      "handle" : "EMR6"
+    } ],
+    "handle" : "BR-CTPL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EMR6",
+      "value" : "http://rdap.labs.lacnic.net/entity/EMR6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emerson Rodrigues"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Carlos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Carlos","SP","04578-000","BR"]],["email",{"type":"work"},"text","EMR6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EMR6"
+    } ],
+    "entities" : [ ],
+    "handle" : "EMR6"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EMR6",
+      "value" : "http://rdap.labs.lacnic.net/entity/EMR6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emerson Rodrigues"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Carlos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Carlos","SP","04578-000","BR"]],["email",{"type":"work"},"text","EMR6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EMR6"
+    } ],
+    "entities" : [ ],
+    "handle" : "EMR6"
+  } ],
+  "type" : null,
+  "handle" : "263672-LACNIC",
+  "country" : "BR"
+}

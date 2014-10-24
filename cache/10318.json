@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/10318",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/10318"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CASA10-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CASA10-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Network Administrator"],["adr",{"label":"Aguero 3440 ()\nMunro, BA 1605\nAR","type":"work"},"text",["","","Aguero 3440 ()","Munro","BA","1605","AR"]],["email",{"type":"work"},"text","lacnic@CABLEVISION.COM.AR"],["tel",{"type":"work"},"text","54 11 51996100 ()"],["org",{},"text",["CABLEVISION S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/NEA",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/NEA"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Network Administrator"],["adr",{"label":"Aguero 3440 (2 Piso)\nMunro, BA 1605\nAR","type":"work"},"text",["","","Aguero 3440 (2 Piso)","Munro","BA","1605","AR"]],["email",{"type":"work"},"text","lacnic@CABLEVISION.COM.AR"],["tel",{"type":"work"},"text","54 11 47786569 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030204",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120621",
+        "eventActor" : "NEA"
+      } ],
+      "handle" : "NEA"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030415",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131014",
+      "eventActor" : "NEA"
+    } ],
+    "handle" : "AR-CASA10-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NEA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NEA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Network Administrator"],["adr",{"label":"Aguero 3440 (2 Piso)\nMunro, BA 1605\nAR","type":"work"},"text",["","","Aguero 3440 (2 Piso)","Munro","BA","1605","AR"]],["email",{"type":"work"},"text","lacnic@CABLEVISION.COM.AR"],["tel",{"type":"work"},"text","54 11 47786569 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030204",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120621",
+      "eventActor" : "NEA"
+    } ],
+    "handle" : "NEA"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NEA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NEA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Network Administrator"],["adr",{"label":"Aguero 3440 (2 Piso)\nMunro, BA 1605\nAR","type":"work"},"text",["","","Aguero 3440 (2 Piso)","Munro","BA","1605","AR"]],["email",{"type":"work"},"text","lacnic@CABLEVISION.COM.AR"],["tel",{"type":"work"},"text","54 11 47786569 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030204",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120621",
+      "eventActor" : "NEA"
+    } ],
+    "handle" : "NEA"
+  } ],
+  "startAutnum" : 10318,
+  "endAutnum" : 10318,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19970625",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20030429",
+    "eventActor" : "NEA"
+  } ],
+  "type" : null,
+  "handle" : "10318-LACNIC",
+  "country" : "AR"
+}

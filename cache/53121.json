@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53121,
+  "endAutnum" : 53121,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53121",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53121"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100122",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ACC31"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ICAL4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ICAL4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Antonio Carlos Soares Cardoso"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSenhor do Bonfim, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Senhor do Bonfim","BA","04578-000","BR"]],["email",{"type":"work"},"text","ACC31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 74 55093511 ()"],["org",{},"text",["Infornet Consultoria e Assessoria Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ACC31"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ACC31",
+        "value" : "http://rdap.labs.lacnic.net/entity/ACC31"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Antonio Carlos Soares Cardoso"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSenhor do Bonfim, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Senhor do Bonfim","BA","04578-000","BR"]],["email",{"type":"work"},"text","ACC31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 74 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ACC31"
+      } ],
+      "entities" : [ ],
+      "handle" : "ACC31"
+    } ],
+    "handle" : "BR-ICAL4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ACC31",
+      "value" : "http://rdap.labs.lacnic.net/entity/ACC31"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Antonio Carlos Soares Cardoso"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSenhor do Bonfim, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Senhor do Bonfim","BA","04578-000","BR"]],["email",{"type":"work"},"text","ACC31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 74 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ACC31"
+    } ],
+    "entities" : [ ],
+    "handle" : "ACC31"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ACC31",
+      "value" : "http://rdap.labs.lacnic.net/entity/ACC31"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Antonio Carlos Soares Cardoso"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSenhor do Bonfim, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Senhor do Bonfim","BA","04578-000","BR"]],["email",{"type":"work"},"text","ACC31@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 74 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ACC31"
+    } ],
+    "entities" : [ ],
+    "handle" : "ACC31"
+  } ],
+  "type" : null,
+  "handle" : "53121-LACNIC",
+  "country" : "BR"
+}

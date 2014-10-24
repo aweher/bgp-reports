@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27996",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27996"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CPSV-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CPSV-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ing. Mariano Reverberi"],["adr",{"label":"AVDA. 50 ESQ 9 431 ()\nCOLON, BA XXXX\nAR","type":"work"},"text",["","","AVDA. 50 ESQ 9 431 ()","COLON","BA","XXXX","AR"]],["email",{"type":"work"},"text","marianor@COOPENETCOLON.COM.AR"],["tel",{"type":"work"},"text","54 2473 430342 ()"],["org",{},"text",["Cooperativa Electrica de Colon (BA) LTDA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/IMR2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/IMR2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ing. Mariano Reverberi"],["adr",{"label":"Bvd 50 431 ()\nColon, null 2720\nAR","type":"work"},"text",["","","Bvd 50 431 ()","Colon","","2720","AR"]],["email",{"type":"work"},"text","marianor@COOPENETCOLON.COM.AR"],["tel",{"type":"work"},"text","54 2473 430342 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080226",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20080226",
+        "eventActor" : "IMR2"
+      } ],
+      "handle" : "IMR2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20061005",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130226",
+      "eventActor" : "IMR2"
+    } ],
+    "handle" : "AR-CPSV-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/IMR2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/IMR2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ing. Mariano Reverberi"],["adr",{"label":"Bvd 50 431 ()\nColon, null 2720\nAR","type":"work"},"text",["","","Bvd 50 431 ()","Colon","","2720","AR"]],["email",{"type":"work"},"text","marianor@COOPENETCOLON.COM.AR"],["tel",{"type":"work"},"text","54 2473 430342 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080226",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080226",
+      "eventActor" : "IMR2"
+    } ],
+    "handle" : "IMR2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/IMR2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/IMR2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ing. Mariano Reverberi"],["adr",{"label":"Bvd 50 431 ()\nColon, null 2720\nAR","type":"work"},"text",["","","Bvd 50 431 ()","Colon","","2720","AR"]],["email",{"type":"work"},"text","marianor@COOPENETCOLON.COM.AR"],["tel",{"type":"work"},"text","54 2473 430342 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080226",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080226",
+      "eventActor" : "IMR2"
+    } ],
+    "handle" : "IMR2"
+  } ],
+  "startAutnum" : 27996,
+  "endAutnum" : 27996,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080911",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080912",
+    "eventActor" : "IMR2"
+  } ],
+  "type" : null,
+  "handle" : "27996-LACNIC",
+  "country" : "AR"
+}

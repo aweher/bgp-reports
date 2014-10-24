@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52277",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52277"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-IASA22-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-IASA22-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Krahenbuhl"],["adr",{"label":"AV. SUCRE 2480 ()\nbuenos aires,  1643\nAR","type":"work"},"text",["","","AV. SUCRE 2480 ()","buenos aires","","1643","AR"]],["email",{"type":"work"},"text","diegok@ITURAN.COM.AR"],["tel",{"type":"work"},"text","54 11 48921400 ()"],["org",{},"text",["ITURAN DE ARGENTINA SA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/DIK",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/DIK"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Krahenbuhl"],["adr",{"label":"Av. Sucre 2480 ()\nBeccar, null 1643\nAR","type":"work"},"text",["","","Av. Sucre 2480 ()","Beccar","","1643","AR"]],["email",{"type":"work"},"text","diegok@ITURAN.COM.AR"],["tel",{"type":"work"},"text","0054 11 48921404 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100616",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100616",
+        "eventActor" : "DIK"
+      } ],
+      "handle" : "DIK"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080519",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100902",
+      "eventActor" : "DIK"
+    } ],
+    "handle" : "AR-IASA22-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DIK",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DIK"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Krahenbuhl"],["adr",{"label":"Av. Sucre 2480 ()\nBeccar, null 1643\nAR","type":"work"},"text",["","","Av. Sucre 2480 ()","Beccar","","1643","AR"]],["email",{"type":"work"},"text","diegok@ITURAN.COM.AR"],["tel",{"type":"work"},"text","0054 11 48921404 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100616",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100616",
+      "eventActor" : "DIK"
+    } ],
+    "handle" : "DIK"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DIK",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DIK"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Krahenbuhl"],["adr",{"label":"Av. Sucre 2480 ()\nBeccar, null 1643\nAR","type":"work"},"text",["","","Av. Sucre 2480 ()","Beccar","","1643","AR"]],["email",{"type":"work"},"text","diegok@ITURAN.COM.AR"],["tel",{"type":"work"},"text","0054 11 48921404 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100616",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100616",
+      "eventActor" : "DIK"
+    } ],
+    "handle" : "DIK"
+  } ],
+  "startAutnum" : 52277,
+  "endAutnum" : 52277,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100902",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100902",
+    "eventActor" : "DIK"
+  } ],
+  "type" : null,
+  "handle" : "52277-LACNIC",
+  "country" : "AR"
+}

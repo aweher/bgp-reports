@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262500,
+  "endAutnum" : 262500,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262500",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262500"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110614",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "BIP2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BSPI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BSPI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","BS2 Internet Service Provider"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaring?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maring?","PR","04578-000","BR"]],["email",{"type":"work"},"text","BIP2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["org",{},"text",["BS2 Sistemas para Internet Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "BIP2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/BIP2",
+        "value" : "http://rdap.labs.lacnic.net/entity/BIP2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","BS2 Internet Service Provider"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaring?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maring?","PR","04578-000","BR"]],["email",{"type":"work"},"text","BIP2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "BIP2"
+      } ],
+      "entities" : [ ],
+      "handle" : "BIP2"
+    } ],
+    "handle" : "BR-BSPI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BIP2",
+      "value" : "http://rdap.labs.lacnic.net/entity/BIP2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","BS2 Internet Service Provider"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaring?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maring?","PR","04578-000","BR"]],["email",{"type":"work"},"text","BIP2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "BIP2"
+    } ],
+    "entities" : [ ],
+    "handle" : "BIP2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BIP2",
+      "value" : "http://rdap.labs.lacnic.net/entity/BIP2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","BS2 Internet Service Provider"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaring?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maring?","PR","04578-000","BR"]],["email",{"type":"work"},"text","BIP2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "BIP2"
+    } ],
+    "entities" : [ ],
+    "handle" : "BIP2"
+  } ],
+  "type" : null,
+  "handle" : "262500-LACNIC",
+  "country" : "BR"
+}

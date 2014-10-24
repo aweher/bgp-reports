@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53079,
+  "endAutnum" : 53079,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53079",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53079"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091001",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ASB11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-AILM8-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-AILM8-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre da Silveira Barreto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJaboticabal, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jaboticabal","SP","04578-000","BR"]],["email",{"type":"work"},"text","ASB11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 01 655093511 ()"],["org",{},"text",["A.S.Byte Inform?tica Ltda - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ASB11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ASB11",
+        "value" : "http://rdap.labs.lacnic.net/entity/ASB11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre da Silveira Barreto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJaboticabal, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jaboticabal","SP","04578-000","BR"]],["email",{"type":"work"},"text","ASB11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ASB11"
+      } ],
+      "entities" : [ ],
+      "handle" : "ASB11"
+    } ],
+    "handle" : "BR-AILM8-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ASB11",
+      "value" : "http://rdap.labs.lacnic.net/entity/ASB11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre da Silveira Barreto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJaboticabal, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jaboticabal","SP","04578-000","BR"]],["email",{"type":"work"},"text","ASB11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ASB11"
+    } ],
+    "entities" : [ ],
+    "handle" : "ASB11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NOA28",
+      "value" : "http://rdap.labs.lacnic.net/entity/NOA28"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NOC Asbyte"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJaboticabal, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jaboticabal","SP","04578-000","BR"]],["email",{"type":"work"},"text","NOA28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NOA28"
+    } ],
+    "entities" : [ ],
+    "handle" : "NOA28"
+  } ],
+  "type" : null,
+  "handle" : "53079-LACNIC",
+  "country" : "BR"
+}

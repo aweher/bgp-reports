@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/263200",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263200"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-EDSA7-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-EDSA7-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sebastian Gargiulo"],["adr",{"label":"Estomba 530 ()\nBuenos Aires,  1427\nAR","type":"work"},"text",["","","Estomba 530 ()","Buenos Aires","","1427","AR"]],["email",{"type":"work"},"text","sgargiulo@EDENOR.COM.AR"],["tel",{"type":"work"},"text","54 11 45558100 ()"],["org",{},"text",["Edenor S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SEG",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SEG"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sebastian Gargiulo"],["adr",{"label":"Tronador 661 ()\nBuenos Aires, null C1427CRM\nAR","type":"work"},"text",["","","Tronador 661 ()","Buenos Aires","","C1427CRM","AR"]],["email",{"type":"work"},"text","sgargiulo@EDENOR.COM.AR"],["tel",{"type":"work"},"text","54 11 4555-8245 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20021213",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20021213",
+        "eventActor" : "SEG"
+      } ],
+      "handle" : "SEG"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021213",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131224",
+      "eventActor" : "SEG"
+    } ],
+    "handle" : "AR-EDSA7-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEP34",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEP34"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Pascual"],["adr",{"label":"Estomba 530 ()\nCABA, null 1427\nAR","type":"work"},"text",["","","Estomba 530 ()","CABA","","1427","AR"]],["email",{"type":"work"},"text","fpascual@EDENOR.COM"],["tel",{"type":"work"},"text","54 11 45558100 (6026)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130516",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130516",
+      "eventActor" : "FEP34"
+    } ],
+    "handle" : "FEP34"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEP34",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEP34"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Pascual"],["adr",{"label":"Estomba 530 ()\nCABA, null 1427\nAR","type":"work"},"text",["","","Estomba 530 ()","CABA","","1427","AR"]],["email",{"type":"work"},"text","fpascual@EDENOR.COM"],["tel",{"type":"work"},"text","54 11 45558100 (6026)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130516",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130516",
+      "eventActor" : "FEP34"
+    } ],
+    "handle" : "FEP34"
+  } ],
+  "startAutnum" : 263200,
+  "endAutnum" : 263200,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131223",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131223",
+    "eventActor" : "FEP34"
+  } ],
+  "type" : null,
+  "handle" : "263200-LACNIC",
+  "country" : "AR"
+}

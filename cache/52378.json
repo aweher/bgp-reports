@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52378",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52378"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-UNVM-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-UNVM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mariano Javier Martín"],["adr",{"label":"ENTRE RIOS 1431 (-)\nVILLA MARIA (CORDOBA ),  5900\nAR","type":"work"},"text",["","","ENTRE RIOS 1431 (-)","VILLA MARIA (CORDOBA )","","5900","AR"]],["email",{"type":"work"},"text","marianojm@UNVM.EDU.AR"],["tel",{"type":"work"},"text","54 353 156559476 ()"],["org",{},"text",["UNIVERSIDAD NACIONAL DE VILLA MARIA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MJM3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MJM3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mariano Javier Martín"],["adr",{"label":"Entre Ríos 1431 ()\nVilla María, null 5900\nAR","type":"work"},"text",["","","Entre Ríos 1431 ()","Villa María","","5900","AR"]],["email",{"type":"work"},"text","marianojm@UNVM.EDU.AR"],["tel",{"type":"work"},"text","54 353 4539100 (2347)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20101025",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20101025",
+        "eventActor" : "MJM3"
+      } ],
+      "handle" : "MJM3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071003",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120405",
+      "eventActor" : "MJM3"
+    } ],
+    "handle" : "AR-UNVM-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MJM3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MJM3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mariano Javier Martín"],["adr",{"label":"Entre Ríos 1431 ()\nVilla María, null 5900\nAR","type":"work"},"text",["","","Entre Ríos 1431 ()","Villa María","","5900","AR"]],["email",{"type":"work"},"text","marianojm@UNVM.EDU.AR"],["tel",{"type":"work"},"text","54 353 4539100 (2347)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101025",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101025",
+      "eventActor" : "MJM3"
+    } ],
+    "handle" : "MJM3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MJM3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MJM3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mariano Javier Martín"],["adr",{"label":"Entre Ríos 1431 ()\nVilla María, null 5900\nAR","type":"work"},"text",["","","Entre Ríos 1431 ()","Villa María","","5900","AR"]],["email",{"type":"work"},"text","marianojm@UNVM.EDU.AR"],["tel",{"type":"work"},"text","54 353 4539100 (2347)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101025",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101025",
+      "eventActor" : "MJM3"
+    } ],
+    "handle" : "MJM3"
+  } ],
+  "startAutnum" : 52378,
+  "endAutnum" : 52378,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120625",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120625",
+    "eventActor" : "MJM3"
+  } ],
+  "type" : null,
+  "handle" : "52378-LACNIC",
+  "country" : "AR"
+}

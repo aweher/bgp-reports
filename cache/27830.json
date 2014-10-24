@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27830",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27830"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-PAEL3-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-PAEL3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Naiderman"],["adr",{"label":"Av. Leandro N. Alem 1180 ()\nBuenos Aires,  1001\nAR","type":"work"},"text",["","","Av. Leandro N. Alem 1180 ()","Buenos Aires","","1001","AR"]],["email",{"type":"work"},"text","enaiderman@PAN-ENERGY.COM"],["tel",{"type":"work"},"text","54 11 43104491 ()"],["org",{},"text",["Pan American Energy LLC"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/EDN2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/EDN2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Naiderman"],["adr",{"label":"Av. Leandro N. Alem 1180 ()\nBuenos Aires, null 1001\nAR","type":"work"},"text",["","","Av. Leandro N. Alem 1180 ()","Buenos Aires","","1001","AR"]],["email",{"type":"work"},"text","enaiderman@PAN-ENERGY.COM"],["tel",{"type":"work"},"text","54 11 43104491 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060331",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20060331",
+        "eventActor" : "EDN2"
+      } ],
+      "handle" : "EDN2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060405",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "EDN2"
+    } ],
+    "handle" : "AR-PAEL3-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/EDN2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDN2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Naiderman"],["adr",{"label":"Av. Leandro N. Alem 1180 ()\nBuenos Aires, null 1001\nAR","type":"work"},"text",["","","Av. Leandro N. Alem 1180 ()","Buenos Aires","","1001","AR"]],["email",{"type":"work"},"text","enaiderman@PAN-ENERGY.COM"],["tel",{"type":"work"},"text","54 11 43104491 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060331",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060331",
+      "eventActor" : "EDN2"
+    } ],
+    "handle" : "EDN2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/EDN2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDN2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Naiderman"],["adr",{"label":"Av. Leandro N. Alem 1180 ()\nBuenos Aires, null 1001\nAR","type":"work"},"text",["","","Av. Leandro N. Alem 1180 ()","Buenos Aires","","1001","AR"]],["email",{"type":"work"},"text","enaiderman@PAN-ENERGY.COM"],["tel",{"type":"work"},"text","54 11 43104491 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060331",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060331",
+      "eventActor" : "EDN2"
+    } ],
+    "handle" : "EDN2"
+  } ],
+  "startAutnum" : 27830,
+  "endAutnum" : 27830,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060605",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20060606",
+    "eventActor" : "EDN2"
+  } ],
+  "type" : null,
+  "handle" : "27830-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262382,
+  "endAutnum" : 262382,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262382",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262382"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120208",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140314",
+    "eventActor" : "CLS33"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-APEC-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-APEC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Henrique Rizo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPresidente Prudente, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Presidente Prudente","SP","04578-000","BR"]],["email",{"type":"work"},"text","EHR5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["org",{},"text",["ASSOCIACAO PRUDENTINA DE EDUCACAO E CULTURA APEC"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "EHR5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EHR5",
+        "value" : "http://rdap.labs.lacnic.net/entity/EHR5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Henrique Rizo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPresidente Prudente, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Presidente Prudente","SP","04578-000","BR"]],["email",{"type":"work"},"text","EHR5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EHR5"
+      } ],
+      "entities" : [ ],
+      "handle" : "EHR5"
+    } ],
+    "handle" : "BR-APEC-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CLS33",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLS33"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Luis Sitolino"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPresidente Prudente, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Presidente Prudente","SP","04578-000","BR"]],["email",{"type":"work"},"text","CLS33@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CLS33"
+    } ],
+    "entities" : [ ],
+    "handle" : "CLS33"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CLS33",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLS33"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Luis Sitolino"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPresidente Prudente, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Presidente Prudente","SP","04578-000","BR"]],["email",{"type":"work"},"text","CLS33@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CLS33"
+    } ],
+    "entities" : [ ],
+    "handle" : "CLS33"
+  } ],
+  "type" : null,
+  "handle" : "262382-LACNIC",
+  "country" : "BR"
+}

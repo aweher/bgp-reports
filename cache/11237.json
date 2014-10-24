@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 11237,
+  "endAutnum" : 11237,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/11237",
+    "value" : "http://rdap.labs.lacnic.net/autnum/11237"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19980526",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20040315",
+    "eventActor" : "JAH"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-UNEA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-UNEA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Infraestructura Tecnol?gica EAFIT"],["adr",{"label":"Carrera 49 7 sur 50, Apartado Aereo 3300 ()\nMedellin, An 7023\nCO","type":"work"},"text",["","","Carrera 49 7 sur 50, Apartado Aereo 3300 ()","Medellin","An","7023","CO"]],["email",{"type":"work"},"text","internet@EAFIT.EDU.CO"],["tel",{"type":"work"},"text","57 4 2619500 (343)"],["org",{},"text",["UNIVERSIDAD EAFIT"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050729",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130619",
+      "eventActor" : "JAH"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JAH",
+        "value" : "http://rdap.labs.lacnic.net/entity/JAH"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Infraestructura Tecnol?gica EAFIT"],["adr",{"label":"Carrera 49 7 Sur 50 18 (Piso 4)\nMedellin, AN 7023\nCO","type":"work"},"text",["","","Carrera 49 7 Sur 50 18 (Piso 4)","Medellin","AN","7023","CO"]],["email",{"type":"work"},"text","internet@EAFIT.EDU.CO"],["tel",{"type":"work"},"text","57 4 2619500 (9343)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20040120",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130516",
+        "eventActor" : "JAH"
+      } ],
+      "entities" : [ ],
+      "handle" : "JAH"
+    } ],
+    "handle" : "CO-UNEA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JAH",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAH"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Infraestructura Tecnol?gica EAFIT"],["adr",{"label":"Carrera 49 7 Sur 50 18 (Piso 4)\nMedellin, AN 7023\nCO","type":"work"},"text",["","","Carrera 49 7 Sur 50 18 (Piso 4)","Medellin","AN","7023","CO"]],["email",{"type":"work"},"text","internet@EAFIT.EDU.CO"],["tel",{"type":"work"},"text","57 4 2619500 (9343)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040120",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130516",
+      "eventActor" : "JAH"
+    } ],
+    "entities" : [ ],
+    "handle" : "JAH"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JAH",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAH"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Infraestructura Tecnol?gica EAFIT"],["adr",{"label":"Carrera 49 7 Sur 50 18 (Piso 4)\nMedellin, AN 7023\nCO","type":"work"},"text",["","","Carrera 49 7 Sur 50 18 (Piso 4)","Medellin","AN","7023","CO"]],["email",{"type":"work"},"text","internet@EAFIT.EDU.CO"],["tel",{"type":"work"},"text","57 4 2619500 (9343)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040120",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130516",
+      "eventActor" : "JAH"
+    } ],
+    "entities" : [ ],
+    "handle" : "JAH"
+  } ],
+  "type" : null,
+  "handle" : "11237-LACNIC",
+  "country" : "CO"
+}

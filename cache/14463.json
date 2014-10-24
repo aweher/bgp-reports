@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 14463,
+  "endAutnum" : 14463,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/14463",
+    "value" : "http://rdap.labs.lacnic.net/autnum/14463"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20000126",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "TIP5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TILT3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TILT3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TDKOM INTERNET PROVIDER"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOurinhos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ourinhos","SP","04578-000","BR"]],["email",{"type":"work"},"text","TIP5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["org",{},"text",["TDKOM INFORMATICA LTDA."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TIP5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/TIP5",
+        "value" : "http://rdap.labs.lacnic.net/entity/TIP5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TDKOM INTERNET PROVIDER"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOurinhos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ourinhos","SP","04578-000","BR"]],["email",{"type":"work"},"text","TIP5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "TIP5"
+      } ],
+      "entities" : [ ],
+      "handle" : "TIP5"
+    } ],
+    "handle" : "BR-TILT3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TIP5",
+      "value" : "http://rdap.labs.lacnic.net/entity/TIP5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TDKOM INTERNET PROVIDER"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOurinhos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ourinhos","SP","04578-000","BR"]],["email",{"type":"work"},"text","TIP5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TIP5"
+    } ],
+    "entities" : [ ],
+    "handle" : "TIP5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TIP5",
+      "value" : "http://rdap.labs.lacnic.net/entity/TIP5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TDKOM INTERNET PROVIDER"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOurinhos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ourinhos","SP","04578-000","BR"]],["email",{"type":"work"},"text","TIP5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TIP5"
+    } ],
+    "entities" : [ ],
+    "handle" : "TIP5"
+  } ],
+  "type" : null,
+  "handle" : "14463-LACNIC",
+  "country" : "BR"
+}

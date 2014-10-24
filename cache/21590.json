@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/21590",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/21590"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TAST-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TAST-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP"],["adr",{"label":"Dorrego 2520 (Piso 11)\nBuenos Aires,  1425\nAR","type":"work"},"text",["","","Dorrego 2520 (Piso 11)","Buenos Aires","","1425","AR"]],["email",{"type":"work"},"text","ipadmin@TA.TELECOM.COM.AR"],["tel",{"type":"work"},"text","54 11 4968 (4975)"],["org",{},"text",["Telecom Argentina S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ADI2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ADI2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP"],["adr",{"label":"Dorrego 2502 (piso 11)\nBuenos Aires,  1425\nAR","type":"work"},"text",["","","Dorrego 2502 (piso 11)","Buenos Aires","","1425","AR"]],["email",{"type":"work"},"text","ipadmin@TA.TELECOM.COM.AR"],["tel",{"type":"work"},"text","54 11 4968 (4975)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20020909",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20101209",
+        "eventActor" : "ADI2"
+      } ],
+      "handle" : "ADI2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020911",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "ADI2"
+    } ],
+    "handle" : "AR-TAST-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAT2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAT2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Tevrizian"],["adr",{"label":"Colectora Este KM 33 32765 ()\nEl Talar, null B1618FBB\nAR","type":"work"},"text",["","","Colectora Este KM 33 32765 ()","El Talar","","B1618FBB","AR"]],["email",{"type":"work"},"text","mtevrizian@OPTIGLOBE.COM.AR"],["tel",{"type":"work"},"text","54 11 4127-5100 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030626",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20030626",
+      "eventActor" : "MAT2"
+    } ],
+    "handle" : "MAT2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAT2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAT2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Tevrizian"],["adr",{"label":"Colectora Este KM 33 32765 ()\nEl Talar, null B1618FBB\nAR","type":"work"},"text",["","","Colectora Este KM 33 32765 ()","El Talar","","B1618FBB","AR"]],["email",{"type":"work"},"text","mtevrizian@OPTIGLOBE.COM.AR"],["tel",{"type":"work"},"text","54 11 4127-5100 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030626",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20030626",
+      "eventActor" : "MAT2"
+    } ],
+    "handle" : "MAT2"
+  } ],
+  "startAutnum" : 21590,
+  "endAutnum" : 21590,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20010525",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090129",
+    "eventActor" : "MAT2"
+  } ],
+  "type" : null,
+  "handle" : "21590-LACNIC",
+  "country" : "AR"
+}

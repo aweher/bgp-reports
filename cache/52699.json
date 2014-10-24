@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52699,
+  "endAutnum" : 52699,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52699",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52699"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121219",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ETV"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CTLT65-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CTLT65-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eugenio teixeira de Castro Velloso"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItaperuna, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itaperuna","RJ","04578-000","BR"]],["email",{"type":"work"},"text","ETV@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["org",{},"text",["Conecta Telecom Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130713",
+      "eventActor" : "ETV"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ETV",
+        "value" : "http://rdap.labs.lacnic.net/entity/ETV"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eugenio teixeira de Castro Velloso"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItaperuna, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itaperuna","RJ","04578-000","BR"]],["email",{"type":"work"},"text","ETV@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ETV"
+      } ],
+      "entities" : [ ],
+      "handle" : "ETV"
+    } ],
+    "handle" : "BR-CTLT65-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ETV",
+      "value" : "http://rdap.labs.lacnic.net/entity/ETV"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eugenio teixeira de Castro Velloso"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItaperuna, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itaperuna","RJ","04578-000","BR"]],["email",{"type":"work"},"text","ETV@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ETV"
+    } ],
+    "entities" : [ ],
+    "handle" : "ETV"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ETV",
+      "value" : "http://rdap.labs.lacnic.net/entity/ETV"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eugenio teixeira de Castro Velloso"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItaperuna, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itaperuna","RJ","04578-000","BR"]],["email",{"type":"work"},"text","ETV@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ETV"
+    } ],
+    "entities" : [ ],
+    "handle" : "ETV"
+  } ],
+  "type" : null,
+  "handle" : "52699-LACNIC",
+  "country" : "BR"
+}

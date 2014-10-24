@@ -1,0 +1,5616 @@
+{"service" : {
+  "name" : "search"
+},
+"parameters" : {
+  "inverse-lookup" : { },
+  "type-filters" : { },
+  "flags" : { },
+  "query-strings" : {
+    "query-string" : [ {
+      "value" : "as8492"
+    } ]
+  },
+  "sources" : { }
+},
+"objects" : {
+  "object" : [ {
+    "type" : "as-block",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/as-block/AS8192 - AS8523"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS8192 - AS8523"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS8192 - AS8523"
+      }, {
+        "name" : "descr",
+        "value" : "RIPE NCC ASN block"
+      }, {
+        "name" : "remarks",
+        "value" : "These AS Numbers are assigned to network operators in the RIPE NCC service region."
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "aut-num",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/aut-num/AS8492"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS8492"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS8492"
+      }, {
+        "name" : "as-name",
+        "value" : "OBIT-AS"
+      }, {
+        "name" : "descr",
+        "value" : "\"OBIT\" Ltd."
+      }, {
+        "name" : "descr",
+        "value" : "Russia, St.Petersburg"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "-----------------------------------------------------------------"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "import",
+        "value" : "from AS42 action pref=150; accept AS-PCH"
+      }, {
+        "name" : "export",
+        "value" : "to AS42 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS248 action pref=150; accept AS-CCC-DECIX"
+      }, {
+        "name" : "export",
+        "value" : "to AS248 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS553 action pref=150; accept AS-BELWUE"
+      }, {
+        "name" : "export",
+        "value" : "to AS553 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS559 action pref=150; accept AS-SWITCH"
+      }, {
+        "name" : "export",
+        "value" : "to AS559 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS1103 action pref=150; accept AS-SURFNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS1103 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS1126 action pref=150; accept AS-SARA"
+      }, {
+        "name" : "export",
+        "value" : "to AS1126 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS1140 action pref=150; accept AS1140"
+      }, {
+        "name" : "export",
+        "value" : "to AS1140 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS1200 action pref=150; accept AS1200"
+      }, {
+        "name" : "export",
+        "value" : "to AS1200 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS1267 action pref=150; accept AS-INFOSTRADA"
+      }, {
+        "name" : "export",
+        "value" : "to AS1267 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS1290 action pref=150; accept AS-PSINETUK"
+      }, {
+        "name" : "export",
+        "value" : "to AS1290 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS1299 action pref=100; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS1299 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS1680 action pref=150; accept AS1680"
+      }, {
+        "name" : "export",
+        "value" : "to AS1680 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS1836 action pref=150; accept AS-TICCH"
+      }, {
+        "name" : "export",
+        "value" : "to AS1836 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS2118 action pref=150; accept AS-RELCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS2118 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS2529 action pref=150; accept AS-DEMON"
+      }, {
+        "name" : "export",
+        "value" : "to AS2529 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS2578 action pref=150; accept AS-DEMOS"
+      }, {
+        "name" : "export",
+        "value" : "to AS2578 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS2603 action pref=150; accept AS-NORDUNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS2603 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS2683 action pref=150; accept AS-RADIOMSU"
+      }, {
+        "name" : "export",
+        "value" : "to AS2683 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS2818 action pref=150; accept AS-BBC-LONDON AS-BBC"
+      }, {
+        "name" : "export",
+        "value" : "to AS2818 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS2820 action pref=150; accept AS-ELVIS"
+      }, {
+        "name" : "export",
+        "value" : "to AS2820 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS2848 action pref=150; accept AS-MSURUNNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS2848 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS2852 action pref=150; accept AS-CESNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS2852 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS2857 action pref=150; accept AS-RLP-NET"
+      }, {
+        "name" : "export",
+        "value" : "to AS2857 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS2895 action pref=150; accept AS-FREENET"
+      }, {
+        "name" : "export",
+        "value" : "to AS2895 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS3058 action pref=150; accept AS-RASNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS3058 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS3209 action pref=150; accept AS-ARCORGLOBAL"
+      }, {
+        "name" : "export",
+        "value" : "to AS3209 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS3213 action pref=150; accept AS-BOGONS"
+      }, {
+        "name" : "export",
+        "value" : "to AS3213 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS3216 action pref=100; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS3216 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS3218 action pref=150; accept AS-COSMOS"
+      }, {
+        "name" : "export",
+        "value" : "to AS3218 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS3248 action pref=150; accept AS-SILAT"
+      }, {
+        "name" : "export",
+        "value" : "to AS3248 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS3255 action pref=150; accept AS-UARNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS3255 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS3257 action pref=100; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS3257 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS3262 action pref=150; accept AS-SARENET"
+      }, {
+        "name" : "export",
+        "value" : "to AS3262 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS3267 action pref=150; accept AS-RUNNETIX AS-RUNNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS3267 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS3277 action pref=150; accept AS-RUSNETIX"
+      }, {
+        "name" : "export",
+        "value" : "to AS3277 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS3303 action pref=150; accept AS-SWCMGLOBAL"
+      }, {
+        "name" : "export",
+        "value" : "to AS3303 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS3316 action pref=150; accept AS-RELARN"
+      }, {
+        "name" : "export",
+        "value" : "to AS3316 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS3327 action pref=150; accept AS-LINXTELECOM-DECIX AS-LINXTELECOM-AMSIX AS-LINXTELECOM-MSK-IX"
+      }, {
+        "name" : "export",
+        "value" : "to AS3327 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS3333 action pref=150; accept AS3333"
+      }, {
+        "name" : "export",
+        "value" : "to AS3333 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS3356 action pref=100; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS3356 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS3491 action pref=150; accept AS-CAIS"
+      }, {
+        "name" : "export",
+        "value" : "to AS3491 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS3549 action pref=100; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS3549 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS3856 action pref=150; accept AS-PCH"
+      }, {
+        "name" : "export",
+        "value" : "to AS3856 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS4250 action pref=150; accept AS-ALENTUS"
+      }, {
+        "name" : "export",
+        "value" : "to AS4250 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS4788 action pref=150; accept AS-4788"
+      }, {
+        "name" : "export",
+        "value" : "to AS4788 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5089 action pref=150; accept AS-NTLI"
+      }, {
+        "name" : "export",
+        "value" : "to AS5089 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5390 action pref=150; accept AS-EURONETNL"
+      }, {
+        "name" : "export",
+        "value" : "to AS5390 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5409 action pref=150; accept AS-TPL"
+      }, {
+        "name" : "export",
+        "value" : "to AS5409 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5410 action pref=150; accept AS-T-ONLINEFRANCE AS-BOUYGTEL-ISP"
+      }, {
+        "name" : "export",
+        "value" : "to AS5410 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5429 action pref=150; accept AS-IIPNET-MSK-IX"
+      }, {
+        "name" : "export",
+        "value" : "to AS5429 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5430 action pref=150; accept AS-FREENETDE"
+      }, {
+        "name" : "export",
+        "value" : "to AS5430 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5433 action pref=150; accept AS-ROKSON"
+      }, {
+        "name" : "export",
+        "value" : "to AS5433 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5459 action pref=150; accept AS-LINX"
+      }, {
+        "name" : "export",
+        "value" : "to AS5459 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5466 action pref=150; accept AS-EIRCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS5466 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5467 action pref=150; accept AS-MIPT"
+      }, {
+        "name" : "export",
+        "value" : "to AS5467 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5495 action pref=150; accept AS5495"
+      }, {
+        "name" : "export",
+        "value" : "to AS5495 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5503 action pref=150; accept AS-RMIFL"
+      }, {
+        "name" : "export",
+        "value" : "to AS5503 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5518 action pref=150; accept AS-TELIANETLV"
+      }, {
+        "name" : "export",
+        "value" : "to AS5518 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5523 action pref=150; accept AS-RMT"
+      }, {
+        "name" : "export",
+        "value" : "to AS5523 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5537 action pref=150; accept AS-GARANTPARK"
+      }, {
+        "name" : "export",
+        "value" : "to AS5537 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5539 action pref=150; accept AS-SPACENET"
+      }, {
+        "name" : "export",
+        "value" : "to AS5539 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5552 action pref=150; accept AS5552"
+      }, {
+        "name" : "export",
+        "value" : "to AS5552 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5568 action pref=150; accept AS-RBNET AS5568"
+      }, {
+        "name" : "export",
+        "value" : "to AS5568 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5580 action pref=150; accept AS-ATRATO"
+      }, {
+        "name" : "export",
+        "value" : "to AS5580 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5588 action pref=150; accept AS-GTS-CE"
+      }, {
+        "name" : "export",
+        "value" : "to AS5588 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5605 action pref=150; accept AS-NETUSE"
+      }, {
+        "name" : "export",
+        "value" : "to AS5605 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5615 action pref=150; accept AS-TISCALI"
+      }, {
+        "name" : "export",
+        "value" : "to AS5615 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5631 action pref=150; accept AS-VITAL-GROUP"
+      }, {
+        "name" : "export",
+        "value" : "to AS5631 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6083 action pref=150; accept AS-POSIX"
+      }, {
+        "name" : "export",
+        "value" : "to AS6083 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6320 action pref=150; accept AS-TELECOMPLETE"
+      }, {
+        "name" : "export",
+        "value" : "to AS6320 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6327 action pref=150; accept AS-BIGPIPE"
+      }, {
+        "name" : "export",
+        "value" : "to AS6327 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6661 action pref=150; accept AS-PTLU"
+      }, {
+        "name" : "export",
+        "value" : "to AS6661 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6663 action pref=150; accept AS-STARNETSRO"
+      }, {
+        "name" : "export",
+        "value" : "to AS6663 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6667 action pref=150; accept AS-EUNETIP"
+      }, {
+        "name" : "export",
+        "value" : "to AS6667 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6673 action pref=150; accept AS-INCOMA"
+      }, {
+        "name" : "export",
+        "value" : "to AS6673 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6677 action pref=150; accept AS-ICENET"
+      }, {
+        "name" : "export",
+        "value" : "to AS6677 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6690 action pref=200; accept AS-WEBPLUS"
+      }, {
+        "name" : "export",
+        "value" : "to AS6690 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS6695 action pref=150; accept AS-DECIX"
+      }, {
+        "name" : "export",
+        "value" : "to AS6695 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6724 action pref=150; accept AS-STRATORZ"
+      }, {
+        "name" : "export",
+        "value" : "to AS6724 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6735 action pref=150; accept AS-SDTAMSIX AS-SDTDECIX"
+      }, {
+        "name" : "export",
+        "value" : "to AS6735 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6770 action pref=150; accept AS-AEXIOMUS-T"
+      }, {
+        "name" : "export",
+        "value" : "to AS6770 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6774 action pref=150; accept AS-BELBONETOPEERS AS-BELBONEMEMBERS"
+      }, {
+        "name" : "export",
+        "value" : "to AS6774 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6777 action pref=150; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS6777 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6779 action pref=150; accept AS-ICLNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS6779 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6788 action pref=150; accept AS-ORC"
+      }, {
+        "name" : "export",
+        "value" : "to AS6788 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6805 action pref=150; accept AS-TDDE"
+      }, {
+        "name" : "export",
+        "value" : "to AS6805 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6820 action pref=150; accept AS-LEIVO"
+      }, {
+        "name" : "export",
+        "value" : "to AS6820 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6850 action pref=150; accept AS-METROCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS6850 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6854 action pref=150; accept AS-SYNTERRA"
+      }, {
+        "name" : "export",
+        "value" : "to AS6854 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6858 action pref=200; accept AS-COMLINK"
+      }, {
+        "name" : "export",
+        "value" : "to AS6858 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS6863 action pref=150; accept AS-ROSNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS6863 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6880 action pref=150; accept AS-ORBITA"
+      }, {
+        "name" : "export",
+        "value" : "to AS6880 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6894 action pref=150; accept AS-KDDIEU"
+      }, {
+        "name" : "export",
+        "value" : "to AS6894 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6900 action pref=150; accept AS-EDS"
+      }, {
+        "name" : "export",
+        "value" : "to AS6900 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6903 action pref=150; accept AS-ZENON"
+      }, {
+        "name" : "export",
+        "value" : "to AS6903 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6911 action pref=150; accept AS-PRO-NET"
+      }, {
+        "name" : "export",
+        "value" : "to AS6911 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS6939 action pref=150; accept AS-HURRICANE"
+      }, {
+        "name" : "export",
+        "value" : "to AS6939 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8001 action pref=150; accept AS-NAC"
+      }, {
+        "name" : "export",
+        "value" : "to AS8001 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8002 action pref=150; accept AS-STEALTH"
+      }, {
+        "name" : "export",
+        "value" : "to AS8002 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8068 action pref=150; accept AS-MICROSOFTEU AS8068"
+      }, {
+        "name" : "export",
+        "value" : "to AS8068 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8190 action pref=150; accept AS-VIATEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS8190 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8241 action pref=150; accept AS-RELLINE"
+      }, {
+        "name" : "export",
+        "value" : "to AS8241 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8299 action pref=150; accept AS-INFOTEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS8299 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8319 action pref=150; accept AS-IXNETHINKS"
+      }, {
+        "name" : "export",
+        "value" : "to AS8319 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8331 action pref=150; accept AS-RURINET AS-RINET"
+      }, {
+        "name" : "export",
+        "value" : "to AS8331 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8365 action pref=150; accept AS-MANDA"
+      }, {
+        "name" : "export",
+        "value" : "to AS8365 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8368 action pref=150; accept AS-BENESOL"
+      }, {
+        "name" : "export",
+        "value" : "to AS8368 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8370 action pref=150; accept AS8370"
+      }, {
+        "name" : "export",
+        "value" : "to AS8370 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8377 action pref=150; accept AS-PETERLINK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8377 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8391 action pref=150; accept AS-KNIPP"
+      }, {
+        "name" : "export",
+        "value" : "to AS8391 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8395 action pref=150; accept AS-EAST"
+      }, {
+        "name" : "export",
+        "value" : "to AS8395 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8400 action pref=150; accept AS-TELEKOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS8400 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8419 action pref=150; accept AS-HOTCHILLI"
+      }, {
+        "name" : "export",
+        "value" : "to AS8419 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8422 action pref=150; accept AS-NETCOLOGNE"
+      }, {
+        "name" : "export",
+        "value" : "to AS8422 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8426 action pref=150; accept AS-CLARANET"
+      }, {
+        "name" : "export",
+        "value" : "to AS8426 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8442 action pref=150; accept AS-DIG"
+      }, {
+        "name" : "export",
+        "value" : "to AS8442 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8447 action pref=150; accept AS-PTA"
+      }, {
+        "name" : "export",
+        "value" : "to AS8447 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8468 action pref=150; accept AS-ENTANET"
+      }, {
+        "name" : "export",
+        "value" : "to AS8468 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8469 action pref=150; accept AS-PIRONETNDH"
+      }, {
+        "name" : "export",
+        "value" : "to AS8469 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8470 action pref=150; accept AS-MACOMNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS8470 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8473 action pref=150; accept AS-BAHNHOF"
+      }, {
+        "name" : "export",
+        "value" : "to AS8473 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8491 action pref=150; accept AS-BSH"
+      }, {
+        "name" : "export",
+        "value" : "to AS8491 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8515 action pref=150; accept AS-DATAFORCE"
+      }, {
+        "name" : "export",
+        "value" : "to AS8515 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8551 action pref=150; accept AS-BEZEQINT"
+      }, {
+        "name" : "export",
+        "value" : "to AS8551 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8557 action pref=150; accept AS-ELKATEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS8557 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8560 action pref=150; accept AS-1AND1"
+      }, {
+        "name" : "export",
+        "value" : "to AS8560 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8566 action pref=200; accept AS8566"
+      }, {
+        "name" : "export",
+        "value" : "to AS8566 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS8577 action pref=150; accept AS8577"
+      }, {
+        "name" : "export",
+        "value" : "to AS8577 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8582 action pref=150; accept AS-SUPPORT"
+      }, {
+        "name" : "export",
+        "value" : "to AS8582 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8586 action pref=150; accept AS-REDNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS8586 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8595 action pref=150; accept AS-WESTCALL-IX"
+      }, {
+        "name" : "export",
+        "value" : "to AS8595 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8607 action pref=150; accept AS-TIMICO"
+      }, {
+        "name" : "export",
+        "value" : "to AS8607 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8608 action pref=150; accept AS-QINIP"
+      }, {
+        "name" : "export",
+        "value" : "to AS8608 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8615 action pref=150; accept AS-CNTPEERS"
+      }, {
+        "name" : "export",
+        "value" : "to AS8615 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8629 action pref=150; accept AS-MCNTT"
+      }, {
+        "name" : "export",
+        "value" : "to AS8629 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8631 action pref=150; accept AS-MSKROUTESERVER"
+      }, {
+        "name" : "export",
+        "value" : "to AS8631 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8634 action pref=150; accept AS-SOLARIS"
+      }, {
+        "name" : "export",
+        "value" : "to AS8634 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8636 action pref=150; accept AS-MAX"
+      }, {
+        "name" : "export",
+        "value" : "to AS8636 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8641 action pref=150; accept AS-TELECORE"
+      }, {
+        "name" : "export",
+        "value" : "to AS8641 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8648 action pref=150; accept AS-KAMP"
+      }, {
+        "name" : "export",
+        "value" : "to AS8648 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8657 action pref=150; accept AS-CPRM"
+      }, {
+        "name" : "export",
+        "value" : "to AS8657 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8674 action pref=150; accept AS-NETNOD"
+      }, {
+        "name" : "export",
+        "value" : "to AS8674 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8681 action pref=150; accept AS-JERSEYTELECOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS8681 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8683 action pref=150; accept AS-NOMINET"
+      }, {
+        "name" : "export",
+        "value" : "to AS8683 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8708 action pref=150; accept AS-RDSNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS8708 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8714 action pref=150; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8714 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8717 action pref=150; accept AS-SPNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS8717 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8732 action pref=100; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8732 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8741 action pref=150; accept AS-ECORE"
+      }, {
+        "name" : "export",
+        "value" : "to AS8741 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8744 action pref=150; accept AS-WIMAX"
+      }, {
+        "name" : "export",
+        "value" : "to AS8744 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8763 action pref=150; accept AS-DENIC"
+      }, {
+        "name" : "export",
+        "value" : "to AS8763 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8764 action pref=150; accept AS-LTELECOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS8764 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8767 action pref=150; accept AS-MNETDE"
+      }, {
+        "name" : "export",
+        "value" : "to AS8767 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8781 action pref=150; accept AS-QTEL-SET"
+      }, {
+        "name" : "export",
+        "value" : "to AS8781 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8804 action pref=150; accept AS-IX-REGIONET"
+      }, {
+        "name" : "export",
+        "value" : "to AS8804 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8844 action pref=150; accept AS-COMMUNITY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8844 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8851 action pref=150; accept AS-INWEB"
+      }, {
+        "name" : "export",
+        "value" : "to AS8851 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8859 action pref=150; accept AS-OSN"
+      }, {
+        "name" : "export",
+        "value" : "to AS8859 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8866 action pref=150; accept AS-BTC-UP"
+      }, {
+        "name" : "export",
+        "value" : "to AS8866 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8879 action pref=150; accept AS-DTS"
+      }, {
+        "name" : "export",
+        "value" : "to AS8879 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8881 action pref=150; accept AS-VT-TRANSIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS8881 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8897 action pref=150; accept AS-MISTRAL"
+      }, {
+        "name" : "export",
+        "value" : "to AS8897 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8902 action pref=150; accept AS8902"
+      }, {
+        "name" : "export",
+        "value" : "to AS8902 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8905 action pref=150; accept AS-SITEK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8905 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8912 action pref=150; accept AS-NETBENEFIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS8912 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8939 action pref=150; accept AS-ADTECH"
+      }, {
+        "name" : "export",
+        "value" : "to AS8939 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8954 action pref=150; accept AS-INTOUCHPEERS"
+      }, {
+        "name" : "export",
+        "value" : "to AS8954 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8966 action pref=150; accept AS-EMIX"
+      }, {
+        "name" : "export",
+        "value" : "to AS8966 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8972 action pref=150; accept AS-PLUSSERVER"
+      }, {
+        "name" : "export",
+        "value" : "to AS8972 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8997 action pref=150; accept AS-SPBNIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS8997 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9002 action pref=100; accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS9002 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9031 action pref=150; accept AS-EDPNET AS9031"
+      }, {
+        "name" : "export",
+        "value" : "to AS9031 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9032 action pref=150; accept AS-EDUNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS9032 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9039 action pref=150; accept AS-IIAT"
+      }, {
+        "name" : "export",
+        "value" : "to AS9039 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9050 action pref=150; accept AS-RTD"
+      }, {
+        "name" : "export",
+        "value" : "to AS9050 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9063 action pref=150; accept AS-SAARGATE"
+      }, {
+        "name" : "export",
+        "value" : "to AS9063 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9066 action pref=150; accept AS-BCC"
+      }, {
+        "name" : "export",
+        "value" : "to AS9066 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9070 action pref=150; accept AS-ITDOUT"
+      }, {
+        "name" : "export",
+        "value" : "to AS9070 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9110 action pref=150; accept AS-AGTEL-RUS"
+      }, {
+        "name" : "export",
+        "value" : "to AS9110 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9116 action pref=150; accept AS-GOLDEN"
+      }, {
+        "name" : "export",
+        "value" : "to AS9116 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9119 action pref=150; accept AS-SOFTNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS9119 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9121 action pref=150; accept AS-TTNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS9121 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9143 action pref=150; accept AS-BENELUX"
+      }, {
+        "name" : "export",
+        "value" : "to AS9143 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9145 action pref=150; accept AS-EWETEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS9145 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9150 action pref=150; accept AS-INTERCONNECT"
+      }, {
+        "name" : "export",
+        "value" : "to AS9150 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9153 action pref=150; accept AS-BURSTFIRE"
+      }, {
+        "name" : "export",
+        "value" : "to AS9153 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9189 action pref=150; accept AS-ACCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS9189 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9191 action pref=150; accept AS-NEWNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS9191 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9206 action pref=150; accept AS9206 AS-MAI"
+      }, {
+        "name" : "export",
+        "value" : "to AS9206 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9211 action pref=150; accept AS-WORK"
+      }, {
+        "name" : "export",
+        "value" : "to AS9211 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9498 action pref=150; accept AS9498"
+      }, {
+        "name" : "export",
+        "value" : "to AS9498 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9505 action pref=150; accept AS-TWIG"
+      }, {
+        "name" : "export",
+        "value" : "to AS9505 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS10282 action pref=150; accept AS-EQUANT-CEEUR"
+      }, {
+        "name" : "export",
+        "value" : "to AS10282 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS10310 action pref=150; accept AS10310 AS-YAHOO"
+      }, {
+        "name" : "export",
+        "value" : "to AS10310 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12041 action pref=150; accept AS12041:AS-AFILIAS"
+      }, {
+        "name" : "export",
+        "value" : "to AS12041 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12301 action pref=150; accept AS12301:AS-ROUTES"
+      }, {
+        "name" : "export",
+        "value" : "to AS12301 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12306 action pref=150; accept AS-PLUSLINE"
+      }, {
+        "name" : "export",
+        "value" : "to AS12306 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12312 action pref=150; accept AS-NACAMAR AS-NACCUST"
+      }, {
+        "name" : "export",
+        "value" : "to AS12312 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12314 action pref=150; accept AS-ROPNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS12314 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12322 action pref=150; accept AS-PROXAD"
+      }, {
+        "name" : "export",
+        "value" : "to AS12322 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12335 action pref=150; accept AS12335"
+      }, {
+        "name" : "export",
+        "value" : "to AS12335 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12337 action pref=150; accept AS-NORIS"
+      }, {
+        "name" : "export",
+        "value" : "to AS12337 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12348 action pref=150; accept AS-ODNDE"
+      }, {
+        "name" : "export",
+        "value" : "to AS12348 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12355 action pref=150; accept AS-HELINET-V4"
+      }, {
+        "name" : "export",
+        "value" : "to AS12355 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12360 action pref=150; accept AS-KTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS12360 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12389 action pref=150; accept AS-ROSTELECOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS12389 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12399 action pref=150; accept AS-SPXS"
+      }, {
+        "name" : "export",
+        "value" : "to AS12399 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12414 action pref=150; accept AS-SOLCON"
+      }, {
+        "name" : "export",
+        "value" : "to AS12414 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12418 action pref=150; accept AS-QUANTUM"
+      }, {
+        "name" : "export",
+        "value" : "to AS12418 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12452 action pref=150; accept AS-PROV"
+      }, {
+        "name" : "export",
+        "value" : "to AS12452 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12480 action pref=150; accept AS-ILK"
+      }, {
+        "name" : "export",
+        "value" : "to AS12480 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12496 action pref=150; accept AS-IDNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS12496 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12510 action pref=150; accept AS12510"
+      }, {
+        "name" : "export",
+        "value" : "to AS12510 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12550 action pref=150; accept AS-OSS"
+      }, {
+        "name" : "export",
+        "value" : "to AS12550 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12555 action pref=150; accept AS-CUBIO-RUS-IX"
+      }, {
+        "name" : "export",
+        "value" : "to AS12555 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12573 action pref=150; accept AS-WIDEXS AS12573"
+      }, {
+        "name" : "export",
+        "value" : "to AS12573 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12611 action pref=150; accept AS-RKOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS12611 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12615 action pref=150; accept AS-CABLETEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS12615 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12622 action pref=150; accept AS-COMINTERN"
+      }, {
+        "name" : "export",
+        "value" : "to AS12622 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12634 action pref=150; accept AS-SCARLET"
+      }, {
+        "name" : "export",
+        "value" : "to AS12634 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12676 action pref=150; accept AS-NCORE"
+      }, {
+        "name" : "export",
+        "value" : "to AS12676 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12690 action pref=150; accept AS-MKSNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS12690 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12695 action pref=150; accept AS-DINET"
+      }, {
+        "name" : "export",
+        "value" : "to AS12695 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12703 action pref=150; accept AS-EDNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS12703 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12713 action pref=150; accept AS-OTEGLOBE"
+      }, {
+        "name" : "export",
+        "value" : "to AS12713 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12731 action pref=150; accept AS-IPHH"
+      }, {
+        "name" : "export",
+        "value" : "to AS12731 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12739 action pref=150; accept AS-NETLINE"
+      }, {
+        "name" : "export",
+        "value" : "to AS12739 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12759 action pref=150; accept AS-SOCO"
+      }, {
+        "name" : "export",
+        "value" : "to AS12759 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12790 action pref=150; accept AS-CEA"
+      }, {
+        "name" : "export",
+        "value" : "to AS12790 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12843 action pref=150; accept AS-TXX"
+      }, {
+        "name" : "export",
+        "value" : "to AS12843 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12859 action pref=150; accept AS-BIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS12859 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12871 action pref=150; accept AS12871 AS-CONCEPTS"
+      }, {
+        "name" : "export",
+        "value" : "to AS12871 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12874 action pref=150; accept AS-FASTWEB"
+      }, {
+        "name" : "export",
+        "value" : "to AS12874 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12897 action pref=150; accept AS-HEAGMEDIANET"
+      }, {
+        "name" : "export",
+        "value" : "to AS12897 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12902 action pref=150; accept AS-LUNA AS12902"
+      }, {
+        "name" : "export",
+        "value" : "to AS12902 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12932 action pref=150; accept AS-TELETEXT"
+      }, {
+        "name" : "export",
+        "value" : "to AS12932 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12958 action pref=150; accept AS12958 AS-MCC"
+      }, {
+        "name" : "export",
+        "value" : "to AS12958 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12968 action pref=150; accept AS-CDP"
+      }, {
+        "name" : "export",
+        "value" : "to AS12968 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12976 action pref=150; accept AS-RUCWSVYAZ"
+      }, {
+        "name" : "export",
+        "value" : "to AS12976 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12979 action pref=150; accept AS-TSINET"
+      }, {
+        "name" : "export",
+        "value" : "to AS12979 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS12989 action pref=150; accept AS12989 AS-HWNG"
+      }, {
+        "name" : "export",
+        "value" : "to AS12989 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS13005 action pref=150; accept AS-C2INTERNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS13005 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS13030 action pref=150; accept AS-INIT7"
+      }, {
+        "name" : "export",
+        "value" : "to AS13030 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS13037 action pref=150; accept AS-ZEN"
+      }, {
+        "name" : "export",
+        "value" : "to AS13037 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS13054 action pref=150; accept AS-FREINET"
+      }, {
+        "name" : "export",
+        "value" : "to AS13054 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS13062 action pref=150; accept AS13062 AS-LANCK"
+      }, {
+        "name" : "export",
+        "value" : "to AS13062 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS13078 action pref=150; accept AS13078"
+      }, {
+        "name" : "export",
+        "value" : "to AS13078 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS13101 action pref=150; accept AS-TNG"
+      }, {
+        "name" : "export",
+        "value" : "to AS13101 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS13105 action pref=150; accept AS-LUKOIL"
+      }, {
+        "name" : "export",
+        "value" : "to AS13105 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS13122 action pref=150; accept AS-MANX"
+      }, {
+        "name" : "export",
+        "value" : "to AS13122 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS13127 action pref=150; accept AS-VERSATEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS13127 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS13132 action pref=150; accept AS-CYBERWAYS"
+      }, {
+        "name" : "export",
+        "value" : "to AS13132 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS13174 action pref=150; accept AS-MTSNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS13174 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS13193 action pref=150; accept AS-NERIM"
+      }, {
+        "name" : "export",
+        "value" : "to AS13193 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS13213 action pref=150; accept AS13213"
+      }, {
+        "name" : "export",
+        "value" : "to AS13213 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS13215 action pref=200; accept AS-CONVEYPLUS"
+      }, {
+        "name" : "export",
+        "value" : "to AS13215 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS13230 action pref=150; accept AS-NCPORT AS13230"
+      }, {
+        "name" : "export",
+        "value" : "to AS13230 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS13238 action pref=150; accept AS-YANDEX"
+      }, {
+        "name" : "export",
+        "value" : "to AS13238 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS13249 action pref=150; accept AS-ITS-WORLD AS-ITS-DECIX AS-ITS"
+      }, {
+        "name" : "export",
+        "value" : "to AS13249 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS13285 action pref=150; accept AS-OPAL"
+      }, {
+        "name" : "export",
+        "value" : "to AS13285 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS13646 action pref=150; accept AS-PRIORITY"
+      }, {
+        "name" : "export",
+        "value" : "to AS13646 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS13768 action pref=150; accept AS-PEERONECUST"
+      }, {
+        "name" : "export",
+        "value" : "to AS13768 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS14076 action pref=150; accept AS-FT"
+      }, {
+        "name" : "export",
+        "value" : "to AS14076 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS14492 action pref=150; accept AS-DATAPIPE"
+      }, {
+        "name" : "export",
+        "value" : "to AS14492 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS14537 action pref=150; accept AS-MOHAWK-TRANSIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS14537 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15133 action pref=150; accept AS15133 AS-EDGECAST"
+      }, {
+        "name" : "export",
+        "value" : "to AS15133 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15169 action pref=150; accept AS-GOOGLE"
+      }, {
+        "name" : "export",
+        "value" : "to AS15169 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15290 action pref=150; accept AS15290 AS-ALLSTREAM"
+      }, {
+        "name" : "export",
+        "value" : "to AS15290 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15366 action pref=150; accept AS-DNSNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS15366 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15395 action pref=150; accept AS-RACKSPACE"
+      }, {
+        "name" : "export",
+        "value" : "to AS15395 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15412 action pref=150; accept AS-FLAGP"
+      }, {
+        "name" : "export",
+        "value" : "to AS15412 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15435 action pref=150; accept AS-KABELFOON"
+      }, {
+        "name" : "export",
+        "value" : "to AS15435 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15444 action pref=150; accept AS-NETSERVICES"
+      }, {
+        "name" : "export",
+        "value" : "to AS15444 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15455 action pref=200; accept AS15455"
+      }, {
+        "name" : "export",
+        "value" : "to AS15455 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS15509 action pref=150; accept AS-PLANT AS-15509"
+      }, {
+        "name" : "export",
+        "value" : "to AS15509 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15531 action pref=150; accept AS-MTELEPORT"
+      }, {
+        "name" : "export",
+        "value" : "to AS15531 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15535 action pref=150; accept AS-VIRTUALXS"
+      }, {
+        "name" : "export",
+        "value" : "to AS15535 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15542 action pref=150; accept AS-ZEELANDNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS15542 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15557 action pref=150; accept AS-LDCOMNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS15557 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15594 action pref=150; accept AS-NQ"
+      }, {
+        "name" : "export",
+        "value" : "to AS15594 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15598 action pref=150; accept AS-IPX"
+      }, {
+        "name" : "export",
+        "value" : "to AS15598 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15600 action pref=150; accept AS-LAN AS-FINECOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS15600 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15658 action pref=150; accept AS-INETCOMM"
+      }, {
+        "name" : "export",
+        "value" : "to AS15658 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15670 action pref=150; accept AS15670 AS-BBNED"
+      }, {
+        "name" : "export",
+        "value" : "to AS15670 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15682 action pref=150; accept AS-ITERANET"
+      }, {
+        "name" : "export",
+        "value" : "to AS15682 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15703 action pref=150; accept AS-TRUESERVER AS-TRUE"
+      }, {
+        "name" : "export",
+        "value" : "to AS15703 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15731 action pref=150; accept AS-BELCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS15731 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15743 action pref=150; accept AS-IPH"
+      }, {
+        "name" : "export",
+        "value" : "to AS15743 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15757 action pref=150; accept AS-GASCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS15757 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15766 action pref=150; accept AS15766"
+      }, {
+        "name" : "export",
+        "value" : "to AS15766 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15772 action pref=150; accept AS-WNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS15772 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15773 action pref=150; accept AS-INCLARITY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15773 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15805 action pref=150; accept AS-MTN-CYPRUS"
+      }, {
+        "name" : "export",
+        "value" : "to AS15805 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15830 action pref=150; accept AS-TELECITYLON"
+      }, {
+        "name" : "export",
+        "value" : "to AS15830 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15835 action pref=150; accept AS-MAP"
+      }, {
+        "name" : "export",
+        "value" : "to AS15835 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15839 action pref=150; accept AS15839"
+      }, {
+        "name" : "export",
+        "value" : "to AS15839 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15857 action pref=150; accept AS-DIALOG"
+      }, {
+        "name" : "export",
+        "value" : "to AS15857 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15879 action pref=150; accept AS-IS AS-IS-NL"
+      }, {
+        "name" : "export",
+        "value" : "to AS15879 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15925 action pref=150; accept AS-MEGA"
+      }, {
+        "name" : "export",
+        "value" : "to AS15925 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15934 action pref=150; accept AS-ZEBRA"
+      }, {
+        "name" : "export",
+        "value" : "to AS15934 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15960 action pref=150; accept AS-GLOBALACCESS"
+      }, {
+        "name" : "export",
+        "value" : "to AS15960 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS16080 action pref=150; accept AS16080"
+      }, {
+        "name" : "export",
+        "value" : "to AS16080 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS16082 action pref=150; accept AS-SPITFIRE"
+      }, {
+        "name" : "export",
+        "value" : "to AS16082 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS16083 action pref=150; accept AS-STACK"
+      }, {
+        "name" : "export",
+        "value" : "to AS16083 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS16097 action pref=150; accept AS-HLKOMM"
+      }, {
+        "name" : "export",
+        "value" : "to AS16097 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS16131 action pref=150; accept AS-GRAFIX-TRANSIT AS16131"
+      }, {
+        "name" : "export",
+        "value" : "to AS16131 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS16143 action pref=150; accept AS-RATEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS16143 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS16164 action pref=150; accept AS16164"
+      }, {
+        "name" : "export",
+        "value" : "to AS16164 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS16237 action pref=150; accept AS-NXS"
+      }, {
+        "name" : "export",
+        "value" : "to AS16237 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS16243 action pref=150; accept AS-VIRTU"
+      }, {
+        "name" : "export",
+        "value" : "to AS16243 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS16260 action pref=150; accept AS-XPOINT AS-PXMRP"
+      }, {
+        "name" : "export",
+        "value" : "to AS16260 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS16265 action pref=150; accept AS-LEASEWEB AS-LEASEWEB-AMX"
+      }, {
+        "name" : "export",
+        "value" : "to AS16265 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS16276 action pref=150; accept AS-OVH"
+      }, {
+        "name" : "export",
+        "value" : "to AS16276 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS16298 action pref=150; accept AS-INTERBOX"
+      }, {
+        "name" : "export",
+        "value" : "to AS16298 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS16300 action pref=150; accept AS16300"
+      }, {
+        "name" : "export",
+        "value" : "to AS16300 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS16321 action pref=150; accept AS-AICONET"
+      }, {
+        "name" : "export",
+        "value" : "to AS16321 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS16339 action pref=150; accept AS16339"
+      }, {
+        "name" : "export",
+        "value" : "to AS16339 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS16353 action pref=150; accept AS-MERULA"
+      }, {
+        "name" : "export",
+        "value" : "to AS16353 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS16637 action pref=150; accept AS-MTNNS"
+      }, {
+        "name" : "export",
+        "value" : "to AS16637 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS17451 action pref=150; accept AS17451"
+      }, {
+        "name" : "export",
+        "value" : "to AS17451 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS17660 action pref=150; accept AS-DRUKNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS17660 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS18922 action pref=150; accept AS-AFOLITES"
+      }, {
+        "name" : "export",
+        "value" : "to AS18922 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS19151 action pref=150; accept AS-WVFIBER"
+      }, {
+        "name" : "export",
+        "value" : "to AS19151 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20483 action pref=150; accept AS-RTNET AS-ECNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS20483 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20485 action pref=150; accept AS20485"
+      }, {
+        "name" : "export",
+        "value" : "to AS20485 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20495 action pref=150; accept AS-WEDARE"
+      }, {
+        "name" : "export",
+        "value" : "to AS20495 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20500 action pref=150; accept AS-GRIFFIN"
+      }, {
+        "name" : "export",
+        "value" : "to AS20500 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20504 action pref=150; accept AS-RTL AS20504"
+      }, {
+        "name" : "export",
+        "value" : "to AS20504 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20507 action pref=150; accept AS20507 AS-INTERNLNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS20507 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20562 action pref=150; accept AS-OPENPEERING"
+      }, {
+        "name" : "export",
+        "value" : "to AS20562 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20630 action pref=150; accept AS-SYNCHROLINE"
+      }, {
+        "name" : "export",
+        "value" : "to AS20630 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20632 action pref=150; accept AS-PETERSTAR"
+      }, {
+        "name" : "export",
+        "value" : "to AS20632 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20633 action pref=150; accept AS-UNIFFM"
+      }, {
+        "name" : "export",
+        "value" : "to AS20633 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20634 action pref=150; accept AS-LIECOMTEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS20634 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20639 action pref=150; accept AS-NETLAND"
+      }, {
+        "name" : "export",
+        "value" : "to AS20639 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20640 action pref=150; accept AS-TITANNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS20640 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20655 action pref=150; accept AS-EST"
+      }, {
+        "name" : "export",
+        "value" : "to AS20655 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20676 action pref=150; accept AS-QSC"
+      }, {
+        "name" : "export",
+        "value" : "to AS20676 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20679 action pref=150; accept AS-HSO"
+      }, {
+        "name" : "export",
+        "value" : "to AS20679 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20702 action pref=150; accept AS20702"
+      }, {
+        "name" : "export",
+        "value" : "to AS20702 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20712 action pref=150; accept AS-AA"
+      }, {
+        "name" : "export",
+        "value" : "to AS20712 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20747 action pref=150; accept AS-PINS"
+      }, {
+        "name" : "export",
+        "value" : "to AS20747 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20764 action pref=150; accept AS-RASCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS20764 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20773 action pref=150; accept AS20773:AS-HOSTEUROPE"
+      }, {
+        "name" : "export",
+        "value" : "to AS20773 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20799 action pref=150; accept AS-DATANETUK"
+      }, {
+        "name" : "export",
+        "value" : "to AS20799 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20804 action pref=150; accept AS-TELENERGO-INT"
+      }, {
+        "name" : "export",
+        "value" : "to AS20804 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20807 action pref=200; accept AS-CREDOLINK"
+      }, {
+        "name" : "export",
+        "value" : "to AS20807 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS20825 action pref=150; accept AS-UNITYMEDIA-DECIX"
+      }, {
+        "name" : "export",
+        "value" : "to AS20825 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20847 action pref=150; accept AS-INTROWEB"
+      }, {
+        "name" : "export",
+        "value" : "to AS20847 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20857 action pref=150; accept AS-TRANSIP"
+      }, {
+        "name" : "export",
+        "value" : "to AS20857 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20886 action pref=150; accept AS-BLATZ"
+      }, {
+        "name" : "export",
+        "value" : "to AS20886 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20899 action pref=150; accept AS-TRADEHAVEN"
+      }, {
+        "name" : "export",
+        "value" : "to AS20899 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20903 action pref=200; accept AS-VMB-SERVICE"
+      }, {
+        "name" : "export",
+        "value" : "to AS20903 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20919 action pref=150; accept AS-IBS"
+      }, {
+        "name" : "export",
+        "value" : "to AS20919 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20923 action pref=150; accept AS-SKYMARKET"
+      }, {
+        "name" : "export",
+        "value" : "to AS20923 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20940 action pref=150; accept AS-AKAMAI"
+      }, {
+        "name" : "export",
+        "value" : "to AS20940 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20946 action pref=150; accept AS-CCE"
+      }, {
+        "name" : "export",
+        "value" : "to AS20946 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20953 action pref=150; accept AS-INFO"
+      }, {
+        "name" : "export",
+        "value" : "to AS20953 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20969 action pref=150; accept AS-NOB"
+      }, {
+        "name" : "export",
+        "value" : "to AS20969 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS20985 action pref=150; accept AS-ARTX AS20985"
+      }, {
+        "name" : "export",
+        "value" : "to AS20985 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21011 action pref=150; accept AS21011:AS-EXT"
+      }, {
+        "name" : "export",
+        "value" : "to AS21011 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21013 action pref=150; accept AS-ITANDTEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS21013 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21021 action pref=150; accept AS-MULTIMEDIA"
+      }, {
+        "name" : "export",
+        "value" : "to AS21021 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21048 action pref=150; accept AS-COUNTRYCOM-SPB"
+      }, {
+        "name" : "export",
+        "value" : "to AS21048 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21055 action pref=150; accept AS-WEBTAPESTRY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21055 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21099 action pref=150; accept AS-BARRYSWORLD-LINX"
+      }, {
+        "name" : "export",
+        "value" : "to AS21099 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21155 action pref=150; accept AS-PROSERVE"
+      }, {
+        "name" : "export",
+        "value" : "to AS21155 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21156 action pref=150; accept AS-DATAGRUPARU"
+      }, {
+        "name" : "export",
+        "value" : "to AS21156 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21219 action pref=150; accept AS-FF-TRANSIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS21219 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21221 action pref=150; accept AS-INFOPACT"
+      }, {
+        "name" : "export",
+        "value" : "to AS21221 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21225 action pref=150; accept AS-AMTKOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS21225 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21240 action pref=150; accept AS-HELIOSNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS21240 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21263 action pref=150; accept AS-TELEDATA"
+      }, {
+        "name" : "export",
+        "value" : "to AS21263 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21295 action pref=150; accept AS21295"
+      }, {
+        "name" : "export",
+        "value" : "to AS21295 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21336 action pref=150; accept AS-IR"
+      }, {
+        "name" : "export",
+        "value" : "to AS21336 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21345 action pref=150; accept AS-MESSAGELABSEUROPE"
+      }, {
+        "name" : "export",
+        "value" : "to AS21345 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21353 action pref=150; accept AS-ARTCOMS"
+      }, {
+        "name" : "export",
+        "value" : "to AS21353 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21371 action pref=150; accept AS-EQUINIX-EU"
+      }, {
+        "name" : "export",
+        "value" : "to AS21371 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21372 action pref=150; accept AS21372"
+      }, {
+        "name" : "export",
+        "value" : "to AS21372 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21385 action pref=150; accept AS-TNIB"
+      }, {
+        "name" : "export",
+        "value" : "to AS21385 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21392 action pref=150; accept AS-MUNTINTERNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS21392 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21396 action pref=150; accept AS-NETCONNEX"
+      }, {
+        "name" : "export",
+        "value" : "to AS21396 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21409 action pref=150; accept AS-IKOULA"
+      }, {
+        "name" : "export",
+        "value" : "to AS21409 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21413 action pref=150; accept AS-ENVIATEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS21413 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21446 action pref=150; accept AS-ALMAZTELECOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS21446 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21453 action pref=150; accept AS-FLEX"
+      }, {
+        "name" : "export",
+        "value" : "to AS21453 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21473 action pref=150; accept AS-MANET"
+      }, {
+        "name" : "export",
+        "value" : "to AS21473 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21478 action pref=150; accept AS-PLEX"
+      }, {
+        "name" : "export",
+        "value" : "to AS21478 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21844 action pref=150; accept AS-THEPLANET"
+      }, {
+        "name" : "export",
+        "value" : "to AS21844 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS22822 action pref=150; accept AS-LLNW"
+      }, {
+        "name" : "export",
+        "value" : "to AS22822 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS23393 action pref=150; accept AS-ISPRIME"
+      }, {
+        "name" : "export",
+        "value" : "to AS23393 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24167 action pref=150; accept AS-ASGC AS-ASNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS24167 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24586 action pref=150; accept AS-INTERMAX AS24586"
+      }, {
+        "name" : "export",
+        "value" : "to AS24586 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24594 action pref=150; accept AS24594"
+      }, {
+        "name" : "export",
+        "value" : "to AS24594 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24599 action pref=150; accept AS-MIRTELECOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS24599 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24637 action pref=150; accept AS-WEBDISCOUNT"
+      }, {
+        "name" : "export",
+        "value" : "to AS24637 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24638 action pref=150; accept AS-RAMTEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS24638 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24642 action pref=150; accept AS-CAVEO"
+      }, {
+        "name" : "export",
+        "value" : "to AS24642 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24679 action pref=150; accept AS-SSERV"
+      }, {
+        "name" : "export",
+        "value" : "to AS24679 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24680 action pref=150; accept AS24680"
+      }, {
+        "name" : "export",
+        "value" : "to AS24680 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24724 action pref=150; accept AS24724:AS-FOREIGN"
+      }, {
+        "name" : "export",
+        "value" : "to AS24724 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24730 action pref=150; accept AS-NETHOLDING"
+      }, {
+        "name" : "export",
+        "value" : "to AS24730 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24739 action pref=150; accept AS-SEVEREN-TELECOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS24739 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24762 action pref=150; accept AS-STELCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS24762 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24829 action pref=150; accept AS24829"
+      }, {
+        "name" : "export",
+        "value" : "to AS24829 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24851 action pref=150; accept AS-NETCETERA"
+      }, {
+        "name" : "export",
+        "value" : "to AS24851 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24875 action pref=150; accept AS-ISPSERVICES"
+      }, {
+        "name" : "export",
+        "value" : "to AS24875 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24905 action pref=150; accept AS-TERRALINK"
+      }, {
+        "name" : "export",
+        "value" : "to AS24905 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24913 action pref=200; accept AS24913"
+      }, {
+        "name" : "export",
+        "value" : "to AS24913 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS24916 action pref=150; accept AS-ORBITAL"
+      }, {
+        "name" : "export",
+        "value" : "to AS24916 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24931 action pref=150; accept AS-DEDIPOWER"
+      }, {
+        "name" : "export",
+        "value" : "to AS24931 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24936 action pref=150; accept AS-RIM2000M"
+      }, {
+        "name" : "export",
+        "value" : "to AS24936 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24940 action pref=150; accept AS-HETZNER"
+      }, {
+        "name" : "export",
+        "value" : "to AS24940 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24961 action pref=150; accept AS-FASTIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS24961 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24963 action pref=150; accept AS-YACAST"
+      }, {
+        "name" : "export",
+        "value" : "to AS24963 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24974 action pref=150; accept AS-TACHYON-EU"
+      }, {
+        "name" : "export",
+        "value" : "to AS24974 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24989 action pref=150; accept AS-EQUINIX-DE AS-IXE-FFT"
+      }, {
+        "name" : "export",
+        "value" : "to AS24989 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25032 action pref=150; accept AS-TLIC"
+      }, {
+        "name" : "export",
+        "value" : "to AS25032 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25061 action pref=150; accept AS-ANLX"
+      }, {
+        "name" : "export",
+        "value" : "to AS25061 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25074 action pref=150; accept AS-INETBONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS25074 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25152 action pref=150; accept AS-KROOT AS25152 AS-25152"
+      }, {
+        "name" : "export",
+        "value" : "to AS25152 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25182 action pref=150; accept AS-PUBLIEKEOMROEP"
+      }, {
+        "name" : "export",
+        "value" : "to AS25182 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25205 action pref=150; accept AS25205"
+      }, {
+        "name" : "export",
+        "value" : "to AS25205 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25286 action pref=150; accept AS-IPERCAST AS25286"
+      }, {
+        "name" : "export",
+        "value" : "to AS25286 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25290 action pref=200; accept AS25290"
+      }, {
+        "name" : "export",
+        "value" : "to AS25290 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS25292 action pref=150; accept AS25292"
+      }, {
+        "name" : "export",
+        "value" : "to AS25292 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25308 action pref=150; accept AS-CITYLAN"
+      }, {
+        "name" : "export",
+        "value" : "to AS25308 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25371 action pref=150; accept as25371"
+      }, {
+        "name" : "export",
+        "value" : "to AS25371 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25394 action pref=150; accept AS-MK-NETZDIENSTE"
+      }, {
+        "name" : "export",
+        "value" : "to AS25394 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25408 action pref=200; accept AS-SILVERNET AS25408 AS-WESTCALLSPB"
+      }, {
+        "name" : "export",
+        "value" : "to AS25408 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS25459 action pref=150; accept AS-NEDZONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS25459 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25474 action pref=150; accept AS25474"
+      }, {
+        "name" : "export",
+        "value" : "to AS25474 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25478 action pref=150; accept AS-IHOME"
+      }, {
+        "name" : "export",
+        "value" : "to AS25478 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25511 action pref=150; accept AS-NET21"
+      }, {
+        "name" : "export",
+        "value" : "to AS25511 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25520 action pref=150; accept AS-FUTURES"
+      }, {
+        "name" : "export",
+        "value" : "to AS25520 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25525 action pref=150; accept AS-REASONNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS25525 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25531 action pref=150; accept AS-INTINFORM"
+      }, {
+        "name" : "export",
+        "value" : "to AS25531 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25542 action pref=150; accept AS-DENIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS25542 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25560 action pref=150; accept AS-RHTEC"
+      }, {
+        "name" : "export",
+        "value" : "to AS25560 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25562 action pref=150; accept AS-SCEE"
+      }, {
+        "name" : "export",
+        "value" : "to AS25562 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25577 action pref=150; accept AS-C4L"
+      }, {
+        "name" : "export",
+        "value" : "to AS25577 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25596 action pref=150; accept AS-CAMBRIUM"
+      }, {
+        "name" : "export",
+        "value" : "to AS25596 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25818 action pref=150; accept AS25818"
+      }, {
+        "name" : "export",
+        "value" : "to AS25818 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25973 action pref=150; accept AS-MZIMA"
+      }, {
+        "name" : "export",
+        "value" : "to AS25973 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS26415 action pref=150; accept AS26415"
+      }, {
+        "name" : "export",
+        "value" : "to AS26415 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS26943 action pref=150; accept AS26943"
+      }, {
+        "name" : "export",
+        "value" : "to AS26943 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS28685 action pref=150; accept AS-ROUTIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS28685 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS28753 action pref=150; accept AS-NETDIRECT"
+      }, {
+        "name" : "export",
+        "value" : "to AS28753 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS28762 action pref=150; accept AS-AWAX"
+      }, {
+        "name" : "export",
+        "value" : "to AS28762 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS28788 action pref=150; accept AS-UNILOGICNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS28788 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS28809 action pref=200; accept AS-NAUKANET"
+      }, {
+        "name" : "export",
+        "value" : "to AS28809 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS28836 action pref=150; accept AS-ICSNL"
+      }, {
+        "name" : "export",
+        "value" : "to AS28836 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS28870 action pref=150; accept AS-PLUS AS-PLUS-RU"
+      }, {
+        "name" : "export",
+        "value" : "to AS28870 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS28878 action pref=150; accept AS-SIGNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS28878 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS28917 action pref=150; accept AS-FIORD"
+      }, {
+        "name" : "export",
+        "value" : "to AS28917 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS28929 action pref=150; accept AS-ASDASD"
+      }, {
+        "name" : "export",
+        "value" : "to AS28929 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS28968 action pref=150; accept AS-EUT"
+      }, {
+        "name" : "export",
+        "value" : "to AS28968 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29000 action pref=150; accept AS-SENSYS"
+      }, {
+        "name" : "export",
+        "value" : "to AS29000 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29006 action pref=150; accept AS-POBOX"
+      }, {
+        "name" : "export",
+        "value" : "to AS29006 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29009 action pref=150; accept AS-UKBB"
+      }, {
+        "name" : "export",
+        "value" : "to AS29009 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29017 action pref=150; accept AS-GYRON"
+      }, {
+        "name" : "export",
+        "value" : "to AS29017 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29053 action pref=150; accept AS-JSC-TELENET"
+      }, {
+        "name" : "export",
+        "value" : "to AS29053 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29066 action pref=150; accept AS-VELIANET"
+      }, {
+        "name" : "export",
+        "value" : "to AS29066 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29069 action pref=150; accept AS-TLK"
+      }, {
+        "name" : "export",
+        "value" : "to AS29069 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29073 action pref=150; accept AS-ECATEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS29073 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29076 action pref=150; accept AS-CITYTELECOM AS-HOSTER"
+      }, {
+        "name" : "export",
+        "value" : "to AS29076 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29113 action pref=150; accept AS-SLOANE"
+      }, {
+        "name" : "export",
+        "value" : "to AS29113 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29124 action pref=150; accept AS-SU29TELECOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS29124 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29131 action pref=150; accept AS-RAPIDSWITCH"
+      }, {
+        "name" : "export",
+        "value" : "to AS29131 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29208 action pref=150; accept AS-DIALTELECOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS29208 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29226 action pref=150; accept AS-MASTERTEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS29226 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29263 action pref=150; accept AS-HAAGNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS29263 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29285 action pref=150; accept AS-AMTMGTS"
+      }, {
+        "name" : "export",
+        "value" : "to AS29285 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29319 action pref=150; accept AS-IMSYS"
+      }, {
+        "name" : "export",
+        "value" : "to AS29319 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29328 action pref=150; accept AS29328"
+      }, {
+        "name" : "export",
+        "value" : "to AS29328 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29329 action pref=150; accept AS-NODEX"
+      }, {
+        "name" : "export",
+        "value" : "to AS29329 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29355 action pref=200; accept AS29355"
+      }, {
+        "name" : "export",
+        "value" : "to AS29355 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS29388 action pref=150; accept AS-BESTCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS29388 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29396 action pref=150; accept AS-UNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS29396 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29404 action pref=150; accept AS-ELBRACHT"
+      }, {
+        "name" : "export",
+        "value" : "to AS29404 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29413 action pref=150; accept AS-KOMRO"
+      }, {
+        "name" : "export",
+        "value" : "to AS29413 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29426 action pref=150; accept AS29426"
+      }, {
+        "name" : "export",
+        "value" : "to AS29426 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29438 action pref=150; accept AS29438 AS-MOMAX"
+      }, {
+        "name" : "export",
+        "value" : "to AS29438 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29440 action pref=200; accept AS29440"
+      }, {
+        "name" : "export",
+        "value" : "to AS29440 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS29452 action pref=150; accept AS-SECURA"
+      }, {
+        "name" : "export",
+        "value" : "to AS29452 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29527 action pref=150; accept AS-OTHELLOTECH"
+      }, {
+        "name" : "export",
+        "value" : "to AS29527 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29530 action pref=150; accept AS-TITL"
+      }, {
+        "name" : "export",
+        "value" : "to AS29530 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29550 action pref=150; accept AS-POUNDHOST"
+      }, {
+        "name" : "export",
+        "value" : "to AS29550 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29562 action pref=150; accept AS-KABELBW"
+      }, {
+        "name" : "export",
+        "value" : "to AS29562 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29610 action pref=150; accept AS-BREISNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS29610 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29611 action pref=150; accept AS-ELITE"
+      }, {
+        "name" : "export",
+        "value" : "to AS29611 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29632 action pref=150; accept AS-NETASSIST"
+      }, {
+        "name" : "export",
+        "value" : "to AS29632 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29636 action pref=150; accept AS-CATALYST2"
+      }, {
+        "name" : "export",
+        "value" : "to AS29636 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29640 action pref=150; accept AS-COMNED AS29640"
+      }, {
+        "name" : "export",
+        "value" : "to AS29640 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29651 action pref=150; accept AS-CTCS"
+      }, {
+        "name" : "export",
+        "value" : "to AS29651 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29668 action pref=150; accept AS-QUBE"
+      }, {
+        "name" : "export",
+        "value" : "to AS29668 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29686 action pref=150; accept AS-PROBENETWORKS"
+      }, {
+        "name" : "export",
+        "value" : "to AS29686 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS29791 action pref=150; accept AS-VOXEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS29791 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS30094 action pref=150; accept AS30094 AS-GIGANEWS-ALL"
+      }, {
+        "name" : "export",
+        "value" : "to AS30094 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS30124 action pref=150; accept AS3557"
+      }, {
+        "name" : "export",
+        "value" : "to AS30124 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS30132 action pref=150; accept AS3557 AS30132"
+      }, {
+        "name" : "export",
+        "value" : "to AS30132 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS30733 action pref=150; accept AS-GLOBUS"
+      }, {
+        "name" : "export",
+        "value" : "to AS30733 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS30740 action pref=150; accept AS-EXA"
+      }, {
+        "name" : "export",
+        "value" : "to AS30740 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS30751 action pref=150; accept AS-EUROTEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS30751 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS30781 action pref=150; accept AS-JAGUAR"
+      }, {
+        "name" : "export",
+        "value" : "to AS30781 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS30827 action pref=150; accept AS-XTRAORDINARY"
+      }, {
+        "name" : "export",
+        "value" : "to AS30827 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS30833 action pref=150; accept AS-TNC"
+      }, {
+        "name" : "export",
+        "value" : "to AS30833 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS30844 action pref=150; accept AS-ECS"
+      }, {
+        "name" : "export",
+        "value" : "to AS30844 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS30853 action pref=150; accept AS30853"
+      }, {
+        "name" : "export",
+        "value" : "to AS30853 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS30889 action pref=150; accept AS-WAYCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS30889 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS30890 action pref=150; accept AS-EVOLVA"
+      }, {
+        "name" : "export",
+        "value" : "to AS30890 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS30914 action pref=150; accept AS-IOKO"
+      }, {
+        "name" : "export",
+        "value" : "to AS30914 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS30925 action pref=150; accept AS-SPEEDXS"
+      }, {
+        "name" : "export",
+        "value" : "to AS30925 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS30943 action pref=150; accept AS-UTRANSIT-PG-EU"
+      }, {
+        "name" : "export",
+        "value" : "to AS30943 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS30968 action pref=150; accept AS-INFOBOX"
+      }, {
+        "name" : "export",
+        "value" : "to AS30968 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31025 action pref=150; accept AS-IAG"
+      }, {
+        "name" : "export",
+        "value" : "to AS31025 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31059 action pref=150; accept AS-AVELACOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS31059 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31084 action pref=150; accept AS-MAGRATHEA"
+      }, {
+        "name" : "export",
+        "value" : "to AS31084 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31103 action pref=150; accept AS-KEYWEB"
+      }, {
+        "name" : "export",
+        "value" : "to AS31103 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31133 action pref=150; accept AS-MF-MGSM"
+      }, {
+        "name" : "export",
+        "value" : "to AS31133 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31189 action pref=200; accept AS31189"
+      }, {
+        "name" : "export",
+        "value" : "to AS31189 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS31191 action pref=150; accept AS-NAUKANET2"
+      }, {
+        "name" : "export",
+        "value" : "to AS31191 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31196 action pref=150; accept AS31196"
+      }, {
+        "name" : "export",
+        "value" : "to AS31196 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31225 action pref=150; accept AS-OBLCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS31225 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31252 action pref=150; accept AS-STARNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS31252 announce AS-STARNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS31261 action pref=150; accept AS-GARS"
+      }, {
+        "name" : "export",
+        "value" : "to AS31261 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31277 action pref=200; accept AS-NEWLINESPB"
+      }, {
+        "name" : "export",
+        "value" : "to AS31277 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS31283 action pref=150; accept AS-FASTHOST"
+      }, {
+        "name" : "export",
+        "value" : "to AS31283 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31294 action pref=150; accept AS31294"
+      }, {
+        "name" : "export",
+        "value" : "to AS31294 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31323 action pref=200; accept AS-UNNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS31323 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS31334 action pref=150; accept AS-KDG"
+      }, {
+        "name" : "export",
+        "value" : "to AS31334 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31368 action pref=150; accept AS-ASTELNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS31368 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31370 action pref=150; accept AS-MOSLINE"
+      }, {
+        "name" : "export",
+        "value" : "to AS31370 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31376 action pref=150; accept AS-SMART-C"
+      }, {
+        "name" : "export",
+        "value" : "to AS31376 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31383 action pref=150; accept AS-COMPUTEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS31383 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31400 action pref=150; accept AS-ACCELERATED"
+      }, {
+        "name" : "export",
+        "value" : "to AS31400 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31415 action pref=150; accept AS-SVSCOMM"
+      }, {
+        "name" : "export",
+        "value" : "to AS31415 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31430 action pref=150; accept AS-TEL-NET"
+      }, {
+        "name" : "export",
+        "value" : "to AS31430 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31444 action pref=150; accept AS-SEANET"
+      }, {
+        "name" : "export",
+        "value" : "to AS31444 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31458 action pref=150; accept AS-SMART"
+      }, {
+        "name" : "export",
+        "value" : "to AS31458 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31477 action pref=150; accept AS-DUOCAST"
+      }, {
+        "name" : "export",
+        "value" : "to AS31477 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31494 action pref=150; accept AS-Infoseti"
+      }, {
+        "name" : "export",
+        "value" : "to AS31494 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31500 action pref=150; accept AS-GLOBAL-NET AS-ETELECOM-2"
+      }, {
+        "name" : "export",
+        "value" : "to AS31500 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31501 action pref=150; accept AS-SPBTELEPORT"
+      }, {
+        "name" : "export",
+        "value" : "to AS31501 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31514 action pref=150; accept AS31514"
+      }, {
+        "name" : "export",
+        "value" : "to AS31514 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31529 action pref=150; accept AS31529"
+      }, {
+        "name" : "export",
+        "value" : "to AS31529 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31661 action pref=150; accept AS-COMX"
+      }, {
+        "name" : "export",
+        "value" : "to AS31661 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31708 action pref=150; accept AS-COREIX"
+      }, {
+        "name" : "export",
+        "value" : "to AS31708 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31715 action pref=150; accept AS-NETRINO"
+      }, {
+        "name" : "export",
+        "value" : "to AS31715 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31720 action pref=150; accept AS-ENGINET"
+      }, {
+        "name" : "export",
+        "value" : "to AS31720 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31727 action pref=150; accept AS-NODE4"
+      }, {
+        "name" : "export",
+        "value" : "to AS31727 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS32787 action pref=150; accept AS-PROLE"
+      }, {
+        "name" : "export",
+        "value" : "to AS32787 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS32934 action pref=150; accept AS32934"
+      }, {
+        "name" : "export",
+        "value" : "to AS32934 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS33808 action pref=150; accept AS-ITENOS"
+      }, {
+        "name" : "export",
+        "value" : "to AS33808 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS33843 action pref=150; accept AS-INTERSCHOLZ"
+      }, {
+        "name" : "export",
+        "value" : "to AS33843 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS33873 action pref=150; accept AS-ARVATO"
+      }, {
+        "name" : "export",
+        "value" : "to AS33873 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS33891 action pref=150; accept AS-CORE-BACKBONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS33891 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS33902 action pref=150; accept AS-STARNETWORKS"
+      }, {
+        "name" : "export",
+        "value" : "to AS33902 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS33904 action pref=150; accept AS-INTELCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS33904 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS33915 action pref=150; accept AS-TNF"
+      }, {
+        "name" : "export",
+        "value" : "to AS33915 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS33926 action pref=150; accept AS-EUROTRANSIT AS-CLANSERVER4U"
+      }, {
+        "name" : "export",
+        "value" : "to AS33926 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34011 action pref=150; accept AS-DOMAINFACTORY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34011 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34030 action pref=150; accept AS34030"
+      }, {
+        "name" : "export",
+        "value" : "to AS34030 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34102 action pref=150; accept AS-AWANTI"
+      }, {
+        "name" : "export",
+        "value" : "to AS34102 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34106 action pref=150; accept AS-TELEGRAAF"
+      }, {
+        "name" : "export",
+        "value" : "to AS34106 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34123 action pref=150; accept AS-NETORN"
+      }, {
+        "name" : "export",
+        "value" : "to AS34123 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34141 action pref=150; accept AS-IN2IP"
+      }, {
+        "name" : "export",
+        "value" : "to AS34141 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34211 action pref=150; accept AS-CWN"
+      }, {
+        "name" : "export",
+        "value" : "to AS34211 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34224 action pref=150; accept AS-NETERRA-DE-CIX AS-NETERRA-INT"
+      }, {
+        "name" : "export",
+        "value" : "to AS34224 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34232 action pref=200; accept AS34232"
+      }, {
+        "name" : "export",
+        "value" : "to AS34232 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS34245 action pref=150; accept AS-MAGNETLOCAL"
+      }, {
+        "name" : "export",
+        "value" : "to AS34245 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34270 action pref=150; accept AS-INETC"
+      }, {
+        "name" : "export",
+        "value" : "to AS34270 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34300 action pref=150; accept AS34300"
+      }, {
+        "name" : "export",
+        "value" : "to AS34300 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34305 action pref=150; accept AS-EUROACCESS"
+      }, {
+        "name" : "export",
+        "value" : "to AS34305 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34309 action pref=150; accept AS-LINK11"
+      }, {
+        "name" : "export",
+        "value" : "to AS34309 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34313 action pref=150; accept AS-LIXXUS"
+      }, {
+        "name" : "export",
+        "value" : "to AS34313 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34352 action pref=150; accept AS34352 AS-MCN"
+      }, {
+        "name" : "export",
+        "value" : "to AS34352 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34430 action pref=150; accept AS-QORE"
+      }, {
+        "name" : "export",
+        "value" : "to AS34430 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34456 action pref=150; accept AS-RCPEERS"
+      }, {
+        "name" : "export",
+        "value" : "to AS34456 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34486 action pref=150; accept AS-IP2"
+      }, {
+        "name" : "export",
+        "value" : "to AS34486 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34602 action pref=150; accept AS-STARLNK"
+      }, {
+        "name" : "export",
+        "value" : "to AS34602 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34655 action pref=150; accept AS-DOCLER AS-JASMIN"
+      }, {
+        "name" : "export",
+        "value" : "to AS34655 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34664 action pref=200; accept AS34664"
+      }, {
+        "name" : "export",
+        "value" : "to AS34664 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS34687 action pref=150; accept AS34687"
+      }, {
+        "name" : "export",
+        "value" : "to AS34687 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34695 action pref=150; accept AS34695:AS-TRANSIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS34695 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34763 action pref=150; accept AS-VIRGINRADIO"
+      }, {
+        "name" : "export",
+        "value" : "to AS34763 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34788 action pref=150; accept AS-NMM"
+      }, {
+        "name" : "export",
+        "value" : "to AS34788 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34790 action pref=150; accept AS-WAVEWORKS"
+      }, {
+        "name" : "export",
+        "value" : "to AS34790 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34816 action pref=150; accept AS-AEG"
+      }, {
+        "name" : "export",
+        "value" : "to AS34816 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34879 action pref=150; accept AS-NGENIX-MSK AS-NGENIX-SPB"
+      }, {
+        "name" : "export",
+        "value" : "to AS34879 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34898 action pref=150; accept AS-SYMBIOS"
+      }, {
+        "name" : "export",
+        "value" : "to AS34898 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34968 action pref=150; accept AS-IUNXI"
+      }, {
+        "name" : "export",
+        "value" : "to AS34968 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35000 action pref=200; accept AS-PROMETEY AS-PROMETEY-IX"
+      }, {
+        "name" : "export",
+        "value" : "to AS35000 announce AS-ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS35028 action pref=150; accept AS-MULTIPLAY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35028 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35087 action pref=150; accept AS-NTSI"
+      }, {
+        "name" : "export",
+        "value" : "to AS35087 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35118 action pref=150; accept AS35118 AS-SMARTLOGIC"
+      }, {
+        "name" : "export",
+        "value" : "to AS35118 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35178 action pref=150; accept AS-TELART"
+      }, {
+        "name" : "export",
+        "value" : "to AS35178 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35228 action pref=150; accept AS35228"
+      }, {
+        "name" : "export",
+        "value" : "to AS35228 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35244 action pref=150; accept AS-KMS"
+      }, {
+        "name" : "export",
+        "value" : "to AS35244 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35320 action pref=150; accept AS-ETT"
+      }, {
+        "name" : "export",
+        "value" : "to AS35320 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35357 action pref=150; accept AS-RTS"
+      }, {
+        "name" : "export",
+        "value" : "to AS35357 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35366 action pref=150; accept AS-ISPPRO"
+      }, {
+        "name" : "export",
+        "value" : "to AS35366 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35511 action pref=150; accept AS-IWAN"
+      }, {
+        "name" : "export",
+        "value" : "to AS35511 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35539 action pref=150; accept AS-INFOLINK"
+      }, {
+        "name" : "export",
+        "value" : "to AS35539 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35550 action pref=200; accept AS-WELLCOM AS35550"
+      }, {
+        "name" : "export",
+        "value" : "to AS35550 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS35591 action pref=150; accept AS-PROVIDERONE"
+      }, {
+        "name" : "export",
+        "value" : "to AS35591 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35616 action pref=150; accept AS-SILVERNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS35616 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35641 action pref=150; accept AS-ELECTROCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS35641 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35750 action pref=150; accept AS35750"
+      }, {
+        "name" : "export",
+        "value" : "to AS35750 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35751 action pref=150; accept AS-WFCS"
+      }, {
+        "name" : "export",
+        "value" : "to AS35751 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35768 action pref=150; accept AS-MSLINK"
+      }, {
+        "name" : "export",
+        "value" : "to AS35768 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35770 action pref=150; accept AS-NCTRADE"
+      }, {
+        "name" : "export",
+        "value" : "to AS35770 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35807 action pref=200; accept AS-SKYNET-SPB"
+      }, {
+        "name" : "export",
+        "value" : "to AS35807 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS36408 action pref=150; accept AS-PANTHER"
+      }, {
+        "name" : "export",
+        "value" : "to AS36408 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS36622 action pref=150; accept AS-GTLD"
+      }, {
+        "name" : "export",
+        "value" : "to AS36622 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS36623 action pref=150; accept AS-GTLD"
+      }, {
+        "name" : "export",
+        "value" : "to AS36623 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS36625 action pref=150; accept AS-GTLD"
+      }, {
+        "name" : "export",
+        "value" : "to AS36625 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS36692 action pref=150; accept AS-OPENDNS"
+      }, {
+        "name" : "export",
+        "value" : "to AS36692 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS36944 action pref=150; accept AS-TERTIARY"
+      }, {
+        "name" : "export",
+        "value" : "to AS36944 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS38082 action pref=150; accept AS38082"
+      }, {
+        "name" : "export",
+        "value" : "to AS38082 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS38922 action pref=150; accept AS-WILAND"
+      }, {
+        "name" : "export",
+        "value" : "to AS38922 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS38951 action pref=150; accept AS-TKT AS38951"
+      }, {
+        "name" : "export",
+        "value" : "to AS38951 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS38964 action pref=150; accept AS38964"
+      }, {
+        "name" : "export",
+        "value" : "to AS38964 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS39045 action pref=150; accept AS39045"
+      }, {
+        "name" : "export",
+        "value" : "to AS39045 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS39087 action pref=200; accept AS-PAKT"
+      }, {
+        "name" : "export",
+        "value" : "to AS39087 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS39102 action pref=200; accept AS-NNZ"
+      }, {
+        "name" : "export",
+        "value" : "to AS39102 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS39143 action pref=150; accept AS-BSB-RUS AS-BSB"
+      }, {
+        "name" : "export",
+        "value" : "to AS39143 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS39153 action pref=150; accept AS-SETEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS39153 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS39202 action pref=150; accept AS-GCAP"
+      }, {
+        "name" : "export",
+        "value" : "to AS39202 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS39257 action pref=150; accept AS-INC"
+      }, {
+        "name" : "export",
+        "value" : "to AS39257 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS39309 action pref=150; accept AS39309"
+      }, {
+        "name" : "export",
+        "value" : "to AS39309 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS39326 action pref=150; accept AS-GOSCOMB"
+      }, {
+        "name" : "export",
+        "value" : "to AS39326 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS39390 action pref=200; accept AS-SIAL"
+      }, {
+        "name" : "export",
+        "value" : "to AS39390 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS39493 action pref=150; accept AS39493"
+      }, {
+        "name" : "export",
+        "value" : "to AS39493 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS39556 action pref=150; accept AS-EASYHOSTING"
+      }, {
+        "name" : "export",
+        "value" : "to AS39556 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS39598 action pref=200; accept AS-TIERA"
+      }, {
+        "name" : "export",
+        "value" : "to AS39598 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS39637 action pref=150; accept AS-NETLOGICS"
+      }, {
+        "name" : "export",
+        "value" : "to AS39637 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS39709 action pref=150; accept AS39709 AS-MARYNONET"
+      }, {
+        "name" : "export",
+        "value" : "to AS39709 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS39792 action pref=150; accept AS-ANDERS"
+      }, {
+        "name" : "export",
+        "value" : "to AS39792 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS39821 action pref=150; accept AS-CANMOS"
+      }, {
+        "name" : "export",
+        "value" : "to AS39821 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS39866 action pref=200; accept AS39866"
+      }, {
+        "name" : "export",
+        "value" : "to AS39866 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS39912 action pref=150; accept AS-I3B"
+      }, {
+        "name" : "export",
+        "value" : "to AS39912 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS39922 action pref=150; accept AS-NLN"
+      }, {
+        "name" : "export",
+        "value" : "to AS39922 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS40009 action pref=150; accept AS-BITGRAVITY"
+      }, {
+        "name" : "export",
+        "value" : "to AS40009 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41012 action pref=150; accept AS-THECLOUD"
+      }, {
+        "name" : "export",
+        "value" : "to AS41012 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41025 action pref=150; accept AS41025 AS-CIFRA-SPBIX"
+      }, {
+        "name" : "export",
+        "value" : "to AS41025 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41034 action pref=150; accept AS-IMPULS"
+      }, {
+        "name" : "export",
+        "value" : "to AS41034 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41039 action pref=150; accept AS-DBD AS41039"
+      }, {
+        "name" : "export",
+        "value" : "to AS41039 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41045 action pref=150; accept AS-BUTLERNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS41045 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41095 action pref=150; accept AS-IPTP"
+      }, {
+        "name" : "export",
+        "value" : "to AS41095 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41099 action pref=150; accept AS41099"
+      }, {
+        "name" : "export",
+        "value" : "to AS41099 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41126 action pref=150; accept AS-HCRU"
+      }, {
+        "name" : "export",
+        "value" : "to AS41126 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41145 action pref=200; accept AS-TELIX"
+      }, {
+        "name" : "export",
+        "value" : "to AS41145 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS41197 action pref=150; accept AS-SWITCHMEDIA"
+      }, {
+        "name" : "export",
+        "value" : "to AS41197 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41206 action pref=150; accept AS-COMMSOL-CLI"
+      }, {
+        "name" : "export",
+        "value" : "to AS41206 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41230 action pref=150; accept AS-ASK4"
+      }, {
+        "name" : "export",
+        "value" : "to AS41230 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41289 action pref=150; accept AS-DWD"
+      }, {
+        "name" : "export",
+        "value" : "to AS41289 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41337 action pref=150; accept AS41337"
+      }, {
+        "name" : "export",
+        "value" : "to AS41337 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41349 action pref=150; accept AS-MVM"
+      }, {
+        "name" : "export",
+        "value" : "to AS41349 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41377 action pref=200; accept AS41377"
+      }, {
+        "name" : "export",
+        "value" : "to AS41377 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS41420 action pref=150; accept AS41420"
+      }, {
+        "name" : "export",
+        "value" : "to AS41420 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41445 action pref=150; accept AS-NETGROUND"
+      }, {
+        "name" : "export",
+        "value" : "to AS41445 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41512 action pref=200; accept AS41512"
+      }, {
+        "name" : "export",
+        "value" : "to AS41512 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS41546 action pref=200; accept AS-INTRASTAR"
+      }, {
+        "name" : "export",
+        "value" : "to AS41546 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS41552 action pref=150; accept AS41552"
+      }, {
+        "name" : "export",
+        "value" : "to AS41552 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41554 action pref=150; accept AS41554"
+      }, {
+        "name" : "export",
+        "value" : "to AS41554 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41601 action pref=150; accept AS-OBLTELECOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS41601 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41667 action pref=150; accept AS41667"
+      }, {
+        "name" : "export",
+        "value" : "to AS41667 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41690 action pref=150; accept AS-DAILYMOTION"
+      }, {
+        "name" : "export",
+        "value" : "to AS41690 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41692 action pref=150; accept AS-OPENCARRIER"
+      }, {
+        "name" : "export",
+        "value" : "to AS41692 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41733 action pref=200; accept AS41733"
+      }, {
+        "name" : "export",
+        "value" : "to AS41733 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS41798 action pref=200; accept AS-TRANSKZ"
+      }, {
+        "name" : "export",
+        "value" : "to AS41798 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS41802 action pref=150; accept AS41802"
+      }, {
+        "name" : "export",
+        "value" : "to AS41802 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41842 action pref=150; accept AS-MEDIAL"
+      }, {
+        "name" : "export",
+        "value" : "to AS41842 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41853 action pref=150; accept AS-NTCOM AS41853"
+      }, {
+        "name" : "export",
+        "value" : "to AS41853 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42113 action pref=200; accept AS42113"
+      }, {
+        "name" : "export",
+        "value" : "to AS42113 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS42132 action pref=150; accept AS-Radionet"
+      }, {
+        "name" : "export",
+        "value" : "to AS42132 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42184 action pref=150; accept AS-DLRZ"
+      }, {
+        "name" : "export",
+        "value" : "to AS42184 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42226 action pref=150; accept AS-EETC"
+      }, {
+        "name" : "export",
+        "value" : "to AS42226 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42317 action pref=150; accept AS42317"
+      }, {
+        "name" : "export",
+        "value" : "to AS42317 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42366 action pref=150; accept AS-TERRATRANSIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS42366 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42369 action pref=150; accept AS42369"
+      }, {
+        "name" : "export",
+        "value" : "to AS42369 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42377 action pref=150; accept AS42377"
+      }, {
+        "name" : "export",
+        "value" : "to AS42377 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42388 action pref=150; accept AS-BSVT"
+      }, {
+        "name" : "export",
+        "value" : "to AS42388 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42416 action pref=150; accept AS42416"
+      }, {
+        "name" : "export",
+        "value" : "to AS42416 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42455 action pref=150; accept AS-WIMANX"
+      }, {
+        "name" : "export",
+        "value" : "to AS42455 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42456 action pref=150; accept AS-CHMURTZ"
+      }, {
+        "name" : "export",
+        "value" : "to AS42456 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42511 action pref=150; accept AS42511"
+      }, {
+        "name" : "export",
+        "value" : "to AS42511 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42518 action pref=200; accept AS-UNETCOMRU"
+      }, {
+        "name" : "export",
+        "value" : "to AS42518 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS42563 action pref=200; accept AS-SATEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS42563 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS42583 action pref=150; accept AS-ULCOMNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS42583 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42605 action pref=150; accept AS-VRNETZE-FRA"
+      }, {
+        "name" : "export",
+        "value" : "to AS42605 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42610 action pref=150; accept AS-NCNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS42610 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42632 action pref=150; accept AS-MNOGOBYTE"
+      }, {
+        "name" : "export",
+        "value" : "to AS42632 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42652 action pref=150; accept AS-INTRAPARK"
+      }, {
+        "name" : "export",
+        "value" : "to AS42652 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42668 action pref=150; accept AS42668 AS-NEVALINK"
+      }, {
+        "name" : "export",
+        "value" : "to AS42668 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42689 action pref=150; accept AS-INUK"
+      }, {
+        "name" : "export",
+        "value" : "to AS42689 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42754 action pref=150; accept AS-7SKY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42754 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42764 action pref=150; accept AS42764"
+      }, {
+        "name" : "export",
+        "value" : "to AS42764 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42764 action pref=200; accept AS-GTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS42764 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS42765 action pref=150; accept AS42765"
+      }, {
+        "name" : "export",
+        "value" : "to AS42765 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42861 action pref=150; accept AS-PRIME-LINE"
+      }, {
+        "name" : "export",
+        "value" : "to AS42861 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42893 action pref=200; accept AS42893"
+      }, {
+        "name" : "export",
+        "value" : "to AS42893 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS42899 action pref=150; accept AS42899"
+      }, {
+        "name" : "export",
+        "value" : "to AS42899 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS42949 action pref=150; accept AS42949"
+      }, {
+        "name" : "export",
+        "value" : "to AS42949 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS43045 action pref=150; accept AS-SvHolding"
+      }, {
+        "name" : "export",
+        "value" : "to AS43045 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS43267 action pref=200; accept AS-LINETEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS43267 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS43293 action pref=150; accept AS43293"
+      }, {
+        "name" : "export",
+        "value" : "to AS43293 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS43303 action pref=150; accept AS43303 AS-CDNETWORKS-EU"
+      }, {
+        "name" : "export",
+        "value" : "to AS43303 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS43304 action pref=150; accept AS-FAST"
+      }, {
+        "name" : "export",
+        "value" : "to AS43304 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS43317 action pref=200; accept AS43317"
+      }, {
+        "name" : "export",
+        "value" : "to AS43317 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS43350 action pref=150; accept AS43350"
+      }, {
+        "name" : "export",
+        "value" : "to AS43350 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS43355 action pref=200; accept AS43355"
+      }, {
+        "name" : "export",
+        "value" : "to AS43355 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS43362 action pref=200; accept AS43362"
+      }, {
+        "name" : "export",
+        "value" : "to AS43362 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS43370 action pref=200; accept AS43370"
+      }, {
+        "name" : "export",
+        "value" : "to AS43370 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS43407 action pref=150; accept AS43407"
+      }, {
+        "name" : "export",
+        "value" : "to AS43407 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS43437 action pref=150; accept AS43437"
+      }, {
+        "name" : "export",
+        "value" : "to AS43437 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS43560 action pref=150; accept AS-PANTHERIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS43560 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS43671 action pref=150; accept AS43671"
+      }, {
+        "name" : "export",
+        "value" : "to AS43671 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS43690 action pref=150; accept AS-SPBROUTESERVER"
+      }, {
+        "name" : "export",
+        "value" : "to AS43690 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS43693 action pref=200; accept AS43693"
+      }, {
+        "name" : "export",
+        "value" : "to AS43693 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS43714 action pref=150; accept AS43714"
+      }, {
+        "name" : "export",
+        "value" : "to AS43714 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS43727 action pref=150; accept AS-SETKT"
+      }, {
+        "name" : "export",
+        "value" : "to AS43727 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS43747 action pref=200; accept AS43747"
+      }, {
+        "name" : "export",
+        "value" : "to AS43747 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS43798 action pref=150; accept AS43798"
+      }, {
+        "name" : "export",
+        "value" : "to AS43798 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS43821 action pref=150; accept AS-WIKIMEDIA"
+      }, {
+        "name" : "export",
+        "value" : "to AS43821 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS43832 action pref=150; accept AS-NS5_RIPN_NET"
+      }, {
+        "name" : "export",
+        "value" : "to AS43832 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS43966 action pref=200; accept AS43966"
+      }, {
+        "name" : "export",
+        "value" : "to AS43966 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS43973 action pref=150; accept AS-OSMP"
+      }, {
+        "name" : "export",
+        "value" : "to AS43973 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS44030 action pref=200; accept AS-LENTEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS44030 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS44031 action pref=150; accept AS-FRPT"
+      }, {
+        "name" : "export",
+        "value" : "to AS44031 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS44042 action pref=150; accept AS-ROOT"
+      }, {
+        "name" : "export",
+        "value" : "to AS44042 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS44048 action pref=150; accept AS44048"
+      }, {
+        "name" : "export",
+        "value" : "to AS44048 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS44050 action pref=200; accept AS-PIN-SPBIX AS-PIN-MSKIX AS-PIN"
+      }, {
+        "name" : "export",
+        "value" : "to AS44050 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS44063 action pref=150; accept AS44063"
+      }, {
+        "name" : "export",
+        "value" : "to AS44063 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS44066 action pref=150; accept AS-FIRSTCOLO"
+      }, {
+        "name" : "export",
+        "value" : "to AS44066 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS44068 action pref=200; accept AS44068"
+      }, {
+        "name" : "export",
+        "value" : "to AS44068 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS44094 action pref=150; accept AS44094"
+      }, {
+        "name" : "export",
+        "value" : "to AS44094 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS44200 action pref=150; accept AS-RUSNETLAB"
+      }, {
+        "name" : "export",
+        "value" : "to AS44200 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS44224 action pref=150; accept AS44224"
+      }, {
+        "name" : "export",
+        "value" : "to AS44224 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS44237 action pref=150; accept AS-CTC-CORE"
+      }, {
+        "name" : "export",
+        "value" : "to AS44237 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS44283 action pref=150; accept AS44283"
+      }, {
+        "name" : "export",
+        "value" : "to AS44283 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS44380 action pref=200; accept AS44380"
+      }, {
+        "name" : "export",
+        "value" : "to AS44380 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS44436 action pref=150; accept AS-EFFORTEL-MSK-IX"
+      }, {
+        "name" : "export",
+        "value" : "to AS44436 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS44444 action pref=150; accept AS-WHS-EU"
+      }, {
+        "name" : "export",
+        "value" : "to AS44444 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS44640 action pref=150; accept AS44640"
+      }, {
+        "name" : "export",
+        "value" : "to AS44640 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS44654 action pref=150; accept AS-MNS"
+      }, {
+        "name" : "export",
+        "value" : "to AS44654 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS44720 action pref=150; accept AS44720"
+      }, {
+        "name" : "export",
+        "value" : "to AS44720 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS44727 action pref=200; accept AS44727"
+      }, {
+        "name" : "export",
+        "value" : "to AS44727 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS44882 action pref=200; accept AS-VSEVNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS44882 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS44923 action pref=200; accept AS44923"
+      }, {
+        "name" : "export",
+        "value" : "to AS44923 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS44969 action pref=200; accept AS44969"
+      }, {
+        "name" : "export",
+        "value" : "to AS44969 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS45009 action pref=150; accept AS-MRSNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS45009 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS45029 action pref=150; accept AS-NS9_RIPN_NET"
+      }, {
+        "name" : "export",
+        "value" : "to AS45029 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS45046 action pref=150; accept AS-ISATEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS45046 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS46786 action pref=150; accept AS-IPTRANSIT"
+      }, {
+        "name" : "export",
+        "value" : "to AS46786 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS47111 action pref=200; accept AS-R2TV"
+      }, {
+        "name" : "export",
+        "value" : "to AS47111 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS47115 action pref=200; accept AS47115"
+      }, {
+        "name" : "export",
+        "value" : "to AS47115 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS47133 action pref=200; accept AS47133"
+      }, {
+        "name" : "export",
+        "value" : "to AS47133 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS47138 action pref=150; accept AS-PLANINTERNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS47138 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS47195 action pref=150; accept AS-GAMEFORGE"
+      }, {
+        "name" : "export",
+        "value" : "to AS47195 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS47211 action pref=150; accept AS47211"
+      }, {
+        "name" : "export",
+        "value" : "to AS47211 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS47215 action pref=150; accept AS-FILOO"
+      }, {
+        "name" : "export",
+        "value" : "to AS47215 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS47395 action pref=150; accept AS47395"
+      }, {
+        "name" : "export",
+        "value" : "to AS47395 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS47459 action pref=200; accept AS47459"
+      }, {
+        "name" : "export",
+        "value" : "to AS47459 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS47503 action pref=200; accept AS47503"
+      }, {
+        "name" : "export",
+        "value" : "to AS47503 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS47522 action pref=150; accept AS-NETFORT"
+      }, {
+        "name" : "export",
+        "value" : "to AS47522 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS47542 action pref=150; accept AS-VKONTAKTE"
+      }, {
+        "name" : "export",
+        "value" : "to AS47542 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS47724 action pref=150; accept AS47724"
+      }, {
+        "name" : "export",
+        "value" : "to AS47724 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS47757 action pref=200; accept AS47757"
+      }, {
+        "name" : "export",
+        "value" : "to AS47757 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS47785 action pref=200; accept AS47785"
+      }, {
+        "name" : "export",
+        "value" : "to AS47785 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS47807 action pref=200; accept AS47807"
+      }, {
+        "name" : "export",
+        "value" : "to AS47807 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS47999 action pref=150; accept AS47999"
+      }, {
+        "name" : "export",
+        "value" : "to AS47999 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS48076 action pref=200; accept AS-OLYMP-TELECOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS48076 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS48102 action pref=200; accept AS-PETERSERVICE"
+      }, {
+        "name" : "export",
+        "value" : "to AS48102 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS48105 action pref=200; accept AS48105"
+      }, {
+        "name" : "export",
+        "value" : "to AS48105 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS48172 action pref=150; accept AS48172"
+      }, {
+        "name" : "export",
+        "value" : "to AS48172 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS48234 action pref=200; accept AS-ILCA"
+      }, {
+        "name" : "export",
+        "value" : "to AS48234 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS48257 action pref=200; accept AS48257"
+      }, {
+        "name" : "export",
+        "value" : "to AS48257 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS48268 action pref=150; accept AS-INTERFIBER"
+      }, {
+        "name" : "export",
+        "value" : "to AS48268 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS48370 action pref=200; accept AS-WESTCOM"
+      }, {
+        "name" : "export",
+        "value" : "to AS48370 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS48416 action pref=200; accept AS-INFOLAN"
+      }, {
+        "name" : "export",
+        "value" : "to AS48416 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS48601 action pref=200; accept AS48601"
+      }, {
+        "name" : "export",
+        "value" : "to AS48601 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS48666 action pref=150; accept AS48666"
+      }, {
+        "name" : "export",
+        "value" : "to AS48666 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS48704 action pref=200; accept AS48704"
+      }, {
+        "name" : "export",
+        "value" : "to AS48704 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS48773 action pref=200; accept AS48773"
+      }, {
+        "name" : "export",
+        "value" : "to AS48773 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS48781 action pref=150; accept AS48781"
+      }, {
+        "name" : "export",
+        "value" : "to AS48781 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS48822 action pref=150; accept AS48822"
+      }, {
+        "name" : "export",
+        "value" : "to AS48822 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS48905 action pref=200; accept AS48905"
+      }, {
+        "name" : "export",
+        "value" : "to AS48905 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS48986 action pref=200; accept AS48986"
+      }, {
+        "name" : "export",
+        "value" : "to AS48986 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS49045 action pref=200; accept AS49045"
+      }, {
+        "name" : "export",
+        "value" : "to AS49045 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS49060 action pref=150; accept AS-UNIONLINE"
+      }, {
+        "name" : "export",
+        "value" : "to AS49060 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS49063 action pref=150; accept AS-DTLN"
+      }, {
+        "name" : "export",
+        "value" : "to AS49063 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS49200 action pref=200; accept AS49200"
+      }, {
+        "name" : "export",
+        "value" : "to AS49200 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS49345 action pref=200; accept AS49345"
+      }, {
+        "name" : "export",
+        "value" : "to AS49345 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS49439 action pref=200; accept AS49439"
+      }, {
+        "name" : "export",
+        "value" : "to AS49439 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS49505 action pref=200; accept AS49505"
+      }, {
+        "name" : "export",
+        "value" : "to AS49505 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS49542 action pref=200; accept AS49542"
+      }, {
+        "name" : "export",
+        "value" : "to AS49542 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS49693 action pref=200; accept AS49693"
+      }, {
+        "name" : "export",
+        "value" : "to AS49693 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS50258 action pref=200; accept AS-TEYLA"
+      }, {
+        "name" : "export",
+        "value" : "to AS50258 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS50436 action pref=200; accept AS-LUTEL"
+      }, {
+        "name" : "export",
+        "value" : "to AS50436 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS50453 action pref=200; accept AS50453"
+      }, {
+        "name" : "export",
+        "value" : "to AS50453 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS50538 action pref=200; accept AS50538"
+      }, {
+        "name" : "export",
+        "value" : "to AS50538 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS50706 action pref=150; accept AS50706"
+      }, {
+        "name" : "export",
+        "value" : "to AS50706 announce AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS51093 action pref=200; accept AS51093"
+      }, {
+        "name" : "export",
+        "value" : "to AS51093 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS51246 action pref=200; accept AS51246"
+      }, {
+        "name" : "export",
+        "value" : "to AS51246 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS51478 action pref=200; accept AS51478"
+      }, {
+        "name" : "export",
+        "value" : "to AS51478 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS57091 action pref=200; accept AS-MSNET"
+      }, {
+        "name" : "export",
+        "value" : "to AS57091 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS51715 action pref=200; accept AS51715"
+      }, {
+        "name" : "export",
+        "value" : "to AS51715 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS51793 action pref=200; accept AS51793"
+      }, {
+        "name" : "export",
+        "value" : "to AS51793 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS56763 action pref=200; accept AS56763"
+      }, {
+        "name" : "export",
+        "value" : "to AS56763 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS57179 action pref=200; accept AS57179"
+      }, {
+        "name" : "export",
+        "value" : "to AS57179 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS57336 action pref=200; accept AS57336"
+      }, {
+        "name" : "export",
+        "value" : "to AS57336 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS57439 action pref=200; accept AS57439"
+      }, {
+        "name" : "export",
+        "value" : "to AS57439 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS57540 action pref=200; accept AS57540"
+      }, {
+        "name" : "export",
+        "value" : "to AS57540 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS57700 action pref=200; accept AS57700"
+      }, {
+        "name" : "export",
+        "value" : "to AS57700 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS57975 action pref=200; accept AS57975"
+      }, {
+        "name" : "export",
+        "value" : "to AS57975 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS59880 action pref=200; accept AS59880"
+      }, {
+        "name" : "export",
+        "value" : "to AS59880 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS60252 action pref=200; accept AS-SET-OST-TRADE"
+      }, {
+        "name" : "export",
+        "value" : "to AS60252 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS60684 action pref=200; accept AS60684"
+      }, {
+        "name" : "export",
+        "value" : "to AS60684 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS61156 action pref=200; accept AS61156"
+      }, {
+        "name" : "export",
+        "value" : "to AS61156 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS62269 action pref=200; accept AS62269"
+      }, {
+        "name" : "export",
+        "value" : "to AS62269 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS196750 action pref=200; accept AS196750"
+      }, {
+        "name" : "export",
+        "value" : "to AS196750 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS197257 action pref=200; accept AS197257"
+      }, {
+        "name" : "export",
+        "value" : "to AS197257 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS197905 action pref=200; accept AS197905"
+      }, {
+        "name" : "export",
+        "value" : "to AS197905 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS198117 action pref=200; accept AS198117"
+      }, {
+        "name" : "export",
+        "value" : "to AS198117 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS198295 action pref=200; accept AS-RU-BCI"
+      }, {
+        "name" : "export",
+        "value" : "to AS198295 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS198526 action pref=200; accept AS198526"
+      }, {
+        "name" : "export",
+        "value" : "to AS198526 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS198626 action pref=200; accept AS198626"
+      }, {
+        "name" : "export",
+        "value" : "to AS198626 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS199247 action pref=200; accept AS199247"
+      }, {
+        "name" : "export",
+        "value" : "to AS199247 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS199771 action pref=200; accept AS199771"
+      }, {
+        "name" : "export",
+        "value" : "to AS199771 announce ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS201781 action pref=200; accept AS201781"
+      }, {
+        "name" : "export",
+        "value" : "to AS201781 announce ANY"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "---------------------------------------"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "External communities may be set by external peers when"
+      }, {
+        "name" : "remarks",
+        "value" : "talking to AS8492. They are in range 8492:50000-8492:59999."
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "Community Meaning"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "8492:5101x When advertising to RETN"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:5102x When advertising to SOVAM"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:5103x When advertising to GrandRoute"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:5105x When advertising to TTK"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:5111x When advertising to Tiscali"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:5112x When advertising to Global Crossing"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:5113x When advertising to Level3"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:5114x When advertising to Verizon"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:5115x When advertising to Cogent"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:5116x When advertising to Telia"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:5201x When advertising to MSK-IX peers"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:5202x When advertising to SPB-IX peers"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:5203x When advertising to AMS-IX peers"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:5204x When advertising to DE-CIX peers"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:5205x When advertising to LINX peers"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:5206x When advertising to Equinix peers"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:5207x When advertising to NYIIX peers"
+      }, {
+        "name" : "remarks",
+        "value" : "...x=0 - do not advertise"
+      }, {
+        "name" : "remarks",
+        "value" : "...x=1,2,3,4 - prepend 8492 1,2,3,4 times"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "8492:50009 set lowest localpref used in the network (BACKUP)"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "Other communities in range 8492:50000-8492:59999 are accepted"
+      }, {
+        "name" : "remarks",
+        "value" : "but ignored."
+      }, {
+        "name" : "remarks",
+        "value" : "Other 8492:* communities are deleted."
+      }, {
+        "name" : "remarks",
+        "value" : "Other *:* communities are passed intact but not to all peers."
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "Customers' routes get local preference of 200 (highest)."
+      }, {
+        "name" : "remarks",
+        "value" : "Peers' routes get local preference in the range of 140-150."
+      }, {
+        "name" : "remarks",
+        "value" : "Uplinks' routes get local preference in the range of 90-100."
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "-----------------------------------------------------------------"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "Internal comminuties are assigned only internally."
+      }, {
+        "name" : "remarks",
+        "value" : "They are in range 8492:0,8492:1000-8492:1999"
+      }, {
+        "name" : "remarks",
+        "value" : "and are always deleted from incoming updates at the border"
+      }, {
+        "name" : "remarks",
+        "value" : "routers."
+      }, {
+        "name" : "remarks",
+        "value" : "They may be used by peers to filter some prefixes."
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "Community Meaning"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "8492:1101 from RETN St.Petersburg"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:1102 from SOVAM St.Petersburg"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:1103 from GrandRoute St.Petersburg"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:1105 from TTK St.Petersburg"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:1111 from Tiscali"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:1112 from Global Crossing"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:1113 from Level3"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:1114 from Verizon"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:1115 from Cogent"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:1116 from Telia"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:1201 from MSK-IX peers"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:1202 from SPB-IX peers"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:1203 from AMS-IX peers"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:1204 from DE-CIX peers"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:1205 from LINX peers"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:1206 from Equinix peers"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:1207 from NYIIX peers"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:1301 from private peer"
+      }, {
+        "name" : "remarks",
+        "value" : "8492:1500 Obit St.Petersburg customers"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "-----------------------------------------------------------------"
+      }, {
+        "name" : "remarks",
+        "value" : "Last Update: 30 September 2014"
+      }, {
+        "name" : "remarks",
+        "value" : "-----------------------------------------------------------------"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/organisation/ORG-OL12-RIPE"
+        },
+        "name" : "org",
+        "value" : "ORG-OL12-RIPE",
+        "referenced-type" : "organisation"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/DG2069-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "DG2069-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/NOC2222-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "NOC2222-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "name" : "status",
+        "value" : "ASSIGNED"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/OBIT-MNT"
+        },
+        "name" : "mnt-lower",
+        "value" : "OBIT-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/OBIT-MNT"
+        },
+        "name" : "mnt-routes",
+        "value" : "OBIT-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-END-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-END-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/OBIT-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "OBIT-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    },
+    "tags" : {
+      "tag" : [ {
+        "id" : "RIPE-REGISTRY-RESOURCE",
+        "data" : null
+      } ]
+    }
+  }, {
+    "type" : "organisation",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/organisation/ORG-OL12-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "organisation",
+        "value" : "ORG-OL12-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "organisation",
+        "value" : "ORG-OL12-RIPE"
+      }, {
+        "name" : "org-name",
+        "value" : "\"OBIT\" Ltd."
+      }, {
+        "name" : "org-type",
+        "value" : "LIR"
+      }, {
+        "name" : "address",
+        "value" : "\"OBIT\" Ltd."
+      }, {
+        "name" : "address",
+        "value" : "Dmitri Gorislavski"
+      }, {
+        "name" : "address",
+        "value" : "Ligovsky pr., 13-15"
+      }, {
+        "name" : "address",
+        "value" : "191014"
+      }, {
+        "name" : "address",
+        "value" : "ST PETERSBURG"
+      }, {
+        "name" : "address",
+        "value" : "RUSSIAN FEDERATION"
+      }, {
+        "name" : "phone",
+        "value" : "+78126220003"
+      }, {
+        "name" : "fax-no",
+        "value" : "+78126220001"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/CAE1-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "CAE1-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/DG2069-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "DG2069-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-ref",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/OBIT-MNT"
+        },
+        "name" : "mnt-ref",
+        "value" : "OBIT-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/NOC2222-RIPE"
+        },
+        "name" : "abuse-c",
+        "value" : "NOC2222-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "role",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/role/NOC2222-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "nic-hdl",
+        "value" : "NOC2222-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "role",
+        "value" : "Network Coordination Centre"
+      }, {
+        "name" : "address",
+        "value" : "Obit Telecommunications Ltd."
+      }, {
+        "name" : "address",
+        "value" : "Smolenskaya ul 7a"
+      }, {
+        "name" : "address",
+        "value" : "196084, Russia, St.Petersburg"
+      }, {
+        "name" : "phone",
+        "value" : "+78126220003"
+      }, {
+        "name" : "fax-no",
+        "value" : "+78126220001"
+      }, {
+        "name" : "remarks",
+        "value" : "trouble: -------------------------------------------------"
+      }, {
+        "name" : "remarks",
+        "value" : "trouble: hostmaster@obit.ru - for technical questions"
+      }, {
+        "name" : "remarks",
+        "value" : "trouble: noc@obit.ru - for peering/backbone issues"
+      }, {
+        "name" : "remarks",
+        "value" : "trouble: abuse@obit.ru - for security, spam issues"
+      }, {
+        "name" : "remarks",
+        "value" : "trouble: -------------------------------------------------"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/DG2069-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "DG2069-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/CMH-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "CMH-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "name" : "nic-hdl",
+        "value" : "NOC2222-RIPE"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/OBIT-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "OBIT-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      }, {
+        "name" : "abuse-mailbox",
+        "value" : "abuse@obit.ru"
+      } ]
+    }
+  }, {
+    "type" : "person",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/person/DG2069-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "nic-hdl",
+        "value" : "DG2069-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "person",
+        "value" : "Dmitri Gorislavski"
+      }, {
+        "name" : "address",
+        "value" : "Ligovsky pr., 13-15"
+      }, {
+        "name" : "address",
+        "value" : "191014, Russia, St.Petersburg"
+      }, {
+        "name" : "phone",
+        "value" : "+78126220000"
+      }, {
+        "name" : "fax-no",
+        "value" : "+78126220001"
+      }, {
+        "name" : "nic-hdl",
+        "value" : "DG2069-RIPE"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/OBIT-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "OBIT-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  } ]
+},
+"terms-and-conditions" : {
+  "type" : "locator",
+  "href" : "http://www.ripe.net/db/support/db-terms-conditions.pdf"
+}
+}

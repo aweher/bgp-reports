@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52678,
+  "endAutnum" : 52678,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52678",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52678"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121203",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140604",
+    "eventActor" : "UDS4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-GPAA3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-GPAA3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","THIAGO HENRIQUE BARROS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoiatuba, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goiatuba","GO","04578-000","BR"]],["email",{"type":"work"},"text","THB6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 64 55093511 ()"],["org",{},"text",["GONET.COM.BR PROV DE ACESSO A REDES DE TEL LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140611",
+      "eventActor" : "THB6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/THB6",
+        "value" : "http://rdap.labs.lacnic.net/entity/THB6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","THIAGO HENRIQUE BARROS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoiatuba, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goiatuba","GO","04578-000","BR"]],["email",{"type":"work"},"text","THB6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 64 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "THB6"
+      } ],
+      "entities" : [ ],
+      "handle" : "THB6"
+    } ],
+    "handle" : "BR-GPAA3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/UDS4",
+      "value" : "http://rdap.labs.lacnic.net/entity/UDS4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","uanderson dos santos silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoiatuba, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goiatuba","GO","04578-000","BR"]],["email",{"type":"work"},"text","UDS4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140604",
+      "eventActor" : "UDS4"
+    } ],
+    "entities" : [ ],
+    "handle" : "UDS4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/UDS4",
+      "value" : "http://rdap.labs.lacnic.net/entity/UDS4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","uanderson dos santos silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoiatuba, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goiatuba","GO","04578-000","BR"]],["email",{"type":"work"},"text","UDS4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140604",
+      "eventActor" : "UDS4"
+    } ],
+    "entities" : [ ],
+    "handle" : "UDS4"
+  } ],
+  "type" : null,
+  "handle" : "52678-LACNIC",
+  "country" : "BR"
+}

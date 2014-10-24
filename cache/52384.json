@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52384",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52384"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CCES-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CCES-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Victor Bellavia"],["adr",{"label":"Rodriguez 159 ()\nBAHIA BLANCA,  8000\nAR","type":"work"},"text",["","","Rodriguez 159 ()","BAHIA BLANCA","","8000","AR"]],["email",{"type":"work"},"text","cvictor@BBLANCA.COM.AR"],["tel",{"type":"work"},"text","54 291 4554545 ()"],["org",{},"text",["COMPEL COMPUTACION ELECTRONICA S.R.L."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CVB2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CVB2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Victor Bellavia"],["adr",{"label":"Rodriguez 159 ()\nBah?a Blanca,  8000\nAR","type":"work"},"text",["","","Rodriguez 159 ()","Bah?a Blanca","","8000","AR"]],["email",{"type":"work"},"text","cvictor@BBLANCA.COM.AR"],["tel",{"type":"work"},"text","54 291 4554545 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120312",
+        "eventActor" : "CVB2"
+      } ],
+      "handle" : "CVB2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120307",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "CVB2"
+    } ],
+    "handle" : "AR-CCES-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CVB2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CVB2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Victor Bellavia"],["adr",{"label":"Rodriguez 159 ()\nBah?a Blanca,  8000\nAR","type":"work"},"text",["","","Rodriguez 159 ()","Bah?a Blanca","","8000","AR"]],["email",{"type":"work"},"text","cvictor@BBLANCA.COM.AR"],["tel",{"type":"work"},"text","54 291 4554545 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120312",
+      "eventActor" : "CVB2"
+    } ],
+    "handle" : "CVB2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CVB2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CVB2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Victor Bellavia"],["adr",{"label":"Rodriguez 159 ()\nBah?a Blanca,  8000\nAR","type":"work"},"text",["","","Rodriguez 159 ()","Bah?a Blanca","","8000","AR"]],["email",{"type":"work"},"text","cvictor@BBLANCA.COM.AR"],["tel",{"type":"work"},"text","54 291 4554545 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120312",
+      "eventActor" : "CVB2"
+    } ],
+    "handle" : "CVB2"
+  } ],
+  "startAutnum" : 52384,
+  "endAutnum" : 52384,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120723",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120723",
+    "eventActor" : "CVB2"
+  } ],
+  "type" : null,
+  "handle" : "52384-LACNIC",
+  "country" : "AR"
+}

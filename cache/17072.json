@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 17072,
+  "endAutnum" : 17072,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/17072",
+    "value" : "http://rdap.labs.lacnic.net/autnum/17072"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20000720",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110622",
+    "eventActor" : "CHD"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MX-IPMS2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/MX-IPMS2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CHRISTIAN DOMINGUEZ"],["adr",{"label":"Montes Urales 460 (Col. Lomas de Chapultepec)\nM?xico, DF 11000\nMX","type":"work"},"text",["","","Montes Urales 460 (Col. Lomas de Chapultepec)","M?xico","DF","11000","MX"]],["email",{"type":"work"},"text","cdominguez@IUSACELL.COM.MX"],["tel",{"type":"work"},"text","52 55 51095068 ()"],["org",{},"text",["Iusacell PCS de Mexico, S.A. de C.V."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091031",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "CHD"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CHD",
+        "value" : "http://rdap.labs.lacnic.net/entity/CHD"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CHRISTIAN DOMINGUEZ"],["adr",{"label":"MONTES URALES 460 (LOMAS DE CHAPULTEPEC)\nMEXICO, DF 11000\nMX","type":"work"},"text",["","","MONTES URALES 460 (LOMAS DE CHAPULTEPEC)","MEXICO","DF","11000","MX"]],["email",{"type":"work"},"text","cdominguez@IUSACELL.COM.MX"],["tel",{"type":"work"},"text","52 55 51094400 (5331)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20070315",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110613",
+        "eventActor" : "CHD"
+      } ],
+      "entities" : [ ],
+      "handle" : "CHD"
+    } ],
+    "handle" : "MX-IPMS2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CHD",
+      "value" : "http://rdap.labs.lacnic.net/entity/CHD"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CHRISTIAN DOMINGUEZ"],["adr",{"label":"MONTES URALES 460 (LOMAS DE CHAPULTEPEC)\nMEXICO, DF 11000\nMX","type":"work"},"text",["","","MONTES URALES 460 (LOMAS DE CHAPULTEPEC)","MEXICO","DF","11000","MX"]],["email",{"type":"work"},"text","cdominguez@IUSACELL.COM.MX"],["tel",{"type":"work"},"text","52 55 51094400 (5331)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070315",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110613",
+      "eventActor" : "CHD"
+    } ],
+    "entities" : [ ],
+    "handle" : "CHD"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CHD",
+      "value" : "http://rdap.labs.lacnic.net/entity/CHD"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CHRISTIAN DOMINGUEZ"],["adr",{"label":"MONTES URALES 460 (LOMAS DE CHAPULTEPEC)\nMEXICO, DF 11000\nMX","type":"work"},"text",["","","MONTES URALES 460 (LOMAS DE CHAPULTEPEC)","MEXICO","DF","11000","MX"]],["email",{"type":"work"},"text","cdominguez@IUSACELL.COM.MX"],["tel",{"type":"work"},"text","52 55 51094400 (5331)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070315",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110613",
+      "eventActor" : "CHD"
+    } ],
+    "entities" : [ ],
+    "handle" : "CHD"
+  } ],
+  "type" : null,
+  "handle" : "17072-LACNIC",
+  "country" : "MX"
+}

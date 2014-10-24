@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/20015",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/20015"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-INSA6-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-INSA6-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Richard Milla T."],["adr",{"label":"Avda. Francisco Bilbao 268 ()\nSantiago, RM NA\nCL","type":"work"},"text",["","","Avda. Francisco Bilbao 268 ()","Santiago","RM","NA","CL"]],["email",{"type":"work"},"text","noc@NETLINE.NET"],["tel",{"type":"work"},"text","56 2 6570000 ()"],["org",{},"text",["FullCom S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/RMT",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/RMT"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Richard Milla T."],["adr",{"label":"Av. Los Conquistadores 2430 ()\nSantiago, RM 7520195\nCL","type":"work"},"text",["","","Av. Los Conquistadores 2430 ()","Santiago","RM","7520195","CL"]],["email",{"type":"work"},"text","noc@NETLINE.NET"],["tel",{"type":"work"},"text","56 2 26560761 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20101114",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140219",
+        "eventActor" : "RMT"
+      } ],
+      "handle" : "RMT"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030310",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121226",
+      "eventActor" : "RMT"
+    } ],
+    "handle" : "CL-INSA6-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RMT",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RMT"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Richard Milla T."],["adr",{"label":"Av. Los Conquistadores 2430 ()\nSantiago, RM 7520195\nCL","type":"work"},"text",["","","Av. Los Conquistadores 2430 ()","Santiago","RM","7520195","CL"]],["email",{"type":"work"},"text","noc@NETLINE.NET"],["tel",{"type":"work"},"text","56 2 26560761 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101114",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140219",
+      "eventActor" : "RMT"
+    } ],
+    "handle" : "RMT"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RMT",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RMT"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Richard Milla T."],["adr",{"label":"Av. Los Conquistadores 2430 ()\nSantiago, RM 7520195\nCL","type":"work"},"text",["","","Av. Los Conquistadores 2430 ()","Santiago","RM","7520195","CL"]],["email",{"type":"work"},"text","noc@NETLINE.NET"],["tel",{"type":"work"},"text","56 2 26560761 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101114",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140219",
+      "eventActor" : "RMT"
+    } ],
+    "handle" : "RMT"
+  } ],
+  "startAutnum" : 20015,
+  "endAutnum" : 20015,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20010314",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20101114",
+    "eventActor" : "RMT"
+  } ],
+  "type" : null,
+  "handle" : "20015-LACNIC",
+  "country" : "CL"
+}

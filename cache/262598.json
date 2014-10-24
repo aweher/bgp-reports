@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262598,
+  "endAutnum" : 262598,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262598",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262598"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110927",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130812",
+    "eventActor" : "LSC11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-RLTL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-RLTL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marinho Silva Santos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nReden??o, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Reden??o","PA","04578-000","BR"]],["email",{"type":"work"},"text","MSS12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["org",{},"text",["REAL LINE TELECOMUNICACOES LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130812",
+      "eventActor" : "MSS12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MSS12",
+        "value" : "http://rdap.labs.lacnic.net/entity/MSS12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marinho Silva Santos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRedencao, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Redencao","PA","04578-000","BR"]],["email",{"type":"work"},"text","MSS12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 09 155093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MSS12"
+      } ],
+      "entities" : [ ],
+      "handle" : "MSS12"
+    } ],
+    "handle" : "BR-RLTL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LSC11",
+      "value" : "http://rdap.labs.lacnic.net/entity/LSC11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","LELIO DE SOUZA CAMPOS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTucum?, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tucum?","PA","04578-000","BR"]],["email",{"type":"work"},"text","LSC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130812",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130812",
+      "eventActor" : "LSC11"
+    } ],
+    "entities" : [ ],
+    "handle" : "LSC11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LSC11",
+      "value" : "http://rdap.labs.lacnic.net/entity/LSC11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","LELIO DE SOUZA CAMPOS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTucum?, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tucum?","PA","04578-000","BR"]],["email",{"type":"work"},"text","LSC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130812",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130812",
+      "eventActor" : "LSC11"
+    } ],
+    "entities" : [ ],
+    "handle" : "LSC11"
+  } ],
+  "type" : null,
+  "handle" : "262598-LACNIC",
+  "country" : "BR"
+}

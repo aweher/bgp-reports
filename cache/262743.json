@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262743,
+  "endAutnum" : 262743,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262743",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262743"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100602",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "VTI"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VISO-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VISO-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Virgos Tecnologia da Informa??o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Carlos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Carlos","SP","04578-000","BR"]],["email",{"type":"work"},"text","VTI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["org",{},"text",["Virgos IP Solutions"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "VTI"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/VTI",
+        "value" : "http://rdap.labs.lacnic.net/entity/VTI"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Virgos Tecnologia da Informa??o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Carlos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Carlos","SP","04578-000","BR"]],["email",{"type":"work"},"text","VTI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "VTI"
+      } ],
+      "entities" : [ ],
+      "handle" : "VTI"
+    } ],
+    "handle" : "BR-VISO-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VTI",
+      "value" : "http://rdap.labs.lacnic.net/entity/VTI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Virgos Tecnologia da Informa??o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Carlos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Carlos","SP","04578-000","BR"]],["email",{"type":"work"},"text","VTI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VTI"
+    } ],
+    "entities" : [ ],
+    "handle" : "VTI"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VTI",
+      "value" : "http://rdap.labs.lacnic.net/entity/VTI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Virgos Tecnologia da Informa??o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Carlos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Carlos","SP","04578-000","BR"]],["email",{"type":"work"},"text","VTI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VTI"
+    } ],
+    "entities" : [ ],
+    "handle" : "VTI"
+  } ],
+  "type" : null,
+  "handle" : "262743-LACNIC",
+  "country" : "BR"
+}

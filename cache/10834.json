@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/10834",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/10834"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TEAR7-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TEAR7-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Telefonica de Argentina"],["adr",{"label":"AV. ING. HUERGO 723 (GERENCIA DE REQUERIMIENTOS JUDICIALES)\nBuenos Aires, CF 1065\nAR","type":"work"},"text",["","","AV. ING. HUERGO 723 (GERENCIA DE REQUERIMIENTOS JUDICIALES)","Buenos Aires","CF","1065","AR"]],["email",{"type":"work"},"text","tasamail.ar@TELEFONICA.COM"],["tel",{"type":"work"},"text","54  8102220102 ()"],["org",{},"text",["Telefonica de Argentina"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/TEA",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/TEA"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Telefonica de Argentina"],["adr",{"label":"AV. ING. HUERGO 723 ()\nCapital Federal, BA 1065\nAR","type":"work"},"text",["","","AV. ING. HUERGO 723 ()","Capital Federal","BA","1065","AR"]],["email",{"type":"work"},"text","tasamail.ar@TELEFONICA.COM"],["tel",{"type":"work"},"text","54 11 43335000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030618",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110603",
+        "eventActor" : "TEA"
+      } ],
+      "handle" : "TEA"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030916",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140416",
+      "eventActor" : "TEA"
+    } ],
+    "handle" : "AR-TEAR7-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RAS3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RAS3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ip master"],["adr",{"label":"Av. Corrientes 707 (piso 8)\nBuenos Aires,  C1043AAH\nAR","type":"work"},"text",["","","Av. Corrientes 707 (piso 8)","Buenos Aires","","C1043AAH","AR"]],["email",{"type":"work"},"text","opergics@GMAIL.COM"],["tel",{"type":"work"},"text","54 11 43334777 (4777)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030314",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090918",
+      "eventActor" : "RAS3"
+    } ],
+    "handle" : "RAS3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RAS3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RAS3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ip master"],["adr",{"label":"Av. Corrientes 707 (piso 8)\nBuenos Aires,  C1043AAH\nAR","type":"work"},"text",["","","Av. Corrientes 707 (piso 8)","Buenos Aires","","C1043AAH","AR"]],["email",{"type":"work"},"text","opergics@GMAIL.COM"],["tel",{"type":"work"},"text","54 11 43334777 (4777)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030314",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090918",
+      "eventActor" : "RAS3"
+    } ],
+    "handle" : "RAS3"
+  } ],
+  "startAutnum" : 10834,
+  "endAutnum" : 10834,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19971208",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100412",
+    "eventActor" : "RAS3"
+  } ],
+  "type" : null,
+  "handle" : "10834-LACNIC",
+  "country" : "AR"
+}

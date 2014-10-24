@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/13381",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/13381"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-CMSA2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-CMSA2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Patricio Verdugo"],["adr",{"label":"Walker Martinez 911 ()\nSantiago,  824-1692\nCL","type":"work"},"text",["","","Walker Martinez 911 ()","Santiago","","824-1692","CL"]],["email",{"type":"work"},"text","pverdugo@CMET.NET"],["tel",{"type":"work"},"text","56 2 2513333 (2444)"],["org",{},"text",["CMET SACI"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PAV2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PAV2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Patricio Verdugo"],["adr",{"label":"Av. Los Leones 1412 ()\nSantiago, null 751-0608\nCL","type":"work"},"text",["","","Av. Los Leones 1412 ()","Santiago","","751-0608","CL"]],["email",{"type":"work"},"text","pverdugo@CMET.NET"],["tel",{"type":"work"},"text","56 2 2513333 (2444)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20031113",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20031113",
+        "eventActor" : "PAV2"
+      } ],
+      "handle" : "PAV2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031114",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131010",
+      "eventActor" : "PAV2"
+    } ],
+    "handle" : "CL-CMSA2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAV2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAV2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Patricio Verdugo"],["adr",{"label":"Av. Los Leones 1412 ()\nSantiago, null 751-0608\nCL","type":"work"},"text",["","","Av. Los Leones 1412 ()","Santiago","","751-0608","CL"]],["email",{"type":"work"},"text","pverdugo@CMET.NET"],["tel",{"type":"work"},"text","56 2 2513333 (2444)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031113",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20031113",
+      "eventActor" : "PAV2"
+    } ],
+    "handle" : "PAV2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAV2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAV2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Patricio Verdugo"],["adr",{"label":"Av. Los Leones 1412 ()\nSantiago, null 751-0608\nCL","type":"work"},"text",["","","Av. Los Leones 1412 ()","Santiago","","751-0608","CL"]],["email",{"type":"work"},"text","pverdugo@CMET.NET"],["tel",{"type":"work"},"text","56 2 2513333 (2444)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031113",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20031113",
+      "eventActor" : "PAV2"
+    } ],
+    "handle" : "PAV2"
+  } ],
+  "startAutnum" : 13381,
+  "endAutnum" : 13381,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19990525",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20040113",
+    "eventActor" : "PAV2"
+  } ],
+  "type" : null,
+  "handle" : "13381-LACNIC",
+  "country" : "CL"
+}

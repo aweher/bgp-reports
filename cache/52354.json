@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52354",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52354"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-AVCS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-AVCS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Roqué"],["adr",{"label":"Calle 4 596 ()\nSanta Teresita, BA 7107\nAR","type":"work"},"text",["","","Calle 4 596 ()","Santa Teresita","BA","7107","AR"]],["email",{"type":"work"},"text","froque@AVCDIGITAL.COM.AR"],["tel",{"type":"work"},"text","54 2246 420282 ()"],["org",{},"text",["Atlantica Video Cable S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FRR9",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FRR9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Roqué"],["adr",{"label":"Calle 4 596 ()\nSanta Teresita, null B7107CG\nAR","type":"work"},"text",["","","Calle 4 596 ()","Santa Teresita","","B7107CG","AR"]],["email",{"type":"work"},"text","froque@AVCDIGITAL.COM.AR"],["tel",{"type":"work"},"text","54 2246 420282 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100913",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100913",
+        "eventActor" : "FRR9"
+      } ],
+      "handle" : "FRR9"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030929",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130216",
+      "eventActor" : "FRR9"
+    } ],
+    "handle" : "AR-AVCS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FRR9",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FRR9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Roqué"],["adr",{"label":"Calle 4 596 ()\nSanta Teresita, null B7107CG\nAR","type":"work"},"text",["","","Calle 4 596 ()","Santa Teresita","","B7107CG","AR"]],["email",{"type":"work"},"text","froque@AVCDIGITAL.COM.AR"],["tel",{"type":"work"},"text","54 2246 420282 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100913",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100913",
+      "eventActor" : "FRR9"
+    } ],
+    "handle" : "FRR9"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FRR9",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FRR9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Roqué"],["adr",{"label":"Calle 4 596 ()\nSanta Teresita, null B7107CG\nAR","type":"work"},"text",["","","Calle 4 596 ()","Santa Teresita","","B7107CG","AR"]],["email",{"type":"work"},"text","froque@AVCDIGITAL.COM.AR"],["tel",{"type":"work"},"text","54 2246 420282 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100913",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100913",
+      "eventActor" : "FRR9"
+    } ],
+    "handle" : "FRR9"
+  } ],
+  "startAutnum" : 52354,
+  "endAutnum" : 52354,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111118",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20111118",
+    "eventActor" : "FRR9"
+  } ],
+  "type" : null,
+  "handle" : "52354-LACNIC",
+  "country" : "AR"
+}

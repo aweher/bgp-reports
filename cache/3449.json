@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/3449",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/3449"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-UNBA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-UNBA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Universidad de Buenos Aires"],["adr",{"label":"Marcelo T. de Alvear 2142 (Piso 18 sector B)\nBuenos Aires, null C1122AAH\nAR","type":"work"},"text",["","","Marcelo T. de Alvear 2142 (Piso 18 sector B)","Buenos Aires","","C1122AAH","AR"]],["email",{"type":"work"},"text","oper@CCC.UBA.AR"],["tel",{"type":"work"},"text","54 11 45083961 ()"],["org",{},"text",["Universidad Nacional de Buenos Aires"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/UBA",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/UBA"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Universidad de Buenos Aires"],["adr",{"label":"Marcelo T. de Alvear 2142 (Piso 18)\nBuenos Aires,  C1122AAH\nAR","type":"work"},"text",["","","Marcelo T. de Alvear 2142 (Piso 18)","Buenos Aires","","C1122AAH","AR"]],["email",{"type":"work"},"text","oper@CCC.UBA.AR"],["tel",{"type":"work"},"text","54 011 45083961 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20091027",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131030",
+        "eventActor" : "UBA"
+      } ],
+      "handle" : "UBA"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091214",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20091214",
+      "eventActor" : "UBA"
+    } ],
+    "handle" : "AR-UNBA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/UBA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/UBA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Universidad de Buenos Aires"],["adr",{"label":"Marcelo T. de Alvear 2142 (Piso 18)\nBuenos Aires,  C1122AAH\nAR","type":"work"},"text",["","","Marcelo T. de Alvear 2142 (Piso 18)","Buenos Aires","","C1122AAH","AR"]],["email",{"type":"work"},"text","oper@CCC.UBA.AR"],["tel",{"type":"work"},"text","54 011 45083961 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091027",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131030",
+      "eventActor" : "UBA"
+    } ],
+    "handle" : "UBA"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/UBA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/UBA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Universidad de Buenos Aires"],["adr",{"label":"Marcelo T. de Alvear 2142 (Piso 18)\nBuenos Aires,  C1122AAH\nAR","type":"work"},"text",["","","Marcelo T. de Alvear 2142 (Piso 18)","Buenos Aires","","C1122AAH","AR"]],["email",{"type":"work"},"text","oper@CCC.UBA.AR"],["tel",{"type":"work"},"text","54 011 45083961 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091027",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131030",
+      "eventActor" : "UBA"
+    } ],
+    "handle" : "UBA"
+  } ],
+  "startAutnum" : 3449,
+  "endAutnum" : 3449,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19940217",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20091104",
+    "eventActor" : "UBA"
+  } ],
+  "type" : null,
+  "handle" : "3449-LACNIC",
+  "country" : "AR"
+}

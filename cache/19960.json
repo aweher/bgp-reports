@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 19960,
+  "endAutnum" : 19960,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/19960",
+    "value" : "http://rdap.labs.lacnic.net/autnum/19960"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20010322",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "NSS3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NSSA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NSSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NET SITE S/A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRibeirao Preto, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ribeirao Preto","SP","04578-000","BR"]],["email",{"type":"work"},"text","NSS4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 01 655093511 ()"],["org",{},"text",["NET SITE S.A"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NSS4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/NSS4",
+        "value" : "http://rdap.labs.lacnic.net/entity/NSS4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NET SITE S/A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRibeir?o Preto, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ribeir?o Preto","SP","04578-000","BR"]],["email",{"type":"work"},"text","NSS4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "NSS4"
+      } ],
+      "entities" : [ ],
+      "handle" : "NSS4"
+    } ],
+    "handle" : "BR-NSSA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NSS3",
+      "value" : "http://rdap.labs.lacnic.net/entity/NSS3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NET SITE S/A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRibeir?o Preto, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ribeir?o Preto","SP","04578-000","BR"]],["email",{"type":"work"},"text","NSS3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NSS3"
+    } ],
+    "entities" : [ ],
+    "handle" : "NSS3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NSS3",
+      "value" : "http://rdap.labs.lacnic.net/entity/NSS3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NET SITE S/A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRibeir?o Preto, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ribeir?o Preto","SP","04578-000","BR"]],["email",{"type":"work"},"text","NSS3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NSS3"
+    } ],
+    "entities" : [ ],
+    "handle" : "NSS3"
+  } ],
+  "type" : null,
+  "handle" : "19960-LACNIC",
+  "country" : "BR"
+}

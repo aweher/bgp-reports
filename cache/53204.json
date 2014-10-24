@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53204,
+  "endAutnum" : 53204,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53204",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53204"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100909",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130604",
+    "eventActor" : "DFS12"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PESC-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PESC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Siqueira Magnani"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Carlos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Carlos","SP","04578-000","BR"]],["email",{"type":"work"},"text","FSM12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["org",{},"text",["Parque Ecol?gico S?o Carlos / PMSC"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130604",
+      "eventActor" : "FSM12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FSM12",
+        "value" : "http://rdap.labs.lacnic.net/entity/FSM12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Siqueira Magnani"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Carlos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Carlos","SP","04578-000","BR"]],["email",{"type":"work"},"text","FSM12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FSM12"
+      } ],
+      "entities" : [ ],
+      "handle" : "FSM12"
+    } ],
+    "handle" : "BR-PESC-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DFS12",
+      "value" : "http://rdap.labs.lacnic.net/entity/DFS12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Fernando de Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Carlos, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Carlos","","04578-000","BR"]],["email",{"type":"work"},"text","DFS12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130604",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130604",
+      "eventActor" : "DFS12"
+    } ],
+    "entities" : [ ],
+    "handle" : "DFS12"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DFS12",
+      "value" : "http://rdap.labs.lacnic.net/entity/DFS12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Fernando de Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Carlos, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Carlos","","04578-000","BR"]],["email",{"type":"work"},"text","DFS12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 16 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130604",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130604",
+      "eventActor" : "DFS12"
+    } ],
+    "entities" : [ ],
+    "handle" : "DFS12"
+  } ],
+  "type" : null,
+  "handle" : "53204-LACNIC",
+  "country" : "BR"
+}

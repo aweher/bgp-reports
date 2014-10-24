@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262186,
+  "endAutnum" : 262186,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262186",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262186"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120716",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120717",
+    "eventActor" : "FAL12"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-TASC-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-TASC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Augusto Gutiérrez López"],["adr",{"label":"Crta. 9 99 (2do Piso. Oficina 1001)\nCanta Fe de Bogota, CU --\nCO","type":"work"},"text",["","","Crta. 9 99 (2do Piso. Oficina 1001)","Canta Fe de Bogota","CU","--","CO"]],["email",{"type":"work"},"text","fgutierrez@AZTECA-COMUNICACIONES.COM"],["tel",{"type":"work"},"text","57 1 7428789 (1208)"],["org",{},"text",["TV AZTECA SUCURSAL COLOMBIA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120611",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140306",
+      "eventActor" : "FAL12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FAL12",
+        "value" : "http://rdap.labs.lacnic.net/entity/FAL12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Augusto Gutiérrez López"],["adr",{"label":"cra 9 # 99 -02 piso 10 oficina 1001  ()\nBogota, null 000000\nCO","type":"work"},"text",["","","cra 9 # 99 -02 piso 10 oficina 1001  ()","Bogota","","000000","CO"]],["email",{"type":"work"},"text","fgutierrez@AZTECA-COMUNICACIONES.COM"],["tel",{"type":"work"},"text","57 1 6960196 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120522",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120522",
+        "eventActor" : "FAL12"
+      } ],
+      "entities" : [ ],
+      "handle" : "FAL12"
+    } ],
+    "handle" : "CO-TASC-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAL12",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAL12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Augusto Gutiérrez López"],["adr",{"label":"cra 9 # 99 -02 piso 10 oficina 1001  ()\nBogota, null 000000\nCO","type":"work"},"text",["","","cra 9 # 99 -02 piso 10 oficina 1001  ()","Bogota","","000000","CO"]],["email",{"type":"work"},"text","fgutierrez@AZTECA-COMUNICACIONES.COM"],["tel",{"type":"work"},"text","57 1 6960196 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120522",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120522",
+      "eventActor" : "FAL12"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAL12"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAL12",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAL12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Augusto Gutiérrez López"],["adr",{"label":"cra 9 # 99 -02 piso 10 oficina 1001  ()\nBogota, null 000000\nCO","type":"work"},"text",["","","cra 9 # 99 -02 piso 10 oficina 1001  ()","Bogota","","000000","CO"]],["email",{"type":"work"},"text","fgutierrez@AZTECA-COMUNICACIONES.COM"],["tel",{"type":"work"},"text","57 1 6960196 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120522",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120522",
+      "eventActor" : "FAL12"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAL12"
+  } ],
+  "type" : null,
+  "handle" : "262186-LACNIC",
+  "country" : "CO"
+}

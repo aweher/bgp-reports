@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262878,
+  "endAutnum" : 262878,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262878",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262878"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110105",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "DML12"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-APDS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-APDS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Monteiro de Castro Lobo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoi?nia, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goi?nia","GO","04578-000","BR"]],["email",{"type":"work"},"text","DML12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["org",{},"text",["Apn - Processamento de Dados e Solu?oes em Interne"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "DML12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DML12",
+        "value" : "http://rdap.labs.lacnic.net/entity/DML12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Monteiro de Castro Lobo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoi?nia, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goi?nia","GO","04578-000","BR"]],["email",{"type":"work"},"text","DML12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DML12"
+      } ],
+      "entities" : [ ],
+      "handle" : "DML12"
+    } ],
+    "handle" : "BR-APDS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DML12",
+      "value" : "http://rdap.labs.lacnic.net/entity/DML12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Monteiro de Castro Lobo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoi?nia, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goi?nia","GO","04578-000","BR"]],["email",{"type":"work"},"text","DML12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DML12"
+    } ],
+    "entities" : [ ],
+    "handle" : "DML12"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DML12",
+      "value" : "http://rdap.labs.lacnic.net/entity/DML12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Monteiro de Castro Lobo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoi?nia, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goi?nia","GO","04578-000","BR"]],["email",{"type":"work"},"text","DML12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DML12"
+    } ],
+    "entities" : [ ],
+    "handle" : "DML12"
+  } ],
+  "type" : null,
+  "handle" : "262878-LACNIC",
+  "country" : "BR"
+}

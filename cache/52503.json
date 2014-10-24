@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52503",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52503"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-FEJU-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-FEJU-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Jurman"],["adr",{"label":"Inalican 1008 (Malargue)\nMendoza,  5613\nAR","type":"work"},"text",["","","Inalican 1008 (Malargue)","Mendoza","","5613","AR"]],["email",{"type":"work"},"text","fjurman@HOTMAIL.COM"],["tel",{"type":"work"},"text","54 260 4231000 ()"],["org",{},"text",["Fernando Jurman"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FRJ13",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FRJ13"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Jurman"],["adr",{"label":"Fray Inalican 1008 ()\nMalarg?e, Me 5613\nAR","type":"work"},"text",["","","Fray Inalican 1008 ()","Malarg?e","Me","5613","AR"]],["email",{"type":"work"},"text","fjurman@HOTMAIL.COM"],["tel",{"type":"work"},"text","54 260 154397550 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130820",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130820",
+        "eventActor" : "FRJ13"
+      } ],
+      "handle" : "FRJ13"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131025",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131025",
+      "eventActor" : "FRJ13"
+    } ],
+    "handle" : "AR-FEJU-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FRJ13",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FRJ13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Jurman"],["adr",{"label":"Fray Inalican 1008 ()\nMalarg?e, Me 5613\nAR","type":"work"},"text",["","","Fray Inalican 1008 ()","Malarg?e","Me","5613","AR"]],["email",{"type":"work"},"text","fjurman@HOTMAIL.COM"],["tel",{"type":"work"},"text","54 260 154397550 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130820",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130820",
+      "eventActor" : "FRJ13"
+    } ],
+    "handle" : "FRJ13"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FRJ13",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FRJ13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Jurman"],["adr",{"label":"Fray Inalican 1008 ()\nMalarg?e, Me 5613\nAR","type":"work"},"text",["","","Fray Inalican 1008 ()","Malarg?e","Me","5613","AR"]],["email",{"type":"work"},"text","fjurman@HOTMAIL.COM"],["tel",{"type":"work"},"text","54 260 154397550 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130820",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130820",
+      "eventActor" : "FRJ13"
+    } ],
+    "handle" : "FRJ13"
+  } ],
+  "startAutnum" : 52503,
+  "endAutnum" : 52503,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140515",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140515",
+    "eventActor" : "FRJ13"
+  } ],
+  "type" : null,
+  "handle" : "52503-LACNIC",
+  "country" : "AR"
+}

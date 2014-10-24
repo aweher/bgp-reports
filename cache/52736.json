@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52736,
+  "endAutnum" : 52736,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52736",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52736"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130129",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "VTM"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VTLM6-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VTLM6-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","VIATTIVA TELECOMUNICAC?ES LTDA - ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAmparo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Amparo","SP","04578-000","BR"]],["email",{"type":"work"},"text","VTM@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["Viattiva Telecomunica??es Ltda - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "VTM"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/VTM",
+        "value" : "http://rdap.labs.lacnic.net/entity/VTM"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","VIATTIVA TELECOMUNICAC?ES LTDA - ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAmparo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Amparo","SP","04578-000","BR"]],["email",{"type":"work"},"text","VTM@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "VTM"
+      } ],
+      "entities" : [ ],
+      "handle" : "VTM"
+    } ],
+    "handle" : "BR-VTLM6-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VTM",
+      "value" : "http://rdap.labs.lacnic.net/entity/VTM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","VIATTIVA TELECOMUNICAC?ES LTDA - ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAmparo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Amparo","SP","04578-000","BR"]],["email",{"type":"work"},"text","VTM@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VTM"
+    } ],
+    "entities" : [ ],
+    "handle" : "VTM"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VTM",
+      "value" : "http://rdap.labs.lacnic.net/entity/VTM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","VIATTIVA TELECOMUNICAC?ES LTDA - ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAmparo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Amparo","SP","04578-000","BR"]],["email",{"type":"work"},"text","VTM@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VTM"
+    } ],
+    "entities" : [ ],
+    "handle" : "VTM"
+  } ],
+  "type" : null,
+  "handle" : "52736-LACNIC",
+  "country" : "BR"
+}

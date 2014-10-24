@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52506",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52506"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-AASA10-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-AASA10-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador Abuse"],["adr",{"label":"CARRIL RODRIGUEZ PEÑA 2831 (-)\nGODOY CRUZ - MENDOZA, null -\nAR","type":"work"},"text",["","","CARRIL RODRIGUEZ PEÑA 2831 (-)","GODOY CRUZ - MENDOZA","","-","AR"]],["email",{"type":"work"},"text","abuse@TA.TELECOM.COM.AR"],["tel",{"type":"work"},"text","54 261 4136000 ()"],["org",{},"text",["AUTOTRANSPORTES ANDESMAR S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ADA",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ADA"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador Abuse"],["adr",{"label":"Alicia Moreau de Justo 50 (-)\nCiudad Aut?noma de Buenos Aires,  1107\nAR","type":"work"},"text",["","","Alicia Moreau de Justo 50 (-)","Ciudad Aut?noma de Buenos Aires","","1107","AR"]],["email",{"type":"work"},"text","abuse@TA.TELECOM.COM.AR"],["tel",{"type":"work"},"text","54 11 49684000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030211",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110316",
+        "eventActor" : "ADA"
+      } ],
+      "handle" : "ADA"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070517",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070517",
+      "eventActor" : "ADA"
+    } ],
+    "handle" : "AR-AASA10-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AAS69",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AAS69"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Autotransportes Andesmar S.A."],["adr",{"label":"Carril Rodriguez Pe?a 2831 ()\nGodoy Cruz,  5501\nAR","type":"work"},"text",["","","Carril Rodriguez Pe?a 2831 ()","Godoy Cruz","","5501","AR"]],["email",{"type":"work"},"text","hostmaster@ANDINASOFTWARE.COM.AR"],["tel",{"type":"work"},"text","54 261 4136000 (273)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140305",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140305",
+      "eventActor" : "AAS69"
+    } ],
+    "handle" : "AAS69"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AAS69",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AAS69"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Autotransportes Andesmar S.A."],["adr",{"label":"Carril Rodriguez Pe?a 2831 ()\nGodoy Cruz,  5501\nAR","type":"work"},"text",["","","Carril Rodriguez Pe?a 2831 ()","Godoy Cruz","","5501","AR"]],["email",{"type":"work"},"text","hostmaster@ANDINASOFTWARE.COM.AR"],["tel",{"type":"work"},"text","54 261 4136000 (273)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140305",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140305",
+      "eventActor" : "AAS69"
+    } ],
+    "handle" : "AAS69"
+  } ],
+  "startAutnum" : 52506,
+  "endAutnum" : 52506,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140527",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140527",
+    "eventActor" : "AAS69"
+  } ],
+  "type" : null,
+  "handle" : "52506-LACNIC",
+  "country" : "AR"
+}

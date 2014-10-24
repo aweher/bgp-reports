@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262195",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262195"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TTSA7-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TTSA7-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP-ITX"],["adr",{"label":"Calle Suipacha 268 (Piso 12)\nBuenos Aires, CF --\nAR","type":"work"},"text",["","","Calle Suipacha 268 (Piso 12)","Buenos Aires","CF","--","AR"]],["email",{"type":"work"},"text","adminred@INTERNEXA.COM"],["tel",{"type":"work"},"text","57 4 3252270 (7334)"],["org",{},"text",["Transamerican Telecomunication S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/HEJ",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/HEJ"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP-ITX"],["adr",{"label":"Cl 12 sur # 18 - 168 bloque 5 Piso 2 00 (00000)\nMedellin, CO 00000\nCO","type":"work"},"text",["","","Cl 12 sur # 18 - 168 bloque 5 Piso 2 00 (00000)","Medellin","CO","00000","CO"]],["email",{"type":"work"},"text","adminred@INTERNEXA.COM"],["tel",{"type":"work"},"text","57 4 3171111 (73341)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090515",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130920",
+        "eventActor" : "HEJ"
+      } ],
+      "handle" : "HEJ"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110823",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130920",
+      "eventActor" : "HEJ"
+    } ],
+    "handle" : "AR-TTSA7-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HEJ",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HEJ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP-ITX"],["adr",{"label":"Cl 12 sur # 18 - 168 bloque 5 Piso 2 00 (00000)\nMedellin, CO 00000\nCO","type":"work"},"text",["","","Cl 12 sur # 18 - 168 bloque 5 Piso 2 00 (00000)","Medellin","CO","00000","CO"]],["email",{"type":"work"},"text","adminred@INTERNEXA.COM"],["tel",{"type":"work"},"text","57 4 3171111 (73341)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090515",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130920",
+      "eventActor" : "HEJ"
+    } ],
+    "handle" : "HEJ"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HEJ",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HEJ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP-ITX"],["adr",{"label":"Cl 12 sur # 18 - 168 bloque 5 Piso 2 00 (00000)\nMedellin, CO 00000\nCO","type":"work"},"text",["","","Cl 12 sur # 18 - 168 bloque 5 Piso 2 00 (00000)","Medellin","CO","00000","CO"]],["email",{"type":"work"},"text","adminred@INTERNEXA.COM"],["tel",{"type":"work"},"text","57 4 3171111 (73341)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090515",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130920",
+      "eventActor" : "HEJ"
+    } ],
+    "handle" : "HEJ"
+  } ],
+  "startAutnum" : 262195,
+  "endAutnum" : 262195,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111014",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20111015",
+    "eventActor" : "HEJ"
+  } ],
+  "type" : null,
+  "handle" : "262195-LACNIC",
+  "country" : "AR"
+}

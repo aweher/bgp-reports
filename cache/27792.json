@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27792",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27792"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-WCSA3-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-WCSA3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Pablo Albrecht"],["adr",{"label":"Av. Mitre 442 ()\nRafaela,  2300\nAR","type":"work"},"text",["","","Av. Mitre 442 ()","Rafaela","","2300","AR"]],["email",{"type":"work"},"text","root@WILNET.COM.AR"],["tel",{"type":"work"},"text","54 3492 501000 ()"],["org",{},"text",["Wiltel Comunicaciones SA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JPA2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JPA2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Pablo Albrecht"],["adr",{"label":"Av. Mitre 442 ()\nRafaela,  2300\nAR","type":"work"},"text",["","","Av. Mitre 442 ()","Rafaela","","2300","AR"]],["email",{"type":"work"},"text","root@WILNET.COM.AR"],["tel",{"type":"work"},"text","54 3492 501000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050822",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100518",
+        "eventActor" : "JPA2"
+      } ],
+      "handle" : "JPA2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20051004",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121219",
+      "eventActor" : "JPA2"
+    } ],
+    "handle" : "AR-WCSA3-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JPA2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JPA2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Pablo Albrecht"],["adr",{"label":"Av. Mitre 442 ()\nRafaela,  2300\nAR","type":"work"},"text",["","","Av. Mitre 442 ()","Rafaela","","2300","AR"]],["email",{"type":"work"},"text","root@WILNET.COM.AR"],["tel",{"type":"work"},"text","54 3492 501000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050822",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100518",
+      "eventActor" : "JPA2"
+    } ],
+    "handle" : "JPA2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JPA2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JPA2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Pablo Albrecht"],["adr",{"label":"Av. Mitre 442 ()\nRafaela,  2300\nAR","type":"work"},"text",["","","Av. Mitre 442 ()","Rafaela","","2300","AR"]],["email",{"type":"work"},"text","root@WILNET.COM.AR"],["tel",{"type":"work"},"text","54 3492 501000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050822",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100518",
+      "eventActor" : "JPA2"
+    } ],
+    "handle" : "JPA2"
+  } ],
+  "startAutnum" : 27792,
+  "endAutnum" : 27792,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20051103",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20051104",
+    "eventActor" : "JPA2"
+  } ],
+  "type" : null,
+  "handle" : "27792-LACNIC",
+  "country" : "AR"
+}

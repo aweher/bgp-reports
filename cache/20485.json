@@ -1,0 +1,5876 @@
+{"service" : {
+  "name" : "search"
+},
+"parameters" : {
+  "inverse-lookup" : { },
+  "type-filters" : { },
+  "flags" : { },
+  "query-strings" : {
+    "query-string" : [ {
+      "value" : "as20485"
+    } ]
+  },
+  "sources" : { }
+},
+"objects" : {
+  "object" : [ {
+    "type" : "as-block",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/as-block/AS20485 - AS20857"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS20485 - AS20857"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS20485 - AS20857"
+      }, {
+        "name" : "descr",
+        "value" : "RIPE NCC ASN block"
+      }, {
+        "name" : "remarks",
+        "value" : "These AS Numbers are assigned to network operators in the RIPE NCC service region."
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "aut-num",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/aut-num/AS20485"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS20485"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS20485"
+      }, {
+        "name" : "as-name",
+        "value" : "TRANSTELECOM"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/organisation/ORG-TA40-RIPE"
+        },
+        "name" : "org",
+        "value" : "ORG-TA40-RIPE",
+        "referenced-type" : "organisation"
+      }, {
+        "name" : "descr",
+        "value" : "TransTelecom"
+      }, {
+        "name" : "descr",
+        "value" : "Moscow, Russia"
+      }, {
+        "name" : "import",
+        "value" : "from AS42 action pref=100; accept AS-PCH"
+      }, {
+        "name" : "import",
+        "value" : "from AS786 action pref=100; accept AS-JANETPLUS"
+      }, {
+        "name" : "import",
+        "value" : "from AS1267 action pref=100; accept AS-INFOSTRADA"
+      }, {
+        "name" : "import",
+        "value" : "from AS1273 action pref=100; accept AS-CW"
+      }, {
+        "name" : "import",
+        "value" : "from AS1290 action pref=100; accept AS-PSINETUK"
+      }, {
+        "name" : "import",
+        "value" : "from AS1299 action pref=100; accept AS-TELIANET"
+      }, {
+        "name" : "import",
+        "value" : "from AS2110 action pref=100; accept AS-IEUNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS2118 action pref=50; accept AS-RELCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS2119 action pref=100; accept AS-TELENOR"
+      }, {
+        "name" : "import",
+        "value" : "from AS2529 action pref=100; accept AS-DEMON"
+      }, {
+        "name" : "import",
+        "value" : "from AS2603 action pref=100; accept AS-NORDUNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS2611 action pref=100; accept AS-BELNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS2818 action pref=100; accept AS-BBC"
+      }, {
+        "name" : "import",
+        "value" : "from AS2854 action pref=50; accept AS-ROSPRINT"
+      }, {
+        "name" : "import",
+        "value" : "from AS2914 action pref=100; accept AS2914:AS-GLOBAL"
+      }, {
+        "name" : "import",
+        "value" : "from AS3209 action pref=100; accept AS-ARCORGLOBAL"
+      }, {
+        "name" : "import",
+        "value" : "from AS3213 action pref=100; accept AS-BOGONS"
+      }, {
+        "name" : "import",
+        "value" : "from AS3216 action pref=50; accept AS-CORBINA"
+      }, {
+        "name" : "import",
+        "value" : "from AS3217 action pref=100; accept AS3217"
+      }, {
+        "name" : "import",
+        "value" : "from AS3316 action pref=100; accept AS-RELARN"
+      }, {
+        "name" : "import",
+        "value" : "from AS3356 action pref=100; accept ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS3491 action pref=100; accept AS-BTN-CUSTOMERS"
+      }, {
+        "name" : "import",
+        "value" : "from AS3549 action pref=100; accept AS-GBLX"
+      }, {
+        "name" : "import",
+        "value" : "from AS3741 action pref=100; accept AS-IS"
+      }, {
+        "name" : "import",
+        "value" : "from AS3856 action pref=100; accept AS-PCH"
+      }, {
+        "name" : "import",
+        "value" : "from AS4134 action pref=100; accept AS-CN"
+      }, {
+        "name" : "import",
+        "value" : "from AS4589 action pref=100; accept AS-EASYNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS48044 action pref=50; accept AS-CHITA-ON-LINE"
+      }, {
+        "name" : "import",
+        "value" : "from AS5089 action pref=100; accept AS-NTLI"
+      }, {
+        "name" : "import",
+        "value" : "from AS5387 action pref=50; accept AS-BurSC-SET"
+      }, {
+        "name" : "import",
+        "value" : "from AS5427 action pref=100; accept AS-PRTL-EU"
+      }, {
+        "name" : "import",
+        "value" : "from AS5430 action pref=100; accept AS-FREENETDE"
+      }, {
+        "name" : "import",
+        "value" : "from AS5459 action pref=100; accept AS-LINX"
+      }, {
+        "name" : "import",
+        "value" : "from AS5466 action pref=100; accept AS-EIRCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS5541 action pref=100; accept AS-ADNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS5547 action pref=50; accept AS-ORTEL"
+      }, {
+        "name" : "import",
+        "value" : "from AS5548 action pref=50; accept AS5548"
+      }, {
+        "name" : "import",
+        "value" : "from AS5564 action pref=100; accept AS-SOL"
+      }, {
+        "name" : "import",
+        "value" : "from AS5568 action pref=100; accept AS-RBNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS5577 action pref=100; accept AS-ROOT"
+      }, {
+        "name" : "import",
+        "value" : "from AS5580 action pref=100; accept AS-ATRATO"
+      }, {
+        "name" : "import",
+        "value" : "from AS5588 action pref=100; accept AS-GTS-CE"
+      }, {
+        "name" : "import",
+        "value" : "from AS6327 action pref=100; accept AS-BIGPIPE"
+      }, {
+        "name" : "import",
+        "value" : "from AS6453 action pref=100; accept AS-GLOBEINTERNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS6656 action pref=100; accept AS-STG"
+      }, {
+        "name" : "import",
+        "value" : "from AS6661 action pref=100; accept AS-PTLU"
+      }, {
+        "name" : "import",
+        "value" : "from AS6679 action pref=100; accept AS-SKADI"
+      }, {
+        "name" : "import",
+        "value" : "from AS6697 action pref=100; accept AS-BELPAK"
+      }, {
+        "name" : "import",
+        "value" : "from AS6730 action pref=100; accept AS-GLOBAL"
+      }, {
+        "name" : "import",
+        "value" : "from AS6774 action pref=100; accept AS-BELBONETOPEERS"
+      }, {
+        "name" : "remarks",
+        "value" : "Amsterdam Internet Exchange (AMS-IX)"
+      }, {
+        "name" : "import",
+        "value" : "from AS6777 accept ANY AND NOT <^[AS3216 AS3255 AS6697 AS6849 AS8359 AS8492 AS8641 AS8732 AS8744 AS8764 AS9002 AS9031 AS12389 AS12714 AS13002 AS13238 AS15169 AS16265 AS20764 AS25308 AS28917 AS29049 AS29076 AS29226 AS31133 AS31500 AS34123 AS34456 AS35297 AS35320 AS35374 AS35805 AS39792 AS41733 AS42861 AS43268 AS43727 AS47541 AS47764 AS48166 AS49342 AS50384 AS58002]>"
+      }, {
+        "name" : "import",
+        "value" : "from AS6779 action pref=100; accept AS-ICLNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS6805 action pref=100; accept AS-TDDE"
+      }, {
+        "name" : "import",
+        "value" : "from AS6844 action pref=100; accept AS-TD-SET"
+      }, {
+        "name" : "import",
+        "value" : "from AS6856 action pref=100; accept AS-SETICCUS"
+      }, {
+        "name" : "import",
+        "value" : "from AS6871 action pref=100; accept AS-PLUSNETUK"
+      }, {
+        "name" : "import",
+        "value" : "from AS6939 action pref=100; accept AS-HURRICANE"
+      }, {
+        "name" : "import",
+        "value" : "from AS8001 action pref=100; accept AS-NAC"
+      }, {
+        "name" : "import",
+        "value" : "from AS8068 action pref=100; accept AS-MICROSOFTEU"
+      }, {
+        "name" : "import",
+        "value" : "from AS8075 action pref=100; accept AS-MICROSOFT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8220 action pref=100; accept AS-COLT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8249 action pref=100; accept AS-TOTCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8359 action pref=100; accept AS-MTU"
+      }, {
+        "name" : "import",
+        "value" : "from AS8365 action pref=100; accept AS-MANDA"
+      }, {
+        "name" : "import",
+        "value" : "from AS8369 action pref=100; accept AS-INTERSVYAZ"
+      }, {
+        "name" : "import",
+        "value" : "from AS8402 action pref=100; accept AS-CORBINA"
+      }, {
+        "name" : "import",
+        "value" : "from AS8410 action pref=50; accept AS-NIR"
+      }, {
+        "name" : "import",
+        "value" : "from AS8416 action pref=100; accept AS-INFOLADA"
+      }, {
+        "name" : "import",
+        "value" : "from AS8419 action pref=100; accept AS-HOTCHILLI"
+      }, {
+        "name" : "import",
+        "value" : "from AS8422 action pref=100; accept AS-NETCOLOGNE"
+      }, {
+        "name" : "import",
+        "value" : "from AS8426 action pref=100; accept AS-CLARANET"
+      }, {
+        "name" : "import",
+        "value" : "from AS8427 action pref=100; accept AS-MAGINFONET"
+      }, {
+        "name" : "import",
+        "value" : "from AS8439 action pref=100; accept AS-AISTPEER"
+      }, {
+        "name" : "import",
+        "value" : "from AS8440 action pref=100; accept AS-SNC"
+      }, {
+        "name" : "import",
+        "value" : "from AS8443 action pref=100; accept AS-SAKHALIN"
+      }, {
+        "name" : "import",
+        "value" : "from AS8468 action pref=100; accept AS-ENTANET"
+      }, {
+        "name" : "import",
+        "value" : "from AS8492 action pref=50; accept AS-OBIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8506 action pref=50; accept AS8506"
+      }, {
+        "name" : "import",
+        "value" : "from AS8551 action pref=100; accept AS-BEZEQINT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8553 action pref=100; accept AS-AVENSYS"
+      }, {
+        "name" : "import",
+        "value" : "from AS8560 action pref=100; accept AS-1AND1"
+      }, {
+        "name" : "import",
+        "value" : "from AS8577 action pref=100; accept AS8577"
+      }, {
+        "name" : "import",
+        "value" : "from AS8586 action pref=100; accept AS-REDNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS8607 action pref=100; accept AS-ATLAS"
+      }, {
+        "name" : "import",
+        "value" : "from AS8615 action pref=100; accept AS-CNTPEERS"
+      }, {
+        "name" : "import",
+        "value" : "from AS8641 action pref=50; accept AS-NAUKANET"
+      }, {
+        "name" : "import",
+        "value" : "from AS8657 action pref=100; accept AS-CPRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8674 action pref=100; accept AS-NETNOD"
+      }, {
+        "name" : "import",
+        "value" : "from AS8683 action pref=100; accept AS-NOMINET"
+      }, {
+        "name" : "import",
+        "value" : "from AS8708 action pref=100; accept AS-RDSNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS8732 action pref=100; accept AS-COMCOR"
+      }, {
+        "name" : "import",
+        "value" : "from AS8744 action pref=100; accept AS-WIMAX"
+      }, {
+        "name" : "import",
+        "value" : "from AS8749 action pref=50; accept AS-REDCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS8470 action pref=50; accept AS-MACOMNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS8781 action pref=100; accept AS-QTEL"
+      }, {
+        "name" : "import",
+        "value" : "from AS8817 action pref=100; accept AS8817"
+      }, {
+        "name" : "import",
+        "value" : "from AS8828 action pref=100; accept AS8828"
+      }, {
+        "name" : "import",
+        "value" : "from AS8844 action pref=100; accept AS-COMMUNITY"
+      }, {
+        "name" : "import",
+        "value" : "from AS8851 action pref=100; accept AS-INWEB"
+      }, {
+        "name" : "import",
+        "value" : "from AS8859 action pref=100; accept AS-OSN"
+      }, {
+        "name" : "import",
+        "value" : "from AS8897 action pref=100; accept AS-KCOMSPN"
+      }, {
+        "name" : "import",
+        "value" : "from AS8912 action pref=100; accept AS-NETBENEFIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS8920 action pref=100; accept AS-VTC"
+      }, {
+        "name" : "import",
+        "value" : "from AS8928 action pref=100; accept AS-INTEROUTE"
+      }, {
+        "name" : "import",
+        "value" : "from AS8997 action pref=100; accept AS-SPBNIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS9009 action pref=100; accept AS-GBXS"
+      }, {
+        "name" : "import",
+        "value" : "from AS9044 action pref=100; accept AS-SOLNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS9049 action pref=100; accept AS-ERTH"
+      }, {
+        "name" : "import",
+        "value" : "from AS9110 action pref=100; accept AS-AGTEL-RUS"
+      }, {
+        "name" : "import",
+        "value" : "from AS9116 action pref=100; accept AS-GOLDEN"
+      }, {
+        "name" : "import",
+        "value" : "from AS9123 action pref=50; accept AS-TIMEWEB"
+      }, {
+        "name" : "import",
+        "value" : "from AS9132 action pref=100; accept AS-MEDIASCAPE"
+      }, {
+        "name" : "import",
+        "value" : "from AS9145 action pref=100; accept AS-EWETEL"
+      }, {
+        "name" : "import",
+        "value" : "from AS9153 action pref=100; accept AS-BURSTFIRE"
+      }, {
+        "name" : "import",
+        "value" : "from AS9177 action pref=100; accept AS9177"
+      }, {
+        "name" : "import",
+        "value" : "from AS9191 action pref=100; accept AS-NEWNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS9198 action pref=100; accept AS-KAZTELECOMPEERS"
+      }, {
+        "name" : "import",
+        "value" : "from AS9318 action pref=100; accept AS-HANARO"
+      }, {
+        "name" : "import",
+        "value" : "from AS10310 action pref=100; accept AS-YAHOOEU"
+      }, {
+        "name" : "import",
+        "value" : "from AS11666 action pref=100; accept AS-NEXICOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12178 action pref=100; accept AS-DIGCOMM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12332 action pref=100; accept AS-PRIMORYE"
+      }, {
+        "name" : "import",
+        "value" : "from AS12350 action pref=100; accept AS-VTX"
+      }, {
+        "name" : "import",
+        "value" : "from AS12389 action pref=100; accept AS-ROSTELECOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12418 action pref=100; accept AS-QUANTUM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12494 action pref=100; accept AS-POSTLTD"
+      }, {
+        "name" : "import",
+        "value" : "from AS12688 action pref=100; accept AS-BTTC"
+      }, {
+        "name" : "import",
+        "value" : "from AS12690 action pref=50; accept AS-MKSNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS12713 action pref=100; accept AS-OTEGLOBE"
+      }, {
+        "name" : "import",
+        "value" : "from AS12714 action pref=100; accept AS-TI"
+      }, {
+        "name" : "import",
+        "value" : "from AS12715 action pref=100; accept AS-JAZZTRANS"
+      }, {
+        "name" : "import",
+        "value" : "from AS12768 action pref=100; accept AS-ERTELECOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS12772 action pref=100; accept AS-ENFORTA"
+      }, {
+        "name" : "import",
+        "value" : "from AS12784 action pref=100; accept AS-FASTWEB"
+      }, {
+        "name" : "import",
+        "value" : "from AS12821 action pref=100; accept AS-INFOSYS"
+      }, {
+        "name" : "import",
+        "value" : "from AS12828 action pref=50; accept AS-KSC-SET"
+      }, {
+        "name" : "import",
+        "value" : "from AS12883 action pref=50; accept AS-UCOMLINE"
+      }, {
+        "name" : "import",
+        "value" : "from AS12979 action pref=100; accept AS-TSINET"
+      }, {
+        "name" : "import",
+        "value" : "from AS13002 action pref=100; accept AS-LINKEY"
+      }, {
+        "name" : "import",
+        "value" : "from AS13030 action pref=100; accept AS-INIT7"
+      }, {
+        "name" : "import",
+        "value" : "from AS13055 action pref=100; accept AS-COMSTAR-VOLOGDA"
+      }, {
+        "name" : "import",
+        "value" : "from AS13105 action pref=100; accept AS-LUKOIL"
+      }, {
+        "name" : "import",
+        "value" : "from AS13116 action pref=100; accept AS13116"
+      }, {
+        "name" : "import",
+        "value" : "from AS13184 action pref=100; accept AS-HANSENET"
+      }, {
+        "name" : "import",
+        "value" : "from AS13193 action pref=100; accept AS-NERIM"
+      }, {
+        "name" : "import",
+        "value" : "from AS13237 action pref=100; accept AS-LAMBDANET"
+      }, {
+        "name" : "import",
+        "value" : "from AS13249 action pref=50; accept AS-ITS-WORLD"
+      }, {
+        "name" : "import",
+        "value" : "from AS13285 action pref=100; accept AS-OPAL"
+      }, {
+        "name" : "import",
+        "value" : "from AS13304 action pref=100; accept AS-SURGUTTEL"
+      }, {
+        "name" : "import",
+        "value" : "from AS13445 action pref=100; accept AS-WEBEX"
+      }, {
+        "name" : "import",
+        "value" : "from AS14492 action pref=100; accept AS-DATAPIPE"
+      }, {
+        "name" : "import",
+        "value" : "from AS15133 action pref=100; accept AS-EDGECAST"
+      }, {
+        "name" : "import",
+        "value" : "from AS15366 action pref=100; accept AS-DNSNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS15395 action pref=100; accept AS15395"
+      }, {
+        "name" : "import",
+        "value" : "from AS15412 action pref=100; accept AS-FLAGP"
+      }, {
+        "name" : "import",
+        "value" : "from AS15626 action pref=100; accept AS-ITL"
+      }, {
+        "name" : "import",
+        "value" : "from AS15632 action pref=100; accept AS15632"
+      }, {
+        "name" : "import",
+        "value" : "from AS15638 action pref=100; accept AS-UTL"
+      }, {
+        "name" : "import",
+        "value" : "from AS15672 action pref=50; accept AS-TZTELECOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS15673 action pref=50; accept AS-TELESETI-PLUS"
+      }, {
+        "name" : "import",
+        "value" : "from AS15756 action pref=50; accept AS-CARAVAN"
+      }, {
+        "name" : "import",
+        "value" : "from AS15772 action pref=50; accept AS-WNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS15774 action pref=50; accept AS-TTK-RTL-CHITA"
+      }, {
+        "name" : "import",
+        "value" : "from AS15774 action pref=50; accept AS-TTK-RTL-SMA"
+      }, {
+        "name" : "import",
+        "value" : "from AS15774 action pref=50; accept AS-TTK-RTL-SAKH"
+      }, {
+        "name" : "import",
+        "value" : "from AS15830 action pref=100; accept AS-TELECITYLON"
+      }, {
+        "name" : "import",
+        "value" : "from AS15835 action pref=100; accept AS-MAPEXT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15913 action pref=100; accept AS15913"
+      }, {
+        "name" : "import",
+        "value" : "from AS15930 action pref=100; accept AS-SET-WPL"
+      }, {
+        "name" : "import",
+        "value" : "from AS15974 action pref=100; accept AS-VTT"
+      }, {
+        "name" : "import",
+        "value" : "from AS15974 action pref=50; accept AS-VTT-B"
+      }, {
+        "name" : "import",
+        "value" : "from AS15974 action pref=50; accept AS-VTT-RETAIL"
+      }, {
+        "name" : "import",
+        "value" : "from AS15974 action pref=50; accept AS-VTT-S"
+      }, {
+        "name" : "import",
+        "value" : "from AS15974 action pref=50; accept AS-VTT-V"
+      }, {
+        "name" : "import",
+        "value" : "from AS15974 action pref=50; accept AS-VTT-A"
+      }, {
+        "name" : "import",
+        "value" : "from AS16082 action pref=50; accept AS-SPITFIRE"
+      }, {
+        "name" : "import",
+        "value" : "from AS16094 action pref=50; accept AS-ROILCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16179 action pref=50; accept AS-SET-DCNX"
+      }, {
+        "name" : "import",
+        "value" : "from AS16265 action pref=100; accept AS-LEASEWEB"
+      }, {
+        "name" : "import",
+        "value" : "from AS16276 action pref=100; accept AS-OVH"
+      }, {
+        "name" : "import",
+        "value" : "from AS16285 action pref=50; accept AS-UMN"
+      }, {
+        "name" : "import",
+        "value" : "from AS16285 action pref=50; accept AS-UMN-PRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS16285 action pref=50; accept AS-UMN-SRG"
+      }, {
+        "name" : "import",
+        "value" : "from AS16285 action pref=50; accept AS-UMN-TMN"
+      }, {
+        "name" : "import",
+        "value" : "from AS16285 action pref=50; accept AS-UMN-TOB"
+      }, {
+        "name" : "import",
+        "value" : "from AS16285 action pref=50; accept AS-UMN-PYT"
+      }, {
+        "name" : "import",
+        "value" : "from AS16285 action pref=50; accept AS-UMN-YAL"
+      }, {
+        "name" : "import",
+        "value" : "from AS16285 action pref=50; accept AS-UMN-ISH"
+      }, {
+        "name" : "import",
+        "value" : "from AS16285 action pref=50; accept AS-UMN6"
+      }, {
+        "name" : "import",
+        "value" : "from AS16285 action pref=50; accept AS-UMN-TMN6"
+      }, {
+        "name" : "import",
+        "value" : "from AS16285 action pref=50; accept AS-UMN-TOB6"
+      }, {
+        "name" : "import",
+        "value" : "from AS16285 action pref=50; accept AS-UMN-ISH6"
+      }, {
+        "name" : "import",
+        "value" : "from AS16285 action pref=50; accept AS-UMN-SRG6"
+      }, {
+        "name" : "import",
+        "value" : "from AS16285 action pref=50; accept AS-UMN-PYT6"
+      }, {
+        "name" : "import",
+        "value" : "from AS16285 action pref=50; accept AS-UMN-PRM6"
+      }, {
+        "name" : "import",
+        "value" : "from AS16285 action pref=50; accept AS-UMN-YAL6"
+      }, {
+        "name" : "import",
+        "value" : "from AS16285 action pref=50; accept AS-UMN-ISH6"
+      }, {
+        "name" : "import",
+        "value" : "from AS16300 action pref=50; accept AS-INTERTAX"
+      }, {
+        "name" : "import",
+        "value" : "from AS16345 action pref=50; accept AS16345"
+      }, {
+        "name" : "import",
+        "value" : "from AS16353 action pref=100; accept AS-MERULA"
+      }, {
+        "name" : "import",
+        "value" : "from AS19151 action pref=100; accept AS-BBOI"
+      }, {
+        "name" : "import",
+        "value" : "from AS19318 action pref=100; accept AS-NJIIX"
+      }, {
+        "name" : "import",
+        "value" : "from AS20533 action pref=50; accept AS-SAKHTEL"
+      }, {
+        "name" : "import",
+        "value" : "from AS20562 action pref=100; accept AS-OPENPEERING"
+      }, {
+        "name" : "import",
+        "value" : "from AS20620 action pref=50; accept AS20620"
+      }, {
+        "name" : "import",
+        "value" : "from AS20690 action pref=50; accept AS20690"
+      }, {
+        "name" : "import",
+        "value" : "from AS20702 action pref=50; accept AS20702"
+      }, {
+        "name" : "import",
+        "value" : "from AS20720 action pref=50; accept AS-CTEL"
+      }, {
+        "name" : "import",
+        "value" : "from AS20730 action pref=50; accept AS20730"
+      }, {
+        "name" : "import",
+        "value" : "from AS20842 action pref=50; accept AS-FORMULA"
+      }, {
+        "name" : "import",
+        "value" : "from AS20850 action pref=50; accept AS-VALOR"
+      }, {
+        "name" : "import",
+        "value" : "from AS20870 action pref=50; accept AS-KTTK"
+      }, {
+        "name" : "import",
+        "value" : "from AS20872 action pref=50; accept AS20872"
+      }, {
+        "name" : "import",
+        "value" : "from AS20895 action pref=50; accept AS-UGTEL"
+      }, {
+        "name" : "import",
+        "value" : "from AS20940 action pref=100; accept AS-AKAMAI"
+      }, {
+        "name" : "import",
+        "value" : "from AS20985 action pref=50; accept AS-ARTX"
+      }, {
+        "name" : "import",
+        "value" : "from AS21099 action pref=100; accept AS-GAMEGROUP-LINX"
+      }, {
+        "name" : "import",
+        "value" : "from AS21103 action pref=50; accept AS-MTS-SAKH"
+      }, {
+        "name" : "import",
+        "value" : "from AS21105 action pref=50; accept AS-RTKPRIM"
+      }, {
+        "name" : "import",
+        "value" : "from AS21127 action pref=50; accept AS-ZSTTK-SET"
+      }, {
+        "name" : "import",
+        "value" : "from AS21135 action pref=50; accept AS21135"
+      }, {
+        "name" : "import",
+        "value" : "from AS21191 action pref=50; accept AS-STTK"
+      }, {
+        "name" : "import",
+        "value" : "from AS21226 action pref=50; accept AS-4NET"
+      }, {
+        "name" : "import",
+        "value" : "from AS21240 action pref=50; accept AS-HELIOSNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS21287 action pref=50; accept AS-ITN"
+      }, {
+        "name" : "import",
+        "value" : "from AS21298 action pref=50; accept AS21298"
+      }, {
+        "name" : "import",
+        "value" : "from AS21299 action pref=50; accept AS-ORBITA-PLUS-CUSTOMERS"
+      }, {
+        "name" : "import",
+        "value" : "from AS21353 action pref=50; accept AS-ARTCOMS"
+      }, {
+        "name" : "import",
+        "value" : "from AS21367 action pref=50; accept AS-ZVEZDATEL"
+      }, {
+        "name" : "import",
+        "value" : "from AS21371 action pref=100; accept AS-EQUINIX-EU"
+      }, {
+        "name" : "import",
+        "value" : "from AS21385 action pref=100; accept AS-TNIB"
+      }, {
+        "name" : "import",
+        "value" : "from AS21414 action pref=50; accept AS-RCNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS21442 action pref=50; accept AS-MEGATELECOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS21479 action pref=50; accept AS-DONPAC"
+      }, {
+        "name" : "import",
+        "value" : "from AS21480 action pref=50; accept AS-WBT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21483 action pref=50; accept AS-SOVINTEL-KRSK"
+      }, {
+        "name" : "import",
+        "value" : "from AS21488 action pref=50; accept AS-EMPLOT"
+      }, {
+        "name" : "import",
+        "value" : "from AS21844 action pref=100; accept AS-THEPLANET"
+      }, {
+        "name" : "import",
+        "value" : "from AS22822 action pref=100; accept AS-LLNW"
+      }, {
+        "name" : "import",
+        "value" : "from AS23242 action pref=100; accept AS23242"
+      }, {
+        "name" : "import",
+        "value" : "from AS24320 action pref=50; accept AS-RAILCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS24576 action pref=50; accept AS-NWT"
+      }, {
+        "name" : "import",
+        "value" : "from AS24588 action pref=50; accept AS-TRON"
+      }, {
+        "name" : "import",
+        "value" : "from AS24626 action pref=50; accept AS-TTKNN"
+      }, {
+        "name" : "import",
+        "value" : "from AS24722 action pref=50; accept AS-BABILON"
+      }, {
+        "name" : "import",
+        "value" : "from AS24724 action pref=100; accept AS24724:AS-FOREIGN"
+      }, {
+        "name" : "import",
+        "value" : "from AS24739 action pref=50; accept AS-SEVEREN-TELECOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS24811 action pref=50; accept AS-ZAO-KES"
+      }, {
+        "name" : "import",
+        "value" : "from AS24823 action pref=50; accept AS24823"
+      }, {
+        "name" : "import",
+        "value" : "from AS24832 action pref=100; accept AS24832"
+      }, {
+        "name" : "import",
+        "value" : "from AS24837 action pref=50; accept AS24837"
+      }, {
+        "name" : "import",
+        "value" : "from AS24919 action pref=50; accept AS-CUBIO"
+      }, {
+        "name" : "import",
+        "value" : "from AS24923 action pref=50; accept AS-SETTC"
+      }, {
+        "name" : "import",
+        "value" : "from AS24931 action pref=100; accept AS-DEDIPOWER"
+      }, {
+        "name" : "import",
+        "value" : "from AS25025 action pref=50; accept AS25025"
+      }, {
+        "name" : "import",
+        "value" : "from AS25061 action pref=100; accept AS-ANLX"
+      }, {
+        "name" : "import",
+        "value" : "from AS25220 action pref=100; accept AS-GLOBALNOC"
+      }, {
+        "name" : "import",
+        "value" : "from AS25227 action pref=50; accept AS-AVANTEL-MSK"
+      }, {
+        "name" : "import",
+        "value" : "from AS25369 action pref=100; accept AS-KILLERCREATION"
+      }, {
+        "name" : "import",
+        "value" : "from AS25381 action pref=50; accept AS-STRANZIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS25408 action pref=50; accept AS-WESTCALLSPB"
+      }, {
+        "name" : "import",
+        "value" : "from AS25446 action pref=50; accept AS-TOMLINE-SET"
+      }, {
+        "name" : "import",
+        "value" : "from AS25478 action pref=50; accept AS-IHOME"
+      }, {
+        "name" : "import",
+        "value" : "from AS25490 action pref=50; accept AS-STC"
+      }, {
+        "name" : "import",
+        "value" : "from AS25549 action pref=50; accept AS-AVANTEL"
+      }, {
+        "name" : "import",
+        "value" : "from AS28709 action pref=50; accept AS28709"
+      }, {
+        "name" : "import",
+        "value" : "from AS28712 action pref=50; accept AS-TELSYCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS28738 action pref=50; accept AS-INTERLAN"
+      }, {
+        "name" : "import",
+        "value" : "from AS28745 action pref=50; accept AS-SUTTK"
+      }, {
+        "name" : "import",
+        "value" : "from AS28769 action pref=50; accept AS-SIBTTK"
+      }, {
+        "name" : "import",
+        "value" : "from AS28775 action pref=50; accept AS-TTCNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS28809 action pref=50; accept AS28809"
+      }, {
+        "name" : "import",
+        "value" : "from AS28829 action pref=50; accept AS28829"
+      }, {
+        "name" : "import",
+        "value" : "from AS28840 action pref=50; accept AS-TTC"
+      }, {
+        "name" : "import",
+        "value" : "from AS28881 action pref=50; accept AS-BASHNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS28897 action pref=50; accept AS28897"
+      }, {
+        "name" : "import",
+        "value" : "from AS28910 action pref=50; accept AS-INTAL"
+      }, {
+        "name" : "import",
+        "value" : "from AS28917 action pref=50; accept AS-FIORD"
+      }, {
+        "name" : "import",
+        "value" : "from AS29049 action pref=50; accept AS-AZERSATMEMBERS"
+      }, {
+        "name" : "import",
+        "value" : "from AS29071 action pref=50; accept AS-29071-CLIENTS"
+      }, {
+        "name" : "import",
+        "value" : "from AS29075 action pref=100; accept AS-IELO"
+      }, {
+        "name" : "import",
+        "value" : "from AS29131 action pref=100; accept AS-RAPIDSWITCH"
+      }, {
+        "name" : "import",
+        "value" : "from AS29182 action pref=100; accept AS29182"
+      }, {
+        "name" : "import",
+        "value" : "from AS29190 action pref=50; accept AS29190"
+      }, {
+        "name" : "import",
+        "value" : "from AS29226 action pref=50; accept AS-MASTERTEL"
+      }, {
+        "name" : "import",
+        "value" : "from AS29303 action pref=50; accept AS-PERMINTERCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29304 action pref=50; accept AS-SATISNET-KHB"
+      }, {
+        "name" : "import",
+        "value" : "from AS29388 action pref=50; accept AS-BESTCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS29527 action pref=100; accept AS-OTHELLOTECH"
+      }, {
+        "name" : "import",
+        "value" : "from AS29530 action pref=50; accept AS-TITL"
+      }, {
+        "name" : "import",
+        "value" : "from AS29550 action pref=100; accept AS-POUNDHOST"
+      }, {
+        "name" : "import",
+        "value" : "from AS29550 action pref=100; accept AS-BLUECONNEX"
+      }, {
+        "name" : "import",
+        "value" : "from AS30733 action pref=50; accept AS-GLOBUS"
+      }, {
+        "name" : "import",
+        "value" : "from AS30745 action pref=50; accept AS-SVTC"
+      }, {
+        "name" : "import",
+        "value" : "from AS30835 action pref=50; accept AS-STECCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS30868 action pref=50; accept AS30868"
+      }, {
+        "name" : "import",
+        "value" : "from AS30881 action pref=50; accept AS-TT"
+      }, {
+        "name" : "import",
+        "value" : "from AS30936 action pref=50; accept AS-RENET"
+      }, {
+        "name" : "import",
+        "value" : "from AS30952 action pref=50; accept AS30952"
+      }, {
+        "name" : "import",
+        "value" : "from AS30960 action pref=50; accept AS-TETRA"
+      }, {
+        "name" : "import",
+        "value" : "from AS31059 action pref=50; accept AS-AVELACOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS31122 action pref=100; accept AS-DIGIWEB"
+      }, {
+        "name" : "import",
+        "value" : "from AS31133 action pref=100; accept AS-MF-MGSM"
+      }, {
+        "name" : "import",
+        "value" : "from AS31137 action pref=50; accept AS31137"
+      }, {
+        "name" : "import",
+        "value" : "from AS31189 action pref=50; accept AS31189"
+      }, {
+        "name" : "import",
+        "value" : "from AS31200 action pref=50; accept AS-RUNTK-SET"
+      }, {
+        "name" : "import",
+        "value" : "from AS31205 action pref=50; accept AS31205"
+      }, {
+        "name" : "import",
+        "value" : "from AS31214 action pref=50; accept AS-TISDIALOG"
+      }, {
+        "name" : "import",
+        "value" : "from AS31261 action pref=50; accept AS-GARS"
+      }, {
+        "name" : "import",
+        "value" : "from AS31294 action pref=50; accept AS-LANTECH"
+      }, {
+        "name" : "import",
+        "value" : "from AS31323 action pref=50; accept AS-UNNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS31359 action pref=50; accept AS-FORATEC"
+      }, {
+        "name" : "import",
+        "value" : "from AS31379 action pref=50; accept AS31379"
+      }, {
+        "name" : "import",
+        "value" : "from AS31415 action pref=50; accept AS-SVSCOMM"
+      }, {
+        "name" : "import",
+        "value" : "from AS31444 action pref=50; accept AS-SEANET"
+      }, {
+        "name" : "import",
+        "value" : "from AS31462 action pref=50; accept AS31462"
+      }, {
+        "name" : "import",
+        "value" : "from AS31499 action pref=50; accept AS-MOTIV"
+      }, {
+        "name" : "import",
+        "value" : "from AS31499 action pref=50; accept AS-MOTIV-PRM"
+      }, {
+        "name" : "import",
+        "value" : "from AS31501 action pref=50; accept AS-SPBTELEPORT"
+      }, {
+        "name" : "import",
+        "value" : "from AS31512 action pref=50; accept AS31512"
+      }, {
+        "name" : "import",
+        "value" : "from AS31558 action pref=50; accept AS-ZGTK"
+      }, {
+        "name" : "import",
+        "value" : "from AS31585 action pref=50; accept AS-SET-COLTEL"
+      }, {
+        "name" : "import",
+        "value" : "from AS31695 action pref=50; accept AS-IM"
+      }, {
+        "name" : "import",
+        "value" : "from AS31715 action pref=100; accept AS-NETRINO"
+      }, {
+        "name" : "import",
+        "value" : "from AS32934 action pref=100; accept AS-FACEBOOK"
+      }, {
+        "name" : "import",
+        "value" : "from AS33871 action pref=50; accept AS-NORCOM-KRSK"
+      }, {
+        "name" : "import",
+        "value" : "from AS33891 action pref=100; accept AS-CORE-BACKBONE"
+      }, {
+        "name" : "import",
+        "value" : "from AS33894 action pref=50; accept AS33894"
+      }, {
+        "name" : "import",
+        "value" : "from AS33936 action pref=50; accept AS33936"
+      }, {
+        "name" : "import",
+        "value" : "from AS33970 action pref=100; accept AS-OHTELE"
+      }, {
+        "name" : "import",
+        "value" : "from AS33991 action pref=50; accept AS-SKALA"
+      }, {
+        "name" : "import",
+        "value" : "from AS34137 action pref=50; accept AS34137"
+      }, {
+        "name" : "import",
+        "value" : "from AS34145 action pref=50; accept AS34145"
+      }, {
+        "name" : "import",
+        "value" : "from AS34185 action pref=50; accept AS34185"
+      }, {
+        "name" : "import",
+        "value" : "from AS34287 action pref=50; accept AS-VOLGOGRAD-GSM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34303 action pref=50; accept AS-BELTELECOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34305 action pref=100; accept AS-EUROACCESS"
+      }, {
+        "name" : "import",
+        "value" : "from AS34333 action pref=100; accept AS34333"
+      }, {
+        "name" : "import",
+        "value" : "from AS34347 action pref=100; accept AS-CNHAT"
+      }, {
+        "name" : "import",
+        "value" : "from AS34351 action pref=50; accept AS34351"
+      }, {
+        "name" : "import",
+        "value" : "from AS34442 action pref=100; accept AS-XIFOS"
+      }, {
+        "name" : "import",
+        "value" : "from AS34456 action pref=100; accept AS-RCPEERS"
+      }, {
+        "name" : "import",
+        "value" : "from AS34470 action pref=50; accept AS-PTKOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34479 action pref=50; accept AS-TSC-SET"
+      }, {
+        "name" : "import",
+        "value" : "from AS34533 action pref=50; accept AS-ESAM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34550 action pref=50; accept AS-INTERCON"
+      }, {
+        "name" : "import",
+        "value" : "from AS34580 action pref=50; accept AS34580"
+      }, {
+        "name" : "import",
+        "value" : "from AS34590 action pref=50; accept AS-NEOLINK"
+      }, {
+        "name" : "import",
+        "value" : "from AS34655 action pref=100; accept AS-DOCLER"
+      }, {
+        "name" : "import",
+        "value" : "from AS34676 action pref=50; accept AS-STAVCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS34703 action pref=50; accept AS34703"
+      }, {
+        "name" : "import",
+        "value" : "from AS34757 action pref=50; accept AS34757"
+      }, {
+        "name" : "import",
+        "value" : "from AS34804 action pref=50; accept AS34804"
+      }, {
+        "name" : "import",
+        "value" : "from AS34829 action pref=50; accept AS-MTT-CONNECT-IVANOVO"
+      }, {
+        "name" : "import",
+        "value" : "from AS34838 action pref=50; accept AS34838"
+      }, {
+        "name" : "import",
+        "value" : "from AS34858 action pref=50; accept AS-ENERGY-RU"
+      }, {
+        "name" : "import",
+        "value" : "from AS34869 action pref=50; accept AS34869"
+      }, {
+        "name" : "import",
+        "value" : "from AS35000 action pref=50; accept AS-PROMETEY"
+      }, {
+        "name" : "import",
+        "value" : "from AS35018 action pref=50; accept AS-FIRSTMILE"
+      }, {
+        "name" : "import",
+        "value" : "from AS35021 action pref=50; accept AS35021"
+      }, {
+        "name" : "import",
+        "value" : "from AS35022 action pref=50; accept AS35022"
+      }, {
+        "name" : "import",
+        "value" : "from AS35025 action pref=50; accept AS35025"
+      }, {
+        "name" : "import",
+        "value" : "from AS35104 action pref=50; accept AS-KTCPEERS"
+      }, {
+        "name" : "import",
+        "value" : "from AS35140 action pref=50; accept AS-SPINSATNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS35173 action pref=50; accept AS35173"
+      }, {
+        "name" : "import",
+        "value" : "from AS35237 action pref=50; accept AS35237"
+      }, {
+        "name" : "import",
+        "value" : "from AS35239 action pref=50; accept AS-BALTTELECOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS35297 action pref=50; accept AS-DL-WORLD"
+      }, {
+        "name" : "import",
+        "value" : "from AS35320 action pref=100; accept AS-ETT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35401 action pref=50; accept AS-SUNLINK-EXPORT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35475 action pref=50; accept AS35475"
+      }, {
+        "name" : "import",
+        "value" : "from AS35571 action pref=50; accept AS-COMSERVICE"
+      }, {
+        "name" : "import",
+        "value" : "from AS35598 action pref=50; accept AS-INETCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS35623 action pref=50; accept AS-SLANSPRINT"
+      }, {
+        "name" : "import",
+        "value" : "from AS35683 action pref=50; accept AS35683"
+      }, {
+        "name" : "import",
+        "value" : "from AS35793 action pref=50; accept AS35793"
+      }, {
+        "name" : "import",
+        "value" : "from AS35816 action pref=50; accept AS-LANCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS36408 action pref=100; accept AS-PANTHER"
+      }, {
+        "name" : "import",
+        "value" : "from AS38917 action pref=50; accept AS-INTERCOMTEL"
+      }, {
+        "name" : "import",
+        "value" : "from AS38930 action pref=100; accept AS-FIBERRING"
+      }, {
+        "name" : "import",
+        "value" : "from AS38976 action pref=50; accept AS-ATVC"
+      }, {
+        "name" : "import",
+        "value" : "from AS39001 action pref=50; accept AS-STREAMIZH"
+      }, {
+        "name" : "import",
+        "value" : "from AS39028 action pref=50; accept AS39028"
+      }, {
+        "name" : "import",
+        "value" : "from AS39045 action pref=50; accept AS-GAZTELECOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS39054 action pref=50; accept AS39054"
+      }, {
+        "name" : "import",
+        "value" : "from AS39102 action pref=50; accept AS-NNZ"
+      }, {
+        "name" : "import",
+        "value" : "from AS39178 action pref=50; accept AS-OPTILINK-RU"
+      }, {
+        "name" : "import",
+        "value" : "from AS39221 action pref=50; accept AS39221"
+      }, {
+        "name" : "import",
+        "value" : "from AS39256 action pref=50; accept AS-FANNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS39264 action pref=50; accept AS-METROMAX"
+      }, {
+        "name" : "import",
+        "value" : "from AS39269 action pref=50; accept AS39269"
+      }, {
+        "name" : "import",
+        "value" : "from AS39434 action pref=50; accept AS-DAGTK"
+      }, {
+        "name" : "import",
+        "value" : "from AS39435 action pref=50; accept AS-EVLD"
+      }, {
+        "name" : "import",
+        "value" : "from AS39442 action pref=50; accept AS-UNICO"
+      }, {
+        "name" : "import",
+        "value" : "from AS39465 action pref=50; accept AS39465"
+      }, {
+        "name" : "import",
+        "value" : "from AS39475 action pref=50; accept AS39475"
+      }, {
+        "name" : "import",
+        "value" : "from AS39684 action pref=50; accept AS39684"
+      }, {
+        "name" : "import",
+        "value" : "from AS39703 action pref=50; accept AS39703"
+      }, {
+        "name" : "import",
+        "value" : "from AS39707 action pref=50; accept AS-SINFORM"
+      }, {
+        "name" : "import",
+        "value" : "from AS39724 action pref=50; accept AS-ISSR"
+      }, {
+        "name" : "import",
+        "value" : "from AS39735 action pref=50; accept AS39735"
+      }, {
+        "name" : "import",
+        "value" : "from AS39785 action pref=50; accept AS-MULTINET"
+      }, {
+        "name" : "import",
+        "value" : "from AS39792 action pref=50; accept AS-ANDERS"
+      }, {
+        "name" : "import",
+        "value" : "from AS39811 action pref=50; accept AS-MTSDV"
+      }, {
+        "name" : "import",
+        "value" : "from AS39812 action pref=50; accept AS-RADIOTELF"
+      }, {
+        "name" : "import",
+        "value" : "from AS39850 action pref=50; accept AS39850"
+      }, {
+        "name" : "import",
+        "value" : "from AS39858 action pref=50; accept AS-CMST-ARZAMAS"
+      }, {
+        "name" : "import",
+        "value" : "from AS40977 action pref=50; accept AS40977"
+      }, {
+        "name" : "import",
+        "value" : "from AS40995 action pref=50; accept AS40995"
+      }, {
+        "name" : "import",
+        "value" : "from AS41034 action pref=50; accept AS-IMPULS"
+      }, {
+        "name" : "import",
+        "value" : "from AS41060 action pref=50; accept AS41060"
+      }, {
+        "name" : "import",
+        "value" : "from AS41070 action pref=50; accept AS-ARTEMCATV"
+      }, {
+        "name" : "import",
+        "value" : "from AS41101 action pref=50; accept AS-OPTITELECOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS41106 action pref=50; accept AS-TELTEL"
+      }, {
+        "name" : "import",
+        "value" : "from AS41148 action pref=50; accept AS41148"
+      }, {
+        "name" : "import",
+        "value" : "from AS41209 action pref=50; accept AS-COMSTAR-VOLGA"
+      }, {
+        "name" : "import",
+        "value" : "from AS41217 action pref=50; accept AS41217"
+      }, {
+        "name" : "import",
+        "value" : "from AS41268 action pref=50; accept AS-LANTA"
+      }, {
+        "name" : "import",
+        "value" : "from AS41310 action pref=50; accept AS41310"
+      }, {
+        "name" : "import",
+        "value" : "from AS41311 action pref=50; accept AS-CSIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS41440 action pref=50; accept AS-SIBNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS41441 action pref=50; accept AS-SINTA"
+      }, {
+        "name" : "import",
+        "value" : "from AS41446 action pref=50; accept AS41446"
+      }, {
+        "name" : "import",
+        "value" : "from AS41465 action pref=50; accept AS41465"
+      }, {
+        "name" : "import",
+        "value" : "from AS41479 action pref=50; accept AS-41479"
+      }, {
+        "name" : "import",
+        "value" : "from AS41516 action pref=50; accept AS41516"
+      }, {
+        "name" : "import",
+        "value" : "from AS41599 action pref=50; accept AS-AKSINET"
+      }, {
+        "name" : "import",
+        "value" : "from AS41616 action pref=50; accept AS41616"
+      }, {
+        "name" : "import",
+        "value" : "from AS41661 action pref=50; accept AS-CHEL"
+      }, {
+        "name" : "import",
+        "value" : "from AS41668 action pref=50; accept AS-KAZAN"
+      }, {
+        "name" : "import",
+        "value" : "from AS41682 action pref=50; accept AS-TMN"
+      }, {
+        "name" : "import",
+        "value" : "from AS41690 action pref=100; accept AS-DAILYMOTION"
+      }, {
+        "name" : "import",
+        "value" : "from AS41722 action pref=100; accept AS-MIRAN"
+      }, {
+        "name" : "import",
+        "value" : "from AS41748 action pref=50; accept AS41748"
+      }, {
+        "name" : "import",
+        "value" : "from AS41754 action pref=50; accept AS-PENZA"
+      }, {
+        "name" : "import",
+        "value" : "from AS41786 action pref=50; accept AS-YOLA"
+      }, {
+        "name" : "import",
+        "value" : "from AS41789 action pref=50; accept AS-TELEDYNE"
+      }, {
+        "name" : "import",
+        "value" : "from AS41794 action pref=50; accept AS41794"
+      }, {
+        "name" : "import",
+        "value" : "from AS41798 action pref=50; accept AS-TRANSKZ"
+      }, {
+        "name" : "import",
+        "value" : "from AS41812 action pref=50; accept AS41812"
+      }, {
+        "name" : "import",
+        "value" : "from AS41843 action pref=50; accept AS-OMSK"
+      }, {
+        "name" : "import",
+        "value" : "from AS41855 action pref=50; accept AS41855"
+      }, {
+        "name" : "import",
+        "value" : "from AS41929 action pref=50; accept AS-SYSTEM-SV"
+      }, {
+        "name" : "import",
+        "value" : "from AS41947 action pref=50; accept AS41947"
+      }, {
+        "name" : "import",
+        "value" : "from AS41957 action pref=50; accept AS41957"
+      }, {
+        "name" : "import",
+        "value" : "from AS41976 action pref=50; accept AS-SZKTI"
+      }, {
+        "name" : "import",
+        "value" : "from AS41983 action pref=50; accept AS41983"
+      }, {
+        "name" : "import",
+        "value" : "from AS42001 action pref=50; accept AS42001"
+      }, {
+        "name" : "import",
+        "value" : "from AS42038 action pref=50; accept AS-VLADLINK"
+      }, {
+        "name" : "import",
+        "value" : "from AS42145 action pref=50; accept AS42145"
+      }, {
+        "name" : "import",
+        "value" : "from AS42151 action pref=50; accept AS42151"
+      }, {
+        "name" : "import",
+        "value" : "from AS42291 action pref=50; accept AS-Istanet"
+      }, {
+        "name" : "import",
+        "value" : "from AS42368 action pref=50; accept AS-LKS"
+      }, {
+        "name" : "import",
+        "value" : "from AS42371 action pref=50; accept AS-PROKMA"
+      }, {
+        "name" : "import",
+        "value" : "from AS42387 action pref=50; accept AS42387"
+      }, {
+        "name" : "import",
+        "value" : "from AS42451 action pref=50; accept AS42451"
+      }, {
+        "name" : "import",
+        "value" : "from AS42478 action pref=50; accept AS-YL1123"
+      }, {
+        "name" : "import",
+        "value" : "from AS42500 action pref=50; accept AS42500"
+      }, {
+        "name" : "import",
+        "value" : "from AS42514 action pref=50; accept AS-SIGNALTV"
+      }, {
+        "name" : "import",
+        "value" : "from AS42516 action pref=50; accept AS42516"
+      }, {
+        "name" : "import",
+        "value" : "from AS42526 action pref=50; accept AS-COMCOMSYS"
+      }, {
+        "name" : "import",
+        "value" : "from AS42528 action pref=50; accept AS42528"
+      }, {
+        "name" : "import",
+        "value" : "from AS42574 action pref=50; accept AS-NSPLUS"
+      }, {
+        "name" : "import",
+        "value" : "from AS42575 action pref=50; accept AS-M2C"
+      }, {
+        "name" : "import",
+        "value" : "from AS42583 action pref=50; accept AS-ULCOMNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS42589 action pref=50; accept AS42589"
+      }, {
+        "name" : "import",
+        "value" : "from AS42632 action pref=50; accept AS-MNOGOBYTE"
+      }, {
+        "name" : "import",
+        "value" : "from AS42674 action pref=50; accept AS42674"
+      }, {
+        "name" : "import",
+        "value" : "from AS42676 action pref=50; accept AS42676"
+      }, {
+        "name" : "import",
+        "value" : "from AS42682 action pref=50; accept AS-NNOV"
+      }, {
+        "name" : "import",
+        "value" : "from AS42683 action pref=50; accept AS-OREN"
+      }, {
+        "name" : "import",
+        "value" : "from AS42689 action pref=100; accept AS-INUK"
+      }, {
+        "name" : "import",
+        "value" : "from AS42690 action pref=50; accept AS42690"
+      }, {
+        "name" : "import",
+        "value" : "from AS42740 action pref=50; accept AS42740"
+      }, {
+        "name" : "import",
+        "value" : "from AS42766 action pref=50; accept AS-JTCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS42767 action pref=50; accept AS42767"
+      }, {
+        "name" : "import",
+        "value" : "from AS42891 action pref=50; accept AS42891"
+      }, {
+        "name" : "import",
+        "value" : "from AS42911 action pref=50; accept AS42911"
+      }, {
+        "name" : "import",
+        "value" : "from AS42955 action pref=50; accept AS42955"
+      }, {
+        "name" : "import",
+        "value" : "from AS43022 action pref=50; accept AS-UASEECH"
+      }, {
+        "name" : "import",
+        "value" : "from AS43038 action pref=50; accept AS43038"
+      }, {
+        "name" : "import",
+        "value" : "from AS43092 action pref=50; accept AS43092"
+      }, {
+        "name" : "import",
+        "value" : "from AS43110 action pref=50; accept AS-ROSTNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS43218 action pref=50; accept AS-E66-RU"
+      }, {
+        "name" : "import",
+        "value" : "from AS43235 action pref=50; accept AS-SPRINT-NVR"
+      }, {
+        "name" : "import",
+        "value" : "from AS43274 action pref=50; accept AS-TELEOS-1"
+      }, {
+        "name" : "import",
+        "value" : "from AS43314 action pref=50; accept AS43314"
+      }, {
+        "name" : "import",
+        "value" : "from AS43399 action pref=50; accept AS43399"
+      }, {
+        "name" : "import",
+        "value" : "from AS43404 action pref=50; accept AS-UCANET"
+      }, {
+        "name" : "import",
+        "value" : "from AS43434 action pref=50; accept AS43434"
+      }, {
+        "name" : "import",
+        "value" : "from AS43465 action pref=50; accept AS-REINFOCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS43478 action pref=50; accept AS-NSK"
+      }, {
+        "name" : "import",
+        "value" : "from AS43527 action pref=50; accept AS43527"
+      }, {
+        "name" : "import",
+        "value" : "from AS43550 action pref=50; accept AS-DALSATCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS43567 action pref=50; accept AS43567"
+      }, {
+        "name" : "import",
+        "value" : "from AS43600 action pref=50; accept AS43600"
+      }, {
+        "name" : "import",
+        "value" : "from AS43660 action pref=50; accept AS-ETHERWAY"
+      }, {
+        "name" : "import",
+        "value" : "from AS43670 action pref=50; accept AS-New-TC"
+      }, {
+        "name" : "import",
+        "value" : "from AS43687 action pref=50; accept AS43687"
+      }, {
+        "name" : "import",
+        "value" : "from AS43714 action pref=50; accept AS-EPL"
+      }, {
+        "name" : "import",
+        "value" : "from AS43728 action pref=50; accept AS-TSPLUS"
+      }, {
+        "name" : "import",
+        "value" : "from AS43746 action pref=50; accept AS-SAKH9"
+      }, {
+        "name" : "import",
+        "value" : "from AS43782 action pref=50; accept AS-DARS-IP"
+      }, {
+        "name" : "import",
+        "value" : "from AS43798 action pref=50; accept AS43798"
+      }, {
+        "name" : "import",
+        "value" : "from AS43823 action pref=50; accept AS43823"
+      }, {
+        "name" : "import",
+        "value" : "from AS43874 action pref=50; accept AS43874"
+      }, {
+        "name" : "import",
+        "value" : "from AS43901 action pref=50; accept AS43901:AS-UNITLINESAM"
+      }, {
+        "name" : "import",
+        "value" : "from AS43903 action pref=50; accept AS43903"
+      }, {
+        "name" : "import",
+        "value" : "from AS43909 action pref=50; accept AS43909"
+      }, {
+        "name" : "import",
+        "value" : "from AS44020 action pref=50; accept AS-CLN"
+      }, {
+        "name" : "import",
+        "value" : "from AS44053 action pref=50; accept AS-UNILINK"
+      }, {
+        "name" : "import",
+        "value" : "from AS44265 action pref=50; accept AS-SMOLTELECOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS44266 action pref=50; accept AS-SOVTEST"
+      }, {
+        "name" : "import",
+        "value" : "from AS44347 action pref=50; accept AS44347"
+      }, {
+        "name" : "import",
+        "value" : "from AS44408 action pref=50; accept AS44408"
+      }, {
+        "name" : "import",
+        "value" : "from AS44436 action pref=50; accept AS-EFFORTEL-RST"
+      }, {
+        "name" : "import",
+        "value" : "from AS44478 action pref=50; accept AS44478"
+      }, {
+        "name" : "import",
+        "value" : "from AS44541 action pref=50; accept AS44541"
+      }, {
+        "name" : "import",
+        "value" : "from AS44619 action pref=50; accept AS44619"
+      }, {
+        "name" : "import",
+        "value" : "from AS44627 action pref=50; accept AS-HMLINK"
+      }, {
+        "name" : "import",
+        "value" : "from AS44670 action pref=50; accept AS44670"
+      }, {
+        "name" : "import",
+        "value" : "from AS44724 action pref=50; accept AS44724"
+      }, {
+        "name" : "import",
+        "value" : "from AS44775 action pref=50; accept AS-ELECTROCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS44804 action pref=50; accept AS44804"
+      }, {
+        "name" : "import",
+        "value" : "from AS44857 action pref=50; accept AS44857"
+      }, {
+        "name" : "import",
+        "value" : "from AS44890 action pref=50; accept AS-ASTELECOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS44905 action pref=50; accept AS-SETSKV"
+      }, {
+        "name" : "import",
+        "value" : "from AS44913 action pref=50; accept AS-NEXTTELL"
+      }, {
+        "name" : "import",
+        "value" : "from AS44941 action pref=50; accept AS-ADTV"
+      }, {
+        "name" : "import",
+        "value" : "from AS44982 action pref=50; accept AS44982"
+      }, {
+        "name" : "import",
+        "value" : "from AS44984 action pref=50; accept AS44984"
+      }, {
+        "name" : "import",
+        "value" : "from AS45005 action pref=50; accept AS45005"
+      }, {
+        "name" : "import",
+        "value" : "from AS45009 action pref=50; accept AS-MRSNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS45023 action pref=50; accept AS45023"
+      }, {
+        "name" : "import",
+        "value" : "from AS46786 action pref=100; accept AS-IPTRANSIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS47162 action pref=50; accept AS47162"
+      }, {
+        "name" : "import",
+        "value" : "from AS47165 action pref=50; accept AS-OMKC-SET"
+      }, {
+        "name" : "import",
+        "value" : "from AS47195 action pref=100; accept AS-GAMEFORGE"
+      }, {
+        "name" : "import",
+        "value" : "from AS47236 action pref=50; accept AS-SET-CL"
+      }, {
+        "name" : "import",
+        "value" : "from AS47240 action pref=50; accept AS47240"
+      }, {
+        "name" : "import",
+        "value" : "from AS47241 action pref=50; accept AS-IV-telecom"
+      }, {
+        "name" : "import",
+        "value" : "from AS47313 action pref=50; accept AS-ECOM-RZN"
+      }, {
+        "name" : "import",
+        "value" : "from AS47342 action pref=50; accept AS-TARIO"
+      }, {
+        "name" : "import",
+        "value" : "from AS47370 action pref=50; accept AS-SOTRUDNIK-SET"
+      }, {
+        "name" : "import",
+        "value" : "from AS47376 action pref=50; accept AS47376"
+      }, {
+        "name" : "import",
+        "value" : "from AS47397 action pref=50; accept AS-BASE"
+      }, {
+        "name" : "import",
+        "value" : "from AS47438 action pref=50; accept AS-PSKOVLINE"
+      }, {
+        "name" : "import",
+        "value" : "from AS47530 action pref=50; accept AS47530"
+      }, {
+        "name" : "import",
+        "value" : "from AS47531 action pref=50; accept AS-FLY"
+      }, {
+        "name" : "import",
+        "value" : "from AS47541 action pref=100; accept AS-VKONTAKTE"
+      }, {
+        "name" : "import",
+        "value" : "from AS47542 action pref=100; accept AS-VKONTAKTE"
+      }, {
+        "name" : "import",
+        "value" : "from AS47564 action pref=50; accept AS47564"
+      }, {
+        "name" : "import",
+        "value" : "from AS47565 action pref=50; accept AS-LOGICSET"
+      }, {
+        "name" : "import",
+        "value" : "from AS47579 action pref=50; accept AS47579"
+      }, {
+        "name" : "import",
+        "value" : "from AS47594 action pref=50; accept AS-NETCOMLINK"
+      }, {
+        "name" : "import",
+        "value" : "from AS47620 action pref=50; accept AS-TEHNOSOFT"
+      }, {
+        "name" : "import",
+        "value" : "from AS47622 action pref=100; accept AS-DATATECHUK"
+      }, {
+        "name" : "import",
+        "value" : "from AS47637 action pref=50; accept AS-NOVTELECOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS47656 action pref=50; accept AS47656"
+      }, {
+        "name" : "import",
+        "value" : "from AS47737 action pref=50; accept AS47737"
+      }, {
+        "name" : "import",
+        "value" : "from AS47751 action pref=50; accept AS47751"
+      }, {
+        "name" : "import",
+        "value" : "from AS47764 action pref=50; accept AS-MAILRU"
+      }, {
+        "name" : "import",
+        "value" : "from AS47789 action pref=50; accept AS-REGSETI-NET-SARATOV"
+      }, {
+        "name" : "import",
+        "value" : "from aS47844 action pref=50; accept AS-STARNETVLZ"
+      }, {
+        "name" : "import",
+        "value" : "from AS47873 action pref=50; accept AS47873"
+      }, {
+        "name" : "import",
+        "value" : "from AS47915 action pref=50; accept AS47915"
+      }, {
+        "name" : "import",
+        "value" : "from AS47989 action pref=50; accept AS-MOSINFOCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS48000 action pref=50; accept AS-COMSTAR-R-TMB"
+      }, {
+        "name" : "import",
+        "value" : "from AS48034 action pref=50; accept AS48034"
+      }, {
+        "name" : "import",
+        "value" : "from AS48043 action pref=50; accept AS48043"
+      }, {
+        "name" : "import",
+        "value" : "from AS48058 action pref=50; accept AS48058"
+      }, {
+        "name" : "import",
+        "value" : "from AS48148 action pref=50; accept AS-SAINF"
+      }, {
+        "name" : "import",
+        "value" : "from AS48166 action pref=50; accept AS-FORTEX"
+      }, {
+        "name" : "import",
+        "value" : "from AS48172 action pref=50; accept AS48172"
+      }, {
+        "name" : "import",
+        "value" : "from AS48207 action pref=50; accept AS48207"
+      }, {
+        "name" : "import",
+        "value" : "from AS48209 action pref=50; accept AS-LANCRONIX"
+      }, {
+        "name" : "import",
+        "value" : "from AS48212 action pref=50; accept AS-MKS"
+      }, {
+        "name" : "import",
+        "value" : "from AS48226 action pref=50; accept AS48226"
+      }, {
+        "name" : "import",
+        "value" : "from AS48275 action pref=50; accept AS-TUMS"
+      }, {
+        "name" : "import",
+        "value" : "from AS48297 action pref=50; accept AS48297"
+      }, {
+        "name" : "import",
+        "value" : "from AS48302 action pref=50; accept AS48302"
+      }, {
+        "name" : "import",
+        "value" : "from AS48322 action pref=50; accept AS48322"
+      }, {
+        "name" : "import",
+        "value" : "from AS48349 action pref=50; accept AS48349"
+      }, {
+        "name" : "import",
+        "value" : "from AS48354 action pref=50; accept AS-RELANT"
+      }, {
+        "name" : "import",
+        "value" : "from AS48386 action pref=50; accept AS48386"
+      }, {
+        "name" : "import",
+        "value" : "from AS48400 action pref=50; accept AS-Comstar-Regions-AST"
+      }, {
+        "name" : "import",
+        "value" : "from AS48409 action pref=50; accept AS48409"
+      }, {
+        "name" : "import",
+        "value" : "from AS48421 action pref=50; accept AS48421"
+      }, {
+        "name" : "import",
+        "value" : "from AS48462 action pref=50; accept AS-NEOCOMLLC"
+      }, {
+        "name" : "import",
+        "value" : "from AS48467 action pref=50; accept AS-PRANET"
+      }, {
+        "name" : "import",
+        "value" : "from AS48507 action pref=50; accept AS-SIBMEDIAFON"
+      }, {
+        "name" : "import",
+        "value" : "from AS48585 action pref=50; accept AS48585"
+      }, {
+        "name" : "import",
+        "value" : "from AS48711 action pref=50; accept AS48711"
+      }, {
+        "name" : "import",
+        "value" : "from AS48738 action pref=50; accept AS-APANET"
+      }, {
+        "name" : "import",
+        "value" : "from AS48770 action pref=50; accept AS48770"
+      }, {
+        "name" : "import",
+        "value" : "from AS48858 action pref=50; accept AS-MILECOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS48936 action pref=50; accept AS48936"
+      }, {
+        "name" : "import",
+        "value" : "from AS48950 action pref=50; accept AS-RTCOMM-SIBIR-KRS"
+      }, {
+        "name" : "import",
+        "value" : "from AS48975 action pref=50; accept AS48975"
+      }, {
+        "name" : "import",
+        "value" : "from AS48988 action pref=50; accept AS48988"
+      }, {
+        "name" : "import",
+        "value" : "from AS49048 action pref=50; accept AS-TVER"
+      }, {
+        "name" : "import",
+        "value" : "from AS49055 action pref=50; accept AS-NEWIT"
+      }, {
+        "name" : "import",
+        "value" : "from AS49063 action pref=50; accept AS-DTLN"
+      }, {
+        "name" : "import",
+        "value" : "from AS49064 action pref=50; accept AS49064"
+      }, {
+        "name" : "import",
+        "value" : "from AS49128 action pref=50; accept AS49128"
+      }, {
+        "name" : "import",
+        "value" : "from AS49288 action pref=50; accept AS49288"
+      }, {
+        "name" : "import",
+        "value" : "from AS49311 action pref=50; accept AS49311"
+      }, {
+        "name" : "import",
+        "value" : "from AS49331 action pref=50; accept AS49331"
+      }, {
+        "name" : "import",
+        "value" : "from AS49350 action pref=50; accept AS49350"
+      }, {
+        "name" : "import",
+        "value" : "from AS49458 action pref=50; accept AS-INTELLIN"
+      }, {
+        "name" : "import",
+        "value" : "from AS49481 action pref=50; accept AS49481"
+      }, {
+        "name" : "import",
+        "value" : "from AS49505 action pref=50; accept AS49505"
+      }, {
+        "name" : "import",
+        "value" : "from AS49544 action pref=50; accept AS-AISTPEER"
+      }, {
+        "name" : "import",
+        "value" : "from AS49545 action pref=50; accept AS49545"
+      }, {
+        "name" : "import",
+        "value" : "from AS49572 action pref=100; accept AS-FCN"
+      }, {
+        "name" : "import",
+        "value" : "from AS49577 action pref=100; accept AS49577"
+      }, {
+        "name" : "import",
+        "value" : "from AS49675 action pref=50; accept AS49675"
+      }, {
+        "name" : "import",
+        "value" : "from AS49723 action pref=50; accept AS-SIGNAL-LTD"
+      }, {
+        "name" : "import",
+        "value" : "from AS49736 action pref=50; accept AS49736"
+      }, {
+        "name" : "import",
+        "value" : "from AS49775 action pref=50; accept AS-INFO-SVYAZ"
+      }, {
+        "name" : "import",
+        "value" : "from AS49810 action pref=50; accept AS-COMITEN"
+      }, {
+        "name" : "import",
+        "value" : "from AS49813 action pref=50; accept AS-INN"
+      }, {
+        "name" : "import",
+        "value" : "from AS49816 action pref=50; accept AS49816"
+      }, {
+        "name" : "import",
+        "value" : "from AS49821 action pref=50; accept AS-BAZA35"
+      }, {
+        "name" : "import",
+        "value" : "from AS49874 action pref=50; accept AS49874"
+      }, {
+        "name" : "import",
+        "value" : "from AS49886 action pref=50; accept AS49886"
+      }, {
+        "name" : "import",
+        "value" : "from AS49919 action pref=50; accept AS49919"
+      }, {
+        "name" : "import",
+        "value" : "from AS49963 action pref=50; accept AS-BELRTS"
+      }, {
+        "name" : "import",
+        "value" : "from AS49966 action pref=50; accept AS49966"
+      }, {
+        "name" : "import",
+        "value" : "from AS49973 action pref=50; accept AS49973"
+      }, {
+        "name" : "import",
+        "value" : "from AS50022 action pref=50; accept AS50022"
+      }, {
+        "name" : "import",
+        "value" : "from AS50071 action pref=50; accept AS50071"
+      }, {
+        "name" : "import",
+        "value" : "from AS50122 action pref=50; accept AS50122"
+      }, {
+        "name" : "import",
+        "value" : "from AS50174 action pref=50; accept AS50174"
+      }, {
+        "name" : "import",
+        "value" : "from AS50182 action pref=50; accept AS50182"
+      }, {
+        "name" : "import",
+        "value" : "from AS50187 action pref=50; accept AS-EDINSTVOTELECOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS50227 action pref=50; accept AS50227"
+      }, {
+        "name" : "import",
+        "value" : "from AS50257 action pref=50; accept AS50257"
+      }, {
+        "name" : "import",
+        "value" : "from AS50258 action pref=50; accept AS-TEYLA"
+      }, {
+        "name" : "import",
+        "value" : "from AS50283 action pref=50; accept AS-BUSINESSCENTER"
+      }, {
+        "name" : "import",
+        "value" : "from AS50292 action pref=100; accept AS-STRATOGEN"
+      }, {
+        "name" : "import",
+        "value" : "from AS50309 action pref=50; accept AS50309"
+      }, {
+        "name" : "import",
+        "value" : "from AS50315 action pref=50; accept AS-ASTRAKHAN-GSM"
+      }, {
+        "name" : "import",
+        "value" : "from AS50396 action pref=50; accept AS50396"
+      }, {
+        "name" : "import",
+        "value" : "from AS50427 action pref=50; accept AS-ABAKANNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS50439 action pref=50; accept AS50439"
+      }, {
+        "name" : "import",
+        "value" : "from AS50442 action pref=50; accept AS-CS"
+      }, {
+        "name" : "import",
+        "value" : "from AS50443 action pref=50; accept AS50443"
+      }, {
+        "name" : "import",
+        "value" : "from AS50453 action pref=50; accept AS50453"
+      }, {
+        "name" : "import",
+        "value" : "from AS50497 action pref=50; accept AS50497"
+      }, {
+        "name" : "import",
+        "value" : "from AS50498 action pref=50; accept AS-LIPETSK"
+      }, {
+        "name" : "import",
+        "value" : "from AS50512 action pref=50; accept AS-BARNAUL"
+      }, {
+        "name" : "import",
+        "value" : "from AS50542 action pref=50; accept AS-VORONEZH"
+      }, {
+        "name" : "import",
+        "value" : "from AS50544 action pref=50; accept AS-KRSK"
+      }, {
+        "name" : "import",
+        "value" : "from AS50565 action pref=50; accept AS50565"
+      }, {
+        "name" : "import",
+        "value" : "from AS50716 action pref=50; accept AS50716"
+      }, {
+        "name" : "import",
+        "value" : "from AS50725 action pref=50; accept AS50725"
+      }, {
+        "name" : "import",
+        "value" : "from AS50753 action pref=50; accept AS50753"
+      }, {
+        "name" : "import",
+        "value" : "from AS50859 action pref=50; accept AS-TATAISENERGO"
+      }, {
+        "name" : "import",
+        "value" : "from AS50885 action pref=50; accept AS-IRKIVC"
+      }, {
+        "name" : "import",
+        "value" : "from AS50958 action pref=50; accept AS50958"
+      }, {
+        "name" : "import",
+        "value" : "from AS51034 action pref=50; accept AS-WEACOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS51035 action pref=50; accept AS-UFA"
+      }, {
+        "name" : "import",
+        "value" : "from AS51054 action pref=50; accept AS-TRANSKOM-VD"
+      }, {
+        "name" : "import",
+        "value" : "from AS51067 action pref=50; accept AS-ITSNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS51081 action pref=50; accept AS51081"
+      }, {
+        "name" : "import",
+        "value" : "from AS51088 action pref=100; accept AS-A2B"
+      }, {
+        "name" : "import",
+        "value" : "from AS51100 action pref=50; accept AS51100"
+      }, {
+        "name" : "import",
+        "value" : "from AS51136 action pref=50; accept AS51136"
+      }, {
+        "name" : "import",
+        "value" : "from AS51158 action pref=50; accept AS51158"
+      }, {
+        "name" : "import",
+        "value" : "from AS51341 action pref=50; accept AS51341"
+      }, {
+        "name" : "import",
+        "value" : "from AS51343 action pref=50; accept AS-FORCELINE"
+      }, {
+        "name" : "import",
+        "value" : "from AS51351 action pref=50; accept AS51351"
+      }, {
+        "name" : "import",
+        "value" : "from AS51377 action pref=100; accept AS-BURSTNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS51428 action pref=50; accept AS51428"
+      }, {
+        "name" : "import",
+        "value" : "from AS51477 action pref=50; accept AS51477"
+      }, {
+        "name" : "import",
+        "value" : "from AS51543 action pref=50; accept AS-SAMARA-TTK"
+      }, {
+        "name" : "import",
+        "value" : "from AS51501 action pref=50; accept AS51501"
+      }, {
+        "name" : "import",
+        "value" : "from AS51570 action pref=50; accept AS-SPB"
+      }, {
+        "name" : "import",
+        "value" : "from AS51604 action pref=50; accept AS-EKAT"
+      }, {
+        "name" : "import",
+        "value" : "from AS51612 action pref=50; accept AS51612"
+      }, {
+        "name" : "import",
+        "value" : "from AS51613 action pref=50; accept AS51613"
+      }, {
+        "name" : "import",
+        "value" : "from AS51623 action pref=50; accept AS51623"
+      }, {
+        "name" : "import",
+        "value" : "from AS51666 action pref=50; accept AS51666"
+      }, {
+        "name" : "import",
+        "value" : "from AS51771 action pref=50; accept AS51771"
+      }, {
+        "name" : "import",
+        "value" : "from AS51781 action pref=50; accept AS51781"
+      }, {
+        "name" : "import",
+        "value" : "from AS51813 action pref=50; accept AS-DARTEL"
+      }, {
+        "name" : "import",
+        "value" : "from AS51819 action pref=50; accept AS-YAR"
+      }, {
+        "name" : "import",
+        "value" : "from AS51900 action pref=50; accept AS51900"
+      }, {
+        "name" : "import",
+        "value" : "from AS51957 action pref=50; accept AS-SET-AQUAFON"
+      }, {
+        "name" : "import",
+        "value" : "from AS51997 action pref=50; accept AS-ASKET"
+      }, {
+        "name" : "import",
+        "value" : "from AS52022 action pref=50; accept AS52022"
+      }, {
+        "name" : "import",
+        "value" : "from AS52043 action pref=50; accept AS52043"
+      }, {
+        "name" : "import",
+        "value" : "from AS52194 action pref=50; accept AS52194"
+      }, {
+        "name" : "import",
+        "value" : "from AS52201 action pref=50; accept AS-TCTEL"
+      }, {
+        "name" : "import",
+        "value" : "from AS52207 action pref=50; accept AS-TULA"
+      }, {
+        "name" : "import",
+        "value" : "from AS52208 action pref=50; accept AS-ETC-Com"
+      }, {
+        "name" : "import",
+        "value" : "from AS56326 action pref=50; accept AS56326"
+      }, {
+        "name" : "import",
+        "value" : "from AS56330 action pref=50; accept AS56330"
+      }, {
+        "name" : "import",
+        "value" : "from AS56331 action pref=50; accept AS56331"
+      }, {
+        "name" : "import",
+        "value" : "from AS56340 action pref=50; accept AS-UMNYESETI"
+      }, {
+        "name" : "import",
+        "value" : "from AS56341 action pref=50; accept AS-ENTERLLC"
+      }, {
+        "name" : "import",
+        "value" : "from AS56377 action pref=50; accept AS56377"
+      }, {
+        "name" : "import",
+        "value" : "from AS56407 action pref=50; accept AS-ZHIGULINET"
+      }, {
+        "name" : "import",
+        "value" : "from AS56420 action pref=50; accept AS56420"
+      }, {
+        "name" : "import",
+        "value" : "from AS56451 action pref=50; accept AS-TELEKEY-S"
+      }, {
+        "name" : "import",
+        "value" : "from AS56463 action pref=50; accept AS-BSCOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS56535 action pref=50; accept AS56535"
+      }, {
+        "name" : "import",
+        "value" : "from AS56592 action pref=50; accept AS56592"
+      }, {
+        "name" : "import",
+        "value" : "from AS56630 action pref=50; accept AS56630"
+      }, {
+        "name" : "import",
+        "value" : "from AS56702 action pref=50; accept AS-PSAS"
+      }, {
+        "name" : "import",
+        "value" : "from AS56720 action pref=50; accept AS56720"
+      }, {
+        "name" : "import",
+        "value" : "from AS56895 action pref=50; accept AS-SVT"
+      }, {
+        "name" : "import",
+        "value" : "from AS56936 action pref=50; accept AS56936"
+      }, {
+        "name" : "import",
+        "value" : "from AS56959 action pref=50; accept AS56959"
+      }, {
+        "name" : "import",
+        "value" : "from AS56969 action pref=50; accept AS56969"
+      }, {
+        "name" : "import",
+        "value" : "from AS56977 action pref=50; accept AS56977"
+      }, {
+        "name" : "import",
+        "value" : "from AS51645 action pref=50; accept AS-IRKUTSK"
+      }, {
+        "name" : "import",
+        "value" : "from AS57038 action pref=50; accept AS57038"
+      }, {
+        "name" : "import",
+        "value" : "from AS57044 action pref=50; accept AS-BRYANSK"
+      }, {
+        "name" : "import",
+        "value" : "from AS57073 action pref=50; accept AS57073"
+      }, {
+        "name" : "import",
+        "value" : "from AS57155 action pref=50; accept AS57155"
+      }, {
+        "name" : "import",
+        "value" : "from AS57214 action pref=50; accept AS-VIDIKON"
+      }, {
+        "name" : "import",
+        "value" : "from AS57261 action pref=50; accept AS-RASTR"
+      }, {
+        "name" : "import",
+        "value" : "from AS57339 action pref=50; accept AS57339"
+      }, {
+        "name" : "import",
+        "value" : "from AS57351 action pref=50; accept AS57351"
+      }, {
+        "name" : "import",
+        "value" : "from AS57359 action pref=50; accept AS-TERMPLUS"
+      }, {
+        "name" : "import",
+        "value" : "from AS57471 action pref=50; accept AS57471"
+      }, {
+        "name" : "import",
+        "value" : "from AS57482 action pref=50; accept AS57482"
+      }, {
+        "name" : "import",
+        "value" : "from AS57540 action pref=50; accept AS57540"
+      }, {
+        "name" : "import",
+        "value" : "from AS57573 action pref=50; accept AS57573"
+      }, {
+        "name" : "import",
+        "value" : "from AS57629 action pref=50; accept AS57629"
+      }, {
+        "name" : "import",
+        "value" : "from AS57742 action pref=50; accept AS57742"
+      }, {
+        "name" : "import",
+        "value" : "from AS57766 action pref=50; accept AS57766"
+      }, {
+        "name" : "import",
+        "value" : "from AS57798 action pref=50; accept AS57798"
+      }, {
+        "name" : "import",
+        "value" : "from AS57826 action pref=50; accept AS-ESILNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS57898 action pref=50; accept AS57898"
+      }, {
+        "name" : "import",
+        "value" : "from AS58002 action pref=50; accept AS-SI"
+      }, {
+        "name" : "import",
+        "value" : "from AS58006 action pref=50; accept AS-TECHNET35"
+      }, {
+        "name" : "import",
+        "value" : "from AS57808 action pref=50; accept AS-SATDV"
+      }, {
+        "name" : "import",
+        "value" : "from AS58067 action pref=50; accept AS58067"
+      }, {
+        "name" : "import",
+        "value" : "from AS58136 action pref=50; accept AS58136"
+      }, {
+        "name" : "import",
+        "value" : "from AS58228 action pref=50; accept AS58228"
+      }, {
+        "name" : "import",
+        "value" : "from AS58304 action pref=50; accept AS58304"
+      }, {
+        "name" : "import",
+        "value" : "from AS59508 action pref=50; accept AS59508"
+      }, {
+        "name" : "import",
+        "value" : "from AS59515 action pref=50; accept AS59515"
+      }, {
+        "name" : "import",
+        "value" : "from AS59525 action pref=50; accept AS59525"
+      }, {
+        "name" : "import",
+        "value" : "from AS59574 action pref=50; accept AS-STSATS"
+      }, {
+        "name" : "import",
+        "value" : "from AS59600 action pref=50; accept AS59600"
+      }, {
+        "name" : "import",
+        "value" : "from AS59616 action pref=50; accept AS59616"
+      }, {
+        "name" : "import",
+        "value" : "from AS59661 action pref=50; accept AS-Format-C-set"
+      }, {
+        "name" : "import",
+        "value" : "from AS59666 action pref=50; accept AS-ZETTALINE"
+      }, {
+        "name" : "import",
+        "value" : "from AS59822 action pref=50; accept AS59822"
+      }, {
+        "name" : "import",
+        "value" : "from AS59883 action pref=50; accept AS-VTELL"
+      }, {
+        "name" : "import",
+        "value" : "from AS60135 action pref=50; accept AS60135"
+      }, {
+        "name" : "import",
+        "value" : "from AS60280 action pref=50; accept AS-NTEC"
+      }, {
+        "name" : "import",
+        "value" : "from AS60299 action pref=50; accept AS-MMTS"
+      }, {
+        "name" : "import",
+        "value" : "from AS60265 action pref=50; accept AS60265"
+      }, {
+        "name" : "import",
+        "value" : "from AS60505 action pref=50; accept AS60505"
+      }, {
+        "name" : "import",
+        "value" : "from AS60740 action pref=50; accept AS60740"
+      }, {
+        "name" : "import",
+        "value" : "from AS60854 action pref=50; accept AS60854"
+      }, {
+        "name" : "import",
+        "value" : "from AS60891 action pref=50; accept AS60891"
+      }, {
+        "name" : "import",
+        "value" : "from AS61237 action pref=50; accept AS61237"
+      }, {
+        "name" : "import",
+        "value" : "from AS61400 action pref=50; accept AS-NETRACK"
+      }, {
+        "name" : "import",
+        "value" : "from AS62006 action pref=50; accept AS62006"
+      }, {
+        "name" : "import",
+        "value" : "from AS62065 action pref=50; accept AS62065"
+      }, {
+        "name" : "import",
+        "value" : "from AS62169 action pref=50; accept AS62169"
+      }, {
+        "name" : "import",
+        "value" : "from AS62247 action pref=50; accept AS62247"
+      }, {
+        "name" : "import",
+        "value" : "from AS62256 action pref=50; accept AS62256"
+      }, {
+        "name" : "import",
+        "value" : "from AS64597 action pref=100; accept AS64597"
+      }, {
+        "name" : "import",
+        "value" : "from AS65001 action pref=50; accept AS65001"
+      }, {
+        "name" : "import",
+        "value" : "from AS65074 action pref=50; accept AS65074"
+      }, {
+        "name" : "import",
+        "value" : "from AS65500 action pref=50; accept AS65500"
+      }, {
+        "name" : "import",
+        "value" : "from AS196648 action pref=50; accept AS-YSUNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS196688 action pref=50; accept AS196688"
+      }, {
+        "name" : "import",
+        "value" : "from AS196770 action pref=50; accept AS-BIGTELECOM-LIPETSK"
+      }, {
+        "name" : "import",
+        "value" : "from AS196742 action pref=50; accept AS-EKRAN"
+      }, {
+        "name" : "import",
+        "value" : "from AS196786 action pref=50; accept AS196786"
+      }, {
+        "name" : "import",
+        "value" : "from AS196797 action pref=50; accept AS-SAMARA-TTK-BASH"
+      }, {
+        "name" : "import",
+        "value" : "from AS196798 action pref=50; accept AS196798"
+      }, {
+        "name" : "import",
+        "value" : "from AS196812 action pref=50; accept AS196812"
+      }, {
+        "name" : "import",
+        "value" : "from AS196911 action pref=50; accept AS-SOEES"
+      }, {
+        "name" : "import",
+        "value" : "from AS196941 action pref=50; accept AS-NMN"
+      }, {
+        "name" : "import",
+        "value" : "from AS196949 action pref=50; accept AS-PODRYAD"
+      }, {
+        "name" : "import",
+        "value" : "from AS196989 action pref=50; accept AS-SET-VISM"
+      }, {
+        "name" : "import",
+        "value" : "from AS197023 action pref=50; accept AS197023"
+      }, {
+        "name" : "import",
+        "value" : "from AS197068 action pref=50; accept AS-QRATOR"
+      }, {
+        "name" : "import",
+        "value" : "from AS197070 action pref=50; accept AS197070"
+      }, {
+        "name" : "import",
+        "value" : "from AS197078 action pref=50; accept AS-YARNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS197193 action pref=50; accept AS197193"
+      }, {
+        "name" : "import",
+        "value" : "from AS197298 action pref=50; accept AS-ATEL-LTD"
+      }, {
+        "name" : "import",
+        "value" : "from AS197315 action pref=50; accept AS197315"
+      }, {
+        "name" : "import",
+        "value" : "from AS197349 action pref=50; accept AS197349"
+      }, {
+        "name" : "import",
+        "value" : "from AS197379 action pref=50; accept AS-INVITRO"
+      }, {
+        "name" : "import",
+        "value" : "from AS197467 action pref=50; accept AS197467"
+      }, {
+        "name" : "import",
+        "value" : "from AS197499 action pref=50; accept AS197499"
+      }, {
+        "name" : "import",
+        "value" : "from AS197535 action pref=50; accept AS197535"
+      }, {
+        "name" : "import",
+        "value" : "from AS197556 action pref=50; accept AS-SET_TNSPLUS"
+      }, {
+        "name" : "import",
+        "value" : "from AS197718 action pref=50; accept AS197718"
+      }, {
+        "name" : "import",
+        "value" : "from AS197899 action pref=50; accept AS197899"
+      }, {
+        "name" : "import",
+        "value" : "from AS197960 action pref=50; accept AS-VICNET"
+      }, {
+        "name" : "import",
+        "value" : "from AS198212 action pref=50; accept AS-TELENETSAYANSK"
+      }, {
+        "name" : "import",
+        "value" : "from AS198255 action pref=50; accept AS198255"
+      }, {
+        "name" : "import",
+        "value" : "from AS198354 action pref=50; accept AS-SISTELECOM"
+      }, {
+        "name" : "import",
+        "value" : "from AS198367 action pref=50; accept AS198367"
+      }, {
+        "name" : "import",
+        "value" : "from AS198515 action pref=50; accept AS198515"
+      }, {
+        "name" : "import",
+        "value" : "from AS198541 action pref=50; accept AS-MTT"
+      }, {
+        "name" : "import",
+        "value" : "from AS198563 action pref=50; accept AS198563"
+      }, {
+        "name" : "import",
+        "value" : "from AS198588 action pref=50; accept AS-PROSTODNS-ANYCAST-1"
+      }, {
+        "name" : "import",
+        "value" : "from AS198592 action pref=50; accept AS198592"
+      }, {
+        "name" : "import",
+        "value" : "from AS198816 action pref=50; accept AS-ATKGAGRA"
+      }, {
+        "name" : "import",
+        "value" : "from AS198976 action pref=50; accept AS198976"
+      }, {
+        "name" : "import",
+        "value" : "from AS199904 action pref=50; accept AS199904"
+      }, {
+        "name" : "import",
+        "value" : "from AS199096 action pref=50; accept AS-LOGOS"
+      }, {
+        "name" : "import",
+        "value" : "from AS199110 action pref=50; accept AS199110"
+      }, {
+        "name" : "import",
+        "value" : "from AS199120 action pref=50; accept AS199120"
+      }, {
+        "name" : "import",
+        "value" : "from AS199281 action pref=50; accept AS199281"
+      }, {
+        "name" : "import",
+        "value" : "from AS199315 action pref=50; accept AS199315"
+      }, {
+        "name" : "import",
+        "value" : "from AS199388 action pref=50; accept AS199388"
+      }, {
+        "name" : "import",
+        "value" : "from AS199476 action pref=50; accept AS199476"
+      }, {
+        "name" : "import",
+        "value" : "from AS199524 action pref=50; accept AS-WGI"
+      }, {
+        "name" : "import",
+        "value" : "from AS199534 action pref=50; accept AS199534"
+      }, {
+        "name" : "import",
+        "value" : "from AS199599 action pref=50; accept AS-CIREX"
+      }, {
+        "name" : "import",
+        "value" : "from AS199728 action pref=50; accept AS-DATA-LINE"
+      }, {
+        "name" : "import",
+        "value" : "from AS199782 action pref=50; accept AS199782"
+      }, {
+        "name" : "import",
+        "value" : "from AS200015 action pref=50; accept AS-LIVETEX"
+      }, {
+        "name" : "import",
+        "value" : "from AS200095 action pref=50; accept AS200095"
+      }, {
+        "name" : "export",
+        "value" : "to AS42 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS786 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS1267 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS1273 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS1290 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS1299 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS2110 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS2118 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS2119 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS2529 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS2603 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS2611 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS2818 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS2854 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS2914 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS3209 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS3213 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS3217 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS3316 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS3356 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS3491 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS3549 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS3741 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS3856 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS4134 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS4589 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS5089 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS5387 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS5427 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS5430 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS5459 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS5466 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS5541 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS5547 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS5548 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS5564 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS5568 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS5577 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS5580 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS5588 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS6327 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS6453 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS6656 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS6661 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS6679 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS6697 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS6730 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS6774 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS6777 action community .= { 6777:6777, 6777:3216, 6777:3255, 6777:6697, 6777:6849, 6777:8359, 6777:8492, 6777:8641, 6777:8732, 6777:8744, 6777:8764, 6777:9002, 6777:9031, 6777:12389, 6777:12714, 6777:13002, 6777:13238, 6777:15169, 6777:16265, 6777:20764, 6777:25308, 6777:28917, 6777:29049, 6777:29076, 6777:29226, 6777:31133, 6777:31500, 6777:34123, 6777:34456, 6777:35297, 6777:35320, 6777:35374, 6777:35805, 6777:39792, 6777:41733, 6777:42861, 6777:43268, 6777:43727, 6777:47541, 6777:47764, 6777:48166, 6777:49342, 6777:50384, 6777:58002 }; announce AS20485"
+      }, {
+        "name" : "export",
+        "value" : "to AS3216 announce AS-ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS6779 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS6805 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS6844 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS6856 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS6871 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS6939 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8001 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8068 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8075 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8220 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8249 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8359 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8365 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8369 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8402 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8410 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8416 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8419 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8422 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8426 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8427 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8439 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8440 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8443 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8468 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8492 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8506 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8551 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8553 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8560 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8577 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8586 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8607 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8615 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8641 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8657 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8674 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8683 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8708 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8732 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8744 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8470 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8781 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8817 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8828 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8844 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8851 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8859 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8897 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8912 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8920 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS8928 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS8997 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS9009 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS9044 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS9049 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS9110 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS9116 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS9123 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS9132 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS9145 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS9153 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS9177 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS9191 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS9198 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS9318 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS10310 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS11666 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS12178 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12332 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12350 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS12389 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS12418 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12494 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12688 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12690 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12713 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS12714 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS12715 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS12768 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12772 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12784 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS12821 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12828 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS12979 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS13002 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS13030 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS13055 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS13105 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS13116 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS13184 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS13193 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS13237 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS13249 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS13285 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS13304 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS13445 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS14492 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS15133 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS15366 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS15395 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS15412 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS15626 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15632 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15638 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15672 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15673 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15774 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15756 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15830 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS15835 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15913 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15930 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS15974 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS16082 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS16094 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS16179 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS16265 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS16276 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS16285 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS16300 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS16345 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS16353 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS19151 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS19318 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS20533 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS20562 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS20620 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS20690 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS20702 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS20720 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS20730 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS20842 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS20850 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS20870 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS20872 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS20895 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS20940 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS20985 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21099 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS21103 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21105 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21191 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21226 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21240 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21287 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21298 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21299 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21353 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21367 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21371 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS21385 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS21414 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS21442 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21479 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21480 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21483 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21488 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS21844 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS22822 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS23242 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS24320 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS24576 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS24588 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS24626 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS24722 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS24724 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS24739 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS24823 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS24832 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS24837 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS24919 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS24923 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS24931 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS25025 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS25061 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS25220 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS25227 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS25369 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS25408 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS25478 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS25490 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS25549 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS28712 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS28738 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS28745 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS28769 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS28775 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS28809 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS28840 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS28881 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS28910 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS28917 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS29049 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS29071 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS29075 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS29131 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS29182 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS29226 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS29303 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS29304 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS29388 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS29527 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS29530 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS29550 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS30733 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS30745 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS30835 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS30868 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS30881 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS30936 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS30952 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS30960 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31059 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31122 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS31133 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS31137 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31189 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31200 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31205 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31214 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31261 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31294 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31323 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31359 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31379 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31415 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31444 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31462 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31499 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31501 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31512 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31558 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31585 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31695 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS31715 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS32934 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS33871 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS33891 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS33936 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS33970 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS33991 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34137 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34185 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34287 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34303 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34305 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS34333 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34347 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS34351 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34442 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS34456 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34470 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34533 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34550 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34580 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34590 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34655 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS34676 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34703 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34804 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34829 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34838 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34858 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS34869 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35000 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35018 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35021 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35104 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35140 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35173 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35237 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35239 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35297 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS35320 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS35401 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35475 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35571 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35598 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35623 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35683 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35793 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS35816 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS36408 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS38917 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS38930 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS38976 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39001 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39028 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39045 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39054 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39102 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39221 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39456 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39256 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39264 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39269 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39434 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39435 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39442 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39465 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39475 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39684 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39703 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39707 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39724 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39785 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39792 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39811 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39850 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS39858 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41034 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41060 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41070 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41101 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41106 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41148 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41209 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41217 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41310 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41311 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41440 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41441 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41446 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41465 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41479 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41599 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41616 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41661 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41668 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41682 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41690 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS41722 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41748 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41754 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41786 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41789 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41798 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41812 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41843 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41855 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41929 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41957 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41976 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS41983 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42001 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42038 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42145 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42151 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42291 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42368 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42371 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42387 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42478 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42500 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42514 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42516 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42526 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42528 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42574 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42575 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42583 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42589 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42632 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42674 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42676 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42682 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42683 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42689 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS42690 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42740 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42766 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42767 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42891 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42911 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS42955 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43038 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43092 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43110 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43218 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43235 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43274 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43314 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43399 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43404 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43434 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43465 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43478 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43527 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43550 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43567 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43600 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43660 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43670 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43687 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43714 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43728 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43746 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43782 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43798 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43823 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43874 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43901 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43903 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS43909 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44020 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44053 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44265 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44266 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44347 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44408 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44436 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44478 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44541 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44619 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44627 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44670 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44724 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44775 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44804 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44857 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44890 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44905 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44913 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44941 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44982 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS44984 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS45005 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS45009 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS45023 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS46786 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS47162 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47165 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47195 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS47236 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47240 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47241 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47313 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47342 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47376 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47397 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47438 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47530 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47531 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47541 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS47542 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS47564 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47565 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47579 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47594 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47620 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47637 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47656 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47737 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47751 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47764 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47789 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47873 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47915 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS47989 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48000 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48034 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48043 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48044 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48058 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48148 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48166 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48172 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48207 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48209 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48212 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48226 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48275 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48297 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48302 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48322 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48349 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48354 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48386 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48400 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48409 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48421 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48462 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48467 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48507 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48585 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48711 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48738 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48770 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48858 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48936 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48950 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48975 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS48988 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49048 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49055 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49063 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49064 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49128 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49288 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49311 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49331 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49350 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49458 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49481 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49505 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49544 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49545 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49572 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS49577 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49675 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49723 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49736 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49775 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49810 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49813 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49816 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49821 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49874 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49886 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49919 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49963 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49966 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS49973 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50022 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50071 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50122 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50174 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50187 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50227 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50257 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50258 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50283 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50292 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS50309 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50315 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50396 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50427 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50439 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50442 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50443 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50453 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50497 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50498 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50512 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50542 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50544 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50565 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50666 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50716 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50725 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50753 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50859 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50885 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS50958 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51034 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51035 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51054 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51067 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51081 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51088 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS51100 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51136 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51158 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51341 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51343 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51351 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51377 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS51477 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51501 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51543 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51570 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51604 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51612 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51613 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51623 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51666 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51771 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51781 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51813 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51819 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51900 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51957 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51997 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS52022 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS52043 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS52194 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS52201 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS52207 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS52208 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS56326 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS56330 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS56331 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS56340 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS56341 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS56377 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS56407 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS56420 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS56451 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS56463 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS56535 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS56592 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS56630 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS56702 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS56720 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS56895 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS56936 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS56959 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS56969 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS56977 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS51645 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS57038 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS57044 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS57073 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS57155 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS57214 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS57339 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS57351 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS57359 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS57471 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS57482 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS57540 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS57573 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS57629 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS57742 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS57766 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS57798 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS57826 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS57898 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS58006 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS57808 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS58067 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS58136 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS58228 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS58304 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS59508 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS59515 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS59525 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS59574 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS59616 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS59661 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS59666 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS59822 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS59883 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS60135 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS60265 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS60280 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS60299 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS60505 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS60740 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS60891 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS61237 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS61400 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS62006 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS62065 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS62169 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS62247 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS62256 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS64597 announce AS-TTK"
+      }, {
+        "name" : "export",
+        "value" : "to AS65001 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS65074 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS65500 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS196742 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS196770 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS196786 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS196797 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS196798 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS196812 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS196911 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS196941 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS196949 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS196989 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS197023 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS197068 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS197070 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS197078 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS197193 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS197298 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS197315 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS197379 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS197499 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS197535 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS197718 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS197899 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS197960 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS198212 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS198367 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS198515 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS198541 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS198563 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS198588 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS198816 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS198976 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS199904 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS199096 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS199120 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS199281 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS199388 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS199476 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS199524 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS199534 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS199728 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS200015 announce ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS200095 announce ANY"
+      }, {
+        "name" : "remarks",
+        "value" : "+==============================================================+"
+      }, {
+        "name" : "remarks",
+        "value" : "BGP COMMUNITIES"
+      }, {
+        "name" : "remarks",
+        "value" : "+--------------------------------------------------------------+"
+      }, {
+        "name" : "remarks",
+        "value" : "Communities for prefix classification"
+      }, {
+        "name" : "remarks",
+        "value" : "+--------------------------------------------------------------+"
+      }, {
+        "name" : "remarks",
+        "value" : "All inbound prefixes are marked with BGP communities"
+      }, {
+        "name" : "remarks",
+        "value" : "which describe their source and geographical region."
+      }, {
+        "name" : "remarks",
+        "value" : "The format for the second component of community"
+      }, {
+        "name" : "remarks",
+        "value" : "(number after 20485:) is set at five digits."
+      }, {
+        "name" : "remarks",
+        "value" : "This format is 20485:SNNRR where the fields are:"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "S - source of the prefix:"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "1 - Customer"
+      }, {
+        "name" : "remarks",
+        "value" : "2 - Upstream"
+      }, {
+        "name" : "remarks",
+        "value" : "3 - International peer"
+      }, {
+        "name" : "remarks",
+        "value" : "4 - Russian peer"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "NN - Upstream, peer or customer number:"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "Customers:"
+      }, {
+        "name" : "remarks",
+        "value" : "11 - BGP with Internal Internet Access"
+      }, {
+        "name" : "remarks",
+        "value" : "13 - BGP with Partial Internet Access"
+      }, {
+        "name" : "remarks",
+        "value" : "17 - BGP with Global Internet Access"
+      }, {
+        "name" : "remarks",
+        "value" : "19 - BGP with TTK-Retail Network"
+      }, {
+        "name" : "remarks",
+        "value" : "Static routes from CTTC allocations: 20485:61RR"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "Upstreams:"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "06 - LEVEL3 (AS3356)"
+      }, {
+        "name" : "remarks",
+        "value" : "99 - All Upstreams"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "International peers:"
+      }, {
+        "name" : "remarks",
+        "value" : "01 - PCCW (AS3491)"
+      }, {
+        "name" : "remarks",
+        "value" : "02 - WEBAZILLA (AS-IPTRANSIT)"
+      }, {
+        "name" : "remarks",
+        "value" : "03 - ETT (AS35320)"
+      }, {
+        "name" : "remarks",
+        "value" : "04 - LINX"
+      }, {
+        "name" : "remarks",
+        "value" : "05 - GOOGLE (AS15169)"
+      }, {
+        "name" : "remarks",
+        "value" : "06 - LEASEWEB & FIBERRING (AS16265 & AS38930)"
+      }, {
+        "name" : "remarks",
+        "value" : "07 - CHINA TELECOM (AS4134)"
+      }, {
+        "name" : "remarks",
+        "value" : "08 - DE-CIX"
+      }, {
+        "name" : "remarks",
+        "value" : "09 - GlobalCrossing (AS3549)"
+      }, {
+        "name" : "remarks",
+        "value" : "10 - NTT (AS2914)"
+      }, {
+        "name" : "remarks",
+        "value" : "11 - TeliaSonera (AS1299)"
+      }, {
+        "name" : "remarks",
+        "value" : "12 - Cable&Wireless (AS1273)"
+      }, {
+        "name" : "remarks",
+        "value" : "13 - AMS-IX"
+      }, {
+        "name" : "remarks",
+        "value" : "14 - Cogent (AS174)"
+      }, {
+        "name" : "remarks",
+        "value" : "15 - TATA (AS6453)"
+      }, {
+        "name" : "remarks",
+        "value" : "16 - Equinix Ashburn (AS65517)"
+      }, {
+        "name" : "remarks",
+        "value" : "17 - Equinix San Jose (AS16509)"
+      }, {
+        "name" : "remarks",
+        "value" : "18 - HKIX"
+      }, {
+        "name" : "remarks",
+        "value" : "19 - Equinix Tokyo (AS24115)"
+      }, {
+        "name" : "remarks",
+        "value" : "20 - RS"
+      }, {
+        "name" : "remarks",
+        "value" : "21 - Equinix Hongkong (AS24115)"
+      }, {
+        "name" : "remarks",
+        "value" : "22 - PLIX"
+      }, {
+        "name" : "remarks",
+        "value" : "23 - FranceIX"
+      }, {
+        "name" : "remarks",
+        "value" : "24 - NIX"
+      }, {
+        "name" : "remarks",
+        "value" : "25 - MilanIX"
+      }, {
+        "name" : "remarks",
+        "value" : "26 - ESPANIX"
+      }, {
+        "name" : "remarks",
+        "value" : "27 - Akamai CDN"
+      }, {
+        "name" : "remarks",
+        "value" : "28 - ChinaTietong"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "99 - All International Peers"
+      }, {
+        "name" : "remarks",
+        "value" : "Russian peers:"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "01 - Megafon (AS31133)"
+      }, {
+        "name" : "remarks",
+        "value" : "02 - Yandex (AS13238)"
+      }, {
+        "name" : "remarks",
+        "value" : "03 - Vimpelcom (GoldenTelecom AS3216)"
+      }, {
+        "name" : "remarks",
+        "value" : "04 - Comstar (MTU) (AS8359))"
+      }, {
+        "name" : "remarks",
+        "value" : "08 - NetByNet (AS12714)"
+      }, {
+        "name" : "remarks",
+        "value" : "09 - RBNet & Relarn (AS5568 & AS3316)"
+      }, {
+        "name" : "remarks",
+        "value" : "10 - Vkontakte (AS47541 & AS47542)"
+      }, {
+        "name" : "remarks",
+        "value" : "11 - Rostelecom (AS12389)"
+      }, {
+        "name" : "remarks",
+        "value" : "12 - Mail&Odnoklassniki (AS47764 & AS49988)"
+      }, {
+        "name" : "remarks",
+        "value" : "13 - MSK-IX"
+      }, {
+        "name" : "remarks",
+        "value" : "99 - All Russian Peers"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "RR - Geographical region code:"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "00 - Amsterdam"
+      }, {
+        "name" : "remarks",
+        "value" : "01 - London"
+      }, {
+        "name" : "remarks",
+        "value" : "02 - Ufa"
+      }, {
+        "name" : "remarks",
+        "value" : "03 - UlanUde"
+      }, {
+        "name" : "remarks",
+        "value" : "04 - Tokyo"
+      }, {
+        "name" : "remarks",
+        "value" : "06 - HongKong"
+      }, {
+        "name" : "remarks",
+        "value" : "07 - Frankfurt"
+      }, {
+        "name" : "remarks",
+        "value" : "08 - Stockholm"
+      }, {
+        "name" : "remarks",
+        "value" : "11 - Syktivkar"
+      }, {
+        "name" : "remarks",
+        "value" : "12 - YoshkarOla"
+      }, {
+        "name" : "remarks",
+        "value" : "13 - Saransk"
+      }, {
+        "name" : "remarks",
+        "value" : "16 - Kazan"
+      }, {
+        "name" : "remarks",
+        "value" : "18 - Izhevsk"
+      }, {
+        "name" : "remarks",
+        "value" : "21 - Cheboksary"
+      }, {
+        "name" : "remarks",
+        "value" : "22 - Barnaul"
+      }, {
+        "name" : "remarks",
+        "value" : "23 - Krasnodar"
+      }, {
+        "name" : "remarks",
+        "value" : "24 - Krasnoyarsk"
+      }, {
+        "name" : "remarks",
+        "value" : "25 - Vladivostok"
+      }, {
+        "name" : "remarks",
+        "value" : "26 - Stavropol"
+      }, {
+        "name" : "remarks",
+        "value" : "27 - Khabarovsk"
+      }, {
+        "name" : "remarks",
+        "value" : "28 - Amurskaya region"
+      }, {
+        "name" : "remarks",
+        "value" : "29 - Arkhangelsk"
+      }, {
+        "name" : "remarks",
+        "value" : "30 - Astrakhan"
+      }, {
+        "name" : "remarks",
+        "value" : "31 - Belgorod"
+      }, {
+        "name" : "remarks",
+        "value" : "32 - Bryansk"
+      }, {
+        "name" : "remarks",
+        "value" : "34 - Volgograd"
+      }, {
+        "name" : "remarks",
+        "value" : "36 - Voronezh"
+      }, {
+        "name" : "remarks",
+        "value" : "38 - Irkutsk, Bratsk"
+      }, {
+        "name" : "remarks",
+        "value" : "39 - Kaliningrad"
+      }, {
+        "name" : "remarks",
+        "value" : "42 - Kemerovo"
+      }, {
+        "name" : "remarks",
+        "value" : "43 - Kirov"
+      }, {
+        "name" : "remarks",
+        "value" : "45 - Kurgan"
+      }, {
+        "name" : "remarks",
+        "value" : "46 - Kursk"
+      }, {
+        "name" : "remarks",
+        "value" : "48 - Lipetsk"
+      }, {
+        "name" : "remarks",
+        "value" : "52 - Nizhny Novgorod"
+      }, {
+        "name" : "remarks",
+        "value" : "54 - Novosibirsk"
+      }, {
+        "name" : "remarks",
+        "value" : "55 - Omsk"
+      }, {
+        "name" : "remarks",
+        "value" : "56 - Orenburg"
+      }, {
+        "name" : "remarks",
+        "value" : "58 - Penza"
+      }, {
+        "name" : "remarks",
+        "value" : "59 - Perm"
+      }, {
+        "name" : "remarks",
+        "value" : "60 - Pskov"
+      }, {
+        "name" : "remarks",
+        "value" : "61 - RostovDon"
+      }, {
+        "name" : "remarks",
+        "value" : "62 - Ryazan"
+      }, {
+        "name" : "remarks",
+        "value" : "63 - Samara"
+      }, {
+        "name" : "remarks",
+        "value" : "64 - Saratov"
+      }, {
+        "name" : "remarks",
+        "value" : "66 - Ekaterinburg"
+      }, {
+        "name" : "remarks",
+        "value" : "67 - Smolensk"
+      }, {
+        "name" : "remarks",
+        "value" : "70 - Tomsk"
+      }, {
+        "name" : "remarks",
+        "value" : "71 - Tula"
+      }, {
+        "name" : "remarks",
+        "value" : "72 - Tumen"
+      }, {
+        "name" : "remarks",
+        "value" : "73 - Ulyanovsk"
+      }, {
+        "name" : "remarks",
+        "value" : "74 - Chelyabinsk"
+      }, {
+        "name" : "remarks",
+        "value" : "75 - Chita"
+      }, {
+        "name" : "remarks",
+        "value" : "76 - Yaroslavl"
+      }, {
+        "name" : "remarks",
+        "value" : "77 - Moscow"
+      }, {
+        "name" : "remarks",
+        "value" : "78 - St.Petersburg"
+      }, {
+        "name" : "remarks",
+        "value" : "86 - Surgut"
+      }, {
+        "name" : "remarks",
+        "value" : "96 - Moscow"
+      }, {
+        "name" : "remarks",
+        "value" : "99 - Moscow"
+      }, {
+        "name" : "remarks",
+        "value" : "+--------------------------------------------------------------+"
+      }, {
+        "name" : "remarks",
+        "value" : "Communities for prefix control"
+      }, {
+        "name" : "remarks",
+        "value" : "+--------------------------------------------------------------+"
+      }, {
+        "name" : "remarks",
+        "value" : "| !!!ATTENTION!!! |"
+      }, {
+        "name" : "remarks",
+        "value" : "The using of this communities may cause connectivity"
+      }, {
+        "name" : "remarks",
+        "value" : "problems and you must clearly understand what you"
+      }, {
+        "name" : "remarks",
+        "value" : "are doing. TransTeleCom does not bear any responsibility"
+      }, {
+        "name" : "remarks",
+        "value" : "if there will be such troubles."
+      }, {
+        "name" : "remarks",
+        "value" : "+--------------------------------------------------------------+"
+      }, {
+        "name" : "remarks",
+        "value" : "There are two predetermined eBGP session types"
+      }, {
+        "name" : "remarks",
+        "value" : "which customers may use:"
+      }, {
+        "name" : "remarks",
+        "value" : "1 - Global Internet Access. CTTC announce"
+      }, {
+        "name" : "remarks",
+        "value" : "customer's prefixes to all customers,"
+      }, {
+        "name" : "remarks",
+        "value" : "upstreams and peers."
+      }, {
+        "name" : "remarks",
+        "value" : "BGP communities are available."
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "2 - Access to customers and Russian peers."
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "Customers with Global Internet Access may control"
+      }, {
+        "name" : "remarks",
+        "value" : "prefixes that they announce to CTTC by eBGP."
+      }, {
+        "name" : "remarks",
+        "value" : "You can use communities that prepend prefix path"
+      }, {
+        "name" : "remarks",
+        "value" : "with additional AS hops or deny it announcement to"
+      }, {
+        "name" : "remarks",
+        "value" : "any Upstream or peer. The first digit of the second"
+      }, {
+        "name" : "remarks",
+        "value" : "part of control community (number after 20485:)"
+      }, {
+        "name" : "remarks",
+        "value" : "is 5 (five). Next four digits are:"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "Default Local Preference are:"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "70 - Upstream"
+      }, {
+        "name" : "remarks",
+        "value" : "70 - International Peer"
+      }, {
+        "name" : "remarks",
+        "value" : "70 - Russian Peer"
+      }, {
+        "name" : "remarks",
+        "value" : "Range from 90 to 100 - Customer"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "- To prepand or deny prefix use 20485:5DNNA, where:"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "D - destination of the prepend or deny action:"
+      }, {
+        "name" : "remarks",
+        "value" : "2 - Upstreams"
+      }, {
+        "name" : "remarks",
+        "value" : "3 - International peers"
+      }, {
+        "name" : "remarks",
+        "value" : "4 - Russian peers"
+      }, {
+        "name" : "remarks",
+        "value" : "9 - Upstreams and Peers"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "NN - Upstream or peer number:"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "Upstreams:"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "06 - LEVEL3 (AS3356)"
+      }, {
+        "name" : "remarks",
+        "value" : "99 - All Upstreams"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "International peers:"
+      }, {
+        "name" : "remarks",
+        "value" : "01 - PCCW (AS3491)"
+      }, {
+        "name" : "remarks",
+        "value" : "02 - WEBAZILLA (AS-IPTRANSIT)"
+      }, {
+        "name" : "remarks",
+        "value" : "03 - ETT (AS35320)"
+      }, {
+        "name" : "remarks",
+        "value" : "04 - LINX"
+      }, {
+        "name" : "remarks",
+        "value" : "05 - GOOGLE (AS15169)"
+      }, {
+        "name" : "remarks",
+        "value" : "06 - LEASEWEB & FIBERRING (AS16265 & AS38930)"
+      }, {
+        "name" : "remarks",
+        "value" : "07 - CHINA TELECOM (AS4134)"
+      }, {
+        "name" : "remarks",
+        "value" : "08 - DE-CIX"
+      }, {
+        "name" : "remarks",
+        "value" : "09 - GlobalCrossing (AS3549)"
+      }, {
+        "name" : "remarks",
+        "value" : "10 - NTT (AS2914)"
+      }, {
+        "name" : "remarks",
+        "value" : "11 - TeliaSonera (AS1299)"
+      }, {
+        "name" : "remarks",
+        "value" : "12 - Cable&Wireless (AS1273)"
+      }, {
+        "name" : "remarks",
+        "value" : "13 - AMS-IX"
+      }, {
+        "name" : "remarks",
+        "value" : "14 - Cogent (AS174)"
+      }, {
+        "name" : "remarks",
+        "value" : "15 - TATA (AS6453)"
+      }, {
+        "name" : "remarks",
+        "value" : "16 - Equinix Ashburn (AS65517)"
+      }, {
+        "name" : "remarks",
+        "value" : "17 - Equinix San Jose (AS16509)"
+      }, {
+        "name" : "remarks",
+        "value" : "18 - HKIX"
+      }, {
+        "name" : "remarks",
+        "value" : "19 - Equinix Tokyo (AS24115)"
+      }, {
+        "name" : "remarks",
+        "value" : "99 - All International Peers"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "Russian peers:"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "01 - Megafon (AS31133)"
+      }, {
+        "name" : "remarks",
+        "value" : "02 - Yandex (AS13238)"
+      }, {
+        "name" : "remarks",
+        "value" : "03 - Vimpelcom (GoldenTelecom AS3216)"
+      }, {
+        "name" : "remarks",
+        "value" : "04 - Comstar (MTU) (AS8359)"
+      }, {
+        "name" : "remarks",
+        "value" : "08 - NetByNet (AS12714)"
+      }, {
+        "name" : "remarks",
+        "value" : "09 - RBNet & Relarn (AS5568 & AS3316)"
+      }, {
+        "name" : "remarks",
+        "value" : "10 - Vkontakte (AS47541 & AS47542)"
+      }, {
+        "name" : "remarks",
+        "value" : "11 - Rostelecom (AS12389)"
+      }, {
+        "name" : "remarks",
+        "value" : "12 - Mail&Odnoklassniki (AS47764 & AS49988)"
+      }, {
+        "name" : "remarks",
+        "value" : "13 - MSK-IX"
+      }, {
+        "name" : "remarks",
+        "value" : "99 - All Russian Peers"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "A - action:"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "0 - don't announce prefix"
+      }, {
+        "name" : "remarks",
+        "value" : "1 - announce with one prepend"
+      }, {
+        "name" : "remarks",
+        "value" : "2 - announce with two times prepend"
+      }, {
+        "name" : "remarks",
+        "value" : "3 - announce with three times prepend"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "+==============================================================+"
+      }, {
+        "name" : "remarks",
+        "value" : "We filter inbound prefixes longer than /24"
+      }, {
+        "name" : "remarks",
+        "value" : "+==============================================================+"
+      }, {
+        "name" : "remarks",
+        "value" : "-----------------------------------------"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/KTTK-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "KTTK-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/KTTK-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "KTTK-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "name" : "remarks",
+        "value" : "For information on \"status:\" attribute read https://www.ripe.net/data-tools/db/faq/faq-status-values-legacy-resources"
+      }, {
+        "name" : "status",
+        "value" : "ASSIGNED"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-END-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-END-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/TRANSTELECOM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "TRANSTELECOM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    },
+    "tags" : {
+      "tag" : [ {
+        "id" : "RIPE-REGISTRY-RESOURCE",
+        "data" : null
+      } ]
+    }
+  }, {
+    "type" : "organisation",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/organisation/ORG-TA40-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "organisation",
+        "value" : "ORG-TA40-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "organisation",
+        "value" : "ORG-TA40-RIPE"
+      }, {
+        "name" : "org-name",
+        "value" : "TransTelecom"
+      }, {
+        "name" : "org-type",
+        "value" : "LIR"
+      }, {
+        "name" : "address",
+        "value" : "Closed Joint Stock Company TransTeleCom"
+      }, {
+        "name" : "address",
+        "value" : "Yaroslav Legeda"
+      }, {
+        "name" : "address",
+        "value" : "8, Testovskaya Str."
+      }, {
+        "name" : "address",
+        "value" : "123317"
+      }, {
+        "name" : "address",
+        "value" : "Moscow"
+      }, {
+        "name" : "address",
+        "value" : "RUSSIAN FEDERATION"
+      }, {
+        "name" : "phone",
+        "value" : "+74957846670"
+      }, {
+        "name" : "fax-no",
+        "value" : "+74957846671"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/TRANSTELECOM-MNT"
+        },
+        "name" : "mnt-ref",
+        "value" : "TRANSTELECOM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-ref",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/AL10846-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "AL10846-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/NB6053-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "NB6053-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/AT286-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "AT286-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/IY155-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "IY155-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/YL391-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "YL391-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/KTTK-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "KTTK-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/KTTK-RIPE"
+        },
+        "name" : "abuse-c",
+        "value" : "KTTK-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "role",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/role/KTTK-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "nic-hdl",
+        "value" : "KTTK-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "role",
+        "value" : "TTC NOC"
+      }, {
+        "name" : "address",
+        "value" : "Company TransTeleCom Network Operation Center"
+      }, {
+        "name" : "address",
+        "value" : "8, Testovskaya str."
+      }, {
+        "name" : "address",
+        "value" : "123317 Moscow Russian Federation"
+      }, {
+        "name" : "phone",
+        "value" : "+7 495 7846677"
+      }, {
+        "name" : "phone",
+        "value" : "+7 495 7846670"
+      }, {
+        "name" : "fax-no",
+        "value" : "+7 495 7846671"
+      }, {
+        "name" : "remarks",
+        "value" : "------------------------------------------"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/YL390-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "YL390-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/YL390-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "YL390-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/AT286-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "AT286-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/IY155-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "IY155-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/AL10846-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "AL10846-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/TA4565-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "TA4565-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/DP11502-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "DP11502-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "name" : "nic-hdl",
+        "value" : "KTTK-RIPE"
+      }, {
+        "name" : "remarks",
+        "value" : "-----------------------------------------"
+      }, {
+        "name" : "remarks",
+        "value" : "General questions: ripe@ttk.ru"
+      }, {
+        "name" : "remarks",
+        "value" : "Spam & Abuse: abuse@ttk.ru"
+      }, {
+        "name" : "remarks",
+        "value" : "Routing inquiries: iptech@ttk.ru"
+      }, {
+        "name" : "remarks",
+        "value" : "Peering issues: peering@ttk.ru"
+      }, {
+        "name" : "remarks",
+        "value" : "-----------------------------------------"
+      }, {
+        "name" : "remarks",
+        "value" : "--------- A T T E N T I O N !!! ---------"
+      }, {
+        "name" : "remarks",
+        "value" : "Please use abuse@ttk.ru e-mail address"
+      }, {
+        "name" : "remarks",
+        "value" : "for spam and abuse complaints."
+      }, {
+        "name" : "remarks",
+        "value" : "Mails for other addresses will be ignored!"
+      }, {
+        "name" : "remarks",
+        "value" : "-----------------------------------------"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/TRANSTELECOM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "TRANSTELECOM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      }, {
+        "name" : "abuse-mailbox",
+        "value" : "abuse@ttk.ru"
+      } ]
+    }
+  } ]
+},
+"terms-and-conditions" : {
+  "type" : "locator",
+  "href" : "http://www.ripe.net/db/support/db-terms-conditions.pdf"
+}
+}

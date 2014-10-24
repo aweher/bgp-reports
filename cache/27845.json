@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27845,
+  "endAutnum" : 27845,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27845",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27845"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060809",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080225",
+    "eventActor" : "CAG23"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-ERTE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-ERTE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ERT - Empresa de Recursos Tecnologicos"],["adr",{"label":"Av Vasquez Cobo, 23N-47 -- ()\nCali, VA 0572\nCO","type":"work"},"text",["","","Av Vasquez Cobo, 23N-47 -- ()","Cali","VA","0572","CO"]],["email",{"type":"work"},"text","lbecerra@ERT.NET.CO"],["tel",{"type":"work"},"text","57 2 6202020 ()"],["org",{},"text",["Empresa de Recursos Tecnologicos S.A E.S.P"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060608",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "ERT2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ERT2",
+        "value" : "http://rdap.labs.lacnic.net/entity/ERT2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ERT - Empresa de Recursos Tecnologicos"],["adr",{"label":"Avenida Vasques Cobo Nro. 23 N 47 23 (Edificio Ant)\nCali, Va 0572\nCO","type":"work"},"text",["","","Avenida Vasques Cobo Nro. 23 N 47 23 (Edificio Ant)","Cali","Va","0572","CO"]],["email",{"type":"work"},"text","lbecerra@ERT.NET.CO"],["tel",{"type":"work"},"text","57 2 6202020 (2045)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060315",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20090219",
+        "eventActor" : "ERT2"
+      } ],
+      "entities" : [ ],
+      "handle" : "ERT2"
+    } ],
+    "handle" : "CO-ERTE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CAG23",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAG23"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Andres Pulgarin Gomez"],["adr",{"label":"Av. Vasquez Cobo 23N-47 57 (6202078)\nCali, VA 00000\nCO","type":"work"},"text",["","","Av. Vasquez Cobo 23N-47 57 (6202078)","Cali","VA","00000","CO"]],["email",{"type":"work"},"text","cpulgarin@ERT.NET.CO"],["tel",{"type":"work"},"text","57 2 6202020 (2078)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080225",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120411",
+      "eventActor" : "CAG23"
+    } ],
+    "entities" : [ ],
+    "handle" : "CAG23"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CAG23",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAG23"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Andres Pulgarin Gomez"],["adr",{"label":"Av. Vasquez Cobo 23N-47 57 (6202078)\nCali, VA 00000\nCO","type":"work"},"text",["","","Av. Vasquez Cobo 23N-47 57 (6202078)","Cali","VA","00000","CO"]],["email",{"type":"work"},"text","cpulgarin@ERT.NET.CO"],["tel",{"type":"work"},"text","57 2 6202020 (2078)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080225",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120411",
+      "eventActor" : "CAG23"
+    } ],
+    "entities" : [ ],
+    "handle" : "CAG23"
+  } ],
+  "type" : null,
+  "handle" : "27845-LACNIC",
+  "country" : "CO"
+}

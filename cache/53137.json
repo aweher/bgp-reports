@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53137,
+  "endAutnum" : 53137,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53137",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53137"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100406",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "NTL8"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TILT16-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TILT16-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Roberto Fischborn"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTaquara, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Taquara","RS","04578-000","BR"]],["email",{"type":"work"},"text","JRF8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["TCA INFORMATICA LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140531",
+      "eventActor" : "JRF8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JRF8",
+        "value" : "http://rdap.labs.lacnic.net/entity/JRF8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Roberto Fischborn"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTaquara, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Taquara","RS","04578-000","BR"]],["email",{"type":"work"},"text","JRF8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JRF8"
+      } ],
+      "entities" : [ ],
+      "handle" : "JRF8"
+    } ],
+    "handle" : "BR-TILT16-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NTL8",
+      "value" : "http://rdap.labs.lacnic.net/entity/NTL8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NOC - TCA Informatica Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTaquara, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Taquara","RS","04578-000","BR"]],["email",{"type":"work"},"text","NTL8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NTL8"
+    } ],
+    "entities" : [ ],
+    "handle" : "NTL8"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NTL8",
+      "value" : "http://rdap.labs.lacnic.net/entity/NTL8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NOC - TCA Informatica Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTaquara, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Taquara","RS","04578-000","BR"]],["email",{"type":"work"},"text","NTL8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NTL8"
+    } ],
+    "entities" : [ ],
+    "handle" : "NTL8"
+  } ],
+  "type" : null,
+  "handle" : "53137-LACNIC",
+  "country" : "BR"
+}

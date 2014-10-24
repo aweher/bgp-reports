@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52623,
+  "endAutnum" : 52623,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52623",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52623"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130403",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140212",
+    "eventActor" : "EEM6"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-EMPD-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-EMPD-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Walter Gomes Pedroso Junior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? do Rio Preto, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? do Rio Preto","SP","04578-000","BR"]],["email",{"type":"work"},"text","WGJ4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["org",{},"text",["EMPRESA MUNICIPAL DE PROCESSAMENTO DE DADOS"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130523",
+      "eventActor" : "WGJ4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/WGJ4",
+        "value" : "http://rdap.labs.lacnic.net/entity/WGJ4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Walter Gomes Pedroso Junior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? do Rio Preto, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? do Rio Preto","SP","04578-000","BR"]],["email",{"type":"work"},"text","WGJ4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "WGJ4"
+      } ],
+      "entities" : [ ],
+      "handle" : "WGJ4"
+    } ],
+    "handle" : "BR-EMPD-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EEM6",
+      "value" : "http://rdap.labs.lacnic.net/entity/EEM6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMPRO - Empresa Processamento Municipal"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? do Rio Preto, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? do Rio Preto","","04578-000","BR"]],["email",{"type":"work"},"text","EEM6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130509",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130509",
+      "eventActor" : "EEM6"
+    } ],
+    "entities" : [ ],
+    "handle" : "EEM6"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WBF2",
+      "value" : "http://rdap.labs.lacnic.net/entity/WBF2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Wagner Bortoletto Filho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? do Rio Preto, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? do Rio Preto","SP","04578-000","BR"]],["email",{"type":"work"},"text","WBF2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140212",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140212",
+      "eventActor" : "WBF2"
+    } ],
+    "entities" : [ ],
+    "handle" : "WBF2"
+  } ],
+  "type" : null,
+  "handle" : "52623-LACNIC",
+  "country" : "BR"
+}

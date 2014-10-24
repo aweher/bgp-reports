@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262880,
+  "endAutnum" : 262880,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262880",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262880"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120613",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "FSZ"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-RWLT2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-RWLT2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Santos e Silva Zxdsl"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJaragu?, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jaragu?","GO","04578-000","BR"]],["email",{"type":"work"},"text","FSZ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["org",{},"text",["RADAR WISP LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "FSZ"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FSZ",
+        "value" : "http://rdap.labs.lacnic.net/entity/FSZ"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Santos e Silva Zxdsl"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJaragu?, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jaragu?","GO","04578-000","BR"]],["email",{"type":"work"},"text","FSZ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130809",
+        "eventActor" : "FSZ"
+      } ],
+      "entities" : [ ],
+      "handle" : "FSZ"
+    } ],
+    "handle" : "BR-RWLT2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FSZ",
+      "value" : "http://rdap.labs.lacnic.net/entity/FSZ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Santos e Silva Zxdsl"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJaragu?, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jaragu?","GO","04578-000","BR"]],["email",{"type":"work"},"text","FSZ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130809",
+      "eventActor" : "FSZ"
+    } ],
+    "entities" : [ ],
+    "handle" : "FSZ"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FSZ",
+      "value" : "http://rdap.labs.lacnic.net/entity/FSZ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Santos e Silva Zxdsl"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJaragu?, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jaragu?","GO","04578-000","BR"]],["email",{"type":"work"},"text","FSZ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130809",
+      "eventActor" : "FSZ"
+    } ],
+    "entities" : [ ],
+    "handle" : "FSZ"
+  } ],
+  "type" : null,
+  "handle" : "262880-LACNIC",
+  "country" : "BR"
+}

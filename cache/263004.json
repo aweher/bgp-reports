@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263004,
+  "endAutnum" : 263004,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263004",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263004"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120518",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130810",
+    "eventActor" : "CAZ11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CZCP1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CZCP1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cassiano Zanon"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRodeio Bonito, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rodeio Bonito","RS","04578-000","BR"]],["email",{"type":"work"},"text","CAZ11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["org",{},"text",["Cassiano Zanon - CZNET Provedor de Internet"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "CAZ11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CAZ11",
+        "value" : "http://rdap.labs.lacnic.net/entity/CAZ11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cassiano Zanon"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRodeio Bonito, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rodeio Bonito","RS","04578-000","BR"]],["email",{"type":"work"},"text","CAZ11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CAZ11"
+      } ],
+      "entities" : [ ],
+      "handle" : "CAZ11"
+    } ],
+    "handle" : "BR-CZCP1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CAZ11",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAZ11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cassiano Zanon"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRodeio Bonito, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rodeio Bonito","RS","04578-000","BR"]],["email",{"type":"work"},"text","CAZ11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CAZ11"
+    } ],
+    "entities" : [ ],
+    "handle" : "CAZ11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AAA33",
+      "value" : "http://rdap.labs.lacnic.net/entity/AAA33"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Aprimorar A & A"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFeliz, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Feliz","RS","04578-000","BR"]],["email",{"type":"work"},"text","AAA33@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AAA33"
+    } ],
+    "entities" : [ ],
+    "handle" : "AAA33"
+  } ],
+  "type" : null,
+  "handle" : "263004-LACNIC",
+  "country" : "BR"
+}

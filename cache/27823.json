@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27823",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27823"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-DATT-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-DATT-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hostmar ISP"],["adr",{"label":"Cordoba 3753 ()\nRosario, SF 2000\nAR","type":"work"},"text",["","","Cordoba 3753 ()","Rosario","SF","2000","AR"]],["email",{"type":"work"},"text","ipmaster@HOSTMAR.COM"],["tel",{"type":"work"},"text","54 341 4360555 ()"],["org",{},"text",["Dattatec.com"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GUT",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GUT"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hostmar ISP"],["adr",{"label":"Cordoba 3753 ()\nRosario, SF 2000\nAR","type":"work"},"text",["","","Cordoba 3753 ()","Rosario","SF","2000","AR"]],["email",{"type":"work"},"text","ipmaster@HOSTMAR.COM"],["tel",{"type":"work"},"text","54 341 4360555 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20040506",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110309",
+        "eventActor" : "GUT"
+      } ],
+      "handle" : "GUT"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040624",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131106",
+      "eventActor" : "GUT"
+    } ],
+    "handle" : "AR-DATT-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GUT",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GUT"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hostmar ISP"],["adr",{"label":"Cordoba 3753 ()\nRosario, SF 2000\nAR","type":"work"},"text",["","","Cordoba 3753 ()","Rosario","SF","2000","AR"]],["email",{"type":"work"},"text","ipmaster@HOSTMAR.COM"],["tel",{"type":"work"},"text","54 341 4360555 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040506",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110309",
+      "eventActor" : "GUT"
+    } ],
+    "handle" : "GUT"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GUT",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GUT"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hostmar ISP"],["adr",{"label":"Cordoba 3753 ()\nRosario, SF 2000\nAR","type":"work"},"text",["","","Cordoba 3753 ()","Rosario","SF","2000","AR"]],["email",{"type":"work"},"text","ipmaster@HOSTMAR.COM"],["tel",{"type":"work"},"text","54 341 4360555 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040506",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110309",
+      "eventActor" : "GUT"
+    } ],
+    "handle" : "GUT"
+  } ],
+  "startAutnum" : 27823,
+  "endAutnum" : 27823,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060512",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20060512",
+    "eventActor" : "GUT"
+  } ],
+  "type" : null,
+  "handle" : "27823-LACNIC",
+  "country" : "AR"
+}

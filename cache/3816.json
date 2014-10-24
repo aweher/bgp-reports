@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 3816,
+  "endAutnum" : 3816,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/3816",
+    "value" : "http://rdap.labs.lacnic.net/autnum/3816"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19940909",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20051019",
+    "eventActor" : "JRJ"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-CTSE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-CTSE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Grupo de Administradores Internet"],["adr",{"label":"Transversal 60 114 (A 55)\nBOGOTA, Cu N\nCO","type":"work"},"text",["","","Transversal 60 114 (A 55)","BOGOTA","Cu","N","CO"]],["email",{"type":"work"},"text","admin.internet@TELECOM.COM.CO"],["tel",{"type":"work"},"text","57 1 5339833 ()"],["org",{},"text",["COLOMBIA TELECOMUNICACIONES S.A. ESP"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050831",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140220",
+      "eventActor" : "CTE3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CTE3",
+        "value" : "http://rdap.labs.lacnic.net/entity/CTE3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Grupo de Administradores Internet"],["adr",{"label":"Transversal 60 114 A (55)\nBOGOTA DC, CU 571111\nCO","type":"work"},"text",["","","Transversal 60 114 A (55)","BOGOTA DC","CU","571111","CO"]],["email",{"type":"work"},"text","admin.internet@TELECOM.COM.CO"],["tel",{"type":"work"},"text","57 1 7050000 (74106)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090723",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140318",
+        "eventActor" : "CTE3"
+      } ],
+      "entities" : [ ],
+      "handle" : "CTE3"
+    } ],
+    "handle" : "CO-CTSE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JRJ",
+      "value" : "http://rdap.labs.lacnic.net/entity/JRJ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jairo Rojas Jurado"],["adr",{"label":"Trv 60 114A (55)\nBogot?, D.C., Cu 1\nCO","type":"work"},"text",["","","Trv 60 114A (55)","Bogot?, D.C.","Cu","1","CO"]],["email",{"type":"work"},"text","jairo.rojas@TELEFONICA.COM"],["tel",{"type":"work"},"text","57 1 5935399 (3248)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050603",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100420",
+      "eventActor" : "JRJ"
+    } ],
+    "entities" : [ ],
+    "handle" : "JRJ"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JRJ",
+      "value" : "http://rdap.labs.lacnic.net/entity/JRJ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jairo Rojas Jurado"],["adr",{"label":"Trv 60 114A (55)\nBogot?, D.C., Cu 1\nCO","type":"work"},"text",["","","Trv 60 114A (55)","Bogot?, D.C.","Cu","1","CO"]],["email",{"type":"work"},"text","jairo.rojas@TELEFONICA.COM"],["tel",{"type":"work"},"text","57 1 5935399 (3248)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050603",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100420",
+      "eventActor" : "JRJ"
+    } ],
+    "entities" : [ ],
+    "handle" : "JRJ"
+  } ],
+  "type" : null,
+  "handle" : "3816-LACNIC",
+  "country" : "CO"
+}

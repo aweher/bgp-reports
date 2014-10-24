@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52387",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52387"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CEML1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CEML1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gerardo Marcelo Fritsch"],["adr",{"label":"Eva Per?n 365 ()\nSan Miguel del Monte, BA B7220BUE\nAR","type":"work"},"text",["","","Eva Per?n 365 ()","San Miguel del Monte","BA","B7220BUE","AR"]],["email",{"type":"work"},"text","internet@COOPMONTE.COM.AR"],["tel",{"type":"work"},"text","054 2271 405236 ()"],["org",{},"text",["COOPERATIVA ELECTRICA DE MONTE LTDA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GMF6",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GMF6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gerardo Marcelo Fritsch"],["adr",{"label":"Eva Peron 365 ()\nSan Miguel del Monte, null 7220\nAR","type":"work"},"text",["","","Eva Peron 365 ()","San Miguel del Monte","","7220","AR"]],["email",{"type":"work"},"text","internet@COOPMONTE.COM.AR"],["tel",{"type":"work"},"text","54 2271 409500 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20111026",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20111026",
+        "eventActor" : "GMF6"
+      } ],
+      "handle" : "GMF6"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050510",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "GMF6"
+    } ],
+    "handle" : "AR-CEML1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GMF6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GMF6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gerardo Marcelo Fritsch"],["adr",{"label":"Eva Peron 365 ()\nSan Miguel del Monte, null 7220\nAR","type":"work"},"text",["","","Eva Peron 365 ()","San Miguel del Monte","","7220","AR"]],["email",{"type":"work"},"text","internet@COOPMONTE.COM.AR"],["tel",{"type":"work"},"text","54 2271 409500 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20111026",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111026",
+      "eventActor" : "GMF6"
+    } ],
+    "handle" : "GMF6"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GMF6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GMF6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gerardo Marcelo Fritsch"],["adr",{"label":"Eva Peron 365 ()\nSan Miguel del Monte, null 7220\nAR","type":"work"},"text",["","","Eva Peron 365 ()","San Miguel del Monte","","7220","AR"]],["email",{"type":"work"},"text","internet@COOPMONTE.COM.AR"],["tel",{"type":"work"},"text","54 2271 409500 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20111026",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111026",
+      "eventActor" : "GMF6"
+    } ],
+    "handle" : "GMF6"
+  } ],
+  "startAutnum" : 52387,
+  "endAutnum" : 52387,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120809",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120809",
+    "eventActor" : "GMF6"
+  } ],
+  "type" : null,
+  "handle" : "52387-LACNIC",
+  "country" : "AR"
+}

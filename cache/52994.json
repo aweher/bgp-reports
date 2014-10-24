@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52994,
+  "endAutnum" : 52994,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52994",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52994"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110304",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "SDD"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SSDC-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SSDC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sociedade de Desenvolvimento Cultural do"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nManaus, AM 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Manaus","AM","04578-000","BR"]],["email",{"type":"work"},"text","SDD@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["SODECAM - Soc de Desenv. Cultural do Amazonas S/A"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "SDD"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SDD",
+        "value" : "http://rdap.labs.lacnic.net/entity/SDD"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sociedade de Desenvolvimento Cultural do"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nManaus, AM 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Manaus","AM","04578-000","BR"]],["email",{"type":"work"},"text","SDD@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SDD"
+      } ],
+      "entities" : [ ],
+      "handle" : "SDD"
+    } ],
+    "handle" : "BR-SSDC-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SDD",
+      "value" : "http://rdap.labs.lacnic.net/entity/SDD"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sociedade de Desenvolvimento Cultural do"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nManaus, AM 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Manaus","AM","04578-000","BR"]],["email",{"type":"work"},"text","SDD@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SDD"
+    } ],
+    "entities" : [ ],
+    "handle" : "SDD"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SDD",
+      "value" : "http://rdap.labs.lacnic.net/entity/SDD"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sociedade de Desenvolvimento Cultural do"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nManaus, AM 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Manaus","AM","04578-000","BR"]],["email",{"type":"work"},"text","SDD@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SDD"
+    } ],
+    "entities" : [ ],
+    "handle" : "SDD"
+  } ],
+  "type" : null,
+  "handle" : "52994-LACNIC",
+  "country" : "BR"
+}

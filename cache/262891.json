@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262891,
+  "endAutnum" : 262891,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262891",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262891"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110119",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MIL24"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MIIL6-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MIIL6-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","M.I. INTERNET LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNova Br?scia, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Nova Br?scia","RS","04578-000","BR"]],["email",{"type":"work"},"text","MIL24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["M. I. Internet Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130627",
+      "eventActor" : "MIL24"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MIL24",
+        "value" : "http://rdap.labs.lacnic.net/entity/MIL24"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","M.I. INTERNET LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNova Br?scia, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Nova Br?scia","RS","04578-000","BR"]],["email",{"type":"work"},"text","MIL24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MIL24"
+      } ],
+      "entities" : [ ],
+      "handle" : "MIL24"
+    } ],
+    "handle" : "BR-MIIL6-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MIL24",
+      "value" : "http://rdap.labs.lacnic.net/entity/MIL24"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","M.I. INTERNET LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNova Br?scia, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Nova Br?scia","RS","04578-000","BR"]],["email",{"type":"work"},"text","MIL24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MIL24"
+    } ],
+    "entities" : [ ],
+    "handle" : "MIL24"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MIL24",
+      "value" : "http://rdap.labs.lacnic.net/entity/MIL24"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","M.I. INTERNET LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNova Br?scia, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Nova Br?scia","RS","04578-000","BR"]],["email",{"type":"work"},"text","MIL24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MIL24"
+    } ],
+    "entities" : [ ],
+    "handle" : "MIL24"
+  } ],
+  "type" : null,
+  "handle" : "262891-LACNIC",
+  "country" : "BR"
+}

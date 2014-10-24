@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263634,
+  "endAutnum" : 263634,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263634",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263634"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130930",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131017",
+    "eventActor" : "FSR7"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TCCI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TCCI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Eduardo Fatuch"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJaguaruna, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jaguaruna","","04578-000","BR"]],["email",{"type":"work"},"text","JEF11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["org",{},"text",["Tac Com?rcio de Celulares e Inform?tica LTDA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "JEF11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JEF11",
+        "value" : "http://rdap.labs.lacnic.net/entity/JEF11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Eduardo Fatuch"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuritiba, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Curitiba","PR","04578-000","BR"]],["email",{"type":"work"},"text","JEF11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JEF11"
+      } ],
+      "entities" : [ ],
+      "handle" : "JEF11"
+    } ],
+    "handle" : "BR-TCCI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FSR7",
+      "value" : "http://rdap.labs.lacnic.net/entity/FSR7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","F?bio Sutil da Rosa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLaguna, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Laguna","SC","04578-000","BR"]],["email",{"type":"work"},"text","FSR7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FSR7"
+    } ],
+    "entities" : [ ],
+    "handle" : "FSR7"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FSR7",
+      "value" : "http://rdap.labs.lacnic.net/entity/FSR7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","F?bio Sutil da Rosa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLaguna, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Laguna","SC","04578-000","BR"]],["email",{"type":"work"},"text","FSR7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FSR7"
+    } ],
+    "entities" : [ ],
+    "handle" : "FSR7"
+  } ],
+  "type" : null,
+  "handle" : "263634-LACNIC",
+  "country" : "BR"
+}

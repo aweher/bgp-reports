@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28236,
+  "endAutnum" : 28236,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28236",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28236"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080722",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "AAS13"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PIWE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PIWE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","PRTURBO INTERNET WIRELLESS EPP LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIbipor?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ibipor?","PR","04578-000","BR"]],["email",{"type":"work"},"text","PIL39@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["org",{},"text",["PRTURBO INTERNET WIRELLESS EPP LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PIL39"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PIL39",
+        "value" : "http://rdap.labs.lacnic.net/entity/PIL39"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","PRTURBO INTERNET WIRELLESS EPP LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIbipor?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ibipor?","PR","04578-000","BR"]],["email",{"type":"work"},"text","PIL39@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PIL39"
+      } ],
+      "entities" : [ ],
+      "handle" : "PIL39"
+    } ],
+    "handle" : "BR-PIWE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AAS13",
+      "value" : "http://rdap.labs.lacnic.net/entity/AAS13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre Antonio dos Santos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIbipor?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ibipor?","PR","04578-000","BR"]],["email",{"type":"work"},"text","AAS13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AAS13"
+    } ],
+    "entities" : [ ],
+    "handle" : "AAS13"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AAS13",
+      "value" : "http://rdap.labs.lacnic.net/entity/AAS13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alexandre Antonio dos Santos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIbipor?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ibipor?","PR","04578-000","BR"]],["email",{"type":"work"},"text","AAS13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AAS13"
+    } ],
+    "entities" : [ ],
+    "handle" : "AAS13"
+  } ],
+  "type" : null,
+  "handle" : "28236-LACNIC",
+  "country" : "BR"
+}

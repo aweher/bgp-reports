@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52474",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52474"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CLEC-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CLEC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Telefonica de Argentina"],["adr",{"label":"E.ZEBALLOS 1061 ()\nEDUARDO CASTEX, LP 6380\nAR","type":"work"},"text",["","","E.ZEBALLOS 1061 ()","EDUARDO CASTEX","LP","6380","AR"]],["email",{"type":"work"},"text","tasamail.ar@TELEFONICA.COM"],["tel",{"type":"work"},"text","54 2334 452260 ()"],["org",{},"text",["Cooperativa de Obras y Servicios P?blicos de Eduardo Castex Ltda."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/TEA",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/TEA"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Telefonica de Argentina"],["adr",{"label":"AV. ING. HUERGO 723 ()\nCapital Federal, BA 1065\nAR","type":"work"},"text",["","","AV. ING. HUERGO 723 ()","Capital Federal","BA","1065","AR"]],["email",{"type":"work"},"text","tasamail.ar@TELEFONICA.COM"],["tel",{"type":"work"},"text","54 11 43335000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030618",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110603",
+        "eventActor" : "TEA"
+      } ],
+      "handle" : "TEA"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070307",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "TEA"
+    } ],
+    "handle" : "AR-CLEC-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SES21",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SES21"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Emanuel Scherger"],["adr",{"label":"E. Zeballos 1061 ()\nEduardo Castex, null 6380\nAR","type":"work"},"text",["","","E. Zeballos 1061 ()","Eduardo Castex","","6380","AR"]],["email",{"type":"work"},"text","lacnic@COSPEC.COM.AR"],["tel",{"type":"work"},"text","54 2334 445007 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130108",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130108",
+      "eventActor" : "SES21"
+    } ],
+    "handle" : "SES21"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SES21",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SES21"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Emanuel Scherger"],["adr",{"label":"E. Zeballos 1061 ()\nEduardo Castex, null 6380\nAR","type":"work"},"text",["","","E. Zeballos 1061 ()","Eduardo Castex","","6380","AR"]],["email",{"type":"work"},"text","lacnic@COSPEC.COM.AR"],["tel",{"type":"work"},"text","54 2334 445007 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130108",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130108",
+      "eventActor" : "SES21"
+    } ],
+    "handle" : "SES21"
+  } ],
+  "startAutnum" : 52474,
+  "endAutnum" : 52474,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130514",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130514",
+    "eventActor" : "SES21"
+  } ],
+  "type" : null,
+  "handle" : "52474-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27918",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27918"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-SISA4-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-SISA4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ra?l Lazo"],["adr",{"label":"Huerfanos 1313, Piso 7. Santiago 1313 ()\nSantiago,  6500543\nCL","type":"work"},"text",["","","Huerfanos 1313, Piso 7. Santiago 1313 ()","Santiago","","6500543","CL"]],["email",{"type":"work"},"text","rlazo@SINACOFI.CL"],["tel",{"type":"work"},"text","56 2 6950199 ()"],["org",{},"text",["Sinacofi S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JOH2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JOH2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ra?l Lazo"],["adr",{"label":"Huerfanos 1313 (Piso 7)\nSantiago, CL 6500543\nCL","type":"work"},"text",["","","Huerfanos 1313 (Piso 7)","Santiago","CL","6500543","CL"]],["email",{"type":"work"},"text","rlazo@SINACOFI.CL"],["tel",{"type":"work"},"text","56 2 7192616 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060315",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20070517",
+        "eventActor" : "JOH2"
+      } ],
+      "handle" : "JOH2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060316",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130118",
+      "eventActor" : "JOH2"
+    } ],
+    "handle" : "CL-SISA4-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JOH2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JOH2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ra?l Lazo"],["adr",{"label":"Huerfanos 1313 (Piso 7)\nSantiago, CL 6500543\nCL","type":"work"},"text",["","","Huerfanos 1313 (Piso 7)","Santiago","CL","6500543","CL"]],["email",{"type":"work"},"text","rlazo@SINACOFI.CL"],["tel",{"type":"work"},"text","56 2 7192616 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060315",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070517",
+      "eventActor" : "JOH2"
+    } ],
+    "handle" : "JOH2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JOH2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JOH2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ra?l Lazo"],["adr",{"label":"Huerfanos 1313 (Piso 7)\nSantiago, CL 6500543\nCL","type":"work"},"text",["","","Huerfanos 1313 (Piso 7)","Santiago","CL","6500543","CL"]],["email",{"type":"work"},"text","rlazo@SINACOFI.CL"],["tel",{"type":"work"},"text","56 2 7192616 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060315",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070517",
+      "eventActor" : "JOH2"
+    } ],
+    "handle" : "JOH2"
+  } ],
+  "startAutnum" : 27918,
+  "endAutnum" : 27918,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070802",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20070802",
+    "eventActor" : "JOH2"
+  } ],
+  "type" : null,
+  "handle" : "27918-LACNIC",
+  "country" : "CL"
+}

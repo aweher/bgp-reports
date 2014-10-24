@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262167",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262167"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-RESA16-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-RESA16-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Briones M"],["adr",{"label":"Isidora Goyenechea 2925 (Of 103)\nSantiago, Sa 7550101\nCL","type":"work"},"text",["","","Isidora Goyenechea 2925 (Of 103)","Santiago","Sa","7550101","CL"]],["email",{"type":"work"},"text","fbm@REDCOL.CL"],["tel",{"type":"work"},"text","56 2 8920250 ()"],["org",{},"text",["Redcol S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/RES5",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/RES5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Briones M"],["adr",{"label":"Isidora Goyenechea 2925 (of 103)\nSantiago,  7550101\nCL","type":"work"},"text",["","","Isidora Goyenechea 2925 (of 103)","Santiago","","7550101","CL"]],["email",{"type":"work"},"text","fbm@REDCOL.CL"],["tel",{"type":"work"},"text","56 2 8920250 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110406",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110502",
+        "eventActor" : "RES5"
+      } ],
+      "handle" : "RES5"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110502",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "RES5"
+    } ],
+    "handle" : "CL-RESA16-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RES5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RES5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Briones M"],["adr",{"label":"Isidora Goyenechea 2925 (of 103)\nSantiago,  7550101\nCL","type":"work"},"text",["","","Isidora Goyenechea 2925 (of 103)","Santiago","","7550101","CL"]],["email",{"type":"work"},"text","fbm@REDCOL.CL"],["tel",{"type":"work"},"text","56 2 8920250 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110406",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110502",
+      "eventActor" : "RES5"
+    } ],
+    "handle" : "RES5"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RES5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RES5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Briones M"],["adr",{"label":"Isidora Goyenechea 2925 (of 103)\nSantiago,  7550101\nCL","type":"work"},"text",["","","Isidora Goyenechea 2925 (of 103)","Santiago","","7550101","CL"]],["email",{"type":"work"},"text","fbm@REDCOL.CL"],["tel",{"type":"work"},"text","56 2 8920250 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110406",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110502",
+      "eventActor" : "RES5"
+    } ],
+    "handle" : "RES5"
+  } ],
+  "startAutnum" : 262167,
+  "endAutnum" : 262167,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110708",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110806",
+    "eventActor" : "RES5"
+  } ],
+  "type" : null,
+  "handle" : "262167-LACNIC",
+  "country" : "CL"
+}

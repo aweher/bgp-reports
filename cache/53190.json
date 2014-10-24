@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53190,
+  "endAutnum" : 53190,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53190",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53190"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100826",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140407",
+    "eventActor" : "BCV3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CTIL7-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CTIL7-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cristiana Guimaraes Campos de Oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCl?udio, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cl?udio","MG","04578-000","BR"]],["email",{"type":"work"},"text","CGO3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["org",{},"text",["CRJ Tecnologia e Informatica Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140408",
+      "eventActor" : "CGO3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CGO3",
+        "value" : "http://rdap.labs.lacnic.net/entity/CGO3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cristiana Guimaraes Campos de Oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nClaudio, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Claudio","MG","04578-000","BR"]],["email",{"type":"work"},"text","CGO3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CGO3"
+      } ],
+      "entities" : [ ],
+      "handle" : "CGO3"
+    } ],
+    "handle" : "BR-CTIL7-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BCV3",
+      "value" : "http://rdap.labs.lacnic.net/entity/BCV3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Breno de Castro Laranjo Vale"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOliveira, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Oliveira","MG","04578-000","BR"]],["email",{"type":"work"},"text","BCV3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "BCV3"
+    } ],
+    "entities" : [ ],
+    "handle" : "BCV3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BCV3",
+      "value" : "http://rdap.labs.lacnic.net/entity/BCV3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Breno de Castro Laranjo Vale"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOliveira, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Oliveira","MG","04578-000","BR"]],["email",{"type":"work"},"text","BCV3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "BCV3"
+    } ],
+    "entities" : [ ],
+    "handle" : "BCV3"
+  } ],
+  "type" : null,
+  "handle" : "53190-LACNIC",
+  "country" : "BR"
+}

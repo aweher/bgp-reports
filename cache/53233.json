@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53233,
+  "endAutnum" : 53233,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53233",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53233"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101201",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "TNJ3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VSIL4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VSIL4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TARCISIO NOBREGA DE MELLO JR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCaic?, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Caic?","RN","04578-000","BR"]],["email",{"type":"work"},"text","TNJ3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["org",{},"text",["V2Net Comercio Servi?os e Internet Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131216",
+      "eventActor" : "TNJ3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/TNJ3",
+        "value" : "http://rdap.labs.lacnic.net/entity/TNJ3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TARCISIO NOBREGA DE MELLO JR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCaic?, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Caic?","RN","04578-000","BR"]],["email",{"type":"work"},"text","TNJ3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "TNJ3"
+      } ],
+      "entities" : [ ],
+      "handle" : "TNJ3"
+    } ],
+    "handle" : "BR-VSIL4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TNJ3",
+      "value" : "http://rdap.labs.lacnic.net/entity/TNJ3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TARCISIO NOBREGA DE MELLO JR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCaic?, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Caic?","RN","04578-000","BR"]],["email",{"type":"work"},"text","TNJ3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TNJ3"
+    } ],
+    "entities" : [ ],
+    "handle" : "TNJ3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TNJ3",
+      "value" : "http://rdap.labs.lacnic.net/entity/TNJ3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","TARCISIO NOBREGA DE MELLO JR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCaic?, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Caic?","RN","04578-000","BR"]],["email",{"type":"work"},"text","TNJ3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TNJ3"
+    } ],
+    "entities" : [ ],
+    "handle" : "TNJ3"
+  } ],
+  "type" : null,
+  "handle" : "53233-LACNIC",
+  "country" : "BR"
+}

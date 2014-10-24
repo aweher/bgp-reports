@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52991,
+  "endAutnum" : 52991,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52991",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52991"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110505",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "TPL12"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TPIL1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TPIL1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tr?s Pontas Internet LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTr?s Pontas, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tr?s Pontas","MG","04578-000","BR"]],["email",{"type":"work"},"text","TPL12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 03 555093511 ()"],["org",{},"text",["Tres Pontas Internet Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140610",
+      "eventActor" : "TPL12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/TPL12",
+        "value" : "http://rdap.labs.lacnic.net/entity/TPL12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tr?s Pontas Internet LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTr?s Pontas, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tr?s Pontas","MG","04578-000","BR"]],["email",{"type":"work"},"text","TPL12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "TPL12"
+      } ],
+      "entities" : [ ],
+      "handle" : "TPL12"
+    } ],
+    "handle" : "BR-TPIL1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TPL12",
+      "value" : "http://rdap.labs.lacnic.net/entity/TPL12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tr?s Pontas Internet LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTr?s Pontas, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tr?s Pontas","MG","04578-000","BR"]],["email",{"type":"work"},"text","TPL12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TPL12"
+    } ],
+    "entities" : [ ],
+    "handle" : "TPL12"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TPL12",
+      "value" : "http://rdap.labs.lacnic.net/entity/TPL12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tr?s Pontas Internet LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTr?s Pontas, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tr?s Pontas","MG","04578-000","BR"]],["email",{"type":"work"},"text","TPL12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TPL12"
+    } ],
+    "entities" : [ ],
+    "handle" : "TPL12"
+  } ],
+  "type" : null,
+  "handle" : "52991-LACNIC",
+  "country" : "BR"
+}

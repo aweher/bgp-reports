@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/20117",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/20117"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-HBAS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-HBAS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Antonio Ballester"],["adr",{"label":"Florida 229 Piso 1 229 ()\nCiudad Autonoma de Bs. As., null C1005AAE\nAR","type":"work"},"text",["","","Florida 229 Piso 1 229 ()","Ciudad Autonoma de Bs. As.","","C1005AAE","AR"]],["email",{"type":"work"},"text","claudio.ballester@HSBC.COM.AR"],["tel",{"type":"work"},"text","54 11 4324-7991 ()"],["org",{},"text",["HSBC BANK Argentina S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CAB5",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CAB5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Antonio Ballester"],["adr",{"label":"Florida 229 Piso 1 Telecomunicaciones 229 ()\nCiudad Autonoma de Bs. As., null C1005AAE\nAR","type":"work"},"text",["","","Florida 229 Piso 1 Telecomunicaciones 229 ()","Ciudad Autonoma de Bs. As.","","C1005AAE","AR"]],["email",{"type":"work"},"text","claudio.ballester@HSBC.COM.AR"],["tel",{"type":"work"},"text","54 11 4324-7991 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030903",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20030903",
+        "eventActor" : "CAB5"
+      } ],
+      "handle" : "CAB5"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030904",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20030904",
+      "eventActor" : "CAB5"
+    } ],
+    "handle" : "AR-HBAS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CAB5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAB5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Antonio Ballester"],["adr",{"label":"Florida 229 Piso 1 Telecomunicaciones 229 ()\nCiudad Autonoma de Bs. As., null C1005AAE\nAR","type":"work"},"text",["","","Florida 229 Piso 1 Telecomunicaciones 229 ()","Ciudad Autonoma de Bs. As.","","C1005AAE","AR"]],["email",{"type":"work"},"text","claudio.ballester@HSBC.COM.AR"],["tel",{"type":"work"},"text","54 11 4324-7991 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030903",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20030903",
+      "eventActor" : "CAB5"
+    } ],
+    "handle" : "CAB5"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CAB5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAB5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Antonio Ballester"],["adr",{"label":"Florida 229 Piso 1 Telecomunicaciones 229 ()\nCiudad Autonoma de Bs. As., null C1005AAE\nAR","type":"work"},"text",["","","Florida 229 Piso 1 Telecomunicaciones 229 ()","Ciudad Autonoma de Bs. As.","","C1005AAE","AR"]],["email",{"type":"work"},"text","claudio.ballester@HSBC.COM.AR"],["tel",{"type":"work"},"text","54 11 4324-7991 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030903",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20030903",
+      "eventActor" : "CAB5"
+    } ],
+    "handle" : "CAB5"
+  } ],
+  "startAutnum" : 20117,
+  "endAutnum" : 20117,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20010326",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20040115",
+    "eventActor" : "CAB5"
+  } ],
+  "type" : null,
+  "handle" : "20117-LACNIC",
+  "country" : "AR"
+}

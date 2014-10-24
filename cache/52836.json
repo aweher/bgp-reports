@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52836,
+  "endAutnum" : 52836,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52836",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52836"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121023",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "SBL9"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SBLI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SBLI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SNT Banda Larga e Internet Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBarra Mansa, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Barra Mansa","RJ","04578-000","BR"]],["email",{"type":"work"},"text","SBL9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["org",{},"text",["SNT Banda Larga e Internet Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "SBL9"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SBL9",
+        "value" : "http://rdap.labs.lacnic.net/entity/SBL9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SNT Banda Larga e Internet Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVolta Redonda, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Volta Redonda","RJ","04578-000","BR"]],["email",{"type":"work"},"text","SBL9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SBL9"
+      } ],
+      "entities" : [ ],
+      "handle" : "SBL9"
+    } ],
+    "handle" : "BR-SBLI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SBL9",
+      "value" : "http://rdap.labs.lacnic.net/entity/SBL9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SNT Banda Larga e Internet Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVolta Redonda, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Volta Redonda","RJ","04578-000","BR"]],["email",{"type":"work"},"text","SBL9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SBL9"
+    } ],
+    "entities" : [ ],
+    "handle" : "SBL9"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SBL9",
+      "value" : "http://rdap.labs.lacnic.net/entity/SBL9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SNT Banda Larga e Internet Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVolta Redonda, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Volta Redonda","RJ","04578-000","BR"]],["email",{"type":"work"},"text","SBL9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 24 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SBL9"
+    } ],
+    "entities" : [ ],
+    "handle" : "SBL9"
+  } ],
+  "type" : null,
+  "handle" : "52836-LACNIC",
+  "country" : "BR"
+}

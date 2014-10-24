@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53089,
+  "endAutnum" : 53089,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53089",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53089"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091027",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "HLT"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-HTLM-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-HTLM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","HL TELECOM"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGuararema, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Guararema","SP","04578-000","BR"]],["email",{"type":"work"},"text","HLT@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["IDC TELECOM LTDA EPP"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130813",
+      "eventActor" : "HLT"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/HLT",
+        "value" : "http://rdap.labs.lacnic.net/entity/HLT"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","HL TELECOM"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGuararema, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Guararema","SP","04578-000","BR"]],["email",{"type":"work"},"text","HLT@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "HLT"
+      } ],
+      "entities" : [ ],
+      "handle" : "HLT"
+    } ],
+    "handle" : "BR-HTLM-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HLT",
+      "value" : "http://rdap.labs.lacnic.net/entity/HLT"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","HL TELECOM"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGuararema, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Guararema","SP","04578-000","BR"]],["email",{"type":"work"},"text","HLT@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "HLT"
+    } ],
+    "entities" : [ ],
+    "handle" : "HLT"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HLT",
+      "value" : "http://rdap.labs.lacnic.net/entity/HLT"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","HL TELECOM"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGuararema, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Guararema","SP","04578-000","BR"]],["email",{"type":"work"},"text","HLT@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "HLT"
+    } ],
+    "entities" : [ ],
+    "handle" : "HLT"
+  } ],
+  "type" : null,
+  "handle" : "53089-LACNIC",
+  "country" : "BR"
+}

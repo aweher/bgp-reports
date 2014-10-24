@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53038,
+  "endAutnum" : 53038,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53038",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53038"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110905",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "FCI"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-WSLT2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-WSLT2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Colangelo - WDI INTERNET"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVinhedo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vinhedo","SP","04578-000","BR"]],["email",{"type":"work"},"text","FCI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["WDI SOLUCOES EM TECNOLOGIA DA INFORMACAO LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140630",
+      "eventActor" : "FCI"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FCI",
+        "value" : "http://rdap.labs.lacnic.net/entity/FCI"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Colangelo - WDI INTERNET"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVinhedo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vinhedo","SP","04578-000","BR"]],["email",{"type":"work"},"text","FCI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FCI"
+      } ],
+      "entities" : [ ],
+      "handle" : "FCI"
+    } ],
+    "handle" : "BR-WSLT2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FCI",
+      "value" : "http://rdap.labs.lacnic.net/entity/FCI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Colangelo - WDI INTERNET"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVinhedo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vinhedo","SP","04578-000","BR"]],["email",{"type":"work"},"text","FCI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FCI"
+    } ],
+    "entities" : [ ],
+    "handle" : "FCI"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FCI",
+      "value" : "http://rdap.labs.lacnic.net/entity/FCI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Colangelo - WDI INTERNET"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVinhedo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vinhedo","SP","04578-000","BR"]],["email",{"type":"work"},"text","FCI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FCI"
+    } ],
+    "entities" : [ ],
+    "handle" : "FCI"
+  } ],
+  "type" : null,
+  "handle" : "53038-LACNIC",
+  "country" : "BR"
+}

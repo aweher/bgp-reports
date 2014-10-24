@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262853,
+  "endAutnum" : 262853,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262853",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262853"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101213",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "RNI"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DGSA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DGSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diogo Germano de Souza Antunes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nManaus, AM 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Manaus","AM","04578-000","BR"]],["email",{"type":"work"},"text","DGA7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 92 55093511 ()"],["org",{},"text",["DIOGO G DE S ANTUNES - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "DGA7"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DGA7",
+        "value" : "http://rdap.labs.lacnic.net/entity/DGA7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diogo Germano de Souza Antunes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nManaus, AM 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Manaus","AM","04578-000","BR"]],["email",{"type":"work"},"text","DGA7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 92 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DGA7"
+      } ],
+      "entities" : [ ],
+      "handle" : "DGA7"
+    } ],
+    "handle" : "BR-DGSA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RNI",
+      "value" : "http://rdap.labs.lacnic.net/entity/RNI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","REDE NACIONAL DE INTERNET E INFORMATICA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nManaus, AM 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Manaus","AM","04578-000","BR"]],["email",{"type":"work"},"text","RNI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 92 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RNI"
+    } ],
+    "entities" : [ ],
+    "handle" : "RNI"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DGA7",
+      "value" : "http://rdap.labs.lacnic.net/entity/DGA7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diogo Germano de Souza Antunes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nManaus, AM 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Manaus","AM","04578-000","BR"]],["email",{"type":"work"},"text","DGA7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 92 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DGA7"
+    } ],
+    "entities" : [ ],
+    "handle" : "DGA7"
+  } ],
+  "type" : null,
+  "handle" : "262853-LACNIC",
+  "country" : "BR"
+}

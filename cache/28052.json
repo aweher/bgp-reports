@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28052",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28052"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-ARAR2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-ARAR2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andrea Mirson"],["adr",{"label":"Lima 1261 ()\nBuenos Aires, CF C1138ACA\nAR","type":"work"},"text",["","","Lima 1261 ()","Buenos Aires","CF","C1138ACA","AR"]],["email",{"type":"work"},"text","netadmin@ARTEAR.COM"],["tel",{"type":"work"},"text","54 11 4370 1493 ()"],["org",{},"text",["Arte Radiotelevisivo Argentino"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/NAA4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/NAA4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andrea Mirson"],["adr",{"label":"Lima 1261 ()\nCapital Federal, BA C1138ACA\nAR","type":"work"},"text",["","","Lima 1261 ()","Capital Federal","BA","C1138ACA","AR"]],["email",{"type":"work"},"text","netadmin@ARTEAR.COM"],["tel",{"type":"work"},"text","54 11 4370 (1189)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090224",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120802",
+        "eventActor" : "NAA4"
+      } ],
+      "handle" : "NAA4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090303",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "NAA4"
+    } ],
+    "handle" : "AR-ARAR2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NAA4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NAA4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andrea Mirson"],["adr",{"label":"Lima 1261 ()\nCapital Federal, BA C1138ACA\nAR","type":"work"},"text",["","","Lima 1261 ()","Capital Federal","BA","C1138ACA","AR"]],["email",{"type":"work"},"text","netadmin@ARTEAR.COM"],["tel",{"type":"work"},"text","54 11 4370 (1189)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090224",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120802",
+      "eventActor" : "NAA4"
+    } ],
+    "handle" : "NAA4"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NAA4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NAA4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andrea Mirson"],["adr",{"label":"Lima 1261 ()\nCapital Federal, BA C1138ACA\nAR","type":"work"},"text",["","","Lima 1261 ()","Capital Federal","BA","C1138ACA","AR"]],["email",{"type":"work"},"text","netadmin@ARTEAR.COM"],["tel",{"type":"work"},"text","54 11 4370 (1189)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090224",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120802",
+      "eventActor" : "NAA4"
+    } ],
+    "handle" : "NAA4"
+  } ],
+  "startAutnum" : 28052,
+  "endAutnum" : 28052,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090407",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090407",
+    "eventActor" : "NAA4"
+  } ],
+  "type" : null,
+  "handle" : "28052-LACNIC",
+  "country" : "AR"
+}

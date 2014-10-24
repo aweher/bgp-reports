@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27980",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27980"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-WIIN-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-WIIN-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Fernando Veltri"],["adr",{"label":"Bouchard 547 (Piso 23)\nBuenos Aires, DF C1106ABG\nAR","type":"work"},"text",["","","Bouchard 547 (Piso 23)","Buenos Aires","DF","C1106ABG","AR"]],["email",{"type":"work"},"text","pablo.veltri@WEATHERFORD.COM"],["tel",{"type":"work"},"text","54 11 50770000 (5102)"],["org",{},"text",["Weatherford International Inc."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PFV",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PFV"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Fernando Veltri"],["adr",{"label":"Av. Alicia Moreau de Justo 170 170 ()\nCapital Federal, null C1107AAD\nAR","type":"work"},"text",["","","Av. Alicia Moreau de Justo 170 170 ()","Capital Federal","","C1107AAD","AR"]],["email",{"type":"work"},"text","pablo.veltri@WEATHERFORD.COM"],["tel",{"type":"work"},"text","54 11 50770000 (5102)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080215",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20080215",
+        "eventActor" : "PFV"
+      } ],
+      "handle" : "PFV"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080610",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130322",
+      "eventActor" : "PFV"
+    } ],
+    "handle" : "AR-WIIN-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PFV",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PFV"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Fernando Veltri"],["adr",{"label":"Av. Alicia Moreau de Justo 170 170 ()\nCapital Federal, null C1107AAD\nAR","type":"work"},"text",["","","Av. Alicia Moreau de Justo 170 170 ()","Capital Federal","","C1107AAD","AR"]],["email",{"type":"work"},"text","pablo.veltri@WEATHERFORD.COM"],["tel",{"type":"work"},"text","54 11 50770000 (5102)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080215",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080215",
+      "eventActor" : "PFV"
+    } ],
+    "handle" : "PFV"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PFV",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PFV"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Fernando Veltri"],["adr",{"label":"Av. Alicia Moreau de Justo 170 170 ()\nCapital Federal, null C1107AAD\nAR","type":"work"},"text",["","","Av. Alicia Moreau de Justo 170 170 ()","Capital Federal","","C1107AAD","AR"]],["email",{"type":"work"},"text","pablo.veltri@WEATHERFORD.COM"],["tel",{"type":"work"},"text","54 11 50770000 (5102)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080215",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080215",
+      "eventActor" : "PFV"
+    } ],
+    "handle" : "PFV"
+  } ],
+  "startAutnum" : 27980,
+  "endAutnum" : 27980,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080703",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080703",
+    "eventActor" : "PFV"
+  } ],
+  "type" : null,
+  "handle" : "27980-LACNIC",
+  "country" : "AR"
+}

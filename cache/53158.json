@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53158,
+  "endAutnum" : 53158,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53158",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53158"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100701",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "NOT3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-LGEP-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-LGEP-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Donizeti Gidra Garcia"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nValinhos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Valinhos","SP","04578-000","BR"]],["email",{"type":"work"},"text","DGG2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["Net Turbo Telecom"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130925",
+      "eventActor" : "DGG2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DGG2",
+        "value" : "http://rdap.labs.lacnic.net/entity/DGG2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Donizeti Gidra Garcia"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nValinhos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Valinhos","SP","04578-000","BR"]],["email",{"type":"work"},"text","DGG2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DGG2"
+      } ],
+      "entities" : [ ],
+      "handle" : "DGG2"
+    } ],
+    "handle" : "BR-LGEP-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NOT3",
+      "value" : "http://rdap.labs.lacnic.net/entity/NOT3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Network Operation Center Net Turbo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nValinhos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Valinhos","SP","04578-000","BR"]],["email",{"type":"work"},"text","NOT3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NOT3"
+    } ],
+    "entities" : [ ],
+    "handle" : "NOT3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NOT3",
+      "value" : "http://rdap.labs.lacnic.net/entity/NOT3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Network Operation Center Net Turbo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nValinhos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Valinhos","SP","04578-000","BR"]],["email",{"type":"work"},"text","NOT3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NOT3"
+    } ],
+    "entities" : [ ],
+    "handle" : "NOT3"
+  } ],
+  "type" : null,
+  "handle" : "53158-LACNIC",
+  "country" : "BR"
+}

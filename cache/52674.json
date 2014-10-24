@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52674,
+  "endAutnum" : 52674,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52674",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52674"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121127",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "SDL8"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SDLT10-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SDLT10-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SERCOMPE DATACENTER LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJoinville, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Joinville","SC","04578-000","BR"]],["email",{"type":"work"},"text","SDL8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["org",{},"text",["SERCOMPE DATACENTER LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "SDL8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SDL8",
+        "value" : "http://rdap.labs.lacnic.net/entity/SDL8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SERCOMPE DATACENTER LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJoinville, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Joinville","SC","04578-000","BR"]],["email",{"type":"work"},"text","SDL8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SDL8"
+      } ],
+      "entities" : [ ],
+      "handle" : "SDL8"
+    } ],
+    "handle" : "BR-SDLT10-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SDL8",
+      "value" : "http://rdap.labs.lacnic.net/entity/SDL8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SERCOMPE DATACENTER LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJoinville, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Joinville","SC","04578-000","BR"]],["email",{"type":"work"},"text","SDL8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SDL8"
+    } ],
+    "entities" : [ ],
+    "handle" : "SDL8"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SDL8",
+      "value" : "http://rdap.labs.lacnic.net/entity/SDL8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SERCOMPE DATACENTER LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJoinville, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Joinville","SC","04578-000","BR"]],["email",{"type":"work"},"text","SDL8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SDL8"
+    } ],
+    "entities" : [ ],
+    "handle" : "SDL8"
+  } ],
+  "type" : null,
+  "handle" : "52674-LACNIC",
+  "country" : "BR"
+}

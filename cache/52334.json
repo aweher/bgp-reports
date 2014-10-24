@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52334,
+  "endAutnum" : 52334,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52334",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52334"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110719",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110719",
+    "eventActor" : "DAF4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-PRSA7-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-PRSA7-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Alejandro Bravo Fique"],["adr",{"label":"Cll. 69 No. 63-100 - ()\nMedellin, AN -\nCO","type":"work"},"text",["","","Cll. 69 No. 63-100 - ()","Medellin","AN","-","CO"]],["email",{"type":"work"},"text","diego.bravo@PROTECCION.COM.CO"],["tel",{"type":"work"},"text","57 4 2307500 ()"],["org",{},"text",["Proteccion S.A."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070523",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140428",
+      "eventActor" : "DAF4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DAF4",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAF4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Alejandro Bravo Fique"],["adr",{"label":"Calle 46 N.63-100  ()\nmedellin, null 00000\nCO","type":"work"},"text",["","","Calle 46 N.63-100  ()","medellin","","00000","CO"]],["email",{"type":"work"},"text","diego.bravo@PROTECCION.COM.CO"],["tel",{"type":"work"},"text","57 4 2307500 (4774)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20101122",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20101122",
+        "eventActor" : "DAF4"
+      } ],
+      "entities" : [ ],
+      "handle" : "DAF4"
+    } ],
+    "handle" : "CO-PRSA7-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DAF4",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAF4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Alejandro Bravo Fique"],["adr",{"label":"Calle 46 N.63-100  ()\nmedellin, null 00000\nCO","type":"work"},"text",["","","Calle 46 N.63-100  ()","medellin","","00000","CO"]],["email",{"type":"work"},"text","diego.bravo@PROTECCION.COM.CO"],["tel",{"type":"work"},"text","57 4 2307500 (4774)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101122",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101122",
+      "eventActor" : "DAF4"
+    } ],
+    "entities" : [ ],
+    "handle" : "DAF4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DAF4",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAF4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Alejandro Bravo Fique"],["adr",{"label":"Calle 46 N.63-100  ()\nmedellin, null 00000\nCO","type":"work"},"text",["","","Calle 46 N.63-100  ()","medellin","","00000","CO"]],["email",{"type":"work"},"text","diego.bravo@PROTECCION.COM.CO"],["tel",{"type":"work"},"text","57 4 2307500 (4774)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101122",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101122",
+      "eventActor" : "DAF4"
+    } ],
+    "entities" : [ ],
+    "handle" : "DAF4"
+  } ],
+  "type" : null,
+  "handle" : "52334-LACNIC",
+  "country" : "CO"
+}

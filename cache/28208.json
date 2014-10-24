@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28208,
+  "endAutnum" : 28208,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28208",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28208"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080423",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "STL40"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-STLT50-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-STLT50-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Superline Telecomunica??es Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConc?rdia, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Conc?rdia","SC","04578-000","BR"]],["email",{"type":"work"},"text","STL40@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["org",{},"text",["Superline Telecomunica??es Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "STL40"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/STL40",
+        "value" : "http://rdap.labs.lacnic.net/entity/STL40"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Superline Telecomunica??es Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConc?rdia, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Conc?rdia","SC","04578-000","BR"]],["email",{"type":"work"},"text","STL40@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "STL40"
+      } ],
+      "entities" : [ ],
+      "handle" : "STL40"
+    } ],
+    "handle" : "BR-STLT50-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/STL40",
+      "value" : "http://rdap.labs.lacnic.net/entity/STL40"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Superline Telecomunica??es Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConc?rdia, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Conc?rdia","SC","04578-000","BR"]],["email",{"type":"work"},"text","STL40@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "STL40"
+    } ],
+    "entities" : [ ],
+    "handle" : "STL40"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IPL5",
+      "value" : "http://rdap.labs.lacnic.net/entity/IPL5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Interline Provedora de Internet Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConc?rdia, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Conc?rdia","SC","04578-000","BR"]],["email",{"type":"work"},"text","IPL5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "IPL5"
+    } ],
+    "entities" : [ ],
+    "handle" : "IPL5"
+  } ],
+  "type" : null,
+  "handle" : "28208-LACNIC",
+  "country" : "BR"
+}

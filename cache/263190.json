@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/263190",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263190"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-LECA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-LECA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Eduardo Catteneo"],["adr",{"label":"Alsina 95 95 (Buenos Aires)\nBahía Blanca, null 8000\nAR","type":"work"},"text",["","","Alsina 95 95 (Buenos Aires)","Bahía Blanca","","8000","AR"]],["email",{"type":"work"},"text","LECATTANEO-LACNIC@TECHTELNET.NET"],["tel",{"type":"work"},"text","54 291 645-5731 ()"],["org",{},"text",["Luis Eduardo Cattaneo"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/LEC4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/LEC4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Eduardo Catteneo"],["adr",{"label":"Alsina 95 95 (Bahía Blanca)\nBuenos Aires, null 8000\nAR","type":"work"},"text",["","","Alsina 95 95 (Bahía Blanca)","Buenos Aires","","8000","AR"]],["email",{"type":"work"},"text","LECATTANEO-LACNIC@TECHTELNET.NET"],["tel",{"type":"work"},"text","54 291 645-5731 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20031113",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20031113",
+        "eventActor" : "LEC4"
+      } ],
+      "handle" : "LEC4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031113",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20031113",
+      "eventActor" : "LEC4"
+    } ],
+    "handle" : "AR-LECA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/LUC44",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/LUC44"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Cattaneo"],["adr",{"label":"Alsina 95 (11 6)\nBahia Blanca, Bu 8000\nAR","type":"work"},"text",["","","Alsina 95 (11 6)","Bahia Blanca","Bu","8000","AR"]],["email",{"type":"work"},"text","lcattaneo@VELOSTAR.COM.AR"],["tel",{"type":"work"},"text","0054 291 4524444 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130716",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130716",
+      "eventActor" : "LUC44"
+    } ],
+    "handle" : "LUC44"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/LUC44",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/LUC44"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Cattaneo"],["adr",{"label":"Alsina 95 (11 6)\nBahia Blanca, Bu 8000\nAR","type":"work"},"text",["","","Alsina 95 (11 6)","Bahia Blanca","Bu","8000","AR"]],["email",{"type":"work"},"text","lcattaneo@VELOSTAR.COM.AR"],["tel",{"type":"work"},"text","0054 291 4524444 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130716",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130716",
+      "eventActor" : "LUC44"
+    } ],
+    "handle" : "LUC44"
+  } ],
+  "startAutnum" : 263190,
+  "endAutnum" : 263190,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131112",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131112",
+    "eventActor" : "LUC44"
+  } ],
+  "type" : null,
+  "handle" : "263190-LACNIC",
+  "country" : "AR"
+}

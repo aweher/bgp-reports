@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27693,
+  "endAutnum" : 27693,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27693",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27693"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20030616",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MMP11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NNBT-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NNBT-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Marques Pinheiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? dos Campos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? dos Campos","SP","04578-000","BR"]],["email",{"type":"work"},"text","MMP11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 12 55093511 ()"],["org",{},"text",["NipBr - NipCable do Brasil Telecom LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130807",
+      "eventActor" : "MMP11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MMP11",
+        "value" : "http://rdap.labs.lacnic.net/entity/MMP11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Marques Pinheiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? dos Campos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? dos Campos","SP","04578-000","BR"]],["email",{"type":"work"},"text","MMP11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 12 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MMP11"
+      } ],
+      "entities" : [ ],
+      "handle" : "MMP11"
+    } ],
+    "handle" : "BR-NNBT-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MMP11",
+      "value" : "http://rdap.labs.lacnic.net/entity/MMP11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Marques Pinheiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? dos Campos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? dos Campos","SP","04578-000","BR"]],["email",{"type":"work"},"text","MMP11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 12 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MMP11"
+    } ],
+    "entities" : [ ],
+    "handle" : "MMP11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MMP11",
+      "value" : "http://rdap.labs.lacnic.net/entity/MMP11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Marques Pinheiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? dos Campos, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? dos Campos","SP","04578-000","BR"]],["email",{"type":"work"},"text","MMP11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 12 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MMP11"
+    } ],
+    "entities" : [ ],
+    "handle" : "MMP11"
+  } ],
+  "type" : null,
+  "handle" : "27693-LACNIC",
+  "country" : "BR"
+}

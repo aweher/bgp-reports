@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262151",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262151"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CCSA22-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CCSA22-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","sumit kumar"],["adr",{"label":"Corrientes 485 (6to. Piso)\nBuenos Aires, -- C1043AAE\nAR","type":"work"},"text",["","","Corrientes 485 (6to. Piso)","Buenos Aires","--","C1043AAE","AR"]],["email",{"type":"work"},"text","sumit.kumar@GLOBALLOGIC.COM"],["tel",{"type":"work"},"text","54 11 43943121 (112)"],["org",{},"text",["Cubika Consulting SA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CRR10",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CRR10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","sumit kumar"],["adr",{"label":"Corrientes Avenue 485 (6th)\nBuenos Aires, BA C1043AAE\nAR","type":"work"},"text",["","","Corrientes Avenue 485 (6th)","Buenos Aires","BA","C1043AAE","AR"]],["email",{"type":"work"},"text","sumit.kumar@GLOBALLOGIC.COM"],["tel",{"type":"work"},"text","54 011 43943121 (112)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110914",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130403",
+        "eventActor" : "CRR10"
+      } ],
+      "handle" : "CRR10"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20111003",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130321",
+      "eventActor" : "CRR10"
+    } ],
+    "handle" : "AR-CCSA22-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CRR10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CRR10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","sumit kumar"],["adr",{"label":"Corrientes Avenue 485 (6th)\nBuenos Aires, BA C1043AAE\nAR","type":"work"},"text",["","","Corrientes Avenue 485 (6th)","Buenos Aires","BA","C1043AAE","AR"]],["email",{"type":"work"},"text","sumit.kumar@GLOBALLOGIC.COM"],["tel",{"type":"work"},"text","54 011 43943121 (112)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110914",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130403",
+      "eventActor" : "CRR10"
+    } ],
+    "handle" : "CRR10"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CRR10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CRR10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","sumit kumar"],["adr",{"label":"Corrientes Avenue 485 (6th)\nBuenos Aires, BA C1043AAE\nAR","type":"work"},"text",["","","Corrientes Avenue 485 (6th)","Buenos Aires","BA","C1043AAE","AR"]],["email",{"type":"work"},"text","sumit.kumar@GLOBALLOGIC.COM"],["tel",{"type":"work"},"text","54 011 43943121 (112)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110914",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130403",
+      "eventActor" : "CRR10"
+    } ],
+    "handle" : "CRR10"
+  } ],
+  "startAutnum" : 262151,
+  "endAutnum" : 262151,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130320",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130320",
+    "eventActor" : "CRR10"
+  } ],
+  "type" : null,
+  "handle" : "262151-LACNIC",
+  "country" : "AR"
+}

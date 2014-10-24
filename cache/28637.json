@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28637,
+  "endAutnum" : 28637,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28637",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28637"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060315",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "GIP2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CPDE5-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CPDE5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gerencia Internet PRODESP"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTabo?o da Serra, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tabo?o da Serra","SP","04578-000","BR"]],["email",{"type":"work"},"text","GIP2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["Cia Proc. de Dados do Estado de S Paulo - Prodesp"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "GIP2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GIP2",
+        "value" : "http://rdap.labs.lacnic.net/entity/GIP2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gerencia Internet PRODESP"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTabo?o da Serra, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tabo?o da Serra","SP","04578-000","BR"]],["email",{"type":"work"},"text","GIP2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "GIP2"
+      } ],
+      "entities" : [ ],
+      "handle" : "GIP2"
+    } ],
+    "handle" : "BR-CPDE5-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GIP2",
+      "value" : "http://rdap.labs.lacnic.net/entity/GIP2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gerencia Internet PRODESP"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTabo?o da Serra, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tabo?o da Serra","SP","04578-000","BR"]],["email",{"type":"work"},"text","GIP2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GIP2"
+    } ],
+    "entities" : [ ],
+    "handle" : "GIP2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/OMJ",
+      "value" : "http://rdap.labs.lacnic.net/entity/OMJ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Olyntho Meneguzzi Junior"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTabo?o da Serra, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tabo?o da Serra","SP","04578-000","BR"]],["email",{"type":"work"},"text","OMJ@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "OMJ"
+    } ],
+    "entities" : [ ],
+    "handle" : "OMJ"
+  } ],
+  "type" : null,
+  "handle" : "28637-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52232",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52232"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TPYP-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TPYP-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Reinaldo Niella"],["adr",{"label":"Viamonte 1133 (Piso 9)\nCapital Federal,  C1053ABW\nAR","type":"work"},"text",["","","Viamonte 1133 (Piso 9)","Capital Federal","","C1053ABW","AR"]],["email",{"type":"work"},"text","niellar@TPP.COM.AR"],["tel",{"type":"work"},"text","54 11 43723310 ()"],["org",{},"text",["Telefon?a P?blica y Privada S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FEM11",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FEM11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Reinaldo Niella"],["adr",{"label":"Viamonte 1133 (P 9)\nCapital,  C1053ABW\nAR","type":"work"},"text",["","","Viamonte 1133 (P 9)","Capital","","C1053ABW","AR"]],["email",{"type":"work"},"text","niellar@TPP.COM.AR"],["tel",{"type":"work"},"text","54 11 43723310 (145)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20061205",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100819",
+        "eventActor" : "FEM11"
+      } ],
+      "handle" : "FEM11"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20061212",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "FEM11"
+    } ],
+    "handle" : "AR-TPYP-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEM11",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEM11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Reinaldo Niella"],["adr",{"label":"Viamonte 1133 (P 9)\nCapital,  C1053ABW\nAR","type":"work"},"text",["","","Viamonte 1133 (P 9)","Capital","","C1053ABW","AR"]],["email",{"type":"work"},"text","niellar@TPP.COM.AR"],["tel",{"type":"work"},"text","54 11 43723310 (145)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20061205",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100819",
+      "eventActor" : "FEM11"
+    } ],
+    "handle" : "FEM11"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEM11",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEM11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Reinaldo Niella"],["adr",{"label":"Viamonte 1133 (P 9)\nCapital,  C1053ABW\nAR","type":"work"},"text",["","","Viamonte 1133 (P 9)","Capital","","C1053ABW","AR"]],["email",{"type":"work"},"text","niellar@TPP.COM.AR"],["tel",{"type":"work"},"text","54 11 43723310 (145)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20061205",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100819",
+      "eventActor" : "FEM11"
+    } ],
+    "handle" : "FEM11"
+  } ],
+  "startAutnum" : 52232,
+  "endAutnum" : 52232,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100406",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100406",
+    "eventActor" : "FEM11"
+  } ],
+  "type" : null,
+  "handle" : "52232-LACNIC",
+  "country" : "AR"
+}

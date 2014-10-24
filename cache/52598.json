@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52598,
+  "endAutnum" : 52598,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52598",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52598"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130319",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130319",
+    "eventActor" : "MIL13"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MILT106-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MILT106-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Maxxtec Inform?tica Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLajeado, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lajeado","RS","04578-000","BR"]],["email",{"type":"work"},"text","MIL13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["Maxxtec Informatica LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130319",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140102",
+      "eventActor" : "MIL13"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MIL13",
+        "value" : "http://rdap.labs.lacnic.net/entity/MIL13"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Maxxtec Inform?tica Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLajeado, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lajeado","RS","04578-000","BR"]],["email",{"type":"work"},"text","MIL13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MIL13"
+      } ],
+      "entities" : [ ],
+      "handle" : "MIL13"
+    } ],
+    "handle" : "BR-MILT106-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MIL13",
+      "value" : "http://rdap.labs.lacnic.net/entity/MIL13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Maxxtec Inform?tica Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLajeado, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lajeado","RS","04578-000","BR"]],["email",{"type":"work"},"text","MIL13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MIL13"
+    } ],
+    "entities" : [ ],
+    "handle" : "MIL13"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MIL13",
+      "value" : "http://rdap.labs.lacnic.net/entity/MIL13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Maxxtec Inform?tica Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLajeado, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Lajeado","RS","04578-000","BR"]],["email",{"type":"work"},"text","MIL13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MIL13"
+    } ],
+    "entities" : [ ],
+    "handle" : "MIL13"
+  } ],
+  "type" : null,
+  "handle" : "52598-LACNIC",
+  "country" : "BR"
+}

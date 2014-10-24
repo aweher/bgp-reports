@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52722,
+  "endAutnum" : 52722,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52722",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52722"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130116",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130711",
+    "eventActor" : "AAL7"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PALT38-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PALT38-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Giovane da Silva Conterato"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nParob?, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Parob?","RS","04578-000","BR"]],["email",{"type":"work"},"text","MGC15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["Paranhananet Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "MGC15"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MGC15",
+        "value" : "http://rdap.labs.lacnic.net/entity/MGC15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Giovane da Silva Conterato"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nParob?, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Parob?","RS","04578-000","BR"]],["email",{"type":"work"},"text","MGC15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MGC15"
+      } ],
+      "entities" : [ ],
+      "handle" : "MGC15"
+    } ],
+    "handle" : "BR-PALT38-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AAL7",
+      "value" : "http://rdap.labs.lacnic.net/entity/AAL7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Anderson Albarnaz Cardoso & Cia. Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCa?apava do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ca?apava do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","AAL7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AAL7"
+    } ],
+    "entities" : [ ],
+    "handle" : "AAL7"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AAL7",
+      "value" : "http://rdap.labs.lacnic.net/entity/AAL7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Anderson Albarnaz Cardoso & Cia. Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCa?apava do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ca?apava do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","AAL7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AAL7"
+    } ],
+    "entities" : [ ],
+    "handle" : "AAL7"
+  } ],
+  "type" : null,
+  "handle" : "52722-LACNIC",
+  "country" : "BR"
+}

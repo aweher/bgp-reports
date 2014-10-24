@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61914,
+  "endAutnum" : 61914,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61914",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61914"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140429",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140429",
+    "eventActor" : "RKM2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-RKME-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-RKME-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Roberto Keller - ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta Cruz do Sul, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa Cruz do Sul","","04578-000","BR"]],["email",{"type":"work"},"text","RKM2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["org",{},"text",["Roberto Keller - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "RKM2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RKM2",
+        "value" : "http://rdap.labs.lacnic.net/entity/RKM2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Roberto Keller - ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta Cruz do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa Cruz do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","RKM2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "RKM2"
+      } ],
+      "entities" : [ ],
+      "handle" : "RKM2"
+    } ],
+    "handle" : "BR-RKME-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RKM2",
+      "value" : "http://rdap.labs.lacnic.net/entity/RKM2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Roberto Keller - ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta Cruz do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa Cruz do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","RKM2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RKM2"
+    } ],
+    "entities" : [ ],
+    "handle" : "RKM2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RKM2",
+      "value" : "http://rdap.labs.lacnic.net/entity/RKM2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Roberto Keller - ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta Cruz do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa Cruz do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","RKM2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RKM2"
+    } ],
+    "entities" : [ ],
+    "handle" : "RKM2"
+  } ],
+  "type" : null,
+  "handle" : "61914-LACNIC",
+  "country" : "BR"
+}

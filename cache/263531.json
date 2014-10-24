@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263531,
+  "endAutnum" : 263531,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263531",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263531"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140117",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140122",
+    "eventActor" : "SEL43"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SEIL4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SEIL4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Systems Fox Presta??o de Servi?os Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIgarap?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Igarap?","","04578-000","BR"]],["email",{"type":"work"},"text","SFL8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["org",{},"text",["Sfox empreendimentos de informatica Ltda - me"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "SFL8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SFL8",
+        "value" : "http://rdap.labs.lacnic.net/entity/SFL8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Systems Fox Presta??o de Servi?os Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIgarap?, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Igarap?","MG","04578-000","BR"]],["email",{"type":"work"},"text","SFL8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SFL8"
+      } ],
+      "entities" : [ ],
+      "handle" : "SFL8"
+    } ],
+    "handle" : "BR-SEIL4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SEL43",
+      "value" : "http://rdap.labs.lacnic.net/entity/SEL43"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SFOX EMPREENDIMENTOS DE INFORMATICA LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIgarap?, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Igarap?","MG","04578-000","BR"]],["email",{"type":"work"},"text","SEL43@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140122",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140122",
+      "eventActor" : "SEL43"
+    } ],
+    "entities" : [ ],
+    "handle" : "SEL43"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SEL43",
+      "value" : "http://rdap.labs.lacnic.net/entity/SEL43"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","SFOX EMPREENDIMENTOS DE INFORMATICA LTDA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIgarap?, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Igarap?","MG","04578-000","BR"]],["email",{"type":"work"},"text","SEL43@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140122",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140122",
+      "eventActor" : "SEL43"
+    } ],
+    "entities" : [ ],
+    "handle" : "SEL43"
+  } ],
+  "type" : null,
+  "handle" : "263531-LACNIC",
+  "country" : "BR"
+}

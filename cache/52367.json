@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52367",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52367"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CLCE1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CLCE1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Federico Ventura"],["adr",{"label":"AV. DARDO LAFALCE 296 ()\nSALTO, BA 2741\nAR","type":"work"},"text",["","","AV. DARDO LAFALCE 296 ()","SALTO","BA","2741","AR"]],["email",{"type":"work"},"text","subgertecnica@COOPELSALTO.COM.AR"],["tel",{"type":"work"},"text","54 2474 422828 ()"],["org",{},"text",["COOP. LIMITADA DE CONSUMO DE ELECTRICIDAD DE SALTO"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FEV10",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FEV10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Federico Ventura"],["adr",{"label":"Av. Dardo Lafalce 296 ()\nSalto, null 2741\nAR","type":"work"},"text",["","","Av. Dardo Lafalce 296 ()","Salto","","2741","AR"]],["email",{"type":"work"},"text","subgertecnica@COOPELSALTO.COM.AR"],["tel",{"type":"work"},"text","054 2474 422828 (104)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110803",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110803",
+        "eventActor" : "FEV10"
+      } ],
+      "handle" : "FEV10"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070531",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131113",
+      "eventActor" : "FEV10"
+    } ],
+    "handle" : "AR-CLCE1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEV10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEV10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Federico Ventura"],["adr",{"label":"Av. Dardo Lafalce 296 ()\nSalto, null 2741\nAR","type":"work"},"text",["","","Av. Dardo Lafalce 296 ()","Salto","","2741","AR"]],["email",{"type":"work"},"text","subgertecnica@COOPELSALTO.COM.AR"],["tel",{"type":"work"},"text","054 2474 422828 (104)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110803",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110803",
+      "eventActor" : "FEV10"
+    } ],
+    "handle" : "FEV10"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEV10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEV10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Federico Ventura"],["adr",{"label":"Av. Dardo Lafalce 296 ()\nSalto, null 2741\nAR","type":"work"},"text",["","","Av. Dardo Lafalce 296 ()","Salto","","2741","AR"]],["email",{"type":"work"},"text","subgertecnica@COOPELSALTO.COM.AR"],["tel",{"type":"work"},"text","054 2474 422828 (104)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110803",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110803",
+      "eventActor" : "FEV10"
+    } ],
+    "handle" : "FEV10"
+  } ],
+  "startAutnum" : 52367,
+  "endAutnum" : 52367,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120320",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120320",
+    "eventActor" : "FEV10"
+  } ],
+  "type" : null,
+  "handle" : "52367-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52903,
+  "endAutnum" : 52903,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52903",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52903"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120725",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "CLB45"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-STLT38-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-STLT38-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sara Isabel de Abreu Brito"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Gon?alo, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Gon?alo","RJ","04578-000","BR"]],["email",{"type":"work"},"text","SIB12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["org",{},"text",["sglinknet telecomuni??o ltdame"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "SIB12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SIB12",
+        "value" : "http://rdap.labs.lacnic.net/entity/SIB12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sara Isabel de Abreu Brito"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Gon?alo, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Gon?alo","RJ","04578-000","BR"]],["email",{"type":"work"},"text","SIB12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SIB12"
+      } ],
+      "entities" : [ ],
+      "handle" : "SIB12"
+    } ],
+    "handle" : "BR-STLT38-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CLB45",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLB45"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","cassi luiz guedes brito"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Gon?alo, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Gon?alo","RJ","04578-000","BR"]],["email",{"type":"work"},"text","CLB45@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CLB45"
+    } ],
+    "entities" : [ ],
+    "handle" : "CLB45"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CLB45",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLB45"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","cassi luiz guedes brito"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Gon?alo, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Gon?alo","RJ","04578-000","BR"]],["email",{"type":"work"},"text","CLB45@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CLB45"
+    } ],
+    "entities" : [ ],
+    "handle" : "CLB45"
+  } ],
+  "type" : null,
+  "handle" : "52903-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263667,
+  "endAutnum" : 263667,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263667",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263667"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131119",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131119",
+    "eventActor" : "RGD3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-RGSI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-RGSI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edvaldo Souza Pereira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nV?rzea Nova, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","V?rzea Nova","BA","04578-000","BR"]],["email",{"type":"work"},"text","ESP17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 74 55093511 ()"],["org",{},"text",["Rosane Goncalves da Silva"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130904",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130904",
+      "eventActor" : "ESP17"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ESP17",
+        "value" : "http://rdap.labs.lacnic.net/entity/ESP17"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edvaldo Souza Pereira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJacobina, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jacobina","BA","04578-000","BR"]],["email",{"type":"work"},"text","ESP17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 74 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130904",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130904",
+        "eventActor" : "ESP17"
+      } ],
+      "entities" : [ ],
+      "handle" : "ESP17"
+    } ],
+    "handle" : "BR-RGSI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RGD3",
+      "value" : "http://rdap.labs.lacnic.net/entity/RGD3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ROSANE GONCALVES DA SILVA DEUS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nV?rzea Nova, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","V?rzea Nova","BA","04578-000","BR"]],["email",{"type":"work"},"text","RGD3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 74 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130911",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130911",
+      "eventActor" : "RGD3"
+    } ],
+    "entities" : [ ],
+    "handle" : "RGD3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RGD3",
+      "value" : "http://rdap.labs.lacnic.net/entity/RGD3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ROSANE GONCALVES DA SILVA DEUS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nV?rzea Nova, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","V?rzea Nova","BA","04578-000","BR"]],["email",{"type":"work"},"text","RGD3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 74 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130911",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130911",
+      "eventActor" : "RGD3"
+    } ],
+    "entities" : [ ],
+    "handle" : "RGD3"
+  } ],
+  "type" : null,
+  "handle" : "263667-LACNIC",
+  "country" : "BR"
+}

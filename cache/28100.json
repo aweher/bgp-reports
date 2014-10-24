@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28100",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28100"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CVRC-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CVRC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cooperativa Villa del Rosario Coovilros"],["adr",{"label":"Jose Mateo Luque 1006 ()\nVilla del Rosario, CB X5963DMV\nAR","type":"work"},"text",["","","Jose Mateo Luque 1006 ()","Villa del Rosario","CB","X5963DMV","AR"]],["email",{"type":"work"},"text","covinter@COVINTER.COM.AR"],["tel",{"type":"work"},"text","54 3573 422121 ()"],["org",{},"text",["Cooperativa Villa del Rosario (Coovilros)"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CVC",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CVC"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cooperativa Villa del Rosario Coovilros"],["adr",{"label":"Jose Mateo Luque 1006 ()\nVilla del Rosario, CB X5963DMV\nAR","type":"work"},"text",["","","Jose Mateo Luque 1006 ()","Villa del Rosario","CB","X5963DMV","AR"]],["email",{"type":"work"},"text","covinter@COVINTER.COM.AR"],["tel",{"type":"work"},"text","54 3573 453000 (111)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080915",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20111216",
+        "eventActor" : "CVC"
+      } ],
+      "handle" : "CVC"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20051212",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "CVC"
+    } ],
+    "handle" : "AR-CVRC-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CVC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CVC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cooperativa Villa del Rosario Coovilros"],["adr",{"label":"Jose Mateo Luque 1006 ()\nVilla del Rosario, CB X5963DMV\nAR","type":"work"},"text",["","","Jose Mateo Luque 1006 ()","Villa del Rosario","CB","X5963DMV","AR"]],["email",{"type":"work"},"text","covinter@COVINTER.COM.AR"],["tel",{"type":"work"},"text","54 3573 453000 (111)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080915",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111216",
+      "eventActor" : "CVC"
+    } ],
+    "handle" : "CVC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CVC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CVC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cooperativa Villa del Rosario Coovilros"],["adr",{"label":"Jose Mateo Luque 1006 ()\nVilla del Rosario, CB X5963DMV\nAR","type":"work"},"text",["","","Jose Mateo Luque 1006 ()","Villa del Rosario","CB","X5963DMV","AR"]],["email",{"type":"work"},"text","covinter@COVINTER.COM.AR"],["tel",{"type":"work"},"text","54 3573 453000 (111)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080915",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111216",
+      "eventActor" : "CVC"
+    } ],
+    "handle" : "CVC"
+  } ],
+  "startAutnum" : 28100,
+  "endAutnum" : 28100,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091130",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20091130",
+    "eventActor" : "CVC"
+  } ],
+  "type" : null,
+  "handle" : "28100-LACNIC",
+  "country" : "AR"
+}

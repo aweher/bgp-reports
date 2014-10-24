@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52351",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52351"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-ININ2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-ININ2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Toselli"],["adr",{"label":"Richieri 68 ()\nSunchales, SF 2322\nAR","type":"work"},"text",["","","Richieri 68 ()","Sunchales","SF","2322","AR"]],["email",{"type":"work"},"text","diego.toselli@INTEGRALINSUMOS.COM.AR"],["tel",{"type":"work"},"text","54 3493 428106 ()"],["org",{},"text",["Integral Insumos"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/DIT3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/DIT3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Toselli"],["adr",{"label":"Richieri 68 ()\nSunchales, SF 2322\nAR","type":"work"},"text",["","","Richieri 68 ()","Sunchales","SF","2322","AR"]],["email",{"type":"work"},"text","diego.toselli@INTEGRALINSUMOS.COM.AR"],["tel",{"type":"work"},"text","54 3493 420000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080131",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20101006",
+        "eventActor" : "DIT3"
+      } ],
+      "handle" : "DIT3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030220",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "DIT3"
+    } ],
+    "handle" : "AR-ININ2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DIT3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DIT3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Toselli"],["adr",{"label":"Richieri 68 ()\nSunchales, SF 2322\nAR","type":"work"},"text",["","","Richieri 68 ()","Sunchales","SF","2322","AR"]],["email",{"type":"work"},"text","diego.toselli@INTEGRALINSUMOS.COM.AR"],["tel",{"type":"work"},"text","54 3493 420000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080131",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101006",
+      "eventActor" : "DIT3"
+    } ],
+    "handle" : "DIT3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DIT3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DIT3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Toselli"],["adr",{"label":"Richieri 68 ()\nSunchales, SF 2322\nAR","type":"work"},"text",["","","Richieri 68 ()","Sunchales","SF","2322","AR"]],["email",{"type":"work"},"text","diego.toselli@INTEGRALINSUMOS.COM.AR"],["tel",{"type":"work"},"text","54 3493 420000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080131",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101006",
+      "eventActor" : "DIT3"
+    } ],
+    "handle" : "DIT3"
+  } ],
+  "startAutnum" : 52351,
+  "endAutnum" : 52351,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111031",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20111031",
+    "eventActor" : "DIT3"
+  } ],
+  "type" : null,
+  "handle" : "52351-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61898,
+  "endAutnum" : 61898,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61898",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61898"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131127",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140109",
+    "eventActor" : "KMP2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-FSTL3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-FSTL3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador Tecnico de Dominios ImpSat"],["adr",{"label":"Av. das Nações Unidas 11541 (7º andar)\nSão Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Nações Unidas 11541 (7º andar)","São Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","ATI3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["Foco Serviçoes de Telecomunicações Ltda Me"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130712",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "ATI3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ATI3",
+        "value" : "http://rdap.labs.lacnic.net/entity/ATI3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador Tecnico de Dominios ImpSat"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCotia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cotia","SP","04578-000","BR"]],["email",{"type":"work"},"text","ATI3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ATI3"
+      } ],
+      "entities" : [ ],
+      "handle" : "ATI3"
+    } ],
+    "handle" : "BR-FSTL3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/KMP2",
+      "value" : "http://rdap.labs.lacnic.net/entity/KMP2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Klaber Malara de Paula"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOsasco, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Osasco","SP","04578-000","BR"]],["email",{"type":"work"},"text","KMP2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "KMP2"
+    } ],
+    "entities" : [ ],
+    "handle" : "KMP2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/KMP2",
+      "value" : "http://rdap.labs.lacnic.net/entity/KMP2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Klaber Malara de Paula"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOsasco, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Osasco","SP","04578-000","BR"]],["email",{"type":"work"},"text","KMP2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "KMP2"
+    } ],
+    "entities" : [ ],
+    "handle" : "KMP2"
+  } ],
+  "type" : null,
+  "handle" : "61898-LACNIC",
+  "country" : "BR"
+}

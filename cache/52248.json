@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52248",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52248"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-FSFS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-FSFS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Luis Zamanillo Moreira"],["adr",{"label":"Isidora Goyenechea 3365 (Piso 4, Las Condes)\nSantiago, RM 7550120\nCL","type":"work"},"text",["","","Isidora Goyenechea 3365 (Piso 4, Las Condes)","Santiago","RM","7550120","CL"]],["email",{"type":"work"},"text","ingenieria@FORUM.CL"],["tel",{"type":"work"},"text","56 2 3693154 ()"],["org",{},"text",["Forum Servicios Financieros S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/INF",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/INF"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Luis Zamanillo Moreira"],["adr",{"label":"Isidora Goyenechea 3365 (piso 4 Las Condes)\nSantiago, RM 7550120\nCL","type":"work"},"text",["","","Isidora Goyenechea 3365 (piso 4 Las Condes)","Santiago","RM","7550120","CL"]],["email",{"type":"work"},"text","ingenieria@FORUM.CL"],["tel",{"type":"work"},"text","56 2 3693154 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100421",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130605",
+        "eventActor" : "INF"
+      } ],
+      "handle" : "INF"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031120",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "INF"
+    } ],
+    "handle" : "CL-FSFS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/INF",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/INF"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Luis Zamanillo Moreira"],["adr",{"label":"Isidora Goyenechea 3365 (piso 4 Las Condes)\nSantiago, RM 7550120\nCL","type":"work"},"text",["","","Isidora Goyenechea 3365 (piso 4 Las Condes)","Santiago","RM","7550120","CL"]],["email",{"type":"work"},"text","ingenieria@FORUM.CL"],["tel",{"type":"work"},"text","56 2 3693154 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100421",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130605",
+      "eventActor" : "INF"
+    } ],
+    "handle" : "INF"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/INF",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/INF"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Luis Zamanillo Moreira"],["adr",{"label":"Isidora Goyenechea 3365 (piso 4 Las Condes)\nSantiago, RM 7550120\nCL","type":"work"},"text",["","","Isidora Goyenechea 3365 (piso 4 Las Condes)","Santiago","RM","7550120","CL"]],["email",{"type":"work"},"text","ingenieria@FORUM.CL"],["tel",{"type":"work"},"text","56 2 3693154 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100421",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130605",
+      "eventActor" : "INF"
+    } ],
+    "handle" : "INF"
+  } ],
+  "startAutnum" : 52248,
+  "endAutnum" : 52248,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100518",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100518",
+    "eventActor" : "INF"
+  } ],
+  "type" : null,
+  "handle" : "52248-LACNIC",
+  "country" : "CL"
+}

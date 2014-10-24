@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262635,
+  "endAutnum" : 262635,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262635",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262635"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111104",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MOS7"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MOSI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MOSI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MARKSON OLIVEIRA DA SILVA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nParelhas, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Parelhas","RN","04578-000","BR"]],["email",{"type":"work"},"text","MOS7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["org",{},"text",["MARKSON OLIVEIRA DA SILVA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "MOS7"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MOS7",
+        "value" : "http://rdap.labs.lacnic.net/entity/MOS7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MARKSON OLIVEIRA DA SILVA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nParelhas, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Parelhas","RN","04578-000","BR"]],["email",{"type":"work"},"text","MOS7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MOS7"
+      } ],
+      "entities" : [ ],
+      "handle" : "MOS7"
+    } ],
+    "handle" : "BR-MOSI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MOS7",
+      "value" : "http://rdap.labs.lacnic.net/entity/MOS7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MARKSON OLIVEIRA DA SILVA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nParelhas, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Parelhas","RN","04578-000","BR"]],["email",{"type":"work"},"text","MOS7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MOS7"
+    } ],
+    "entities" : [ ],
+    "handle" : "MOS7"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MOS7",
+      "value" : "http://rdap.labs.lacnic.net/entity/MOS7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MARKSON OLIVEIRA DA SILVA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nParelhas, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Parelhas","RN","04578-000","BR"]],["email",{"type":"work"},"text","MOS7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MOS7"
+    } ],
+    "entities" : [ ],
+    "handle" : "MOS7"
+  } ],
+  "type" : null,
+  "handle" : "262635-LACNIC",
+  "country" : "BR"
+}

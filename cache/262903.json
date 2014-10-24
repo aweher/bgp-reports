@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262903,
+  "endAutnum" : 262903,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262903",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262903"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110203",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "AAL7"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-KATE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-KATE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Felipe Gorniski"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPantano Grande, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pantano Grande","RS","04578-000","BR"]],["email",{"type":"work"},"text","JFG7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["Tubaron Telecom"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130315",
+      "eventActor" : "JFG7"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JFG7",
+        "value" : "http://rdap.labs.lacnic.net/entity/JFG7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Felipe Gorniski"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPantano Grande, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pantano Grande","RS","04578-000","BR"]],["email",{"type":"work"},"text","JFG7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130322",
+        "eventActor" : "JFG7"
+      } ],
+      "entities" : [ ],
+      "handle" : "JFG7"
+    } ],
+    "handle" : "BR-KATE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AAL7",
+      "value" : "http://rdap.labs.lacnic.net/entity/AAL7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Anderson Albarnaz Cardoso & Cia. Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCa?apava do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ca?apava do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","AAL7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AAL7"
+    } ],
+    "entities" : [ ],
+    "handle" : "AAL7"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AAL7",
+      "value" : "http://rdap.labs.lacnic.net/entity/AAL7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Anderson Albarnaz Cardoso & Cia. Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCa?apava do Sul, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ca?apava do Sul","RS","04578-000","BR"]],["email",{"type":"work"},"text","AAL7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AAL7"
+    } ],
+    "entities" : [ ],
+    "handle" : "AAL7"
+  } ],
+  "type" : null,
+  "handle" : "262903-LACNIC",
+  "country" : "BR"
+}

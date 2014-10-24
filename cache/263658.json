@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263658,
+  "endAutnum" : 263658,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263658",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263658"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131106",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131106",
+    "eventActor" : "RIP15"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-RNST-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-RNST-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Pinto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio de Janeiro, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio de Janeiro","","04578-000","BR"]],["email",{"type":"work"},"text","RIP15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["org",{},"text",["RP NET SERVICOS DE TELECOMUNICA??ES LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "RIP15"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RIP15",
+        "value" : "http://rdap.labs.lacnic.net/entity/RIP15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Pinto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRIO DE JANEIRO, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","RIO DE JANEIRO","RJ","04578-000","BR"]],["email",{"type":"work"},"text","RIP15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "RIP15"
+      } ],
+      "entities" : [ ],
+      "handle" : "RIP15"
+    } ],
+    "handle" : "BR-RNST-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RIP15",
+      "value" : "http://rdap.labs.lacnic.net/entity/RIP15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Pinto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRIO DE JANEIRO, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","RIO DE JANEIRO","RJ","04578-000","BR"]],["email",{"type":"work"},"text","RIP15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RIP15"
+    } ],
+    "entities" : [ ],
+    "handle" : "RIP15"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RIP15",
+      "value" : "http://rdap.labs.lacnic.net/entity/RIP15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Pinto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRIO DE JANEIRO, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","RIO DE JANEIRO","RJ","04578-000","BR"]],["email",{"type":"work"},"text","RIP15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RIP15"
+    } ],
+    "entities" : [ ],
+    "handle" : "RIP15"
+  } ],
+  "type" : null,
+  "handle" : "263658-LACNIC",
+  "country" : "BR"
+}

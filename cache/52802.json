@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52802,
+  "endAutnum" : 52802,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52802",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52802"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121003",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "SRR4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-LSAA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-LSAA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sidvan Recco Rosso"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCrici?ma, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Crici?ma","SC","04578-000","BR"]],["email",{"type":"work"},"text","SRR4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["org",{},"text",["Linkmax Solu??es de Acesso a Internet Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "SRR4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SRR4",
+        "value" : "http://rdap.labs.lacnic.net/entity/SRR4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sidvan Recco Rosso"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCrici?ma, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Crici?ma","SC","04578-000","BR"]],["email",{"type":"work"},"text","SRR4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SRR4"
+      } ],
+      "entities" : [ ],
+      "handle" : "SRR4"
+    } ],
+    "handle" : "BR-LSAA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SRR4",
+      "value" : "http://rdap.labs.lacnic.net/entity/SRR4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sidvan Recco Rosso"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCrici?ma, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Crici?ma","SC","04578-000","BR"]],["email",{"type":"work"},"text","SRR4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SRR4"
+    } ],
+    "entities" : [ ],
+    "handle" : "SRR4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SRR4",
+      "value" : "http://rdap.labs.lacnic.net/entity/SRR4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sidvan Recco Rosso"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCrici?ma, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Crici?ma","SC","04578-000","BR"]],["email",{"type":"work"},"text","SRR4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SRR4"
+    } ],
+    "entities" : [ ],
+    "handle" : "SRR4"
+  } ],
+  "type" : null,
+  "handle" : "52802-LACNIC",
+  "country" : "BR"
+}

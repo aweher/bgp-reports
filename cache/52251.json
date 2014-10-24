@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52251",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52251"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-NORT2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-NORT2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leandro Piccini"],["adr",{"label":"Av mosconi 2925 (OF 4)\nBuenos Aires, CF 1419\nAR","type":"work"},"text",["","","Av mosconi 2925 (OF 4)","Buenos Aires","CF","1419","AR"]],["email",{"type":"work"},"text","lpiccini@NORTECH.COM.AR"],["tel",{"type":"work"},"text","54 11 66329000 ()"],["org",{},"text",["NORTECH"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/LEP8",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/LEP8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leandro Piccini"],["adr",{"label":"Mosconi 2925 (3)\nBuenos Aires, BS 1419\nAR","type":"work"},"text",["","","Mosconi 2925 (3)","Buenos Aires","BS","1419","AR"]],["email",{"type":"work"},"text","lpiccini@NORTECH.COM.AR"],["tel",{"type":"work"},"text","54 11 4574 (1942)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100610",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110928",
+        "eventActor" : "LEP8"
+      } ],
+      "handle" : "LEP8"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100318",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "LEP8"
+    } ],
+    "handle" : "AR-NORT2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/LEP8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/LEP8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leandro Piccini"],["adr",{"label":"Mosconi 2925 (3)\nBuenos Aires, BS 1419\nAR","type":"work"},"text",["","","Mosconi 2925 (3)","Buenos Aires","BS","1419","AR"]],["email",{"type":"work"},"text","lpiccini@NORTECH.COM.AR"],["tel",{"type":"work"},"text","54 11 4574 (1942)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100610",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110928",
+      "eventActor" : "LEP8"
+    } ],
+    "handle" : "LEP8"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/LEP8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/LEP8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leandro Piccini"],["adr",{"label":"Mosconi 2925 (3)\nBuenos Aires, BS 1419\nAR","type":"work"},"text",["","","Mosconi 2925 (3)","Buenos Aires","BS","1419","AR"]],["email",{"type":"work"},"text","lpiccini@NORTECH.COM.AR"],["tel",{"type":"work"},"text","54 11 4574 (1942)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100610",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110928",
+      "eventActor" : "LEP8"
+    } ],
+    "handle" : "LEP8"
+  } ],
+  "startAutnum" : 52251,
+  "endAutnum" : 52251,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100528",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100610",
+    "eventActor" : "LEP8"
+  } ],
+  "type" : null,
+  "handle" : "52251-LACNIC",
+  "country" : "AR"
+}

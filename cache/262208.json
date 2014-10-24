@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262208",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262208"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-VGSH-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-VGSH-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Eduardo Molina"],["adr",{"label":"SALTA 757 (-)\nROLDAN, SF -\nAR","type":"work"},"text",["","","SALTA 757 (-)","ROLDAN","SF","-","AR"]],["email",{"type":"work"},"text","javier_molina@FIBRANET.COM.AR"],["tel",{"type":"work"},"text","54 341 153566499 ()"],["org",{},"text",["VILLENEUVE GROUP SA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JEM6",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JEM6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Eduardo Molina"],["adr",{"label":"Salta 757 ()\nRoldan, null S2134\nAR","type":"work"},"text",["","","Salta 757 ()","Roldan","","S2134","AR"]],["email",{"type":"work"},"text","javier_molina@FIBRANET.COM.AR"],["tel",{"type":"work"},"text","54 341 153566499 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110330",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110330",
+        "eventActor" : "JEM6"
+      } ],
+      "handle" : "JEM6"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070308",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "JEM6"
+    } ],
+    "handle" : "AR-VGSH-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JEM6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JEM6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Eduardo Molina"],["adr",{"label":"Salta 757 ()\nRoldan, null S2134\nAR","type":"work"},"text",["","","Salta 757 ()","Roldan","","S2134","AR"]],["email",{"type":"work"},"text","javier_molina@FIBRANET.COM.AR"],["tel",{"type":"work"},"text","54 341 153566499 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110330",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110330",
+      "eventActor" : "JEM6"
+    } ],
+    "handle" : "JEM6"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JEM6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JEM6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Eduardo Molina"],["adr",{"label":"Salta 757 ()\nRoldan, null S2134\nAR","type":"work"},"text",["","","Salta 757 ()","Roldan","","S2134","AR"]],["email",{"type":"work"},"text","javier_molina@FIBRANET.COM.AR"],["tel",{"type":"work"},"text","54 341 153566499 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110330",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110330",
+      "eventActor" : "JEM6"
+    } ],
+    "handle" : "JEM6"
+  } ],
+  "startAutnum" : 262208,
+  "endAutnum" : 262208,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120104",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120104",
+    "eventActor" : "JEM6"
+  } ],
+  "type" : null,
+  "handle" : "262208-LACNIC",
+  "country" : "AR"
+}

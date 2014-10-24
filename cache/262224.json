@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262224",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262224"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-CRAL1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-CRAL1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Freddie Silva González"],["adr",{"label":"Avenida del C?ndor 760 (Huechuraba)\nSantiago, RM 8340526\nCL","type":"work"},"text",["","","Avenida del C?ndor 760 (Huechuraba)","Santiago","RM","8340526","CL"]],["email",{"type":"work"},"text","silva-freddie@ARAMARK.CL"],["tel",{"type":"work"},"text","56 2 3851000 (1365)"],["org",{},"text",["Central de Restaurantes Aramark Ltda."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FSG",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FSG"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Freddie Silva González"],["adr",{"label":"Avenida del Condor 760 (Huechuraba)\nSantiago, null 8580704\nCL","type":"work"},"text",["","","Avenida del Condor 760 (Huechuraba)","Santiago","","8580704","CL"]],["email",{"type":"work"},"text","silva-freddie@ARAMARK.CL"],["tel",{"type":"work"},"text","56 2 3851000 (1365)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120117",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120117",
+        "eventActor" : "FSG"
+      } ],
+      "handle" : "FSG"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100121",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120322",
+      "eventActor" : "FSG"
+    } ],
+    "handle" : "CL-CRAL1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FSG",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FSG"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Freddie Silva González"],["adr",{"label":"Avenida del Condor 760 (Huechuraba)\nSantiago, null 8580704\nCL","type":"work"},"text",["","","Avenida del Condor 760 (Huechuraba)","Santiago","","8580704","CL"]],["email",{"type":"work"},"text","silva-freddie@ARAMARK.CL"],["tel",{"type":"work"},"text","56 2 3851000 (1365)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120117",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120117",
+      "eventActor" : "FSG"
+    } ],
+    "handle" : "FSG"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FSG",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FSG"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Freddie Silva González"],["adr",{"label":"Avenida del Condor 760 (Huechuraba)\nSantiago, null 8580704\nCL","type":"work"},"text",["","","Avenida del Condor 760 (Huechuraba)","Santiago","","8580704","CL"]],["email",{"type":"work"},"text","silva-freddie@ARAMARK.CL"],["tel",{"type":"work"},"text","56 2 3851000 (1365)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120117",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120117",
+      "eventActor" : "FSG"
+    } ],
+    "handle" : "FSG"
+  } ],
+  "startAutnum" : 262224,
+  "endAutnum" : 262224,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120321",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120321",
+    "eventActor" : "FSG"
+  } ],
+  "type" : null,
+  "handle" : "262224-LACNIC",
+  "country" : "CL"
+}

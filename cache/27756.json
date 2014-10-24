@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27756",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27756"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-SSSA2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-SSSA2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CRIVICICH ANTONIO"],["adr",{"label":"Suipacha 1067 (4to piso B)\nBuenos Aires, CF C1008AAU\nAR","type":"work"},"text",["","","Suipacha 1067 (4to piso B)","Buenos Aires","CF","C1008AAU","AR"]],["email",{"type":"work"},"text","acrivicich@SATELITAL.COM.AR"],["tel",{"type":"work"},"text","54 11 43171800 ()"],["org",{},"text",["Servicio Satelital S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CRA4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CRA4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CRIVICICH ANTONIO"],["adr",{"label":"SUIPACHA 1067 (4 B)\nCAPITAL FEDERAL, null 1008\nAR","type":"work"},"text",["","","SUIPACHA 1067 (4 B)","CAPITAL FEDERAL","","1008","AR"]],["email",{"type":"work"},"text","acrivicich@SATELITAL.COM.AR"],["tel",{"type":"work"},"text","54 11 41525100 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20121219",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121219",
+        "eventActor" : "CRA4"
+      } ],
+      "handle" : "CRA4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041109",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130813",
+      "eventActor" : "CRA4"
+    } ],
+    "handle" : "AR-SSSA2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ADI4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ADI4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administracion IP"],["adr",{"label":"Peron 949 (5to piso)\nBuenos Aires, null 1038\nAR","type":"work"},"text",["","","Peron 949 (5to piso)","Buenos Aires","","1038","AR"]],["email",{"type":"work"},"text","ipadmin@SSATELITAL.COM.AR"],["tel",{"type":"work"},"text","54 11 6334 (1000)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041103",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20041103",
+      "eventActor" : "ADI4"
+    } ],
+    "handle" : "ADI4"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ADI4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ADI4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administracion IP"],["adr",{"label":"Peron 949 (5to piso)\nBuenos Aires, null 1038\nAR","type":"work"},"text",["","","Peron 949 (5to piso)","Buenos Aires","","1038","AR"]],["email",{"type":"work"},"text","ipadmin@SSATELITAL.COM.AR"],["tel",{"type":"work"},"text","54 11 6334 (1000)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041103",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20041103",
+      "eventActor" : "ADI4"
+    } ],
+    "handle" : "ADI4"
+  } ],
+  "startAutnum" : 27756,
+  "endAutnum" : 27756,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20050210",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20050210",
+    "eventActor" : "ADI4"
+  } ],
+  "type" : null,
+  "handle" : "27756-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262905,
+  "endAutnum" : 262905,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262905",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262905"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110209",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "FCS5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CTCF-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CTCF-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Camillo da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDouradina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Douradina","PR","04578-000","BR"]],["email",{"type":"work"},"text","FCS5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["org",{},"text",["Skaynet telecom"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131017",
+      "eventActor" : "FCS5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FCS5",
+        "value" : "http://rdap.labs.lacnic.net/entity/FCS5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Camillo da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDouradina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Douradina","PR","04578-000","BR"]],["email",{"type":"work"},"text","FCS5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FCS5"
+      } ],
+      "entities" : [ ],
+      "handle" : "FCS5"
+    } ],
+    "handle" : "BR-CTCF-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FCS5",
+      "value" : "http://rdap.labs.lacnic.net/entity/FCS5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Camillo da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDouradina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Douradina","PR","04578-000","BR"]],["email",{"type":"work"},"text","FCS5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FCS5"
+    } ],
+    "entities" : [ ],
+    "handle" : "FCS5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FCS5",
+      "value" : "http://rdap.labs.lacnic.net/entity/FCS5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Camillo da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDouradina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Douradina","PR","04578-000","BR"]],["email",{"type":"work"},"text","FCS5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FCS5"
+    } ],
+    "entities" : [ ],
+    "handle" : "FCS5"
+  } ],
+  "type" : null,
+  "handle" : "262905-LACNIC",
+  "country" : "BR"
+}

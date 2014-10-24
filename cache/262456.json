@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262456,
+  "endAutnum" : 262456,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262456",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262456"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110505",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "LUL8"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-IEEI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-IEEI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano Lima"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSAO LUIS, MA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","SAO LUIS","MA","04578-000","BR"]],["email",{"type":"work"},"text","LUL8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 09 855093511 ()"],["org",{},"text",["IMAGEM EDITORACAO ELETRONICA E INFORMATICA LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "LUL8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LUL8",
+        "value" : "http://rdap.labs.lacnic.net/entity/LUL8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano Lima"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Lu?s, MA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Lu?s","MA","04578-000","BR"]],["email",{"type":"work"},"text","LUL8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 98 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LUL8"
+      } ],
+      "entities" : [ ],
+      "handle" : "LUL8"
+    } ],
+    "handle" : "BR-IEEI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LUL8",
+      "value" : "http://rdap.labs.lacnic.net/entity/LUL8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano Lima"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Lu?s, MA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Lu?s","MA","04578-000","BR"]],["email",{"type":"work"},"text","LUL8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 98 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LUL8"
+    } ],
+    "entities" : [ ],
+    "handle" : "LUL8"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LUL8",
+      "value" : "http://rdap.labs.lacnic.net/entity/LUL8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano Lima"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Lu?s, MA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Lu?s","MA","04578-000","BR"]],["email",{"type":"work"},"text","LUL8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 98 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LUL8"
+    } ],
+    "entities" : [ ],
+    "handle" : "LUL8"
+  } ],
+  "type" : null,
+  "handle" : "262456-LACNIC",
+  "country" : "BR"
+}

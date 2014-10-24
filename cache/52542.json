@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52542,
+  "endAutnum" : 52542,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52542",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52542"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130611",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130611",
+    "eventActor" : "NEP5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NTLT21-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NTLT21-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","3NET PROVEDOR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBirig?i, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Birig?i","SP","04578-000","BR"]],["email",{"type":"work"},"text","NEP5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["org",{},"text",["3Net Telecomunica??es Ltda-ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130612",
+      "eventActor" : "NEP5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/NEP5",
+        "value" : "http://rdap.labs.lacnic.net/entity/NEP5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","3NET PROVEDOR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBirig?i, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Birig?i","SP","04578-000","BR"]],["email",{"type":"work"},"text","NEP5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "NEP5"
+      } ],
+      "entities" : [ ],
+      "handle" : "NEP5"
+    } ],
+    "handle" : "BR-NTLT21-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NEP5",
+      "value" : "http://rdap.labs.lacnic.net/entity/NEP5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","3NET PROVEDOR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBirig?i, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Birig?i","SP","04578-000","BR"]],["email",{"type":"work"},"text","NEP5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NEP5"
+    } ],
+    "entities" : [ ],
+    "handle" : "NEP5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NEP5",
+      "value" : "http://rdap.labs.lacnic.net/entity/NEP5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","3NET PROVEDOR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBirig?i, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Birig?i","SP","04578-000","BR"]],["email",{"type":"work"},"text","NEP5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NEP5"
+    } ],
+    "entities" : [ ],
+    "handle" : "NEP5"
+  } ],
+  "type" : null,
+  "handle" : "52542-LACNIC",
+  "country" : "BR"
+}

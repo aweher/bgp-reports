@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52654,
+  "endAutnum" : 52654,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52654",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52654"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121121",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "LRD4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BITE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BITE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lincoln Ramos Duraes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuiaba, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cuiaba","MT","04578-000","BR"]],["email",{"type":"work"},"text","LRD4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 65 55093511 ()"],["org",{},"text",["Bi-Link Telecom"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "LRD4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LRD4",
+        "value" : "http://rdap.labs.lacnic.net/entity/LRD4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lincoln Ramos Duraes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPocone, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pocone","MT","04578-000","BR"]],["email",{"type":"work"},"text","LRD4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 65 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LRD4"
+      } ],
+      "entities" : [ ],
+      "handle" : "LRD4"
+    } ],
+    "handle" : "BR-BITE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LRD4",
+      "value" : "http://rdap.labs.lacnic.net/entity/LRD4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lincoln Ramos Duraes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPocone, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pocone","MT","04578-000","BR"]],["email",{"type":"work"},"text","LRD4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 65 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LRD4"
+    } ],
+    "entities" : [ ],
+    "handle" : "LRD4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LRD4",
+      "value" : "http://rdap.labs.lacnic.net/entity/LRD4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lincoln Ramos Duraes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPocone, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pocone","MT","04578-000","BR"]],["email",{"type":"work"},"text","LRD4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 65 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LRD4"
+    } ],
+    "entities" : [ ],
+    "handle" : "LRD4"
+  } ],
+  "type" : null,
+  "handle" : "52654-LACNIC",
+  "country" : "BR"
+}

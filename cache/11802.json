@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 11802,
+  "endAutnum" : 11802,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/11802",
+    "value" : "http://rdap.labs.lacnic.net/autnum/11802"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19991118",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "FLR10"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CIAE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CIAE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Reinaldo Sabatini Fernandes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFlorianopolis, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Florianopolis","SC","04578-000","BR"]],["email",{"type":"work"},"text","RSF10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["org",{},"text",["Centro de Informatica e Automacao do Estado de SC"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "RSF10"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RSF10",
+        "value" : "http://rdap.labs.lacnic.net/entity/RSF10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Reinaldo Sabatini Fernandes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nflorianopolis, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","florianopolis","SC","04578-000","BR"]],["email",{"type":"work"},"text","RSF10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "RSF10"
+      } ],
+      "entities" : [ ],
+      "handle" : "RSF10"
+    } ],
+    "handle" : "BR-CIAE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FLR10",
+      "value" : "http://rdap.labs.lacnic.net/entity/FLR10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","flavio ramos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFlorian?polis, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Florian?polis","SC","04578-000","BR"]],["email",{"type":"work"},"text","FLR10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FLR10"
+    } ],
+    "entities" : [ ],
+    "handle" : "FLR10"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FLR10",
+      "value" : "http://rdap.labs.lacnic.net/entity/FLR10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","flavio ramos"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFlorian?polis, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Florian?polis","SC","04578-000","BR"]],["email",{"type":"work"},"text","FLR10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FLR10"
+    } ],
+    "entities" : [ ],
+    "handle" : "FLR10"
+  } ],
+  "type" : null,
+  "handle" : "11802-LACNIC",
+  "country" : "BR"
+}

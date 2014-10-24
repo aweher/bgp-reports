@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27960",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27960"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-COYS9-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-COYS9-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Roberto Agustin Aliciardi"],["adr",{"label":"Dean Funes 15 (-)\nRio Tercero (Cordoba),  -\nAR","type":"work"},"text",["","","Dean Funes 15 (-)","Rio Tercero (Cordoba)","","-","AR"]],["email",{"type":"work"},"text","jjbonis@RIOTEL.COM.AR"],["tel",{"type":"work"},"text","54 3571 411111 ()"],["org",{},"text",["Coop. de Obras y Serv. Pub. Ltda. de Rio Tercero"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ROA8",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ROA8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Roberto Agustin Aliciardi"],["adr",{"label":"Dean Funes 15 ()\nRio Tercero, X 5850\nAR","type":"work"},"text",["","","Dean Funes 15 ()","Rio Tercero","X","5850","AR"]],["email",{"type":"work"},"text","jjbonis@RIOTEL.COM.AR"],["tel",{"type":"work"},"text","54 3571 411111 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050913",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110511",
+        "eventActor" : "ROA8"
+      } ],
+      "handle" : "ROA8"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050926",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "ROA8"
+    } ],
+    "handle" : "AR-COYS9-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ROA8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ROA8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Roberto Agustin Aliciardi"],["adr",{"label":"Dean Funes 15 ()\nRio Tercero, X 5850\nAR","type":"work"},"text",["","","Dean Funes 15 ()","Rio Tercero","X","5850","AR"]],["email",{"type":"work"},"text","jjbonis@RIOTEL.COM.AR"],["tel",{"type":"work"},"text","54 3571 411111 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050913",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110511",
+      "eventActor" : "ROA8"
+    } ],
+    "handle" : "ROA8"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ROA8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ROA8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Roberto Agustin Aliciardi"],["adr",{"label":"Dean Funes 15 ()\nRio Tercero, X 5850\nAR","type":"work"},"text",["","","Dean Funes 15 ()","Rio Tercero","X","5850","AR"]],["email",{"type":"work"},"text","jjbonis@RIOTEL.COM.AR"],["tel",{"type":"work"},"text","54 3571 411111 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050913",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110511",
+      "eventActor" : "ROA8"
+    } ],
+    "handle" : "ROA8"
+  } ],
+  "startAutnum" : 27960,
+  "endAutnum" : 27960,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080215",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080215",
+    "eventActor" : "ROA8"
+  } ],
+  "type" : null,
+  "handle" : "27960-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28513,
+  "endAutnum" : 28513,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28513",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28513"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20050915",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20050915",
+    "eventActor" : "DCA"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MX-USCV4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/MX-USCV4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","GESTION DE CAMBIOS"],["adr",{"label":"Insurgentes Sur 3500 (Piso 4 Pe?a Pobre)\nTlalpan, DF 14060\nMX","type":"work"},"text",["","","Insurgentes Sur 3500 (Piso 4 Pe?a Pobre)","Tlalpan","DF","14060","MX"]],["email",{"type":"work"},"text","gccips@REDUNO.COM.MX"],["tel",{"type":"work"},"text","52 55 56244400 ()"],["org",{},"text",["Uninet S.A. de C.V."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030121",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140715",
+      "eventActor" : "GEC10"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GEC10",
+        "value" : "http://rdap.labs.lacnic.net/entity/GEC10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","GESTION DE CAMBIOS"],["adr",{"label":"AV. INSURGENTES SUR 3500 (TORRE TELMEX COL. PE?A POBRE)\nTLALPAN, DF 14060\nMX","type":"work"},"text",["","","AV. INSURGENTES SUR 3500 (TORRE TELMEX COL. PE?A POBRE)","TLALPAN","DF","14060","MX"]],["email",{"type":"work"},"text","gccips@REDUNO.COM.MX"],["tel",{"type":"work"},"text","52  5556244400 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110706",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140423",
+        "eventActor" : "GEC10"
+      } ],
+      "entities" : [ ],
+      "handle" : "GEC10"
+    } ],
+    "handle" : "MX-USCV4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DCA",
+      "value" : "http://rdap.labs.lacnic.net/entity/DCA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","GESTION DE CAMBIOS"],["adr",{"label":"PERIFERICO SUR 3190 (ALVARO OBREG)\nMEXICO DF, DF 01900\nMX","type":"work"},"text",["","","PERIFERICO SUR 3190 (ALVARO OBREG)","MEXICO DF","DF","01900","MX"]],["email",{"type":"work"},"text","gccips1@REDUNO.COM.MX"],["tel",{"type":"work"},"text","52 5 556244400 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021210",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111027",
+      "eventActor" : "DCA"
+    } ],
+    "entities" : [ ],
+    "handle" : "DCA"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DCA",
+      "value" : "http://rdap.labs.lacnic.net/entity/DCA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","GESTION DE CAMBIOS"],["adr",{"label":"PERIFERICO SUR 3190 (ALVARO OBREG)\nMEXICO DF, DF 01900\nMX","type":"work"},"text",["","","PERIFERICO SUR 3190 (ALVARO OBREG)","MEXICO DF","DF","01900","MX"]],["email",{"type":"work"},"text","gccips1@REDUNO.COM.MX"],["tel",{"type":"work"},"text","52 5 556244400 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021210",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111027",
+      "eventActor" : "DCA"
+    } ],
+    "entities" : [ ],
+    "handle" : "DCA"
+  } ],
+  "type" : null,
+  "handle" : "28513-LACNIC",
+  "country" : "MX"
+}

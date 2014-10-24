@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28641,
+  "endAutnum" : 28641,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28641",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28641"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060829",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130523",
+    "eventActor" : "GIZ3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-EVIC1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-EVIC1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","gianfranco zezze"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJundiai, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jundiai","SP","04578-000","BR"]],["email",{"type":"work"},"text","GIZ3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 01 155093511 ()"],["org",{},"text",["EBF VAZ INDUSTRIA E COMERCIO LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GIZ3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GIZ3",
+        "value" : "http://rdap.labs.lacnic.net/entity/GIZ3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","gianfranco zezze"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJundia?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jundia?","SP","04578-000","BR"]],["email",{"type":"work"},"text","GIZ3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "GIZ3"
+      } ],
+      "entities" : [ ],
+      "handle" : "GIZ3"
+    } ],
+    "handle" : "BR-EVIC1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GIZ3",
+      "value" : "http://rdap.labs.lacnic.net/entity/GIZ3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","gianfranco zezze"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJundia?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jundia?","SP","04578-000","BR"]],["email",{"type":"work"},"text","GIZ3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GIZ3"
+    } ],
+    "entities" : [ ],
+    "handle" : "GIZ3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GIZ3",
+      "value" : "http://rdap.labs.lacnic.net/entity/GIZ3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","gianfranco zezze"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJundia?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jundia?","SP","04578-000","BR"]],["email",{"type":"work"},"text","GIZ3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GIZ3"
+    } ],
+    "entities" : [ ],
+    "handle" : "GIZ3"
+  } ],
+  "type" : null,
+  "handle" : "28641-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52517,
+  "endAutnum" : 52517,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52517",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52517"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130514",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130514",
+    "eventActor" : "EHT"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-EHTC-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-EHTC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Everton Haise Taques"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIpiranga, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ipiranga","PR","04578-000","BR"]],["email",{"type":"work"},"text","EHT@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["org",{},"text",["EVERTON HAISE TAQUES & CIA LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130515",
+      "eventActor" : "EHT"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EHT",
+        "value" : "http://rdap.labs.lacnic.net/entity/EHT"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Everton Haise Taques"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPonta Grossa, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ponta Grossa","PR","04578-000","BR"]],["email",{"type":"work"},"text","EHT@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EHT"
+      } ],
+      "entities" : [ ],
+      "handle" : "EHT"
+    } ],
+    "handle" : "BR-EHTC-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EHT",
+      "value" : "http://rdap.labs.lacnic.net/entity/EHT"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Everton Haise Taques"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPonta Grossa, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ponta Grossa","PR","04578-000","BR"]],["email",{"type":"work"},"text","EHT@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EHT"
+    } ],
+    "entities" : [ ],
+    "handle" : "EHT"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EHT",
+      "value" : "http://rdap.labs.lacnic.net/entity/EHT"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Everton Haise Taques"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPonta Grossa, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ponta Grossa","PR","04578-000","BR"]],["email",{"type":"work"},"text","EHT@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EHT"
+    } ],
+    "entities" : [ ],
+    "handle" : "EHT"
+  } ],
+  "type" : null,
+  "handle" : "52517-LACNIC",
+  "country" : "BR"
+}

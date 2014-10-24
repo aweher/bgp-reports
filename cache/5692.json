@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/5692",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/5692"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-UNLP-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-UNLP-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CeSPI UNLP"],["adr",{"label":"1900 50 (115)\nLa Plata, BA 1900\nAR","type":"work"},"text",["","","1900 50 (115)","La Plata","BA","1900","AR"]],["email",{"type":"work"},"text","noc@CESPI.UNLP.EDU.AR"],["tel",{"type":"work"},"text","54 221 4236609 (115)"],["org",{},"text",["Universidad Nacional de La Plata"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ANB10",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ANB10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CeSPI UNLP"],["adr",{"label":"1900 50 (115)\nLa Plata, BA 1900\nAR","type":"work"},"text",["","","1900 50 (115)","La Plata","BA","1900","AR"]],["email",{"type":"work"},"text","noc@CESPI.UNLP.EDU.AR"],["tel",{"type":"work"},"text","54 221 4236609 (115)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20081104",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20081205",
+        "eventActor" : "ANB10"
+      } ],
+      "handle" : "ANB10"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130711",
+      "eventActor" : "ANB10"
+    } ],
+    "handle" : "AR-UNLP-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ANB10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ANB10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CeSPI UNLP"],["adr",{"label":"1900 50 (115)\nLa Plata, BA 1900\nAR","type":"work"},"text",["","","1900 50 (115)","La Plata","BA","1900","AR"]],["email",{"type":"work"},"text","noc@CESPI.UNLP.EDU.AR"],["tel",{"type":"work"},"text","54 221 4236609 (115)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081104",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20081205",
+      "eventActor" : "ANB10"
+    } ],
+    "handle" : "ANB10"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ANB10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ANB10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CeSPI UNLP"],["adr",{"label":"1900 50 (115)\nLa Plata, BA 1900\nAR","type":"work"},"text",["","","1900 50 (115)","La Plata","BA","1900","AR"]],["email",{"type":"work"},"text","noc@CESPI.UNLP.EDU.AR"],["tel",{"type":"work"},"text","54 221 4236609 (115)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081104",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20081205",
+      "eventActor" : "ANB10"
+    } ],
+    "handle" : "ANB10"
+  } ],
+  "startAutnum" : 5692,
+  "endAutnum" : 5692,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19950906",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090528",
+    "eventActor" : "ANB10"
+  } ],
+  "type" : null,
+  "handle" : "5692-LACNIC",
+  "country" : "AR"
+}

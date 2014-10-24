@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263166,
+  "endAutnum" : 263166,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263166",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263166"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140521",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140521",
+    "eventActor" : "MAM305"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MMLT50-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MMLT50-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Manuten??o de Dom?nios INSITE"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMambor?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mambor?","","04578-000","BR"]],["email",{"type":"work"},"text","MDI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["org",{},"text",["Murback Muchelin LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "MDI"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MDI",
+        "value" : "http://rdap.labs.lacnic.net/entity/MDI"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Manuten??o de Dom?nios INSITE"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","MDI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MDI"
+      } ],
+      "entities" : [ ],
+      "handle" : "MDI"
+    } ],
+    "handle" : "BR-MMLT50-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAM305",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAM305"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos murbach"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMambor?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mambor?","PR","04578-000","BR"]],["email",{"type":"work"},"text","MAM305@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131129",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131129",
+      "eventActor" : "MAM305"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAM305"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAM305",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAM305"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcos murbach"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMambor?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mambor?","PR","04578-000","BR"]],["email",{"type":"work"},"text","MAM305@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131129",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131129",
+      "eventActor" : "MAM305"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAM305"
+  } ],
+  "type" : null,
+  "handle" : "263166-LACNIC",
+  "country" : "BR"
+}

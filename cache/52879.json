@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52879,
+  "endAutnum" : 52879,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52879",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52879"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120320",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "AKG"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-AITE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-AITE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ADRIANO BORGES MEIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMarac?s, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Marac?s","BA","04578-000","BR"]],["email",{"type":"work"},"text","ABM24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 73 55093511 ()"],["org",{},"text",["ABM INFORMATICA E TELECOM"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "ABM24"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ABM24",
+        "value" : "http://rdap.labs.lacnic.net/entity/ABM24"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ADRIANO BORGES MEIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMarac?s, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Marac?s","BA","04578-000","BR"]],["email",{"type":"work"},"text","ABM24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 73 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ABM24"
+      } ],
+      "entities" : [ ],
+      "handle" : "ABM24"
+    } ],
+    "handle" : "BR-AITE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AKG",
+      "value" : "http://rdap.labs.lacnic.net/entity/AKG"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ALEXANDRE KREISLER SANTOS GEROGIANNIS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItabuna, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itabuna","BA","04578-000","BR"]],["email",{"type":"work"},"text","AKG@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 73 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AKG"
+    } ],
+    "entities" : [ ],
+    "handle" : "AKG"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ABM24",
+      "value" : "http://rdap.labs.lacnic.net/entity/ABM24"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ADRIANO BORGES MEIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMarac?s, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Marac?s","BA","04578-000","BR"]],["email",{"type":"work"},"text","ABM24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 73 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ABM24"
+    } ],
+    "entities" : [ ],
+    "handle" : "ABM24"
+  } ],
+  "type" : null,
+  "handle" : "52879-LACNIC",
+  "country" : "BR"
+}

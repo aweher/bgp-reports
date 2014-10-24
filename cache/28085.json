@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28085,
+  "endAutnum" : 28085,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28085",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28085"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090923",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090923",
+    "eventActor" : "JLO4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-SPRC-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-SPRC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Luis D?az Ortega"],["adr",{"label":"Terminal maritimo de Manga 12345 ()\nCartagena, BO 00000\nCO","type":"work"},"text",["","","Terminal maritimo de Manga 12345 ()","Cartagena","BO","00000","CO"]],["email",{"type":"work"},"text","jldiaz@SPRC.COM.CO"],["tel",{"type":"work"},"text","57 5 6502227 ()"],["org",{},"text",["Sociedad Portuaria Regional de Cartagena S.A."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060926",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "JLO4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JLO4",
+        "value" : "http://rdap.labs.lacnic.net/entity/JLO4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Luis D?az Ortega"],["adr",{"label":"Manga Terminal Maritimo 12345 (678910111213)\nCartagena, Bo 13001\nCO","type":"work"},"text",["","","Manga Terminal Maritimo 12345 (678910111213)","Cartagena","Bo","13001","CO"]],["email",{"type":"work"},"text","jldiaz@SPRC.COM.CO"],["tel",{"type":"work"},"text","57 5 6607781 (2118)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060913",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140716",
+        "eventActor" : "JLO4"
+      } ],
+      "entities" : [ ],
+      "handle" : "JLO4"
+    } ],
+    "handle" : "CO-SPRC-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JLO4",
+      "value" : "http://rdap.labs.lacnic.net/entity/JLO4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Luis D?az Ortega"],["adr",{"label":"Manga Terminal Maritimo 12345 (678910111213)\nCartagena, Bo 13001\nCO","type":"work"},"text",["","","Manga Terminal Maritimo 12345 (678910111213)","Cartagena","Bo","13001","CO"]],["email",{"type":"work"},"text","jldiaz@SPRC.COM.CO"],["tel",{"type":"work"},"text","57 5 6607781 (2118)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060913",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140716",
+      "eventActor" : "JLO4"
+    } ],
+    "entities" : [ ],
+    "handle" : "JLO4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JLO4",
+      "value" : "http://rdap.labs.lacnic.net/entity/JLO4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Luis D?az Ortega"],["adr",{"label":"Manga Terminal Maritimo 12345 (678910111213)\nCartagena, Bo 13001\nCO","type":"work"},"text",["","","Manga Terminal Maritimo 12345 (678910111213)","Cartagena","Bo","13001","CO"]],["email",{"type":"work"},"text","jldiaz@SPRC.COM.CO"],["tel",{"type":"work"},"text","57 5 6607781 (2118)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060913",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140716",
+      "eventActor" : "JLO4"
+    } ],
+    "entities" : [ ],
+    "handle" : "JLO4"
+  } ],
+  "type" : null,
+  "handle" : "28085-LACNIC",
+  "country" : "CO"
+}

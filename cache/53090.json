@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53090,
+  "endAutnum" : 53090,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53090",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53090"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091027",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MAS173"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VTIN-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VTIN-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Szeer"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItupeva, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itupeva","SP","04578-000","BR"]],["email",{"type":"work"},"text","MAS173@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["Vianet Telecomunica??es e Internet"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAS173"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MAS173",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAS173"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Szeer"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItupeva, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itupeva","SP","04578-000","BR"]],["email",{"type":"work"},"text","MAS173@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MAS173"
+      } ],
+      "entities" : [ ],
+      "handle" : "MAS173"
+    } ],
+    "handle" : "BR-VTIN-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAS173",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAS173"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Szeer"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItupeva, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itupeva","SP","04578-000","BR"]],["email",{"type":"work"},"text","MAS173@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAS173"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAS173"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAS173",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAS173"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Szeer"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItupeva, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itupeva","SP","04578-000","BR"]],["email",{"type":"work"},"text","MAS173@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAS173"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAS173"
+  } ],
+  "type" : null,
+  "handle" : "53090-LACNIC",
+  "country" : "BR"
+}

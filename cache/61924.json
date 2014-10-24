@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61924,
+  "endAutnum" : 61924,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61924",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61924"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140530",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140530",
+    "eventActor" : "EFM4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TLME2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TLME2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eder F. Miotto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSananduva, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sananduva","RS","04578-000","BR"]],["email",{"type":"work"},"text","EFM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["org",{},"text",["3E TELECOM LTDA - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140528",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140531",
+      "eventActor" : "EFM4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EFM4",
+        "value" : "http://rdap.labs.lacnic.net/entity/EFM4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eder F. Miotto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPasso Fundo, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Passo Fundo","RS","04578-000","BR"]],["email",{"type":"work"},"text","EFM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140514",
+        "eventActor" : "EFM4"
+      } ],
+      "entities" : [ ],
+      "handle" : "EFM4"
+    } ],
+    "handle" : "BR-TLME2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EFM4",
+      "value" : "http://rdap.labs.lacnic.net/entity/EFM4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eder F. Miotto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPasso Fundo, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Passo Fundo","RS","04578-000","BR"]],["email",{"type":"work"},"text","EFM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140514",
+      "eventActor" : "EFM4"
+    } ],
+    "entities" : [ ],
+    "handle" : "EFM4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EFM4",
+      "value" : "http://rdap.labs.lacnic.net/entity/EFM4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eder F. Miotto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPasso Fundo, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Passo Fundo","RS","04578-000","BR"]],["email",{"type":"work"},"text","EFM4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140514",
+      "eventActor" : "EFM4"
+    } ],
+    "entities" : [ ],
+    "handle" : "EFM4"
+  } ],
+  "type" : null,
+  "handle" : "61924-LACNIC",
+  "country" : "BR"
+}

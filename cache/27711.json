@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27711",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27711"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TGNS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TGNS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Cesar Rodriguez"],["adr",{"label":"Don Bosco 3672 (3? Piso)\nBuenos Aires, -- 1206\nAR","type":"work"},"text",["","","Don Bosco 3672 (3? Piso)","Buenos Aires","--","1206","AR"]],["email",{"type":"work"},"text","pablo.rodriguez@TGN.COM.AR"],["tel",{"type":"work"},"text","54 11 49592172 ()"],["org",{},"text",["Transportadora de Gas del Norte S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PCR",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PCR"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Cesar Rodriguez"],["adr",{"label":"Don Bosco 3672 ()\nBuenos Aires, null 1206\nAR","type":"work"},"text",["","","Don Bosco 3672 ()","Buenos Aires","","1206","AR"]],["email",{"type":"work"},"text","pablo.rodriguez@TGN.COM.AR"],["tel",{"type":"work"},"text","54 11 49592172 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20051115",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20051115",
+        "eventActor" : "PCR"
+      } ],
+      "handle" : "PCR"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040728",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080605",
+      "eventActor" : "PCR"
+    } ],
+    "handle" : "AR-TGNS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PCR",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PCR"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Cesar Rodriguez"],["adr",{"label":"Don Bosco 3672 ()\nBuenos Aires, null 1206\nAR","type":"work"},"text",["","","Don Bosco 3672 ()","Buenos Aires","","1206","AR"]],["email",{"type":"work"},"text","pablo.rodriguez@TGN.COM.AR"],["tel",{"type":"work"},"text","54 11 49592172 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20051115",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20051115",
+      "eventActor" : "PCR"
+    } ],
+    "handle" : "PCR"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PCR",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PCR"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Cesar Rodriguez"],["adr",{"label":"Don Bosco 3672 ()\nBuenos Aires, null 1206\nAR","type":"work"},"text",["","","Don Bosco 3672 ()","Buenos Aires","","1206","AR"]],["email",{"type":"work"},"text","pablo.rodriguez@TGN.COM.AR"],["tel",{"type":"work"},"text","54 11 49592172 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20051115",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20051115",
+      "eventActor" : "PCR"
+    } ],
+    "handle" : "PCR"
+  } ],
+  "startAutnum" : 27711,
+  "endAutnum" : 27711,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20040819",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20051115",
+    "eventActor" : "PCR"
+  } ],
+  "type" : null,
+  "handle" : "27711-LACNIC",
+  "country" : "AR"
+}

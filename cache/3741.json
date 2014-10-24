@@ -1,0 +1,224 @@
+{"service" : {
+  "name" : "search"
+},
+"parameters" : {
+  "inverse-lookup" : { },
+  "type-filters" : { },
+  "flags" : { },
+  "query-strings" : {
+    "query-string" : [ {
+      "value" : "as3741"
+    } ]
+  },
+  "sources" : { }
+},
+"objects" : {
+  "object" : [ {
+    "type" : "as-block",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/as-block/AS3741 - AS3741"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS3741 - AS3741"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS3741 - AS3741"
+      }, {
+        "name" : "descr",
+        "value" : "AFRINIC ASN block"
+      }, {
+        "name" : "remarks",
+        "value" : "These AS numbers are assigned in the AFRINIC region."
+      }, {
+        "name" : "remarks",
+        "value" : "For registration information please use http://whois.afrinic.net/"
+      }, {
+        "name" : "remarks",
+        "value" : "aut-num objects within this block represent routing"
+      }, {
+        "name" : "remarks",
+        "value" : "policy published in the RIPE Database"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-DBM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-DBM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-RPSL-MNT"
+        },
+        "name" : "mnt-lower",
+        "value" : "RIPE-NCC-RPSL-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "aut-num",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/aut-num/AS3741"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS3741"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS3741"
+      }, {
+        "name" : "as-name",
+        "value" : "IS"
+      }, {
+        "name" : "descr",
+        "value" : "Internet Solutions"
+      }, {
+        "name" : "remarks",
+        "value" : "Created for Emerging Markets Communications de Argentina S.R.L"
+      }, {
+        "name" : "remarks",
+        "value" : "Mirror of IS aut-num object from LACNIC, created by Interoute in order"
+      }, {
+        "name" : "remarks",
+        "value" : "to be able to express AS27822's routing policy within RIPE IRR."
+      }, {
+        "name" : "remarks",
+        "value" : "EMC/IS: contact Interoute in order to take maintenance of this and other mirrored objects."
+      }, {
+        "name" : "remarks",
+        "value" : "All Abuse to be emailed to abuse@is.co.za"
+      }, {
+        "name" : "remarks",
+        "value" : "abuse e-mail: <abuse@is.co.za>, phone: +27 11 575 0055"
+      }, {
+        "name" : "import",
+        "value" : "from AS27822 accept ANY"
+      }, {
+        "name" : "export",
+        "value" : "to AS27822 announce AS3741"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/LNIC1-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "LNIC1-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/LNIC1-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "LNIC1-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "name" : "remarks",
+        "value" : "For information on \"status:\" attribute read https://www.ripe.net/data-tools/db/faq/faq-status-values-legacy-resources"
+      }, {
+        "name" : "status",
+        "value" : "OTHER"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/INTEROUTE-MNTNR"
+        },
+        "name" : "mnt-by",
+        "value" : "INTEROUTE-MNTNR",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "role",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/role/LNIC1-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "nic-hdl",
+        "value" : "LNIC1-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "role",
+        "value" : "Latin American and Caribbean IP address Regional Registry"
+      }, {
+        "name" : "address",
+        "value" : "LACNIC, see http://lacnic.net"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/LNIC1-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "LNIC1-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/LNIC1-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "LNIC1-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "name" : "nic-hdl",
+        "value" : "LNIC1-RIPE"
+      }, {
+        "name" : "remarks",
+        "value" : "For more information on LACNIC assigned blocks, connect"
+      }, {
+        "name" : "remarks",
+        "value" : "to LACNIC's whois database, whois.lacnic.net."
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  } ]
+},
+"terms-and-conditions" : {
+  "type" : "locator",
+  "href" : "http://www.ripe.net/db/support/db-terms-conditions.pdf"
+}
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52434,
+  "endAutnum" : 52434,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52434",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52434"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130110",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130110",
+    "eventActor" : "SCA3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-SCJY2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-SCJY2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gilmar Moncaleano Amaya"],["adr",{"label":"Calle 13 # 4 -25. Edificio Carvajal. Local Plazoleta 4-25 (Edificio Carvajal Local Plazoleta)\nCali, VC 032\nCO","type":"work"},"text",["","","Calle 13 # 4 -25. Edificio Carvajal. Local Plazoleta 4-25 (Edificio Carvajal Local Plazoleta)","Cali","VC","032","CO"]],["email",{"type":"work"},"text","gmoncaleano@GANE.COM.CO"],["tel",{"type":"work"},"text","57 2 6823434 (145)"],["org",{},"text",["RedColsa S.A."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20111110",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130111",
+      "eventActor" : "SCA3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SCA3",
+        "value" : "http://rdap.labs.lacnic.net/entity/SCA3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gilmar Moncaleano Amaya"],["adr",{"label":"Calle 13 # 4 - 17 Edificio Carvajal Primer Piso  ()\nCali, V 032\nCO","type":"work"},"text",["","","Calle 13 # 4 - 17 Edificio Carvajal Primer Piso  ()","Cali","V","032","CO"]],["email",{"type":"work"},"text","gmoncaleano@GANE.COM.CO"],["tel",{"type":"work"},"text","57 2 6823434 (166)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20101124",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130110",
+        "eventActor" : "SCA3"
+      } ],
+      "entities" : [ ],
+      "handle" : "SCA3"
+    } ],
+    "handle" : "CO-SCJY2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SCA3",
+      "value" : "http://rdap.labs.lacnic.net/entity/SCA3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gilmar Moncaleano Amaya"],["adr",{"label":"Calle 13 # 4 - 17 Edificio Carvajal Primer Piso  ()\nCali, V 032\nCO","type":"work"},"text",["","","Calle 13 # 4 - 17 Edificio Carvajal Primer Piso  ()","Cali","V","032","CO"]],["email",{"type":"work"},"text","gmoncaleano@GANE.COM.CO"],["tel",{"type":"work"},"text","57 2 6823434 (166)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101124",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130110",
+      "eventActor" : "SCA3"
+    } ],
+    "entities" : [ ],
+    "handle" : "SCA3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SCA3",
+      "value" : "http://rdap.labs.lacnic.net/entity/SCA3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gilmar Moncaleano Amaya"],["adr",{"label":"Calle 13 # 4 - 17 Edificio Carvajal Primer Piso  ()\nCali, V 032\nCO","type":"work"},"text",["","","Calle 13 # 4 - 17 Edificio Carvajal Primer Piso  ()","Cali","V","032","CO"]],["email",{"type":"work"},"text","gmoncaleano@GANE.COM.CO"],["tel",{"type":"work"},"text","57 2 6823434 (166)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101124",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130110",
+      "eventActor" : "SCA3"
+    } ],
+    "entities" : [ ],
+    "handle" : "SCA3"
+  } ],
+  "type" : null,
+  "handle" : "52434-LACNIC",
+  "country" : "CO"
+}

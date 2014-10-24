@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27875",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27875"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-UNCU-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-UNCU-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cremaschi Javier"],["adr",{"label":"Centro Universitario - Parque 000 ()\nMendoza,  5500\nAR","type":"work"},"text",["","","Centro Universitario - Parque 000 ()","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","jcremas@UNCU.EDU.AR"],["tel",{"type":"work"},"text","54 261 4135000 (5211)"],["org",{},"text",["Universidad Nacional de Cuyo"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CRJ",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CRJ"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cremaschi Javier"],["adr",{"label":"Universidad Nacional de Cuyo 5500 ()\nMendoza,  5500\nAR","type":"work"},"text",["","","Universidad Nacional de Cuyo 5500 ()","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","jcremas@UNCU.EDU.AR"],["tel",{"type":"work"},"text","54 261 4135211 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050321",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20050407",
+        "eventActor" : "CRJ"
+      } ],
+      "handle" : "CRJ"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050407",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130615",
+      "eventActor" : "CRJ"
+    } ],
+    "handle" : "AR-UNCU-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CRJ",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CRJ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cremaschi Javier"],["adr",{"label":"Universidad Nacional de Cuyo 5500 ()\nMendoza,  5500\nAR","type":"work"},"text",["","","Universidad Nacional de Cuyo 5500 ()","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","jcremas@UNCU.EDU.AR"],["tel",{"type":"work"},"text","54 261 4135211 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050321",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20050407",
+      "eventActor" : "CRJ"
+    } ],
+    "handle" : "CRJ"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CRJ",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CRJ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cremaschi Javier"],["adr",{"label":"Universidad Nacional de Cuyo 5500 ()\nMendoza,  5500\nAR","type":"work"},"text",["","","Universidad Nacional de Cuyo 5500 ()","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","jcremas@UNCU.EDU.AR"],["tel",{"type":"work"},"text","54 261 4135211 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050321",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20050407",
+      "eventActor" : "CRJ"
+    } ],
+    "handle" : "CRJ"
+  } ],
+  "startAutnum" : 27875,
+  "endAutnum" : 27875,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070112",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20070112",
+    "eventActor" : "CRJ"
+  } ],
+  "type" : null,
+  "handle" : "27875-LACNIC",
+  "country" : "AR"
+}

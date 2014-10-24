@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262908,
+  "endAutnum" : 262908,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262908",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262908"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110214",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "DAI5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DACS1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DACS1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","D. A. Com?rcio e Servi?os de Inform?tica"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCruzeiro, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cruzeiro","SP","04578-000","BR"]],["email",{"type":"work"},"text","DAI5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 12 55093511 ()"],["org",{},"text",["D. A. Comercio e Servicos de Informatica Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140525",
+      "eventActor" : "DAI5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DAI5",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAI5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","D. A. Com?rcio e Servi?os de Inform?tica"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCruzeiro, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cruzeiro","SP","04578-000","BR"]],["email",{"type":"work"},"text","DAI5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 12 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DAI5"
+      } ],
+      "entities" : [ ],
+      "handle" : "DAI5"
+    } ],
+    "handle" : "BR-DACS1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DAI5",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAI5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","D. A. Com?rcio e Servi?os de Inform?tica"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCruzeiro, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cruzeiro","SP","04578-000","BR"]],["email",{"type":"work"},"text","DAI5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 12 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DAI5"
+    } ],
+    "entities" : [ ],
+    "handle" : "DAI5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DAI5",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAI5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","D. A. Com?rcio e Servi?os de Inform?tica"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCruzeiro, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cruzeiro","SP","04578-000","BR"]],["email",{"type":"work"},"text","DAI5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 12 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DAI5"
+    } ],
+    "entities" : [ ],
+    "handle" : "DAI5"
+  } ],
+  "type" : null,
+  "handle" : "262908-LACNIC",
+  "country" : "BR"
+}

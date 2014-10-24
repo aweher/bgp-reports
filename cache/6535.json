@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/6535",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/6535"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-CSEM-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-CSEM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Core Internet Telmex Chile"],["adr",{"label":"Rinconada El Salto 202 (Huechuraba)\nSantiago, RM 8580649\nCL","type":"work"},"text",["","","Rinconada El Salto 202 (Huechuraba)","Santiago","RM","8580649","CL"]],["email",{"type":"work"},"text","netadmin@IP.TELMEXCHILE.CL"],["tel",{"type":"work"},"text","56 2 5825365 ()"],["org",{},"text",["Telmex Servicios Empresariales S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/AIC2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/AIC2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Core Internet Telmex Chile"],["adr",{"label":"Rinconada el Salto 202 (Huechuraba)\nSantiago,  --\nCL","type":"work"},"text",["","","Rinconada el Salto 202 (Huechuraba)","Santiago","","--","CL"]],["email",{"type":"work"},"text","netadmin@IP.TELMEXCHILE.CL"],["tel",{"type":"work"},"text","56 2 5825365 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030314",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20070417",
+        "eventActor" : "AIC2"
+      } ],
+      "handle" : "AIC2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030317",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "AIC2"
+    } ],
+    "handle" : "CL-CSEM-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AIC2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AIC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Core Internet Telmex Chile"],["adr",{"label":"Rinconada el Salto 202 (Huechuraba)\nSantiago,  --\nCL","type":"work"},"text",["","","Rinconada el Salto 202 (Huechuraba)","Santiago","","--","CL"]],["email",{"type":"work"},"text","netadmin@IP.TELMEXCHILE.CL"],["tel",{"type":"work"},"text","56 2 5825365 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030314",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070417",
+      "eventActor" : "AIC2"
+    } ],
+    "handle" : "AIC2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AIC2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AIC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Core Internet Telmex Chile"],["adr",{"label":"Rinconada el Salto 202 (Huechuraba)\nSantiago,  --\nCL","type":"work"},"text",["","","Rinconada el Salto 202 (Huechuraba)","Santiago","","--","CL"]],["email",{"type":"work"},"text","netadmin@IP.TELMEXCHILE.CL"],["tel",{"type":"work"},"text","56 2 5825365 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030314",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070417",
+      "eventActor" : "AIC2"
+    } ],
+    "handle" : "AIC2"
+  } ],
+  "startAutnum" : 6535,
+  "endAutnum" : 6535,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20000301",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20000301",
+    "eventActor" : "AIC2"
+  } ],
+  "type" : null,
+  "handle" : "6535-LACNIC",
+  "country" : "CL"
+}

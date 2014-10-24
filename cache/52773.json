@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52773,
+  "endAutnum" : 52773,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52773",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52773"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120911",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MAF110"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-IIIL2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-IIIL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","marco antonio tureta felisberto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItaperuna, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itaperuna","RJ","04578-000","BR"]],["email",{"type":"work"},"text","MAF110@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["org",{},"text",["INTERMICRO INFORMATICA DE ITAPERUNA LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "MAF110"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MAF110",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAF110"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","marco antonio tureta felisberto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nmuriae, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","muriae","MG","04578-000","BR"]],["email",{"type":"work"},"text","MAF110@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MAF110"
+      } ],
+      "entities" : [ ],
+      "handle" : "MAF110"
+    } ],
+    "handle" : "BR-IIIL2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAF110",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAF110"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","marco antonio tureta felisberto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nmuriae, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","muriae","MG","04578-000","BR"]],["email",{"type":"work"},"text","MAF110@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAF110"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAF110"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAF110",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAF110"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","marco antonio tureta felisberto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nmuriae, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","muriae","MG","04578-000","BR"]],["email",{"type":"work"},"text","MAF110@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAF110"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAF110"
+  } ],
+  "type" : null,
+  "handle" : "52773-LACNIC",
+  "country" : "BR"
+}

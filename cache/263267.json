@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263267,
+  "endAutnum" : 263267,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263267",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263267"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140410",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140501",
+    "eventActor" : "VPL19"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VPAA2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VPAA2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","LinkPoint Servi?os LTDA - ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMacei?, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Macei?","AL","04578-000","BR"]],["email",{"type":"work"},"text","LSM5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["org",{},"text",["VIUNET PROVIMENTO DE ACESSO A INTERNET LTDA - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130805",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130805",
+      "eventActor" : "LSM5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LSM5",
+        "value" : "http://rdap.labs.lacnic.net/entity/LSM5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","LinkPoint Servi?os LTDA - ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMacei?, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Macei?","AL","04578-000","BR"]],["email",{"type":"work"},"text","LSM5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LSM5"
+      } ],
+      "entities" : [ ],
+      "handle" : "LSM5"
+    } ],
+    "handle" : "BR-VPAA2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VPL19",
+      "value" : "http://rdap.labs.lacnic.net/entity/VPL19"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","VIUNET PROVIMENTO DE ACESSO A INTERNET L"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMacei?, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Macei?","AL","04578-000","BR"]],["email",{"type":"work"},"text","VPL19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140414",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140414",
+      "eventActor" : "VPL19"
+    } ],
+    "entities" : [ ],
+    "handle" : "VPL19"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JPB15",
+      "value" : "http://rdap.labs.lacnic.net/entity/JPB15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Joao Paulo Sampaio Brinate"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nManhua?u, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Manhua?u","MG","04578-000","BR"]],["email",{"type":"work"},"text","JPB15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 33 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140210",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140210",
+      "eventActor" : "JPB15"
+    } ],
+    "entities" : [ ],
+    "handle" : "JPB15"
+  } ],
+  "type" : null,
+  "handle" : "263267-LACNIC",
+  "country" : "BR"
+}

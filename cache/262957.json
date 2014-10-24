@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262957,
+  "endAutnum" : 262957,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262957",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262957"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130626",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130626",
+    "eventActor" : "FWM"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BIPL1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BIPL1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Frederico Wagner Morigi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCambori?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cambori?","SC","04578-000","BR"]],["email",{"type":"work"},"text","FWM@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["org",{},"text",["8-Bit Informatica e Provedor LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130429",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140616",
+      "eventActor" : "FWM"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FWM",
+        "value" : "http://rdap.labs.lacnic.net/entity/FWM"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Frederico Wagner Morigi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCambori?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cambori?","","04578-000","BR"]],["email",{"type":"work"},"text","FWM@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130429",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130429",
+        "eventActor" : "FWM"
+      } ],
+      "entities" : [ ],
+      "handle" : "FWM"
+    } ],
+    "handle" : "BR-BIPL1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FWM",
+      "value" : "http://rdap.labs.lacnic.net/entity/FWM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Frederico Wagner Morigi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCambori?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cambori?","","04578-000","BR"]],["email",{"type":"work"},"text","FWM@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130429",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130429",
+      "eventActor" : "FWM"
+    } ],
+    "entities" : [ ],
+    "handle" : "FWM"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FWM",
+      "value" : "http://rdap.labs.lacnic.net/entity/FWM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Frederico Wagner Morigi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCambori?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cambori?","","04578-000","BR"]],["email",{"type":"work"},"text","FWM@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130429",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130429",
+      "eventActor" : "FWM"
+    } ],
+    "entities" : [ ],
+    "handle" : "FWM"
+  } ],
+  "type" : null,
+  "handle" : "262957-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27676",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27676"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-AALM-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-AALM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christian Saldias"],["adr",{"label":"AV. El Golf 40 (Las Condes)\nSantiago, RM 7550107\nCL","type":"work"},"text",["","","AV. El Golf 40 (Las Condes)","Santiago","RM","7550107","CL"]],["email",{"type":"work"},"text","csaldias@ALMA.CL"],["tel",{"type":"work"},"text","56 2 4676100 (170)"],["org",{},"text",["ALMA - Atacama Large Millimeter Array"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CHS3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CHS3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christian Saldias"],["adr",{"label":"Av. El Golf 40 (Piso 18)\nSantiago, RM 7550107\nCL","type":"work"},"text",["","","Av. El Golf 40 (Piso 18)","Santiago","RM","7550107","CL"]],["email",{"type":"work"},"text","csaldias@ALMA.CL"],["tel",{"type":"work"},"text","56 2 4676170 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20040915",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20081020",
+        "eventActor" : "CHS3"
+      } ],
+      "handle" : "CHS3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040929",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "CHS3"
+    } ],
+    "handle" : "CL-AALM-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NIO3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NIO3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Nicolas Ovando"],["adr",{"label":"Av. Alonso de Cordova 3107 (ALMA)\nSantiago, RM 7630355\nCL","type":"work"},"text",["","","Av. Alonso de Cordova 3107 (ALMA)","Santiago","RM","7630355","CL"]],["email",{"type":"work"},"text","novando@ALMA.CL"],["tel",{"type":"work"},"text","56 2 24676191 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081020",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130923",
+      "eventActor" : "NIO3"
+    } ],
+    "handle" : "NIO3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NIO3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NIO3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Nicolas Ovando"],["adr",{"label":"Av. Alonso de Cordova 3107 (ALMA)\nSantiago, RM 7630355\nCL","type":"work"},"text",["","","Av. Alonso de Cordova 3107 (ALMA)","Santiago","RM","7630355","CL"]],["email",{"type":"work"},"text","novando@ALMA.CL"],["tel",{"type":"work"},"text","56 2 24676191 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081020",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130923",
+      "eventActor" : "NIO3"
+    } ],
+    "handle" : "NIO3"
+  } ],
+  "startAutnum" : 27676,
+  "endAutnum" : 27676,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20041124",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20081020",
+    "eventActor" : "NIO3"
+  } ],
+  "type" : null,
+  "handle" : "27676-LACNIC",
+  "country" : "CL"
+}

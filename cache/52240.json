@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52240",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52240"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-MTEY-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-MTEY-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ministerio de Trabajo"],["adr",{"label":"Leandro N. Alem 650 ()\nBuenos Aires, CF C1001AAO\nAR","type":"work"},"text",["","","Leandro N. Alem 650 ()","Buenos Aires","CF","C1001AAO","AR"]],["email",{"type":"work"},"text","Dominios.Internet@TRABAJO.GOB.AR"],["tel",{"type":"work"},"text","54 11 4310-6228 ()"],["org",{},"text",["Ministerio de Trabajo, Empleo y Seguridad Social."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MIT2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MIT2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ministerio de Trabajo"],["adr",{"label":"Leandro N Alem 650 ()\nBuenos Aires,  C1001AAO\nAR","type":"work"},"text",["","","Leandro N Alem 650 ()","Buenos Aires","","C1001AAO","AR"]],["email",{"type":"work"},"text","Dominios.Internet@TRABAJO.GOB.AR"],["tel",{"type":"work"},"text","54 011 43106228 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080725",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121105",
+        "eventActor" : "MIT2"
+      } ],
+      "handle" : "MIT2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080829",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "MIT2"
+    } ],
+    "handle" : "AR-MTEY-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MIT2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MIT2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ministerio de Trabajo"],["adr",{"label":"Leandro N Alem 650 ()\nBuenos Aires,  C1001AAO\nAR","type":"work"},"text",["","","Leandro N Alem 650 ()","Buenos Aires","","C1001AAO","AR"]],["email",{"type":"work"},"text","Dominios.Internet@TRABAJO.GOB.AR"],["tel",{"type":"work"},"text","54 011 43106228 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080725",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121105",
+      "eventActor" : "MIT2"
+    } ],
+    "handle" : "MIT2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MIT2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MIT2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ministerio de Trabajo"],["adr",{"label":"Leandro N Alem 650 ()\nBuenos Aires,  C1001AAO\nAR","type":"work"},"text",["","","Leandro N Alem 650 ()","Buenos Aires","","C1001AAO","AR"]],["email",{"type":"work"},"text","Dominios.Internet@TRABAJO.GOB.AR"],["tel",{"type":"work"},"text","54 011 43106228 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080725",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121105",
+      "eventActor" : "MIT2"
+    } ],
+    "handle" : "MIT2"
+  } ],
+  "startAutnum" : 52240,
+  "endAutnum" : 52240,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100423",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100423",
+    "eventActor" : "MIT2"
+  } ],
+  "type" : null,
+  "handle" : "52240-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52730,
+  "endAutnum" : 52730,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52730",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52730"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130128",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "FGF4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-FGFE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-FGFE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","FLAVIO GARCIA FERREIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCaiap?nia, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Caiap?nia","GO","04578-000","BR"]],["email",{"type":"work"},"text","FGF4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 64 55093511 ()"],["org",{},"text",["infortek-caiaponia net"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131012",
+      "eventActor" : "FGF4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FGF4",
+        "value" : "http://rdap.labs.lacnic.net/entity/FGF4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","FLAVIO GARCIA FERREIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCaiap?nia, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Caiap?nia","GO","04578-000","BR"]],["email",{"type":"work"},"text","FGF4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 64 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FGF4"
+      } ],
+      "entities" : [ ],
+      "handle" : "FGF4"
+    } ],
+    "handle" : "BR-FGFE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FGF4",
+      "value" : "http://rdap.labs.lacnic.net/entity/FGF4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","FLAVIO GARCIA FERREIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCaiap?nia, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Caiap?nia","GO","04578-000","BR"]],["email",{"type":"work"},"text","FGF4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 64 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FGF4"
+    } ],
+    "entities" : [ ],
+    "handle" : "FGF4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FGF4",
+      "value" : "http://rdap.labs.lacnic.net/entity/FGF4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","FLAVIO GARCIA FERREIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCaiap?nia, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Caiap?nia","GO","04578-000","BR"]],["email",{"type":"work"},"text","FGF4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 64 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FGF4"
+    } ],
+    "entities" : [ ],
+    "handle" : "FGF4"
+  } ],
+  "type" : null,
+  "handle" : "52730-LACNIC",
+  "country" : "BR"
+}

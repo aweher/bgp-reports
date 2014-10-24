@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28038",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28038"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-SLCS1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-SLCS1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Marcos Lozano"],["adr",{"label":"Salvador Segado 505 ()\nSan Luis,  5700\nAR","type":"work"},"text",["","","Salvador Segado 505 ()","San Luis","","5700","AR"]],["email",{"type":"work"},"text","soporte@SANLUISCTV.COM.AR"],["tel",{"type":"work"},"text","54  2652 4574 ()"],["org",{},"text",["SAN LUIS CTV S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MML",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MML"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Marcos Lozano"],["adr",{"label":"Maipu 736 ()\nSan Luis, SL D5700ANR\nAR","type":"work"},"text",["","","Maipu 736 ()","San Luis","SL","D5700ANR","AR"]],["email",{"type":"work"},"text","soporte@SANLUISCTV.COM.AR"],["tel",{"type":"work"},"text","54 266 4423828 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080728",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120219",
+        "eventActor" : "MML"
+      } ],
+      "handle" : "MML"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080919",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "MML"
+    } ],
+    "handle" : "AR-SLCS1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MML",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MML"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Marcos Lozano"],["adr",{"label":"Maipu 736 ()\nSan Luis, SL D5700ANR\nAR","type":"work"},"text",["","","Maipu 736 ()","San Luis","SL","D5700ANR","AR"]],["email",{"type":"work"},"text","soporte@SANLUISCTV.COM.AR"],["tel",{"type":"work"},"text","54 266 4423828 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080728",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120219",
+      "eventActor" : "MML"
+    } ],
+    "handle" : "MML"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MML",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MML"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Marcos Lozano"],["adr",{"label":"Maipu 736 ()\nSan Luis, SL D5700ANR\nAR","type":"work"},"text",["","","Maipu 736 ()","San Luis","SL","D5700ANR","AR"]],["email",{"type":"work"},"text","soporte@SANLUISCTV.COM.AR"],["tel",{"type":"work"},"text","54 266 4423828 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080728",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120219",
+      "eventActor" : "MML"
+    } ],
+    "handle" : "MML"
+  } ],
+  "startAutnum" : 28038,
+  "endAutnum" : 28038,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090211",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090211",
+    "eventActor" : "MML"
+  } ],
+  "type" : null,
+  "handle" : "28038-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52270",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52270"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-XHSR-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-XHSR-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Nicolas Chiarini"],["adr",{"label":"Av Maipu 1028 (6A)\nFlorida, BA 1602\nAR","type":"work"},"text",["","","Av Maipu 1028 (6A)","Florida","BA","1602","AR"]],["email",{"type":"work"},"text","nicolas@WHSERVICES.NET"],["tel",{"type":"work"},"text","54 11 47965966 ()"],["org",{},"text",["X-Host SRL"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/NIC2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/NIC2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Nicolas Chiarini"],["adr",{"label":"Av Maipu 1029 (6A)\nFlorida, BA 1602\nAR","type":"work"},"text",["","","Av Maipu 1029 (6A)","Florida","BA","1602","AR"]],["email",{"type":"work"},"text","nicolas@WHSERVICES.NET"],["tel",{"type":"work"},"text","54 11 47965966 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100716",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120503",
+        "eventActor" : "NIC2"
+      } ],
+      "handle" : "NIC2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100721",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "NIC2"
+    } ],
+    "handle" : "AR-XHSR-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NIC2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NIC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Nicolas Chiarini"],["adr",{"label":"Av Maipu 1029 (6A)\nFlorida, BA 1602\nAR","type":"work"},"text",["","","Av Maipu 1029 (6A)","Florida","BA","1602","AR"]],["email",{"type":"work"},"text","nicolas@WHSERVICES.NET"],["tel",{"type":"work"},"text","54 11 47965966 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100716",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120503",
+      "eventActor" : "NIC2"
+    } ],
+    "handle" : "NIC2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NIC2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NIC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Nicolas Chiarini"],["adr",{"label":"Av Maipu 1029 (6A)\nFlorida, BA 1602\nAR","type":"work"},"text",["","","Av Maipu 1029 (6A)","Florida","BA","1602","AR"]],["email",{"type":"work"},"text","nicolas@WHSERVICES.NET"],["tel",{"type":"work"},"text","54 11 47965966 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100716",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120503",
+      "eventActor" : "NIC2"
+    } ],
+    "handle" : "NIC2"
+  } ],
+  "startAutnum" : 52270,
+  "endAutnum" : 52270,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100803",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100804",
+    "eventActor" : "NIC2"
+  } ],
+  "type" : null,
+  "handle" : "52270-LACNIC",
+  "country" : "AR"
+}

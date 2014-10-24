@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 13489,
+  "endAutnum" : 13489,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/13489",
+    "value" : "http://rdap.labs.lacnic.net/autnum/13489"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19990618",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100519",
+    "eventActor" : "YGO2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-EPME1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-EPME1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Molina"],["adr",{"label":"Carrera 77 39b-16 - (-)\nMedellin, CO 940\nCO","type":"work"},"text",["","","Carrera 77 39b-16 - (-)","Medellin","CO","940","CO"]],["email",{"type":"work"},"text","adminternet@UNE.NET.CO"],["tel",{"type":"work"},"text","57 4 4152280 ()"],["org",{},"text",["EPM Telecomunicaciones S.A. E.S.P."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030121",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130727",
+      "eventActor" : "YGO2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/YGO2",
+        "value" : "http://rdap.labs.lacnic.net/entity/YGO2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Molina"],["adr",{"label":"Cra. 16 Nro. 11A Sur 100 100 (--)\nMedellin, An NA\nCO","type":"work"},"text",["","","Cra. 16 Nro. 11A Sur 100 100 (--)","Medellin","An","NA","CO"]],["email",{"type":"work"},"text","adminternet@UNE.NET.CO"],["tel",{"type":"work"},"text","57 4 5150505 (0)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030120",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110928",
+        "eventActor" : "YGO2"
+      } ],
+      "entities" : [ ],
+      "handle" : "YGO2"
+    } ],
+    "handle" : "CO-EPME1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/YGO2",
+      "value" : "http://rdap.labs.lacnic.net/entity/YGO2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Molina"],["adr",{"label":"Cra. 16 Nro. 11A Sur 100 100 (--)\nMedellin, An NA\nCO","type":"work"},"text",["","","Cra. 16 Nro. 11A Sur 100 100 (--)","Medellin","An","NA","CO"]],["email",{"type":"work"},"text","adminternet@UNE.NET.CO"],["tel",{"type":"work"},"text","57 4 5150505 (0)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030120",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110928",
+      "eventActor" : "YGO2"
+    } ],
+    "entities" : [ ],
+    "handle" : "YGO2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/YGO2",
+      "value" : "http://rdap.labs.lacnic.net/entity/YGO2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Molina"],["adr",{"label":"Cra. 16 Nro. 11A Sur 100 100 (--)\nMedellin, An NA\nCO","type":"work"},"text",["","","Cra. 16 Nro. 11A Sur 100 100 (--)","Medellin","An","NA","CO"]],["email",{"type":"work"},"text","adminternet@UNE.NET.CO"],["tel",{"type":"work"},"text","57 4 5150505 (0)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030120",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110928",
+      "eventActor" : "YGO2"
+    } ],
+    "entities" : [ ],
+    "handle" : "YGO2"
+  } ],
+  "type" : null,
+  "handle" : "13489-LACNIC",
+  "country" : "CO"
+}

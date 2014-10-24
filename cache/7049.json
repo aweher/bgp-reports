@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/7049",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/7049"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-SISA3-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-SISA3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Ignacio Rodriguez Sotelo"],["adr",{"label":"San Martin - (638)\nBuenos Aires, BA C1004AAN\nAR","type":"work"},"text",["","","San Martin - (638)","Buenos Aires","BA","C1004AAN","AR"]],["email",{"type":"work"},"text","abuse-silica@DATCO.NET"],["tel",{"type":"work"},"text","54 11 43233300 ()"],["org",{},"text",["Silica Networks Argentina S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SNC2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SNC2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Ignacio Rodriguez Sotelo"],["adr",{"label":"San Martin 638 ()\nCiudad Autonoma de Buenos Aire,  C1004AAN\nAR","type":"work"},"text",["","","San Martin 638 ()","Ciudad Autonoma de Buenos Aire","","C1004AAN","AR"]],["email",{"type":"work"},"text","abuse-silica@DATCO.NET"],["tel",{"type":"work"},"text","54 11 43233360 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060818",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140704",
+        "eventActor" : "SNC2"
+      } ],
+      "handle" : "SNC2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060915",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140429",
+      "eventActor" : "SNC2"
+    } ],
+    "handle" : "AR-SISA3-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SNC2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SNC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Ignacio Rodriguez Sotelo"],["adr",{"label":"San Martin 638 ()\nCiudad Autonoma de Buenos Aire,  C1004AAN\nAR","type":"work"},"text",["","","San Martin 638 ()","Ciudad Autonoma de Buenos Aire","","C1004AAN","AR"]],["email",{"type":"work"},"text","abuse-silica@DATCO.NET"],["tel",{"type":"work"},"text","54 11 43233360 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060818",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140704",
+      "eventActor" : "SNC2"
+    } ],
+    "handle" : "SNC2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SNC2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SNC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Ignacio Rodriguez Sotelo"],["adr",{"label":"San Martin 638 ()\nCiudad Autonoma de Buenos Aire,  C1004AAN\nAR","type":"work"},"text",["","","San Martin 638 ()","Ciudad Autonoma de Buenos Aire","","C1004AAN","AR"]],["email",{"type":"work"},"text","abuse-silica@DATCO.NET"],["tel",{"type":"work"},"text","54 11 43233360 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060818",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140704",
+      "eventActor" : "SNC2"
+    } ],
+    "handle" : "SNC2"
+  } ],
+  "startAutnum" : 7049,
+  "endAutnum" : 7049,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19960806",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "19960806",
+    "eventActor" : "SNC2"
+  } ],
+  "type" : null,
+  "handle" : "7049-LACNIC",
+  "country" : "AR"
+}

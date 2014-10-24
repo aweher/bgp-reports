@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61785,
+  "endAutnum" : 61785,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61785",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61785"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140623",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140623",
+    "eventActor" : "MSP19"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VRDI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VRDI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Maurilio da Silva Parangaba"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDourados, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dourados","MS","04578-000","BR"]],["email",{"type":"work"},"text","MSP19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["org",{},"text",["Via Radio Dourados Informatica Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140108",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140108",
+      "eventActor" : "MSP19"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MSP19",
+        "value" : "http://rdap.labs.lacnic.net/entity/MSP19"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Maurilio da Silva Parangaba"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDourados, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dourados","MS","04578-000","BR"]],["email",{"type":"work"},"text","MSP19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20140108",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140108",
+        "eventActor" : "MSP19"
+      } ],
+      "entities" : [ ],
+      "handle" : "MSP19"
+    } ],
+    "handle" : "BR-VRDI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MSP19",
+      "value" : "http://rdap.labs.lacnic.net/entity/MSP19"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Maurilio da Silva Parangaba"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDourados, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dourados","MS","04578-000","BR"]],["email",{"type":"work"},"text","MSP19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140108",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140108",
+      "eventActor" : "MSP19"
+    } ],
+    "entities" : [ ],
+    "handle" : "MSP19"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MSP19",
+      "value" : "http://rdap.labs.lacnic.net/entity/MSP19"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Maurilio da Silva Parangaba"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDourados, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dourados","MS","04578-000","BR"]],["email",{"type":"work"},"text","MSP19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140108",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140108",
+      "eventActor" : "MSP19"
+    } ],
+    "entities" : [ ],
+    "handle" : "MSP19"
+  } ],
+  "type" : null,
+  "handle" : "61785-LACNIC",
+  "country" : "BR"
+}

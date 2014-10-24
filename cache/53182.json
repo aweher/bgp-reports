@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53182,
+  "endAutnum" : 53182,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53182",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53182"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100818",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "RCC11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-LLME2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-LLME2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Raul Cesar Carvalho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMirassol?ndia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mirassol?ndia","SP","04578-000","BR"]],["email",{"type":"work"},"text","RCC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["org",{},"text",["lazernet.com.br ltda me"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130528",
+      "eventActor" : "RCC11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RCC11",
+        "value" : "http://rdap.labs.lacnic.net/entity/RCC11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Raul Cesar Carvalho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? do Rio Preto, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? do Rio Preto","SP","04578-000","BR"]],["email",{"type":"work"},"text","RCC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "RCC11"
+      } ],
+      "entities" : [ ],
+      "handle" : "RCC11"
+    } ],
+    "handle" : "BR-LLME2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RCC11",
+      "value" : "http://rdap.labs.lacnic.net/entity/RCC11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Raul Cesar Carvalho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? do Rio Preto, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? do Rio Preto","SP","04578-000","BR"]],["email",{"type":"work"},"text","RCC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RCC11"
+    } ],
+    "entities" : [ ],
+    "handle" : "RCC11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RCC11",
+      "value" : "http://rdap.labs.lacnic.net/entity/RCC11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Raul Cesar Carvalho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Jos? do Rio Preto, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Jos? do Rio Preto","SP","04578-000","BR"]],["email",{"type":"work"},"text","RCC11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RCC11"
+    } ],
+    "entities" : [ ],
+    "handle" : "RCC11"
+  } ],
+  "type" : null,
+  "handle" : "53182-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52364",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52364"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CTFU-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CTFU-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alejandro Alberto Luna"],["adr",{"label":"Juan Elorza 1776 (-)\nFunes, SF 2132\nAR","type":"work"},"text",["","","Juan Elorza 1776 (-)","Funes","SF","2132","AR"]],["email",{"type":"work"},"text","aluna@FUNESCOOP.COM.AR"],["tel",{"type":"work"},"text","54 341 4933240 ()"],["org",{},"text",["COOP DE TELECOM.,DE SERVICIOS MULTIPLES,VIVIENDA,PROVISION Y CONSUMO DE FUNES LTDA."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/AAL",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/AAL"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alejandro Alberto Luna"],["adr",{"label":"Angelomé 1864 ()\nFunes, null 2132\nAR","type":"work"},"text",["","","Angelomé 1864 ()","Funes","","2132","AR"]],["email",{"type":"work"},"text","aluna@FUNESCOOP.COM.AR"],["tel",{"type":"work"},"text","54 341 4931102 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20040211",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20040211",
+        "eventActor" : "AAL"
+      } ],
+      "handle" : "AAL"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040211",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130813",
+      "eventActor" : "AAL"
+    } ],
+    "handle" : "AR-CTFU-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AAL",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AAL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alejandro Alberto Luna"],["adr",{"label":"Angelomé 1864 ()\nFunes, null 2132\nAR","type":"work"},"text",["","","Angelomé 1864 ()","Funes","","2132","AR"]],["email",{"type":"work"},"text","aluna@FUNESCOOP.COM.AR"],["tel",{"type":"work"},"text","54 341 4931102 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040211",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20040211",
+      "eventActor" : "AAL"
+    } ],
+    "handle" : "AAL"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AAL",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AAL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alejandro Alberto Luna"],["adr",{"label":"Angelomé 1864 ()\nFunes, null 2132\nAR","type":"work"},"text",["","","Angelomé 1864 ()","Funes","","2132","AR"]],["email",{"type":"work"},"text","aluna@FUNESCOOP.COM.AR"],["tel",{"type":"work"},"text","54 341 4931102 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040211",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20040211",
+      "eventActor" : "AAL"
+    } ],
+    "handle" : "AAL"
+  } ],
+  "startAutnum" : 52364,
+  "endAutnum" : 52364,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120314",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120314",
+    "eventActor" : "AAL"
+  } ],
+  "type" : null,
+  "handle" : "52364-LACNIC",
+  "country" : "AR"
+}

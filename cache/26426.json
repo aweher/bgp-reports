@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 26426,
+  "endAutnum" : 26426,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/26426",
+    "value" : "http://rdap.labs.lacnic.net/autnum/26426"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20020917",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120928",
+    "eventActor" : "FAA7"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PA-DEST-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/PA-DEST-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Anino"],["adr",{"label":"Plaza Obarrio - (piso 3, oficina 303)\nPanama,  0823-0341\nPA","type":"work"},"text",["","","Plaza Obarrio - (piso 3, oficina 303)","Panama","","0823-0341","PA"]],["email",{"type":"work"},"text","fanino@COLUMBUS-NETWORKS.COM.PA"],["tel",{"type":"work"},"text","507  2060100 ()"],["org",{},"text",["Columbus Networks Panama"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090213",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "FAA7"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FAA7",
+        "value" : "http://rdap.labs.lacnic.net/entity/FAA7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Anino"],["adr",{"label":"Plaza Obarrio  ()\nPanama, PA \nPA","type":"work"},"text",["","","Plaza Obarrio  ()","Panama","PA","","PA"]],["email",{"type":"work"},"text","fanino@COLUMBUS-NETWORKS.COM.PA"],["tel",{"type":"work"},"text","507  66171487 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110324",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120928",
+        "eventActor" : "FAA7"
+      } ],
+      "entities" : [ ],
+      "handle" : "FAA7"
+    } ],
+    "handle" : "PA-DEST-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAA7",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAA7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Anino"],["adr",{"label":"Plaza Obarrio  ()\nPanama, PA \nPA","type":"work"},"text",["","","Plaza Obarrio  ()","Panama","PA","","PA"]],["email",{"type":"work"},"text","fanino@COLUMBUS-NETWORKS.COM.PA"],["tel",{"type":"work"},"text","507  66171487 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110324",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120928",
+      "eventActor" : "FAA7"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAA7"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAA7",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAA7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Anino"],["adr",{"label":"Plaza Obarrio  ()\nPanama, PA \nPA","type":"work"},"text",["","","Plaza Obarrio  ()","Panama","PA","","PA"]],["email",{"type":"work"},"text","fanino@COLUMBUS-NETWORKS.COM.PA"],["tel",{"type":"work"},"text","507  66171487 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110324",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120928",
+      "eventActor" : "FAA7"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAA7"
+  } ],
+  "type" : null,
+  "handle" : "26426-LACNIC",
+  "country" : "PA"
+}

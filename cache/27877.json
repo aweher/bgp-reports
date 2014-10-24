@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27877",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27877"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CTCB-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CTCB-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Coordinador Tecnico-Comercial"],["adr",{"label":"Rivadavia 91 -- ()\nCapit?n Berm?dez, SF S2154BFA\nAR","type":"work"},"text",["","","Rivadavia 91 -- ()","Capit?n Berm?dez","SF","S2154BFA","AR"]],["email",{"type":"work"},"text","coordinador_netcoop@NETCOOP.COM.AR"],["tel",{"type":"work"},"text","54 341 4912200 (252)"],["org",{},"text",["Coop. Telefonica de Capit?n Berm?dez"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GUV6",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GUV6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Coordinador Tecnico-Comercial"],["adr",{"label":"Rivadavia 91 ()\nCapitan Bermudez, SF S2154BFA\nAR","type":"work"},"text",["","","Rivadavia 91 ()","Capitan Bermudez","SF","S2154BFA","AR"]],["email",{"type":"work"},"text","coordinador_netcoop@NETCOOP.COM.AR"],["tel",{"type":"work"},"text","54 341 4912200 (252)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20061025",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130813",
+        "eventActor" : "GUV6"
+      } ],
+      "handle" : "GUV6"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20061101",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130813",
+      "eventActor" : "GUV6"
+    } ],
+    "handle" : "AR-CTCB-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GUV6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GUV6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Coordinador Tecnico-Comercial"],["adr",{"label":"Rivadavia 91 ()\nCapitan Bermudez, SF S2154BFA\nAR","type":"work"},"text",["","","Rivadavia 91 ()","Capitan Bermudez","SF","S2154BFA","AR"]],["email",{"type":"work"},"text","coordinador_netcoop@NETCOOP.COM.AR"],["tel",{"type":"work"},"text","54 341 4912200 (252)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20061025",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130813",
+      "eventActor" : "GUV6"
+    } ],
+    "handle" : "GUV6"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GUV6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GUV6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Coordinador Tecnico-Comercial"],["adr",{"label":"Rivadavia 91 ()\nCapitan Bermudez, SF S2154BFA\nAR","type":"work"},"text",["","","Rivadavia 91 ()","Capitan Bermudez","SF","S2154BFA","AR"]],["email",{"type":"work"},"text","coordinador_netcoop@NETCOOP.COM.AR"],["tel",{"type":"work"},"text","54 341 4912200 (252)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20061025",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130813",
+      "eventActor" : "GUV6"
+    } ],
+    "handle" : "GUV6"
+  } ],
+  "startAutnum" : 27877,
+  "endAutnum" : 27877,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070118",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20070118",
+    "eventActor" : "GUV6"
+  } ],
+  "type" : null,
+  "handle" : "27877-LACNIC",
+  "country" : "AR"
+}

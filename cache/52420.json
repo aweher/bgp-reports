@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52420",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52420"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-INSA19-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-INSA19-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Walter Demald?"],["adr",{"label":"Cid Campeador 440 ()\nRio Tercero,  5850\nAR","type":"work"},"text",["","","Cid Campeador 440 ()","Rio Tercero","","5850","AR"]],["email",{"type":"work"},"text","abuse@ITC.COM.AR"],["tel",{"type":"work"},"text","54 3571 500000 ()"],["org",{},"text",["Intercom SRL"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/WAD2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/WAD2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Walter Demald?"],["adr",{"label":"Cid Campeador 440 ()\nRio Tercero, Cb 5850\nAR","type":"work"},"text",["","","Cid Campeador 440 ()","Rio Tercero","Cb","5850","AR"]],["email",{"type":"work"},"text","abuse@ITC.COM.AR"],["tel",{"type":"work"},"text","54 3571 500001 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20061206",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120801",
+        "eventActor" : "WAD2"
+      } ],
+      "handle" : "WAD2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050812",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140505",
+      "eventActor" : "WAD2"
+    } ],
+    "handle" : "AR-INSA19-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/WAD2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/WAD2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Walter Demald?"],["adr",{"label":"Cid Campeador 440 ()\nRio Tercero, Cb 5850\nAR","type":"work"},"text",["","","Cid Campeador 440 ()","Rio Tercero","Cb","5850","AR"]],["email",{"type":"work"},"text","abuse@ITC.COM.AR"],["tel",{"type":"work"},"text","54 3571 500001 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20061206",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120801",
+      "eventActor" : "WAD2"
+    } ],
+    "handle" : "WAD2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/WAD2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/WAD2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Walter Demald?"],["adr",{"label":"Cid Campeador 440 ()\nRio Tercero, Cb 5850\nAR","type":"work"},"text",["","","Cid Campeador 440 ()","Rio Tercero","Cb","5850","AR"]],["email",{"type":"work"},"text","abuse@ITC.COM.AR"],["tel",{"type":"work"},"text","54 3571 500001 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20061206",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120801",
+      "eventActor" : "WAD2"
+    } ],
+    "handle" : "WAD2"
+  } ],
+  "startAutnum" : 52420,
+  "endAutnum" : 52420,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121106",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121107",
+    "eventActor" : "WAD2"
+  } ],
+  "type" : null,
+  "handle" : "52420-LACNIC",
+  "country" : "AR"
+}

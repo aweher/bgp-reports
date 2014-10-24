@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52737,
+  "endAutnum" : 52737,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52737",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52737"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130129",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130614",
+    "eventActor" : "CAF49"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-FILM1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-FILM1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rede Host"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio dos Cedros, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio dos Cedros","SC","04578-000","BR"]],["email",{"type":"work"},"text","REH4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["org",{},"text",["Floriani Inform?tica Ltda ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130613",
+      "eventActor" : "REH4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/REH4",
+        "value" : "http://rdap.labs.lacnic.net/entity/REH4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rede Host"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGravata?, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Gravata?","RS","04578-000","BR"]],["email",{"type":"work"},"text","REH4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "REH4"
+      } ],
+      "entities" : [ ],
+      "handle" : "REH4"
+    } ],
+    "handle" : "BR-FILM1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CAF49",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAF49"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Celso Ademir Floriani"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio dos Cedros, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio dos Cedros","","04578-000","BR"]],["email",{"type":"work"},"text","CAF49@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130613",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130613",
+      "eventActor" : "CAF49"
+    } ],
+    "entities" : [ ],
+    "handle" : "CAF49"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CAF49",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAF49"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Celso Ademir Floriani"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio dos Cedros, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio dos Cedros","","04578-000","BR"]],["email",{"type":"work"},"text","CAF49@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130613",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130613",
+      "eventActor" : "CAF49"
+    } ],
+    "entities" : [ ],
+    "handle" : "CAF49"
+  } ],
+  "type" : null,
+  "handle" : "52737-LACNIC",
+  "country" : "BR"
+}

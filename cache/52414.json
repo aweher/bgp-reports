@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52414",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52414"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CETL-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CETL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos R. Garcia Lorenzo"],["adr",{"label":"Ruta 8 Km y Sarmiento - Todd s/n ()\nTodd, BA 2754\nAR","type":"work"},"text",["","","Ruta 8 Km y Sarmiento - Todd s/n ()","Todd","BA","2754","AR"]],["email",{"type":"work"},"text","carlos@CRGL.COM.AR"],["tel",{"type":"work"},"text","54 3488 444147 ()"],["org",{},"text",["COOP. ELECTRICA DE TODD LTDA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CRL5",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CRL5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos R. Garcia Lorenzo"],["adr",{"label":"Tucuman 550  ()\nIng. Maschwitz, null 1623\nAR","type":"work"},"text",["","","Tucuman 550  ()","Ing. Maschwitz","","1623","AR"]],["email",{"type":"work"},"text","carlos@CRGL.COM.AR"],["tel",{"type":"work"},"text","54 3488 444147 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120330",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120330",
+        "eventActor" : "CRL5"
+      } ],
+      "handle" : "CRL5"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20051018",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "CRL5"
+    } ],
+    "handle" : "AR-CETL-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CRL5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CRL5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos R. Garcia Lorenzo"],["adr",{"label":"Tucuman 550  ()\nIng. Maschwitz, null 1623\nAR","type":"work"},"text",["","","Tucuman 550  ()","Ing. Maschwitz","","1623","AR"]],["email",{"type":"work"},"text","carlos@CRGL.COM.AR"],["tel",{"type":"work"},"text","54 3488 444147 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120330",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120330",
+      "eventActor" : "CRL5"
+    } ],
+    "handle" : "CRL5"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CRL5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CRL5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos R. Garcia Lorenzo"],["adr",{"label":"Tucuman 550  ()\nIng. Maschwitz, null 1623\nAR","type":"work"},"text",["","","Tucuman 550  ()","Ing. Maschwitz","","1623","AR"]],["email",{"type":"work"},"text","carlos@CRGL.COM.AR"],["tel",{"type":"work"},"text","54 3488 444147 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120330",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120330",
+      "eventActor" : "CRL5"
+    } ],
+    "handle" : "CRL5"
+  } ],
+  "startAutnum" : 52414,
+  "endAutnum" : 52414,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121022",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121022",
+    "eventActor" : "CRL5"
+  } ],
+  "type" : null,
+  "handle" : "52414-LACNIC",
+  "country" : "AR"
+}

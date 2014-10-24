@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52804,
+  "endAutnum" : 52804,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52804",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52804"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121004",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "AAA13"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ESLT24-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ESLT24-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Anesio Arruda de Almeida"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEstreito, MA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Estreito","MA","04578-000","BR"]],["email",{"type":"work"},"text","AAA13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 99 55093511 ()"],["org",{},"text",["ESTREITONET LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140519",
+      "eventActor" : "AAA13"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/AAA13",
+        "value" : "http://rdap.labs.lacnic.net/entity/AAA13"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Anesio Arruda de Almeida"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEstreito, MA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Estreito","MA","04578-000","BR"]],["email",{"type":"work"},"text","AAA13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 99 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "AAA13"
+      } ],
+      "entities" : [ ],
+      "handle" : "AAA13"
+    } ],
+    "handle" : "BR-ESLT24-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AAA13",
+      "value" : "http://rdap.labs.lacnic.net/entity/AAA13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Anesio Arruda de Almeida"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEstreito, MA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Estreito","MA","04578-000","BR"]],["email",{"type":"work"},"text","AAA13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 99 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AAA13"
+    } ],
+    "entities" : [ ],
+    "handle" : "AAA13"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AAA13",
+      "value" : "http://rdap.labs.lacnic.net/entity/AAA13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Anesio Arruda de Almeida"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nEstreito, MA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Estreito","MA","04578-000","BR"]],["email",{"type":"work"},"text","AAA13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 99 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "AAA13"
+    } ],
+    "entities" : [ ],
+    "handle" : "AAA13"
+  } ],
+  "type" : null,
+  "handle" : "52804-LACNIC",
+  "country" : "BR"
+}

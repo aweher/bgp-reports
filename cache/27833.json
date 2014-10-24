@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27833",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27833"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-BVSA1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-BVSA1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rostagno Adrian"],["adr",{"label":"Paran?? 326 P.2 - ()\nBuenos Aires, BA 1017\nAR","type":"work"},"text",["","","Paran?? 326 P.2 - ()","Buenos Aires","BA","1017","AR"]],["email",{"type":"work"},"text","noc@BVCONLINE.COM.AR"],["tel",{"type":"work"},"text","54 291 456 0656 ()"],["org",{},"text",["BVNET S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ROA10",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ROA10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rostagno Adrian"],["adr",{"label":"San Martin 279 ()\nBahia Blanca, null 8000\nAR","type":"work"},"text",["","","San Martin 279 ()","Bahia Blanca","","8000","AR"]],["email",{"type":"work"},"text","noc@BVCONLINE.COM.AR"],["tel",{"type":"work"},"text","54 291 456 0656 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20051130",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20051130",
+        "eventActor" : "ROA10"
+      } ],
+      "handle" : "ROA10"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060106",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "ROA10"
+    } ],
+    "handle" : "AR-BVSA1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ROA10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ROA10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rostagno Adrian"],["adr",{"label":"San Martin 279 ()\nBahia Blanca, null 8000\nAR","type":"work"},"text",["","","San Martin 279 ()","Bahia Blanca","","8000","AR"]],["email",{"type":"work"},"text","noc@BVCONLINE.COM.AR"],["tel",{"type":"work"},"text","54 291 456 0656 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20051130",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20051130",
+      "eventActor" : "ROA10"
+    } ],
+    "handle" : "ROA10"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ROA10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ROA10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rostagno Adrian"],["adr",{"label":"San Martin 279 ()\nBahia Blanca, null 8000\nAR","type":"work"},"text",["","","San Martin 279 ()","Bahia Blanca","","8000","AR"]],["email",{"type":"work"},"text","noc@BVCONLINE.COM.AR"],["tel",{"type":"work"},"text","54 291 456 0656 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20051130",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20051130",
+      "eventActor" : "ROA10"
+    } ],
+    "handle" : "ROA10"
+  } ],
+  "startAutnum" : 27833,
+  "endAutnum" : 27833,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060608",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20060608",
+    "eventActor" : "ROA10"
+  } ],
+  "type" : null,
+  "handle" : "27833-LACNIC",
+  "country" : "AR"
+}

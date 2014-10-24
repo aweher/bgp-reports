@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/26593",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/26593"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TEAR3-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TEAR3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ingenieria de Red - Telespazio"],["adr",{"label":"California 2082 (Oficina D113)\nBuenos Aires, df C1289AAP\nAR","type":"work"},"text",["","","California 2082 (Oficina D113)","Buenos Aires","df","C1289AAP","AR"]],["email",{"type":"work"},"text","ingenieria@TELESPAZIO.NET.AR"],["tel",{"type":"work"},"text","54 11 4301-1300 (138)"],["org",{},"text",["Telespazio Argentina"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/IRT2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/IRT2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ingenieria de Red - Telespazio"],["adr",{"label":"Humbolt 1967 ()\nBuenos Aires, CF C1414CTU\nAR","type":"work"},"text",["","","Humbolt 1967 ()","Buenos Aires","CF","C1414CTU","AR"]],["email",{"type":"work"},"text","ingenieria@TELESPAZIO.NET.AR"],["tel",{"type":"work"},"text","54 11 4852 8700 (111)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20061106",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100311",
+        "eventActor" : "IRT2"
+      } ],
+      "handle" : "IRT2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020905",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "IRT2"
+    } ],
+    "handle" : "AR-TEAR3-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JIZ",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JIZ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Ignacio Zunino"],["adr",{"label":"Humbolt 1967 ()\nBuenos Aires, ba C1414CTU\nAR","type":"work"},"text",["","","Humbolt 1967 ()","Buenos Aires","ba","C1414CTU","AR"]],["email",{"type":"work"},"text","i_zunino@TELESPAZIO.COM.AR"],["tel",{"type":"work"},"text","54 11 4852 8700 (111)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040820",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100312",
+      "eventActor" : "JIZ"
+    } ],
+    "handle" : "JIZ"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JIZ",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JIZ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Ignacio Zunino"],["adr",{"label":"Humbolt 1967 ()\nBuenos Aires, ba C1414CTU\nAR","type":"work"},"text",["","","Humbolt 1967 ()","Buenos Aires","ba","C1414CTU","AR"]],["email",{"type":"work"},"text","i_zunino@TELESPAZIO.COM.AR"],["tel",{"type":"work"},"text","54 11 4852 8700 (111)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040820",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100312",
+      "eventActor" : "JIZ"
+    } ],
+    "handle" : "JIZ"
+  } ],
+  "startAutnum" : 26593,
+  "endAutnum" : 26593,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20020905",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100311",
+    "eventActor" : "JIZ"
+  } ],
+  "type" : null,
+  "handle" : "26593-LACNIC",
+  "country" : "AR"
+}

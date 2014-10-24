@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/13424",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/13424"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-INTE4-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-INTE4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Stifel"],["adr",{"label":"Europa 1969 ()\nSantiago,  6640704\nCL","type":"work"},"text",["","","Europa 1969 ()","Santiago","","6640704","CL"]],["email",{"type":"work"},"text","claudio@INTERCITY.CL"],["tel",{"type":"work"},"text","56 2 2255000 (223)"],["org",{},"text",["Intercity"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CLS",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CLS"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Stifel"],["adr",{"label":"Europa 1969 ()\nSantiago,  7500568\nCL","type":"work"},"text",["","","Europa 1969 ()","Santiago","","7500568","CL"]],["email",{"type":"work"},"text","claudio@INTERCITY.CL"],["tel",{"type":"work"},"text","56 2 22255000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20021203",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130426",
+        "eventActor" : "CLS"
+      } ],
+      "handle" : "CLS"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030822",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "CLS"
+    } ],
+    "handle" : "CL-INTE4-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CLS",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Stifel"],["adr",{"label":"Europa 1969 ()\nSantiago,  7500568\nCL","type":"work"},"text",["","","Europa 1969 ()","Santiago","","7500568","CL"]],["email",{"type":"work"},"text","claudio@INTERCITY.CL"],["tel",{"type":"work"},"text","56 2 22255000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021203",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130426",
+      "eventActor" : "CLS"
+    } ],
+    "handle" : "CLS"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CLS",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio Stifel"],["adr",{"label":"Europa 1969 ()\nSantiago,  7500568\nCL","type":"work"},"text",["","","Europa 1969 ()","Santiago","","7500568","CL"]],["email",{"type":"work"},"text","claudio@INTERCITY.CL"],["tel",{"type":"work"},"text","56 2 22255000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021203",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130426",
+      "eventActor" : "CLS"
+    } ],
+    "handle" : "CLS"
+  } ],
+  "startAutnum" : 13424,
+  "endAutnum" : 13424,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19990602",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20060830",
+    "eventActor" : "CLS"
+  } ],
+  "type" : null,
+  "handle" : "13424-LACNIC",
+  "country" : "CL"
+}

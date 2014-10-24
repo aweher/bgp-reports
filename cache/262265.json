@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262265",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262265"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-FUES2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-FUES2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador Abuse"],["adr",{"label":"Monse?or Pablo Cabrera Km 8,5  ()\nCordoba, CO 5000\nAR","type":"work"},"text",["","","Monse?or Pablo Cabrera Km 8,5  ()","Cordoba","CO","5000","AR"]],["email",{"type":"work"},"text","abuse@TA.TELECOM.COM.AR"],["tel",{"type":"work"},"text","54 351 4757562 (6562)"],["org",{},"text",["Fundaci?n Universidad Empresarial Siglo 21"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ADA",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ADA"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador Abuse"],["adr",{"label":"Alicia Moreau de Justo 50 (-)\nCiudad Aut?noma de Buenos Aires,  1107\nAR","type":"work"},"text",["","","Alicia Moreau de Justo 50 (-)","Ciudad Aut?noma de Buenos Aires","","1107","AR"]],["email",{"type":"work"},"text","abuse@TA.TELECOM.COM.AR"],["tel",{"type":"work"},"text","54 11 49684000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030211",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110316",
+        "eventActor" : "ADA"
+      } ],
+      "handle" : "ADA"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060131",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130807",
+      "eventActor" : "ADA"
+    } ],
+    "handle" : "AR-FUES2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NIB8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NIB8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Nicolas Baldarena"],["adr",{"label":"Monse?or Pablo Cabrera Km 8.5  ()\nCordoba, CB 5000\nAR","type":"work"},"text",["","","Monse?or Pablo Cabrera Km 8.5  ()","Cordoba","CB","5000","AR"]],["email",{"type":"work"},"text","nicolas.baldarena@UES21.EDU.AR"],["tel",{"type":"work"},"text","54 351 4757562 (6562)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130520",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130520",
+      "eventActor" : "NIB8"
+    } ],
+    "handle" : "NIB8"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NIB8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NIB8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Nicolas Baldarena"],["adr",{"label":"Monse?or Pablo Cabrera Km 8.5  ()\nCordoba, CB 5000\nAR","type":"work"},"text",["","","Monse?or Pablo Cabrera Km 8.5  ()","Cordoba","CB","5000","AR"]],["email",{"type":"work"},"text","nicolas.baldarena@UES21.EDU.AR"],["tel",{"type":"work"},"text","54 351 4757562 (6562)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130520",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130520",
+      "eventActor" : "NIB8"
+    } ],
+    "handle" : "NIB8"
+  } ],
+  "startAutnum" : 262265,
+  "endAutnum" : 262265,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130806",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130806",
+    "eventActor" : "NIB8"
+  } ],
+  "type" : null,
+  "handle" : "262265-LACNIC",
+  "country" : "AR"
+}

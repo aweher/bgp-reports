@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61850,
+  "endAutnum" : 61850,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61850",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61850"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140704",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140704",
+    "eventActor" : "ALL27"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CGIT-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CGIT-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonardo da Costa Reis"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlagoinhas, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alagoinhas","","04578-000","BR"]],["email",{"type":"work"},"text","LCR7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["org",{},"text",["Costa Guerra Inf e Telecom LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "LCR7"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LCR7",
+        "value" : "http://rdap.labs.lacnic.net/entity/LCR7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonardo da Costa Reis"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlagoinhas, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alagoinhas","BA","04578-000","BR"]],["email",{"type":"work"},"text","LCR7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LCR7"
+      } ],
+      "entities" : [ ],
+      "handle" : "LCR7"
+    } ],
+    "handle" : "BR-CGIT-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALL27",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALL27"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ANDRE LEAL GUERRA LIRIO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlagoinhas, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alagoinhas","BA","04578-000","BR"]],["email",{"type":"work"},"text","ALL27@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ALL27"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALL27"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ALL27",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALL27"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ANDRE LEAL GUERRA LIRIO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlagoinhas, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alagoinhas","BA","04578-000","BR"]],["email",{"type":"work"},"text","ALL27@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ALL27"
+    } ],
+    "entities" : [ ],
+    "handle" : "ALL27"
+  } ],
+  "type" : null,
+  "handle" : "61850-LACNIC",
+  "country" : "BR"
+}

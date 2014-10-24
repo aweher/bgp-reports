@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52258,
+  "endAutnum" : 52258,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52258",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52258"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100618",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100618",
+    "eventActor" : "FZS"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-DISA2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-DISA2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabian Zambrano Smith"],["adr",{"label":"Calle 100 13 21 (Ofic 301)\nBogota, CU 5700\nCO","type":"work"},"text",["","","Calle 100 13 21 (Ofic 301)","Bogota","CU","5700","CO"]],["email",{"type":"work"},"text","fabian.zambrano@DIGIWARE.NET"],["tel",{"type":"work"},"text","57 1 5082220 (2201)"],["org",{},"text",["Digiware S.A."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080630",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "FZS"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FZS",
+        "value" : "http://rdap.labs.lacnic.net/entity/FZS"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabian Zambrano Smith"],["adr",{"label":"Calle 100 No. 13 21 Ofic 301 571 (5082220)\nBogota,  5700\nCO","type":"work"},"text",["","","Calle 100 No. 13 21 Ofic 301 571 (5082220)","Bogota","","5700","CO"]],["email",{"type":"work"},"text","fabian.zambrano@DIGIWARE.NET"],["tel",{"type":"work"},"text","57 1 5082220 (2308)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080515",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140625",
+        "eventActor" : "FZS"
+      } ],
+      "entities" : [ ],
+      "handle" : "FZS"
+    } ],
+    "handle" : "CO-DISA2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FZS",
+      "value" : "http://rdap.labs.lacnic.net/entity/FZS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabian Zambrano Smith"],["adr",{"label":"Calle 100 No. 13 21 Ofic 301 571 (5082220)\nBogota,  5700\nCO","type":"work"},"text",["","","Calle 100 No. 13 21 Ofic 301 571 (5082220)","Bogota","","5700","CO"]],["email",{"type":"work"},"text","fabian.zambrano@DIGIWARE.NET"],["tel",{"type":"work"},"text","57 1 5082220 (2308)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080515",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140625",
+      "eventActor" : "FZS"
+    } ],
+    "entities" : [ ],
+    "handle" : "FZS"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FZS",
+      "value" : "http://rdap.labs.lacnic.net/entity/FZS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabian Zambrano Smith"],["adr",{"label":"Calle 100 No. 13 21 Ofic 301 571 (5082220)\nBogota,  5700\nCO","type":"work"},"text",["","","Calle 100 No. 13 21 Ofic 301 571 (5082220)","Bogota","","5700","CO"]],["email",{"type":"work"},"text","fabian.zambrano@DIGIWARE.NET"],["tel",{"type":"work"},"text","57 1 5082220 (2308)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080515",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140625",
+      "eventActor" : "FZS"
+    } ],
+    "entities" : [ ],
+    "handle" : "FZS"
+  } ],
+  "type" : null,
+  "handle" : "52258-LACNIC",
+  "country" : "CO"
+}

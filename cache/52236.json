@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52236",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52236"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-GKSA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-GKSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Napoli"],["adr",{"label":"Maipu 33 ()\nSan Nicolas de los Arroyos, BA 2900\nAR","type":"work"},"text",["","","Maipu 33 ()","San Nicolas de los Arroyos","BA","2900","AR"]],["email",{"type":"work"},"text","abuse@G2KHOSTING.COM"],["tel",{"type":"work"},"text","54 3461 430849 ()"],["org",{},"text",["G2KHosting S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MAF10",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAF10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Napoli"],["adr",{"label":"Maipu 33 ()\nSan Nicolas de los Arroyos, BA 2900\nAR","type":"work"},"text",["","","Maipu 33 ()","San Nicolas de los Arroyos","BA","2900","AR"]],["email",{"type":"work"},"text","abuse@G2KHOSTING.COM"],["tel",{"type":"work"},"text","54 3461 430849 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080424",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110513",
+        "eventActor" : "MAF10"
+      } ],
+      "handle" : "MAF10"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080424",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "MAF10"
+    } ],
+    "handle" : "AR-GKSA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAF10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAF10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Napoli"],["adr",{"label":"Maipu 33 ()\nSan Nicolas de los Arroyos, BA 2900\nAR","type":"work"},"text",["","","Maipu 33 ()","San Nicolas de los Arroyos","BA","2900","AR"]],["email",{"type":"work"},"text","abuse@G2KHOSTING.COM"],["tel",{"type":"work"},"text","54 3461 430849 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080424",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110513",
+      "eventActor" : "MAF10"
+    } ],
+    "handle" : "MAF10"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAF10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAF10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Napoli"],["adr",{"label":"Maipu 33 ()\nSan Nicolas de los Arroyos, BA 2900\nAR","type":"work"},"text",["","","Maipu 33 ()","San Nicolas de los Arroyos","BA","2900","AR"]],["email",{"type":"work"},"text","abuse@G2KHOSTING.COM"],["tel",{"type":"work"},"text","54 3461 430849 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080424",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110513",
+      "eventActor" : "MAF10"
+    } ],
+    "handle" : "MAF10"
+  } ],
+  "startAutnum" : 52236,
+  "endAutnum" : 52236,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100412",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100412",
+    "eventActor" : "MAF10"
+  } ],
+  "type" : null,
+  "handle" : "52236-LACNIC",
+  "country" : "AR"
+}

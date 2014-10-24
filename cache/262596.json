@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262596,
+  "endAutnum" : 262596,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262596",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262596"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110922",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140624",
+    "eventActor" : "WMG3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NESA4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NESA4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jaime Gustavo Veras Alves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMarab?, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Marab?","PA","04578-000","BR"]],["email",{"type":"work"},"text","JGA11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["org",{},"text",["Nortelpa Engenharia S.A"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140621",
+      "eventActor" : "JGA11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JGA11",
+        "value" : "http://rdap.labs.lacnic.net/entity/JGA11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jaime Gustavo Veras Alves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMarab?, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Marab?","PA","04578-000","BR"]],["email",{"type":"work"},"text","JGA11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JGA11"
+      } ],
+      "entities" : [ ],
+      "handle" : "JGA11"
+    } ],
+    "handle" : "BR-NESA4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WMG3",
+      "value" : "http://rdap.labs.lacnic.net/entity/WMG3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Wairisson Milhomem Gomes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMarab?, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Marab?","PA","04578-000","BR"]],["email",{"type":"work"},"text","WMG3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140621",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140621",
+      "eventActor" : "WMG3"
+    } ],
+    "entities" : [ ],
+    "handle" : "WMG3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WMG3",
+      "value" : "http://rdap.labs.lacnic.net/entity/WMG3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Wairisson Milhomem Gomes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMarab?, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Marab?","PA","04578-000","BR"]],["email",{"type":"work"},"text","WMG3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140621",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140621",
+      "eventActor" : "WMG3"
+    } ],
+    "entities" : [ ],
+    "handle" : "WMG3"
+  } ],
+  "type" : null,
+  "handle" : "262596-LACNIC",
+  "country" : "BR"
+}

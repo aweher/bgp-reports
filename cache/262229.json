@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262229",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262229"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CLYF3-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CLYF3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Coop. Luz y Fuerza L.G.S.M. Ltda"],["adr",{"label":"Av Carlos Culmey 90 (-)\nPto Rico Misiones,  3334\nAR","type":"work"},"text",["","","Av Carlos Culmey 90 (-)","Pto Rico Misiones","","3334","AR"]],["email",{"type":"work"},"text","mhahn@PRICO.COM.AR"],["tel",{"type":"work"},"text","54 3743 420000 ()"],["org",{},"text",["COOP DE LUZ Y FUERZA DE LIB.GRAL.SAN MARTIN LTDA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CLL",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CLL"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Coop. Luz y Fuerza L.G.S.M. Ltda"],["adr",{"label":"Avda. Carlos Culmey 90 ()\nPuerto Rico, null 3334\nAR","type":"work"},"text",["","","Avda. Carlos Culmey 90 ()","Puerto Rico","","3334","AR"]],["email",{"type":"work"},"text","mhahn@PRICO.COM.AR"],["tel",{"type":"work"},"text","54 3743 420000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20031013",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20031013",
+        "eventActor" : "CLL"
+      } ],
+      "handle" : "CLL"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091027",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "CLL"
+    } ],
+    "handle" : "AR-CLYF3-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CLL",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Coop. Luz y Fuerza L.G.S.M. Ltda"],["adr",{"label":"Avda. Carlos Culmey 90 ()\nPuerto Rico, null 3334\nAR","type":"work"},"text",["","","Avda. Carlos Culmey 90 ()","Puerto Rico","","3334","AR"]],["email",{"type":"work"},"text","mhahn@PRICO.COM.AR"],["tel",{"type":"work"},"text","54 3743 420000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031013",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20031013",
+      "eventActor" : "CLL"
+    } ],
+    "handle" : "CLL"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CLL",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Coop. Luz y Fuerza L.G.S.M. Ltda"],["adr",{"label":"Avda. Carlos Culmey 90 ()\nPuerto Rico, null 3334\nAR","type":"work"},"text",["","","Avda. Carlos Culmey 90 ()","Puerto Rico","","3334","AR"]],["email",{"type":"work"},"text","mhahn@PRICO.COM.AR"],["tel",{"type":"work"},"text","54 3743 420000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031013",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20031013",
+      "eventActor" : "CLL"
+    } ],
+    "handle" : "CLL"
+  } ],
+  "startAutnum" : 262229,
+  "endAutnum" : 262229,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120412",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120413",
+    "eventActor" : "CLL"
+  } ],
+  "type" : null,
+  "handle" : "262229-LACNIC",
+  "country" : "AR"
+}

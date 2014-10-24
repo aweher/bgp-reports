@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53017,
+  "endAutnum" : 53017,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53017",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53017"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110801",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "WES3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-RNTC-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-RNTC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rede Novo Tempo de Comunica??o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJacare?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jacare?","SP","04578-000","BR"]],["email",{"type":"work"},"text","RNC8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 12 55093511 ()"],["org",{},"text",["REDE NOVO TEMPO DE COMUNICA??O"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131129",
+      "eventActor" : "RNC8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RNC8",
+        "value" : "http://rdap.labs.lacnic.net/entity/RNC8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rede Novo Tempo de Comunica??o"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJacare?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jacare?","SP","04578-000","BR"]],["email",{"type":"work"},"text","RNC8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 12 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "RNC8"
+      } ],
+      "entities" : [ ],
+      "handle" : "RNC8"
+    } ],
+    "handle" : "BR-RNTC-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WES3",
+      "value" : "http://rdap.labs.lacnic.net/entity/WES3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","WebMaster - SISAC"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJacare?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jacare?","SP","04578-000","BR"]],["email",{"type":"work"},"text","WES3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 12 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WES3"
+    } ],
+    "entities" : [ ],
+    "handle" : "WES3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WES3",
+      "value" : "http://rdap.labs.lacnic.net/entity/WES3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","WebMaster - SISAC"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJacare?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jacare?","SP","04578-000","BR"]],["email",{"type":"work"},"text","WES3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 12 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WES3"
+    } ],
+    "entities" : [ ],
+    "handle" : "WES3"
+  } ],
+  "type" : null,
+  "handle" : "53017-LACNIC",
+  "country" : "BR"
+}

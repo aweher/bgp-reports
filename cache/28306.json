@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28306,
+  "endAutnum" : 28306,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28306",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28306"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070626",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ABT5"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BTLT13-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BTLT13-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Britis Telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPouso Alegre, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pouso Alegre","MG","04578-000","BR"]],["email",{"type":"work"},"text","BRT9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["org",{},"text",["Britis Telecom LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "BRT9"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/BRT9",
+        "value" : "http://rdap.labs.lacnic.net/entity/BRT9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Britis Telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPouso Alegre, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pouso Alegre","MG","04578-000","BR"]],["email",{"type":"work"},"text","BRT9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "BRT9"
+      } ],
+      "entities" : [ ],
+      "handle" : "BRT9"
+    } ],
+    "handle" : "BR-BTLT13-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ABT5",
+      "value" : "http://rdap.labs.lacnic.net/entity/ABT5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Abuse Britis Telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPouso Alegre, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pouso Alegre","MG","04578-000","BR"]],["email",{"type":"work"},"text","ABT5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ABT5"
+    } ],
+    "entities" : [ ],
+    "handle" : "ABT5"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BRT9",
+      "value" : "http://rdap.labs.lacnic.net/entity/BRT9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Britis Telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPouso Alegre, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pouso Alegre","MG","04578-000","BR"]],["email",{"type":"work"},"text","BRT9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "BRT9"
+    } ],
+    "entities" : [ ],
+    "handle" : "BRT9"
+  } ],
+  "type" : null,
+  "handle" : "28306-LACNIC",
+  "country" : "BR"
+}

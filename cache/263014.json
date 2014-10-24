@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263014,
+  "endAutnum" : 263014,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263014",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263014"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120529",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "EDM50"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-HILM-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-HILM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Monteiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTubar?o, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tubar?o","SC","04578-000","BR"]],["email",{"type":"work"},"text","EDM50@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["org",{},"text",["HN Informatica ltda me"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "EDM50"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EDM50",
+        "value" : "http://rdap.labs.lacnic.net/entity/EDM50"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Monteiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTubar?o, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tubar?o","SC","04578-000","BR"]],["email",{"type":"work"},"text","EDM50@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EDM50"
+      } ],
+      "entities" : [ ],
+      "handle" : "EDM50"
+    } ],
+    "handle" : "BR-HILM-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDM50",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDM50"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Monteiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTubar?o, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tubar?o","SC","04578-000","BR"]],["email",{"type":"work"},"text","EDM50@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EDM50"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDM50"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDM50",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDM50"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Monteiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTubar?o, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tubar?o","SC","04578-000","BR"]],["email",{"type":"work"},"text","EDM50@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 48 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EDM50"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDM50"
+  } ],
+  "type" : null,
+  "handle" : "263014-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262592,
+  "endAutnum" : 262592,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262592",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262592"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110920",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "EDP32"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-IPIL2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-IPIL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Pasa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVideira, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Videira","SC","04578-000","BR"]],["email",{"type":"work"},"text","EDP32@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["org",{},"text",["Infopasa Provedora de Internet Ltda ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "EDP32"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EDP32",
+        "value" : "http://rdap.labs.lacnic.net/entity/EDP32"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Pasa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVideira, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Videira","SC","04578-000","BR"]],["email",{"type":"work"},"text","EDP32@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EDP32"
+      } ],
+      "entities" : [ ],
+      "handle" : "EDP32"
+    } ],
+    "handle" : "BR-IPIL2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDP32",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDP32"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Pasa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVideira, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Videira","SC","04578-000","BR"]],["email",{"type":"work"},"text","EDP32@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EDP32"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDP32"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDP32",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDP32"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Pasa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVideira, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Videira","SC","04578-000","BR"]],["email",{"type":"work"},"text","EDP32@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EDP32"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDP32"
+  } ],
+  "type" : null,
+  "handle" : "262592-LACNIC",
+  "country" : "BR"
+}

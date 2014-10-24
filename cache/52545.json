@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52545,
+  "endAutnum" : 52545,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52545",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52545"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130612",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130612",
+    "eventActor" : "FAS41"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BNPI1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BNPI1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","FABIANO SABINO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBrusque, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Brusque","SC","04578-000","BR"]],["email",{"type":"work"},"text","FAS41@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["org",{},"text",["BJ NET Provedor de Internet Ltda. - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130612",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "FAS41"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FAS41",
+        "value" : "http://rdap.labs.lacnic.net/entity/FAS41"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","FABIANO SABINO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBrusque, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Brusque","SC","04578-000","BR"]],["email",{"type":"work"},"text","FAS41@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FAS41"
+      } ],
+      "entities" : [ ],
+      "handle" : "FAS41"
+    } ],
+    "handle" : "BR-BNPI1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAS41",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAS41"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","FABIANO SABINO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBrusque, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Brusque","SC","04578-000","BR"]],["email",{"type":"work"},"text","FAS41@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FAS41"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAS41"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAS41",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAS41"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","FABIANO SABINO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBrusque, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Brusque","SC","04578-000","BR"]],["email",{"type":"work"},"text","FAS41@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FAS41"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAS41"
+  } ],
+  "type" : null,
+  "handle" : "52545-LACNIC",
+  "country" : "BR"
+}

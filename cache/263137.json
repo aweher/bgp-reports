@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263137,
+  "endAutnum" : 263137,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263137",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263137"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140514",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140514",
+    "eventActor" : "JAC90"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-YILT1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-YILT1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","DENIS CRISTHIAN FERREIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVilhena, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vilhena","","04578-000","BR"]],["email",{"type":"work"},"text","DCF6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 69 55093511 ()"],["org",{},"text",["YUNE INFORMATICA LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "DCF6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DCF6",
+        "value" : "http://rdap.labs.lacnic.net/entity/DCF6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","DENIS CRISTHIAN FERREIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVilhena, RO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vilhena","RO","04578-000","BR"]],["email",{"type":"work"},"text","DCF6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 69 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DCF6"
+      } ],
+      "entities" : [ ],
+      "handle" : "DCF6"
+    } ],
+    "handle" : "BR-YILT1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JAC90",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAC90"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Janderson Camara"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVilhena, RO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vilhena","RO","04578-000","BR"]],["email",{"type":"work"},"text","JAC90@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 33 2255093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131205",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131205",
+      "eventActor" : "JAC90"
+    } ],
+    "entities" : [ ],
+    "handle" : "JAC90"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JAC90",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAC90"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Janderson Camara"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVilhena, RO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Vilhena","RO","04578-000","BR"]],["email",{"type":"work"},"text","JAC90@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 33 2255093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131205",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131205",
+      "eventActor" : "JAC90"
+    } ],
+    "entities" : [ ],
+    "handle" : "JAC90"
+  } ],
+  "type" : null,
+  "handle" : "263137-LACNIC",
+  "country" : "BR"
+}

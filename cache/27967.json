@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27967",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27967"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-GLPB-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-GLPB-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Alejandro Del Roio"],["adr",{"label":"Calle 6 entre 51 y 53 1 pis ()\nLa Plata, AR 1900\nAR","type":"work"},"text",["","","Calle 6 entre 51 y 53 1 pis ()","La Plata","AR","1900","AR"]],["email",{"type":"work"},"text","ddelroio@GBA.GOV.AR"],["tel",{"type":"work"},"text","54 221 4294355 ()"],["org",{},"text",["Gobernacion de la Provincia de Buenos Aires"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/DAR9",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAR9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Alejandro Del Roio"],["adr",{"label":"calle 50 esquina diagonal 80 1 pis ()\nLa Plata, BA 1900\nAR","type":"work"},"text",["","","calle 50 esquina diagonal 80 1 pis ()","La Plata","BA","1900","AR"]],["email",{"type":"work"},"text","ddelroio@GBA.GOV.AR"],["tel",{"type":"work"},"text","54 221 4294141 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050506",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20060918",
+        "eventActor" : "DAR9"
+      } ],
+      "handle" : "DAR9"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050506",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130118",
+      "eventActor" : "DAR9"
+    } ],
+    "handle" : "AR-GLPB-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DAR9",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAR9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Alejandro Del Roio"],["adr",{"label":"calle 50 esquina diagonal 80 1 pis ()\nLa Plata, BA 1900\nAR","type":"work"},"text",["","","calle 50 esquina diagonal 80 1 pis ()","La Plata","BA","1900","AR"]],["email",{"type":"work"},"text","ddelroio@GBA.GOV.AR"],["tel",{"type":"work"},"text","54 221 4294141 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050506",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060918",
+      "eventActor" : "DAR9"
+    } ],
+    "handle" : "DAR9"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DAR9",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAR9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Alejandro Del Roio"],["adr",{"label":"calle 50 esquina diagonal 80 1 pis ()\nLa Plata, BA 1900\nAR","type":"work"},"text",["","","calle 50 esquina diagonal 80 1 pis ()","La Plata","BA","1900","AR"]],["email",{"type":"work"},"text","ddelroio@GBA.GOV.AR"],["tel",{"type":"work"},"text","54 221 4294141 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050506",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060918",
+      "eventActor" : "DAR9"
+    } ],
+    "handle" : "DAR9"
+  } ],
+  "startAutnum" : 27967,
+  "endAutnum" : 27967,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080414",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080414",
+    "eventActor" : "DAR9"
+  } ],
+  "type" : null,
+  "handle" : "27967-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52363",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52363"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-FDCR-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-FDCR-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","walter rosso"],["adr",{"label":"Maure 2426 ()\nPablo Noguez, BA 1613\nAR","type":"work"},"text",["","","Maure 2426 ()","Pablo Noguez","BA","1613","AR"]],["email",{"type":"work"},"text","e_pulses@HOTMAIL.COM"],["tel",{"type":"work"},"text","054 011 60911000 ()"],["org",{},"text",["Jumpnet Soluciones de Internet S.R.L."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/WAR7",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/WAR7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","walter rosso"],["adr",{"label":"donizetti 41 (local 17)\nbuenos aires caba, null 1759\nAR","type":"work"},"text",["","","donizetti 41 (local 17)","buenos aires caba","","1759","AR"]],["email",{"type":"work"},"text","e_pulses@HOTMAIL.COM"],["tel",{"type":"work"},"text","0054 011 4682 (5773)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100510",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100510",
+        "eventActor" : "WAR7"
+      } ],
+      "handle" : "WAR7"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100527",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "WAR7"
+    } ],
+    "handle" : "AR-FDCR-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RBM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RBM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Roberto Boero Mansilla"],["adr",{"label":"Los nogales 535 (1)\nMarcos Paz, Buenos Aires, BA 1727\nAR","type":"work"},"text",["","","Los nogales 535 (1)","Marcos Paz, Buenos Aires","BA","1727","AR"]],["email",{"type":"work"},"text","rboero@SOMTIK.COM"],["tel",{"type":"work"},"text","54 11 6632 (9000)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071127",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130604",
+      "eventActor" : "RBM"
+    } ],
+    "handle" : "RBM"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RBM",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RBM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Roberto Boero Mansilla"],["adr",{"label":"Los nogales 535 (1)\nMarcos Paz, Buenos Aires, BA 1727\nAR","type":"work"},"text",["","","Los nogales 535 (1)","Marcos Paz, Buenos Aires","BA","1727","AR"]],["email",{"type":"work"},"text","rboero@SOMTIK.COM"],["tel",{"type":"work"},"text","54 11 6632 (9000)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071127",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130604",
+      "eventActor" : "RBM"
+    } ],
+    "handle" : "RBM"
+  } ],
+  "startAutnum" : 52363,
+  "endAutnum" : 52363,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120309",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120309",
+    "eventActor" : "RBM"
+  } ],
+  "type" : null,
+  "handle" : "52363-LACNIC",
+  "country" : "AR"
+}

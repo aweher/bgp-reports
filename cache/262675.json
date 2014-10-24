@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262675,
+  "endAutnum" : 262675,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262675",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262675"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120613",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "LUM30"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SNPL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SNPL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano Machado"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nParanava?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Paranava?","PR","04578-000","BR"]],["email",{"type":"work"},"text","LUM30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["org",{},"text",["Solucao Network Provedor Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "LUM30"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LUM30",
+        "value" : "http://rdap.labs.lacnic.net/entity/LUM30"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano Machado"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nParanava?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Paranava?","PR","04578-000","BR"]],["email",{"type":"work"},"text","LUM30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LUM30"
+      } ],
+      "entities" : [ ],
+      "handle" : "LUM30"
+    } ],
+    "handle" : "BR-SNPL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LUM30",
+      "value" : "http://rdap.labs.lacnic.net/entity/LUM30"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano Machado"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nParanava?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Paranava?","PR","04578-000","BR"]],["email",{"type":"work"},"text","LUM30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LUM30"
+    } ],
+    "entities" : [ ],
+    "handle" : "LUM30"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LUM30",
+      "value" : "http://rdap.labs.lacnic.net/entity/LUM30"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano Machado"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nParanava?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Paranava?","PR","04578-000","BR"]],["email",{"type":"work"},"text","LUM30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LUM30"
+    } ],
+    "entities" : [ ],
+    "handle" : "LUM30"
+  } ],
+  "type" : null,
+  "handle" : "262675-LACNIC",
+  "country" : "BR"
+}

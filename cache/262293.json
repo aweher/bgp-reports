@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262293,
+  "endAutnum" : 262293,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262293",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262293"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120712",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "SMM11"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SOSL2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SOSL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Stella Maris Marques Freire de Medeiros"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMossor?, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mossor?","RN","04578-000","BR"]],["email",{"type":"work"},"text","SMM11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["org",{},"text",["Sistema Oeste de Servi?os LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130626",
+      "eventActor" : "SMM11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SMM11",
+        "value" : "http://rdap.labs.lacnic.net/entity/SMM11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Stella Maris Marques Freire de Medeiros"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMossor?, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mossor?","RN","04578-000","BR"]],["email",{"type":"work"},"text","SMM11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SMM11"
+      } ],
+      "entities" : [ ],
+      "handle" : "SMM11"
+    } ],
+    "handle" : "BR-SOSL2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SMM11",
+      "value" : "http://rdap.labs.lacnic.net/entity/SMM11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Stella Maris Marques Freire de Medeiros"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMossor?, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mossor?","RN","04578-000","BR"]],["email",{"type":"work"},"text","SMM11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SMM11"
+    } ],
+    "entities" : [ ],
+    "handle" : "SMM11"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SMM11",
+      "value" : "http://rdap.labs.lacnic.net/entity/SMM11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Stella Maris Marques Freire de Medeiros"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMossor?, RN 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Mossor?","RN","04578-000","BR"]],["email",{"type":"work"},"text","SMM11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 84 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SMM11"
+    } ],
+    "entities" : [ ],
+    "handle" : "SMM11"
+  } ],
+  "type" : null,
+  "handle" : "262293-LACNIC",
+  "country" : "BR"
+}

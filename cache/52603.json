@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52603,
+  "endAutnum" : 52603,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52603",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52603"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130321",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131016",
+    "eventActor" : "SNL13"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-GSCD-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-GSCD-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cristiano Oliveira Cavalcante"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmeira dos ?ndios, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmeira dos ?ndios","AL","04578-000","BR"]],["email",{"type":"work"},"text","COC24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["org",{},"text",["Supply Net Servi?os Ltda - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140612",
+      "eventActor" : "COC24"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/COC24",
+        "value" : "http://rdap.labs.lacnic.net/entity/COC24"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cristiano Oliveira Cavalcante"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMacei?, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Macei?","AL","04578-000","BR"]],["email",{"type":"work"},"text","COC24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130419",
+        "eventActor" : "COC24"
+      } ],
+      "entities" : [ ],
+      "handle" : "COC24"
+    } ],
+    "handle" : "BR-GSCD-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SNL13",
+      "value" : "http://rdap.labs.lacnic.net/entity/SNL13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Supply Net Servi?os Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmeira dos ?ndios, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmeira dos ?ndios","AL","04578-000","BR"]],["email",{"type":"work"},"text","SNL13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131016",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131016",
+      "eventActor" : "SNL13"
+    } ],
+    "entities" : [ ],
+    "handle" : "SNL13"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SNL13",
+      "value" : "http://rdap.labs.lacnic.net/entity/SNL13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Supply Net Servi?os Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmeira dos ?ndios, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmeira dos ?ndios","AL","04578-000","BR"]],["email",{"type":"work"},"text","SNL13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131016",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131016",
+      "eventActor" : "SNL13"
+    } ],
+    "entities" : [ ],
+    "handle" : "SNL13"
+  } ],
+  "type" : null,
+  "handle" : "52603-LACNIC",
+  "country" : "BR"
+}

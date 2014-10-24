@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52624,
+  "endAutnum" : 52624,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52624",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52624"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130403",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130403",
+    "eventActor" : "EMM7"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-EMPL2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-EMPL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EDSON MARTINS DE MOURA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmares, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmares","PE","04578-000","BR"]],["email",{"type":"work"},"text","EMM7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["org",{},"text",["EDSON MARTINS PROVEDOR LTDA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "EMM7"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EMM7",
+        "value" : "http://rdap.labs.lacnic.net/entity/EMM7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EDSON MARTINS DE MOURA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmares, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmares","PE","04578-000","BR"]],["email",{"type":"work"},"text","EMM7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EMM7"
+      } ],
+      "entities" : [ ],
+      "handle" : "EMM7"
+    } ],
+    "handle" : "BR-EMPL2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EMM7",
+      "value" : "http://rdap.labs.lacnic.net/entity/EMM7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EDSON MARTINS DE MOURA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmares, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmares","PE","04578-000","BR"]],["email",{"type":"work"},"text","EMM7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EMM7"
+    } ],
+    "entities" : [ ],
+    "handle" : "EMM7"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EMM7",
+      "value" : "http://rdap.labs.lacnic.net/entity/EMM7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EDSON MARTINS DE MOURA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmares, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmares","PE","04578-000","BR"]],["email",{"type":"work"},"text","EMM7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EMM7"
+    } ],
+    "entities" : [ ],
+    "handle" : "EMM7"
+  } ],
+  "type" : null,
+  "handle" : "52624-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262332,
+  "endAutnum" : 262332,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262332",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262332"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111226",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ARR25"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-AILM1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-AILM1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andr? Raphael Radloff"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPresidente Get?lio, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Presidente Get?lio","SC","04578-000","BR"]],["email",{"type":"work"},"text","ARR25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["org",{},"text",["AGI Inform?tica Ltda ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "ARR25"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ARR25",
+        "value" : "http://rdap.labs.lacnic.net/entity/ARR25"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andr? Raphael Radloff"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPresidente Get?lio, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Presidente Get?lio","SC","04578-000","BR"]],["email",{"type":"work"},"text","ARR25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ARR25"
+      } ],
+      "entities" : [ ],
+      "handle" : "ARR25"
+    } ],
+    "handle" : "BR-AILM1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ARR25",
+      "value" : "http://rdap.labs.lacnic.net/entity/ARR25"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andr? Raphael Radloff"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPresidente Get?lio, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Presidente Get?lio","SC","04578-000","BR"]],["email",{"type":"work"},"text","ARR25@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ARR25"
+    } ],
+    "entities" : [ ],
+    "handle" : "ARR25"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CTB6",
+      "value" : "http://rdap.labs.lacnic.net/entity/CTB6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudemir Todo Bom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCacador, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cacador","SC","04578-000","BR"]],["email",{"type":"work"},"text","CTB6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CTB6"
+    } ],
+    "entities" : [ ],
+    "handle" : "CTB6"
+  } ],
+  "type" : null,
+  "handle" : "262332-LACNIC",
+  "country" : "BR"
+}

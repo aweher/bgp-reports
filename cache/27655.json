@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27655",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27655"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-YPSA1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-YPSA1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andr?s R. Rodriguez"],["adr",{"label":"Macacha Guemes 515 ()\nBuenos Aires,  C1106BKK\nAR","type":"work"},"text",["","","Macacha Guemes 515 ()","Buenos Aires","","C1106BKK","AR"]],["email",{"type":"work"},"text","arodriguez@YPF.COM"],["tel",{"type":"work"},"text","54 11 54412000 ()"],["org",{},"text",["YPF S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ARR",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ARR"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andr?s R. Rodriguez"],["adr",{"label":"Macacha Guemes 515 (Cuarto Piso)\nBuenos Aires, CF C1106BKK\nAR","type":"work"},"text",["","","Macacha Guemes 515 (Cuarto Piso)","Buenos Aires","CF","C1106BKK","AR"]],["email",{"type":"work"},"text","arodriguez@YPF.COM"],["tel",{"type":"work"},"text","54 11 54412595 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20021212",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121203",
+        "eventActor" : "ARR"
+      } ],
+      "handle" : "ARR"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021213",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "ARR"
+    } ],
+    "handle" : "AR-YPSA1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ARR",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ARR"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andr?s R. Rodriguez"],["adr",{"label":"Macacha Guemes 515 (Cuarto Piso)\nBuenos Aires, CF C1106BKK\nAR","type":"work"},"text",["","","Macacha Guemes 515 (Cuarto Piso)","Buenos Aires","CF","C1106BKK","AR"]],["email",{"type":"work"},"text","arodriguez@YPF.COM"],["tel",{"type":"work"},"text","54 11 54412595 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021212",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121203",
+      "eventActor" : "ARR"
+    } ],
+    "handle" : "ARR"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ARR",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ARR"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Andr?s R. Rodriguez"],["adr",{"label":"Macacha Guemes 515 (Cuarto Piso)\nBuenos Aires, CF C1106BKK\nAR","type":"work"},"text",["","","Macacha Guemes 515 (Cuarto Piso)","Buenos Aires","CF","C1106BKK","AR"]],["email",{"type":"work"},"text","arodriguez@YPF.COM"],["tel",{"type":"work"},"text","54 11 54412595 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021212",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121203",
+      "eventActor" : "ARR"
+    } ],
+    "handle" : "ARR"
+  } ],
+  "startAutnum" : 27655,
+  "endAutnum" : 27655,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20030812",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20030812",
+    "eventActor" : "ARR"
+  } ],
+  "type" : null,
+  "handle" : "27655-LACNIC",
+  "country" : "AR"
+}

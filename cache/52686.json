@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52686,
+  "endAutnum" : 52686,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52686",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52686"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121212",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "FAF21"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-FAME-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-FAME-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Fantini"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAmparo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Amparo","SP","04578-000","BR"]],["email",{"type":"work"},"text","FAF21@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["F.J.FANTINI AMPARO ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130517",
+      "eventActor" : "FAF21"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FAF21",
+        "value" : "http://rdap.labs.lacnic.net/entity/FAF21"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Fantini"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAmparo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Amparo","SP","04578-000","BR"]],["email",{"type":"work"},"text","FAF21@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FAF21"
+      } ],
+      "entities" : [ ],
+      "handle" : "FAF21"
+    } ],
+    "handle" : "BR-FAME-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAF21",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAF21"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Fantini"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAmparo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Amparo","SP","04578-000","BR"]],["email",{"type":"work"},"text","FAF21@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FAF21"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAF21"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FAF21",
+      "value" : "http://rdap.labs.lacnic.net/entity/FAF21"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fabio Fantini"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAmparo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Amparo","SP","04578-000","BR"]],["email",{"type":"work"},"text","FAF21@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FAF21"
+    } ],
+    "entities" : [ ],
+    "handle" : "FAF21"
+  } ],
+  "type" : null,
+  "handle" : "52686-LACNIC",
+  "country" : "BR"
+}

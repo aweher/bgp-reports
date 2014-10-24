@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53219,
+  "endAutnum" : 53219,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53219",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53219"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101028",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "VAL12"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VISL1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VISL1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Valcir Lisboa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNil?polis, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Nil?polis","RJ","04578-000","BR"]],["email",{"type":"work"},"text","VAL12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["org",{},"text",["VLC Internet e Servi?os Ltda ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "VAL12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/VAL12",
+        "value" : "http://rdap.labs.lacnic.net/entity/VAL12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Valcir Lisboa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNil?polis, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Nil?polis","RJ","04578-000","BR"]],["email",{"type":"work"},"text","VAL12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "VAL12"
+      } ],
+      "entities" : [ ],
+      "handle" : "VAL12"
+    } ],
+    "handle" : "BR-VISL1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VAL12",
+      "value" : "http://rdap.labs.lacnic.net/entity/VAL12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Valcir Lisboa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNil?polis, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Nil?polis","RJ","04578-000","BR"]],["email",{"type":"work"},"text","VAL12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VAL12"
+    } ],
+    "entities" : [ ],
+    "handle" : "VAL12"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VAL12",
+      "value" : "http://rdap.labs.lacnic.net/entity/VAL12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Valcir Lisboa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNil?polis, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Nil?polis","RJ","04578-000","BR"]],["email",{"type":"work"},"text","VAL12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "VAL12"
+    } ],
+    "entities" : [ ],
+    "handle" : "VAL12"
+  } ],
+  "type" : null,
+  "handle" : "53219-LACNIC",
+  "country" : "BR"
+}

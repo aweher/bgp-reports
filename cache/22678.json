@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/22678",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/22678"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-OSDE2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-OSDE2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Enrique Demetri"],["adr",{"label":"Av. Leandro N. Alem 1067 (P17)\nBuenos Aires, null 1001\nAR","type":"work"},"text",["","","Av. Leandro N. Alem 1067 (P17)","Buenos Aires","","1001","AR"]],["email",{"type":"work"},"text","edemetri@OSDE.COM.AR"],["tel",{"type":"work"},"text","54 11 45105531 ()"],["org",{},"text",["OSDE"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/END",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/END"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Enrique Demetri"],["adr",{"label":"L. N. Alem 1067 (P 17)\nBuenos Aires, null 1001\nAR","type":"work"},"text",["","","L. N. Alem 1067 (P 17)","Buenos Aires","","1001","AR"]],["email",{"type":"work"},"text","edemetri@OSDE.COM.AR"],["tel",{"type":"work"},"text","54 11 45105531 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20070517",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20070517",
+        "eventActor" : "END"
+      } ],
+      "handle" : "END"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070517",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070517",
+      "eventActor" : "END"
+    } ],
+    "handle" : "AR-OSDE2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/END",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/END"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Enrique Demetri"],["adr",{"label":"L. N. Alem 1067 (P 17)\nBuenos Aires, null 1001\nAR","type":"work"},"text",["","","L. N. Alem 1067 (P 17)","Buenos Aires","","1001","AR"]],["email",{"type":"work"},"text","edemetri@OSDE.COM.AR"],["tel",{"type":"work"},"text","54 11 45105531 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070517",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070517",
+      "eventActor" : "END"
+    } ],
+    "handle" : "END"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/END",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/END"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Enrique Demetri"],["adr",{"label":"L. N. Alem 1067 (P 17)\nBuenos Aires, null 1001\nAR","type":"work"},"text",["","","L. N. Alem 1067 (P 17)","Buenos Aires","","1001","AR"]],["email",{"type":"work"},"text","edemetri@OSDE.COM.AR"],["tel",{"type":"work"},"text","54 11 45105531 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070517",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070517",
+      "eventActor" : "END"
+    } ],
+    "handle" : "END"
+  } ],
+  "startAutnum" : 22678,
+  "endAutnum" : 22678,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20011102",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20030918",
+    "eventActor" : "END"
+  } ],
+  "type" : null,
+  "handle" : "22678-LACNIC",
+  "country" : "AR"
+}

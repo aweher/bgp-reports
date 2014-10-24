@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52543,
+  "endAutnum" : 52543,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52543",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52543"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130612",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130612",
+    "eventActor" : "MFN8"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ACSI6-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ACSI6-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mario Forli Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBoca da Mata, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Boca da Mata","AL","04578-000","BR"]],["email",{"type":"work"},"text","MFN8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["org",{},"text",["atl com?rcio e servi?os de inform?tica ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130404",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130613",
+      "eventActor" : "MFN8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MFN8",
+        "value" : "http://rdap.labs.lacnic.net/entity/MFN8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mario Forli Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio de Janeiro, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio de Janeiro","","04578-000","BR"]],["email",{"type":"work"},"text","MFN8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130404",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130404",
+        "eventActor" : "MFN8"
+      } ],
+      "entities" : [ ],
+      "handle" : "MFN8"
+    } ],
+    "handle" : "BR-ACSI6-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MFN8",
+      "value" : "http://rdap.labs.lacnic.net/entity/MFN8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mario Forli Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio de Janeiro, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio de Janeiro","","04578-000","BR"]],["email",{"type":"work"},"text","MFN8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130404",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130404",
+      "eventActor" : "MFN8"
+    } ],
+    "entities" : [ ],
+    "handle" : "MFN8"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MFN8",
+      "value" : "http://rdap.labs.lacnic.net/entity/MFN8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mario Forli Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio de Janeiro, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio de Janeiro","","04578-000","BR"]],["email",{"type":"work"},"text","MFN8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130404",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130404",
+      "eventActor" : "MFN8"
+    } ],
+    "entities" : [ ],
+    "handle" : "MFN8"
+  } ],
+  "type" : null,
+  "handle" : "52543-LACNIC",
+  "country" : "BR"
+}

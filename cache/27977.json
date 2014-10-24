@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27977",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27977"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-IASA10-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-IASA10-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Guillermo"],["adr",{"label":"Hipolito Yrigoyen 2149 ()\nMartinez,  1640\nAR","type":"work"},"text",["","","Hipolito Yrigoyen 2149 ()","Martinez","","1640","AR"]],["email",{"type":"work"},"text","garciagg@AR.IBM.COM"],["tel",{"type":"work"},"text","54 11 4898 (4599)"],["org",{},"text",["IBM Argentina S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GUG10",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GUG10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Guillermo"],["adr",{"label":"Hipolito Yrigoyen 2149 ()\nMartinez, null 2149\nAR","type":"work"},"text",["","","Hipolito Yrigoyen 2149 ()","Martinez","","2149","AR"]],["email",{"type":"work"},"text","garciagg@AR.IBM.COM"],["tel",{"type":"work"},"text","54 11 5070-4289 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20071020",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20071020",
+        "eventActor" : "GUG10"
+      } ],
+      "handle" : "GUG10"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20051014",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080130",
+      "eventActor" : "GUG10"
+    } ],
+    "handle" : "AR-IASA10-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GUG10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GUG10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Guillermo"],["adr",{"label":"Hipolito Yrigoyen 2149 ()\nMartinez, null 2149\nAR","type":"work"},"text",["","","Hipolito Yrigoyen 2149 ()","Martinez","","2149","AR"]],["email",{"type":"work"},"text","garciagg@AR.IBM.COM"],["tel",{"type":"work"},"text","54 11 5070-4289 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071020",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20071020",
+      "eventActor" : "GUG10"
+    } ],
+    "handle" : "GUG10"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GUG10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GUG10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Guillermo"],["adr",{"label":"Hipolito Yrigoyen 2149 ()\nMartinez, null 2149\nAR","type":"work"},"text",["","","Hipolito Yrigoyen 2149 ()","Martinez","","2149","AR"]],["email",{"type":"work"},"text","garciagg@AR.IBM.COM"],["tel",{"type":"work"},"text","54 11 5070-4289 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071020",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20071020",
+      "eventActor" : "GUG10"
+    } ],
+    "handle" : "GUG10"
+  } ],
+  "startAutnum" : 27977,
+  "endAutnum" : 27977,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080612",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080612",
+    "eventActor" : "GUG10"
+  } ],
+  "type" : null,
+  "handle" : "27977-LACNIC",
+  "country" : "AR"
+}

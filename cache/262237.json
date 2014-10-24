@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262237",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262237"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-ORSA14-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-ORSA14-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Andres Olea"],["adr",{"label":"La Concepci?n 141 (oficina 1007)\nSantiago de Chile, RM 7500010\nCL","type":"work"},"text",["","","La Concepci?n 141 (oficina 1007)","Santiago de Chile","RM","7500010","CL"]],["email",{"type":"work"},"text","jose.olea@ORBYTA.COM"],["tel",{"type":"work"},"text","56 2 6160000 ()"],["org",{},"text",["Orbyta S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JAO",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JAO"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Andres Olea"],["adr",{"label":"La Concecpion 141 (Of 1007)\nSantiago, RM 7500010\nCL","type":"work"},"text",["","","La Concecpion 141 (Of 1007)","Santiago","RM","7500010","CL"]],["email",{"type":"work"},"text","jose.olea@ORBYTA.COM"],["tel",{"type":"work"},"text","56 02 6160000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20020906",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140402",
+        "eventActor" : "JAO"
+      } ],
+      "handle" : "JAO"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120523",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "JAO"
+    } ],
+    "handle" : "CL-ORSA14-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JAO",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAO"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Andres Olea"],["adr",{"label":"La Concecpion 141 (Of 1007)\nSantiago, RM 7500010\nCL","type":"work"},"text",["","","La Concecpion 141 (Of 1007)","Santiago","RM","7500010","CL"]],["email",{"type":"work"},"text","jose.olea@ORBYTA.COM"],["tel",{"type":"work"},"text","56 02 6160000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020906",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140402",
+      "eventActor" : "JAO"
+    } ],
+    "handle" : "JAO"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JAO",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAO"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Andres Olea"],["adr",{"label":"La Concecpion 141 (Of 1007)\nSantiago, RM 7500010\nCL","type":"work"},"text",["","","La Concecpion 141 (Of 1007)","Santiago","RM","7500010","CL"]],["email",{"type":"work"},"text","jose.olea@ORBYTA.COM"],["tel",{"type":"work"},"text","56 02 6160000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020906",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140402",
+      "eventActor" : "JAO"
+    } ],
+    "handle" : "JAO"
+  } ],
+  "startAutnum" : 262237,
+  "endAutnum" : 262237,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120605",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120606",
+    "eventActor" : "JAO"
+  } ],
+  "type" : null,
+  "handle" : "262237-LACNIC",
+  "country" : "CL"
+}

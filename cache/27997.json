@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27997",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27997"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CLEY1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CLEY1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Rivero Singh"],["adr",{"label":"Suipacha 272 ()\nHuinca Renanc?, CO 6270\nAR","type":"work"},"text",["","","Suipacha 272 ()","Huinca Renanc?","CO","6270","AR"]],["email",{"type":"work"},"text","edrivero@HUINCACOOP.COM.AR"],["tel",{"type":"work"},"text","54 23 3649-4445 ()"],["org",{},"text",["Coop. Ltda de Electricidad y Servicios Anexos de Huinca Renanc?"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ERS5",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ERS5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Rivero Singh"],["adr",{"label":"Guemes 445 ()\nHuinca Renancó, null 6270\nAR","type":"work"},"text",["","","Guemes 445 ()","Huinca Renancó","","6270","AR"]],["email",{"type":"work"},"text","edrivero@HUINCACOOP.COM.AR"],["tel",{"type":"work"},"text","0054 2336 494445 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20070412",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20070412",
+        "eventActor" : "ERS5"
+      } ],
+      "handle" : "ERS5"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070712",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "ERS5"
+    } ],
+    "handle" : "AR-CLEY1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ERS5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ERS5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Rivero Singh"],["adr",{"label":"Guemes 445 ()\nHuinca Renancó, null 6270\nAR","type":"work"},"text",["","","Guemes 445 ()","Huinca Renancó","","6270","AR"]],["email",{"type":"work"},"text","edrivero@HUINCACOOP.COM.AR"],["tel",{"type":"work"},"text","0054 2336 494445 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070412",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070412",
+      "eventActor" : "ERS5"
+    } ],
+    "handle" : "ERS5"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ERS5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ERS5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Rivero Singh"],["adr",{"label":"Guemes 445 ()\nHuinca Renancó, null 6270\nAR","type":"work"},"text",["","","Guemes 445 ()","Huinca Renancó","","6270","AR"]],["email",{"type":"work"},"text","edrivero@HUINCACOOP.COM.AR"],["tel",{"type":"work"},"text","0054 2336 494445 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070412",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070412",
+      "eventActor" : "ERS5"
+    } ],
+    "handle" : "ERS5"
+  } ],
+  "startAutnum" : 27997,
+  "endAutnum" : 27997,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080911",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080911",
+    "eventActor" : "ERS5"
+  } ],
+  "type" : null,
+  "handle" : "27997-LACNIC",
+  "country" : "AR"
+}

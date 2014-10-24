@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/263219",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263219"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-WASA1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-WASA1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Emilio Alemis"],["adr",{"label":"CONCEPCIÓN ARENAL 3425 (P 3° OF \"35\")\nCapital Federal, null -\nAR","type":"work"},"text",["","","CONCEPCIÓN ARENAL 3425 (P 3° OF \"35\")","Capital Federal","","-","AR"]],["email",{"type":"work"},"text","emilio@WIRCOMARGENTINA.COM.AR"],["tel",{"type":"work"},"text","54 011 4554-2461 ()"],["org",{},"text",["WIRCOM ARGENTINA S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JEA2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JEA2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Emilio Alemis"],["adr",{"label":"Concepcion Arenal 3425 (3ro 35)\nBuenos Aires, null 1427\nAR","type":"work"},"text",["","","Concepcion Arenal 3425 (3ro 35)","Buenos Aires","","1427","AR"]],["email",{"type":"work"},"text","emilio@WIRCOMARGENTINA.COM.AR"],["tel",{"type":"work"},"text","54 11 45542461 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050304",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20050304",
+        "eventActor" : "JEA2"
+      } ],
+      "handle" : "JEA2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050309",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20050309",
+      "eventActor" : "JEA2"
+    } ],
+    "handle" : "AR-WASA1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SEB12",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SEB12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Barrientos"],["adr",{"label":"San Martin 412 ()\nMagdalena, BA 1913\nAR","type":"work"},"text",["","","San Martin 412 ()","Magdalena","BA","1913","AR"]],["email",{"type":"work"},"text","soportetecnico@MDISOLUCIONES.COM.AR"],["tel",{"type":"work"},"text","54 0221 453233 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120723",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120928",
+      "eventActor" : "SEB12"
+    } ],
+    "handle" : "SEB12"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SEB12",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SEB12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Barrientos"],["adr",{"label":"San Martin 412 ()\nMagdalena, BA 1913\nAR","type":"work"},"text",["","","San Martin 412 ()","Magdalena","BA","1913","AR"]],["email",{"type":"work"},"text","soportetecnico@MDISOLUCIONES.COM.AR"],["tel",{"type":"work"},"text","54 0221 453233 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120723",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120928",
+      "eventActor" : "SEB12"
+    } ],
+    "handle" : "SEB12"
+  } ],
+  "startAutnum" : 263219,
+  "endAutnum" : 263219,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140226",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140226",
+    "eventActor" : "SEB12"
+  } ],
+  "type" : null,
+  "handle" : "263219-LACNIC",
+  "country" : "AR"
+}

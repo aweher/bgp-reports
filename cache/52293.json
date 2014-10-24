@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52293",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52293"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-GSFE-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-GSFE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Moragues"],["adr",{"label":"San Martin 2466 ()\nSanta Fe,  S3000FSB\nAR","type":"work"},"text",["","","San Martin 2466 ()","Santa Fe","","S3000FSB","AR"]],["email",{"type":"work"},"text","jmoragues@SANTAFE.GOV.AR"],["tel",{"type":"work"},"text","54 342 4574887 (5119)"],["org",{},"text",["Gobierno de Santa Fe"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JUM12",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JUM12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Moragues"],["adr",{"label":"San Martin 2466 ()\nSanta Fe,  3000\nAR","type":"work"},"text",["","","San Martin 2466 ()","Santa Fe","","3000","AR"]],["email",{"type":"work"},"text","jmoragues@SANTAFE.GOV.AR"],["tel",{"type":"work"},"text","54 342 4574887 (5119)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100121",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120420",
+        "eventActor" : "JUM12"
+      } ],
+      "handle" : "JUM12"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100203",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "JUM12"
+    } ],
+    "handle" : "AR-GSFE-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JUM12",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JUM12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Moragues"],["adr",{"label":"San Martin 2466 ()\nSanta Fe,  3000\nAR","type":"work"},"text",["","","San Martin 2466 ()","Santa Fe","","3000","AR"]],["email",{"type":"work"},"text","jmoragues@SANTAFE.GOV.AR"],["tel",{"type":"work"},"text","54 342 4574887 (5119)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100121",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120420",
+      "eventActor" : "JUM12"
+    } ],
+    "handle" : "JUM12"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JUM12",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JUM12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Juan Moragues"],["adr",{"label":"San Martin 2466 ()\nSanta Fe,  3000\nAR","type":"work"},"text",["","","San Martin 2466 ()","Santa Fe","","3000","AR"]],["email",{"type":"work"},"text","jmoragues@SANTAFE.GOV.AR"],["tel",{"type":"work"},"text","54 342 4574887 (5119)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100121",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120420",
+      "eventActor" : "JUM12"
+    } ],
+    "handle" : "JUM12"
+  } ],
+  "startAutnum" : 52293,
+  "endAutnum" : 52293,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101103",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20101103",
+    "eventActor" : "JUM12"
+  } ],
+  "type" : null,
+  "handle" : "52293-LACNIC",
+  "country" : "AR"
+}

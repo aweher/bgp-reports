@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28044",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28044"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-ASSE-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-ASSE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Enzo Danilo Peña Diaz"],["adr",{"label":"Alfredo Barros Errazuriz 1973 (Piso 1)\nSantiago, RM 7500550\nCL","type":"work"},"text",["","","Alfredo Barros Errazuriz 1973 (Piso 1)","Santiago","RM","7500550","CL"]],["email",{"type":"work"},"text","epenad@TYCOINT.COM"],["tel",{"type":"work"},"text","56 2 4246769 ()"],["org",{},"text",["ADT SECURITY SERVICES"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/EDD4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/EDD4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Enzo Danilo Peña Diaz"],["adr",{"label":"Alfredo Barros Errazuriz 1973 ()\nSantiago, null 7500550\nCL","type":"work"},"text",["","","Alfredo Barros Errazuriz 1973 ()","Santiago","","7500550","CL"]],["email",{"type":"work"},"text","epenad@TYCOINT.COM"],["tel",{"type":"work"},"text","56 2 4246769 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20081230",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20081230",
+        "eventActor" : "EDD4"
+      } ],
+      "handle" : "EDD4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090108",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090314",
+      "eventActor" : "EDD4"
+    } ],
+    "handle" : "CL-ASSE-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/EDD4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDD4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Enzo Danilo Peña Diaz"],["adr",{"label":"Alfredo Barros Errazuriz 1973 ()\nSantiago, null 7500550\nCL","type":"work"},"text",["","","Alfredo Barros Errazuriz 1973 ()","Santiago","","7500550","CL"]],["email",{"type":"work"},"text","epenad@TYCOINT.COM"],["tel",{"type":"work"},"text","56 2 4246769 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081230",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20081230",
+      "eventActor" : "EDD4"
+    } ],
+    "handle" : "EDD4"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/EDD4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDD4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Enzo Danilo Peña Diaz"],["adr",{"label":"Alfredo Barros Errazuriz 1973 ()\nSantiago, null 7500550\nCL","type":"work"},"text",["","","Alfredo Barros Errazuriz 1973 ()","Santiago","","7500550","CL"]],["email",{"type":"work"},"text","epenad@TYCOINT.COM"],["tel",{"type":"work"},"text","56 2 4246769 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081230",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20081230",
+      "eventActor" : "EDD4"
+    } ],
+    "handle" : "EDD4"
+  } ],
+  "startAutnum" : 28044,
+  "endAutnum" : 28044,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090313",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090313",
+    "eventActor" : "EDD4"
+  } ],
+  "type" : null,
+  "handle" : "28044-LACNIC",
+  "country" : "CL"
+}

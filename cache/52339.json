@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52339",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52339"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-LVCS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-LVCS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lucas Matias Salamandri"],["adr",{"label":"Quirno 37 ()\nZ?rate, BA 2800\nAR","type":"work"},"text",["","","Quirno 37 ()","Z?rate","BA","2800","AR"]],["email",{"type":"work"},"text","lsalamandri@LVCSA.COM.AR"],["tel",{"type":"work"},"text","54 11 3487430928 ()"],["org",{},"text",["Lima Video Cable S.A. (Cabletel)"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/LVS",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/LVS"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lucas Matias Salamandri"],["adr",{"label":"QUIRNO 35 ()\nZARATE, AR 2800\nAR","type":"work"},"text",["","","QUIRNO 35 ()","ZARATE","AR","2800","AR"]],["email",{"type":"work"},"text","lsalamandri@LVCSA.COM.AR"],["tel",{"type":"work"},"text","5411 3487 430928 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110421",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110721",
+        "eventActor" : "LVS"
+      } ],
+      "handle" : "LVS"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110503",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "LVS"
+    } ],
+    "handle" : "AR-LVCS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/LVS",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/LVS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lucas Matias Salamandri"],["adr",{"label":"QUIRNO 35 ()\nZARATE, AR 2800\nAR","type":"work"},"text",["","","QUIRNO 35 ()","ZARATE","AR","2800","AR"]],["email",{"type":"work"},"text","lsalamandri@LVCSA.COM.AR"],["tel",{"type":"work"},"text","5411 3487 430928 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110421",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110721",
+      "eventActor" : "LVS"
+    } ],
+    "handle" : "LVS"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/LVS",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/LVS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lucas Matias Salamandri"],["adr",{"label":"QUIRNO 35 ()\nZARATE, AR 2800\nAR","type":"work"},"text",["","","QUIRNO 35 ()","ZARATE","AR","2800","AR"]],["email",{"type":"work"},"text","lsalamandri@LVCSA.COM.AR"],["tel",{"type":"work"},"text","5411 3487 430928 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110421",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110721",
+      "eventActor" : "LVS"
+    } ],
+    "handle" : "LVS"
+  } ],
+  "startAutnum" : 52339,
+  "endAutnum" : 52339,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110815",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110815",
+    "eventActor" : "LVS"
+  } ],
+  "type" : null,
+  "handle" : "52339-LACNIC",
+  "country" : "AR"
+}

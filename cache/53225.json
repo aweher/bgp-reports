@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53225,
+  "endAutnum" : 53225,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53225",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53225"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101118",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131001",
+    "eventActor" : "IDT2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-IISD-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-IISD-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","IPGLOBE INTERNET SERVICES DATACENTER"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOl?mpia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ol?mpia","SP","04578-000","BR"]],["email",{"type":"work"},"text","IID@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["IPGLOBE DATACENTER"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140617",
+      "eventActor" : "IID"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/IID",
+        "value" : "http://rdap.labs.lacnic.net/entity/IID"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","IPGLOBE INTERNET SERVICES DATACENTER"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOl?mpia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ol?mpia","SP","04578-000","BR"]],["email",{"type":"work"},"text","IID@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "IID"
+      } ],
+      "entities" : [ ],
+      "handle" : "IID"
+    } ],
+    "handle" : "BR-IISD-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IDT2",
+      "value" : "http://rdap.labs.lacnic.net/entity/IDT2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","IPG DATACENTER - TECNICO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOl?mpia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ol?mpia","SP","04578-000","BR"]],["email",{"type":"work"},"text","IDT2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131001",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131001",
+      "eventActor" : "IDT2"
+    } ],
+    "entities" : [ ],
+    "handle" : "IDT2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/IDN4",
+      "value" : "http://rdap.labs.lacnic.net/entity/IDN4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","IPG DATACENTER - NETWORK"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOl?mpia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ol?mpia","SP","04578-000","BR"]],["email",{"type":"work"},"text","IDN4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131001",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131001",
+      "eventActor" : "IDN4"
+    } ],
+    "entities" : [ ],
+    "handle" : "IDN4"
+  } ],
+  "type" : null,
+  "handle" : "53225-LACNIC",
+  "country" : "BR"
+}

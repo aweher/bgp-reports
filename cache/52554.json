@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52554,
+  "endAutnum" : 52554,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52554",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52554"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130207",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130816",
+    "eventActor" : "SAS60"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SASJ-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SASJ-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marivaldo Fernandes de Oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCapela do Alto Alegre, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Capela do Alto Alegre","BA","04578-000","BR"]],["email",{"type":"work"},"text","MFO@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["org",{},"text",["S. A. da Silva Junior"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130816",
+      "eventActor" : "MFO"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MFO",
+        "value" : "http://rdap.labs.lacnic.net/entity/MFO"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marivaldo Fernandes de Oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPintadas, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pintadas","BA","04578-000","BR"]],["email",{"type":"work"},"text","MFO@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MFO"
+      } ],
+      "entities" : [ ],
+      "handle" : "MFO"
+    } ],
+    "handle" : "BR-SASJ-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SAS60",
+      "value" : "http://rdap.labs.lacnic.net/entity/SAS60"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Alvares da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFeira de Santana, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Feira de Santana","BA","04578-000","BR"]],["email",{"type":"work"},"text","SAS60@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130816",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130816",
+      "eventActor" : "SAS60"
+    } ],
+    "entities" : [ ],
+    "handle" : "SAS60"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SAS60",
+      "value" : "http://rdap.labs.lacnic.net/entity/SAS60"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Alvares da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFeira de Santana, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Feira de Santana","BA","04578-000","BR"]],["email",{"type":"work"},"text","SAS60@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130816",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130816",
+      "eventActor" : "SAS60"
+    } ],
+    "entities" : [ ],
+    "handle" : "SAS60"
+  } ],
+  "type" : null,
+  "handle" : "52554-LACNIC",
+  "country" : "BR"
+}

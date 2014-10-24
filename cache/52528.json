@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52528,
+  "endAutnum" : 52528,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52528",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52528"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130523",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130523",
+    "eventActor" : "MSN15"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-RNLT3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-RNLT3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo de Souza Nogueira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlterosa, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alterosa","MG","04578-000","BR"]],["email",{"type":"work"},"text","MSN15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["org",{},"text",["Rede Nets Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130523",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130524",
+      "eventActor" : "MSN15"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MSN15",
+        "value" : "http://rdap.labs.lacnic.net/entity/MSN15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo de Souza Nogueira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlterosa, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alterosa","","04578-000","BR"]],["email",{"type":"work"},"text","MSN15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130523",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130523",
+        "eventActor" : "MSN15"
+      } ],
+      "entities" : [ ],
+      "handle" : "MSN15"
+    } ],
+    "handle" : "BR-RNLT3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MSN15",
+      "value" : "http://rdap.labs.lacnic.net/entity/MSN15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo de Souza Nogueira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlterosa, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alterosa","","04578-000","BR"]],["email",{"type":"work"},"text","MSN15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130523",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130523",
+      "eventActor" : "MSN15"
+    } ],
+    "entities" : [ ],
+    "handle" : "MSN15"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MSN15",
+      "value" : "http://rdap.labs.lacnic.net/entity/MSN15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo de Souza Nogueira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlterosa, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alterosa","","04578-000","BR"]],["email",{"type":"work"},"text","MSN15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130523",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130523",
+      "eventActor" : "MSN15"
+    } ],
+    "entities" : [ ],
+    "handle" : "MSN15"
+  } ],
+  "type" : null,
+  "handle" : "52528-LACNIC",
+  "country" : "BR"
+}

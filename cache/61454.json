@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61454,
+  "endAutnum" : 61454,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61454",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61454"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140704",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140704",
+    "eventActor" : "AFV"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-ITSA9-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-ITSA9-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ANDRES FELIPE CASTRO VALENCIA"],["adr",{"label":"Avenida Carrera 19 95 (35)\nBOGOTA, DC \nCO","type":"work"},"text",["","","Avenida Carrera 19 95 (35)","BOGOTA","DC","","CO"]],["email",{"type":"work"},"text","andres.castro@ITELSEK.COM"],["tel",{"type":"work"},"text","57  3174300720 ()"],["org",{},"text",["ITELSEK S.A.S."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140618",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140618",
+      "eventActor" : "AFV"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/AFV",
+        "value" : "http://rdap.labs.lacnic.net/entity/AFV"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ANDRES FELIPE CASTRO VALENCIA"],["adr",{"label":"Avenida Carrera 19 No. 95-35 Of. 409  ()\nBogot?, CU \nCO","type":"work"},"text",["","","Avenida Carrera 19 No. 95-35 Of. 409  ()","Bogot?","CU","","CO"]],["email",{"type":"work"},"text","andres.castro@ITELSEK.COM"],["tel",{"type":"work"},"text","57  3174300720 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20101108",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140515",
+        "eventActor" : "AFV"
+      } ],
+      "entities" : [ ],
+      "handle" : "AFV"
+    } ],
+    "handle" : "CO-ITSA9-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AFV",
+      "value" : "http://rdap.labs.lacnic.net/entity/AFV"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ANDRES FELIPE CASTRO VALENCIA"],["adr",{"label":"Avenida Carrera 19 No. 95-35 Of. 409  ()\nBogot?, CU \nCO","type":"work"},"text",["","","Avenida Carrera 19 No. 95-35 Of. 409  ()","Bogot?","CU","","CO"]],["email",{"type":"work"},"text","andres.castro@ITELSEK.COM"],["tel",{"type":"work"},"text","57  3174300720 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101108",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140515",
+      "eventActor" : "AFV"
+    } ],
+    "entities" : [ ],
+    "handle" : "AFV"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AFV",
+      "value" : "http://rdap.labs.lacnic.net/entity/AFV"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ANDRES FELIPE CASTRO VALENCIA"],["adr",{"label":"Avenida Carrera 19 No. 95-35 Of. 409  ()\nBogot?, CU \nCO","type":"work"},"text",["","","Avenida Carrera 19 No. 95-35 Of. 409  ()","Bogot?","CU","","CO"]],["email",{"type":"work"},"text","andres.castro@ITELSEK.COM"],["tel",{"type":"work"},"text","57  3174300720 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101108",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140515",
+      "eventActor" : "AFV"
+    } ],
+    "entities" : [ ],
+    "handle" : "AFV"
+  } ],
+  "type" : null,
+  "handle" : "61454-LACNIC",
+  "country" : "CO"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53009,
+  "endAutnum" : 53009,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53009",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53009"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110627",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "FGP4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BSIL8-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BSIL8-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Garcia Presa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGravata?, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Gravata?","RS","04578-000","BR"]],["email",{"type":"work"},"text","FGP4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["Bacth Servicos de Informatica Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "FGP4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/FGP4",
+        "value" : "http://rdap.labs.lacnic.net/entity/FGP4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Garcia Presa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGravata?, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Gravata?","RS","04578-000","BR"]],["email",{"type":"work"},"text","FGP4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "FGP4"
+      } ],
+      "entities" : [ ],
+      "handle" : "FGP4"
+    } ],
+    "handle" : "BR-BSIL8-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FGP4",
+      "value" : "http://rdap.labs.lacnic.net/entity/FGP4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Garcia Presa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGravata?, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Gravata?","RS","04578-000","BR"]],["email",{"type":"work"},"text","FGP4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FGP4"
+    } ],
+    "entities" : [ ],
+    "handle" : "FGP4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/FGP4",
+      "value" : "http://rdap.labs.lacnic.net/entity/FGP4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Garcia Presa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGravata?, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Gravata?","RS","04578-000","BR"]],["email",{"type":"work"},"text","FGP4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "FGP4"
+    } ],
+    "entities" : [ ],
+    "handle" : "FGP4"
+  } ],
+  "type" : null,
+  "handle" : "53009-LACNIC",
+  "country" : "BR"
+}

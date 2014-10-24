@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28107",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28107"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-UNSJ-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-UNSJ-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Miguel Angel Morandi"],["adr",{"label":"Mitre Este 396 ()\nSan Juan, SJ J5402CWH\nAR","type":"work"},"text",["","","Mitre Este 396 ()","San Juan","SJ","J5402CWH","AR"]],["email",{"type":"work"},"text","morandi@UNSJ.EDU.AR"],["tel",{"type":"work"},"text","54 264 4230532 ()"],["org",{},"text",["UNIVERSIDAD NACIONAL DE SAN JUAN"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MAM44",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAM44"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Miguel Angel Morandi"],["adr",{"label":"Dr. Sab?n Norte Barrio San Ra?l 80 ()\nSan Juan,  5400\nAR","type":"work"},"text",["","","Dr. Sab?n Norte Barrio San Ra?l 80 ()","San Juan","","5400","AR"]],["email",{"type":"work"},"text","morandi@UNSJ.EDU.AR"],["tel",{"type":"work"},"text","54 264 4230532 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080718",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110830",
+        "eventActor" : "MAM44"
+      } ],
+      "handle" : "MAM44"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091105",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120501",
+      "eventActor" : "MAM44"
+    } ],
+    "handle" : "AR-UNSJ-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAM44",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAM44"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Miguel Angel Morandi"],["adr",{"label":"Dr. Sab?n Norte Barrio San Ra?l 80 ()\nSan Juan,  5400\nAR","type":"work"},"text",["","","Dr. Sab?n Norte Barrio San Ra?l 80 ()","San Juan","","5400","AR"]],["email",{"type":"work"},"text","morandi@UNSJ.EDU.AR"],["tel",{"type":"work"},"text","54 264 4230532 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080718",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110830",
+      "eventActor" : "MAM44"
+    } ],
+    "handle" : "MAM44"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAM44",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAM44"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Miguel Angel Morandi"],["adr",{"label":"Dr. Sab?n Norte Barrio San Ra?l 80 ()\nSan Juan,  5400\nAR","type":"work"},"text",["","","Dr. Sab?n Norte Barrio San Ra?l 80 ()","San Juan","","5400","AR"]],["email",{"type":"work"},"text","morandi@UNSJ.EDU.AR"],["tel",{"type":"work"},"text","54 264 4230532 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080718",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110830",
+      "eventActor" : "MAM44"
+    } ],
+    "handle" : "MAM44"
+  } ],
+  "startAutnum" : 28107,
+  "endAutnum" : 28107,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091214",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20091214",
+    "eventActor" : "MAM44"
+  } ],
+  "type" : null,
+  "handle" : "28107-LACNIC",
+  "country" : "AR"
+}

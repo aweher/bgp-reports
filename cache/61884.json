@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61884,
+  "endAutnum" : 61884,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61884",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61884"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140715",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140715",
+    "eventActor" : "JUS35"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NTML1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NTML1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Lopes Ferreira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPimenta Bueno, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pimenta Bueno","","04578-000","BR"]],["email",{"type":"work"},"text","MLF11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 69 55093511 ()"],["org",{},"text",["NORTE TELECOMUNICA??ES MULTIMIDIA LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "MLF11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MLF11",
+        "value" : "http://rdap.labs.lacnic.net/entity/MLF11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcio Lopes Ferreira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRolim de Moura, RO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rolim de Moura","RO","04578-000","BR"]],["email",{"type":"work"},"text","MLF11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 69 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MLF11"
+      } ],
+      "entities" : [ ],
+      "handle" : "MLF11"
+    } ],
+    "handle" : "BR-NTML1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JUS35",
+      "value" : "http://rdap.labs.lacnic.net/entity/JUS35"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JULIANO SILVERIO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRolim de Moura, RO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rolim de Moura","RO","04578-000","BR"]],["email",{"type":"work"},"text","JUS35@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 69 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131029",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131029",
+      "eventActor" : "JUS35"
+    } ],
+    "entities" : [ ],
+    "handle" : "JUS35"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JUS35",
+      "value" : "http://rdap.labs.lacnic.net/entity/JUS35"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","JULIANO SILVERIO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRolim de Moura, RO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rolim de Moura","RO","04578-000","BR"]],["email",{"type":"work"},"text","JUS35@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 69 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131029",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131029",
+      "eventActor" : "JUS35"
+    } ],
+    "entities" : [ ],
+    "handle" : "JUS35"
+  } ],
+  "type" : null,
+  "handle" : "61884-LACNIC",
+  "country" : "BR"
+}

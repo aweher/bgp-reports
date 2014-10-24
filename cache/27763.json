@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27763,
+  "endAutnum" : 27763,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27763",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27763"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20050401",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130314",
+    "eventActor" : "JUC43"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-AOLI1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-AOLI1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Camilo Vargas"],["adr",{"label":"Cr 18 No. 79-22 P 7 n/a ()\nBogot?, CU 1005\nCO","type":"work"},"text",["","","Cr 18 No. 79-22 P 7 n/a ()","Bogot?","CU","1005","CO"]],["email",{"type":"work"},"text","cvargast@ANDITEL.COM.CO"],["tel",{"type":"work"},"text","57 1 6107555 (128)"],["org",{},"text",["ANDINET ON LINE"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031126",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130314",
+      "eventActor" : "CAV22"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CAV22",
+        "value" : "http://rdap.labs.lacnic.net/entity/CAV22"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Camilo Vargas"],["adr",{"label":"Aut Norte 122-35 P2 NA (NA)\nBogotá, null NA\nCO","type":"work"},"text",["","","Aut Norte 122-35 P2 NA (NA)","Bogotá","","NA","CO"]],["email",{"type":"work"},"text","cvargast@ANDITEL.COM.CO"],["tel",{"type":"work"},"text","51 1 6065353 (2702)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090126",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20090126",
+        "eventActor" : "CAV22"
+      } ],
+      "entities" : [ ],
+      "handle" : "CAV22"
+    } ],
+    "handle" : "CO-AOLI1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JUC43",
+      "value" : "http://rdap.labs.lacnic.net/entity/JUC43"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julian Cruz"],["adr",{"label":"Carrera 29C # 71A - 48  ()\nBogota D.C., null \nCO","type":"work"},"text",["","","Carrera 29C # 71A - 48  ()","Bogota D.C.","","","CO"]],["email",{"type":"work"},"text","jcruz@ANDITEL.COM.CO"],["tel",{"type":"work"},"text","57 1 7430509 (2702)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130313",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130313",
+      "eventActor" : "JUC43"
+    } ],
+    "entities" : [ ],
+    "handle" : "JUC43"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JUC43",
+      "value" : "http://rdap.labs.lacnic.net/entity/JUC43"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julian Cruz"],["adr",{"label":"Carrera 29C # 71A - 48  ()\nBogota D.C., null \nCO","type":"work"},"text",["","","Carrera 29C # 71A - 48  ()","Bogota D.C.","","","CO"]],["email",{"type":"work"},"text","jcruz@ANDITEL.COM.CO"],["tel",{"type":"work"},"text","57 1 7430509 (2702)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130313",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130313",
+      "eventActor" : "JUC43"
+    } ],
+    "entities" : [ ],
+    "handle" : "JUC43"
+  } ],
+  "type" : null,
+  "handle" : "27763-LACNIC",
+  "country" : "CO"
+}

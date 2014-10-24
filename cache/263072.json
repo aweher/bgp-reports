@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263072,
+  "endAutnum" : 263072,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263072",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263072"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120327",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130925",
+    "eventActor" : "RMA16"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BFTL1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BFTL1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tiago Resende Ferreira Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBom Despacho, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bom Despacho","MG","04578-000","BR"]],["email",{"type":"work"},"text","TRS15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["org",{},"text",["BD Fibra Telecom Ltda - EPP"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130925",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130926",
+      "eventActor" : "TRS15"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/TRS15",
+        "value" : "http://rdap.labs.lacnic.net/entity/TRS15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tiago Resende Ferreira Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBom Despacho, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bom Despacho","MG","04578-000","BR"]],["email",{"type":"work"},"text","TRS15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130925",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130925",
+        "eventActor" : "TRS15"
+      } ],
+      "entities" : [ ],
+      "handle" : "TRS15"
+    } ],
+    "handle" : "BR-BFTL1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RMA16",
+      "value" : "http://rdap.labs.lacnic.net/entity/RMA16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo Melgaco Alves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPar? de Minas, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Par? de Minas","MG","04578-000","BR"]],["email",{"type":"work"},"text","RMA16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RMA16"
+    } ],
+    "entities" : [ ],
+    "handle" : "RMA16"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RMA16",
+      "value" : "http://rdap.labs.lacnic.net/entity/RMA16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rodrigo Melgaco Alves"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPar? de Minas, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Par? de Minas","MG","04578-000","BR"]],["email",{"type":"work"},"text","RMA16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RMA16"
+    } ],
+    "entities" : [ ],
+    "handle" : "RMA16"
+  } ],
+  "type" : null,
+  "handle" : "263072-LACNIC",
+  "country" : "BR"
+}

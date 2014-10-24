@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53059,
+  "endAutnum" : 53059,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53059",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53059"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090814",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130419",
+    "eventActor" : "CCA6"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CPSS1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CPSS1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cl?udio C?sar Rabelo de Almeira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBotelhos, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Botelhos","MG","04578-000","BR"]],["email",{"type":"work"},"text","CCA6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["org",{},"text",["Center Prestadora Servi?os S/C Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130424",
+      "eventActor" : "CCA6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CCA6",
+        "value" : "http://rdap.labs.lacnic.net/entity/CCA6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cl?udio C?sar Rabelo de Almeira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBotelhos, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Botelhos","MG","04578-000","BR"]],["email",{"type":"work"},"text","CCA6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CCA6"
+      } ],
+      "entities" : [ ],
+      "handle" : "CCA6"
+    } ],
+    "handle" : "BR-CPSS1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CCA6",
+      "value" : "http://rdap.labs.lacnic.net/entity/CCA6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cl?udio C?sar Rabelo de Almeira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBotelhos, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Botelhos","MG","04578-000","BR"]],["email",{"type":"work"},"text","CCA6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CCA6"
+    } ],
+    "entities" : [ ],
+    "handle" : "CCA6"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CCA6",
+      "value" : "http://rdap.labs.lacnic.net/entity/CCA6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Cl?udio C?sar Rabelo de Almeira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBotelhos, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Botelhos","MG","04578-000","BR"]],["email",{"type":"work"},"text","CCA6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CCA6"
+    } ],
+    "entities" : [ ],
+    "handle" : "CCA6"
+  } ],
+  "type" : null,
+  "handle" : "53059-LACNIC",
+  "country" : "BR"
+}

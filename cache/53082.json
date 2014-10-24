@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53082,
+  "endAutnum" : 53082,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53082",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53082"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091014",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MLC10"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-RILT3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-RILT3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Ladwig Watson Coelho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAraruama, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Araruama","RJ","04578-000","BR"]],["email",{"type":"work"},"text","MLC10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["org",{},"text",["REDELAGOS INFORMATICA LTDA."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MLC10"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MLC10",
+        "value" : "http://rdap.labs.lacnic.net/entity/MLC10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Ladwig Watson Coelho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAraruama, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Araruama","RJ","04578-000","BR"]],["email",{"type":"work"},"text","MLC10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140418",
+        "eventActor" : "MLC10"
+      } ],
+      "entities" : [ ],
+      "handle" : "MLC10"
+    } ],
+    "handle" : "BR-RILT3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MLC10",
+      "value" : "http://rdap.labs.lacnic.net/entity/MLC10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Ladwig Watson Coelho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAraruama, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Araruama","RJ","04578-000","BR"]],["email",{"type":"work"},"text","MLC10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140418",
+      "eventActor" : "MLC10"
+    } ],
+    "entities" : [ ],
+    "handle" : "MLC10"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MLC10",
+      "value" : "http://rdap.labs.lacnic.net/entity/MLC10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Ladwig Watson Coelho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAraruama, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Araruama","RJ","04578-000","BR"]],["email",{"type":"work"},"text","MLC10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140418",
+      "eventActor" : "MLC10"
+    } ],
+    "entities" : [ ],
+    "handle" : "MLC10"
+  } ],
+  "type" : null,
+  "handle" : "53082-LACNIC",
+  "country" : "BR"
+}

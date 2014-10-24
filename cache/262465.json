@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262465,
+  "endAutnum" : 262465,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262465",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262465"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110512",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "LVB2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MTLE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MTLE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Arlisson da Silva Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAracaju, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aracaju","SE","04578-000","BR"]],["email",{"type":"work"},"text","ASS19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["org",{},"text",["Masterradius Telecom Ltda EPP"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140220",
+      "eventActor" : "ASS19"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ASS19",
+        "value" : "http://rdap.labs.lacnic.net/entity/ASS19"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Arlisson da Silva Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAracaju, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aracaju","SE","04578-000","BR"]],["email",{"type":"work"},"text","ASS19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ASS19"
+      } ],
+      "entities" : [ ],
+      "handle" : "ASS19"
+    } ],
+    "handle" : "BR-MTLE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LVB2",
+      "value" : "http://rdap.labs.lacnic.net/entity/LVB2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano Vasconcelos Brasileiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAracaju, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aracaju","SE","04578-000","BR"]],["email",{"type":"work"},"text","LVB2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LVB2"
+    } ],
+    "entities" : [ ],
+    "handle" : "LVB2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LVB2",
+      "value" : "http://rdap.labs.lacnic.net/entity/LVB2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano Vasconcelos Brasileiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAracaju, SE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Aracaju","SE","04578-000","BR"]],["email",{"type":"work"},"text","LVB2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 79 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LVB2"
+    } ],
+    "entities" : [ ],
+    "handle" : "LVB2"
+  } ],
+  "type" : null,
+  "handle" : "262465-LACNIC",
+  "country" : "BR"
+}

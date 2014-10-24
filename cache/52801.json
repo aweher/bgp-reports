@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52801,
+  "endAutnum" : 52801,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52801",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52801"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121003",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "PMC6"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ASIL13-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ASIL13-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Mauricio de Castro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTucum?, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tucum?","PA","04578-000","BR"]],["email",{"type":"work"},"text","PMC6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["org",{},"text",["Apanet Servicos de Internet Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "PMC6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PMC6",
+        "value" : "http://rdap.labs.lacnic.net/entity/PMC6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Mauricio de Castro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTucum?, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tucum?","PA","04578-000","BR"]],["email",{"type":"work"},"text","PMC6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PMC6"
+      } ],
+      "entities" : [ ],
+      "handle" : "PMC6"
+    } ],
+    "handle" : "BR-ASIL13-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PMC6",
+      "value" : "http://rdap.labs.lacnic.net/entity/PMC6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Mauricio de Castro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTucum?, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tucum?","PA","04578-000","BR"]],["email",{"type":"work"},"text","PMC6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PMC6"
+    } ],
+    "entities" : [ ],
+    "handle" : "PMC6"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PMC6",
+      "value" : "http://rdap.labs.lacnic.net/entity/PMC6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Mauricio de Castro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTucum?, PA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tucum?","PA","04578-000","BR"]],["email",{"type":"work"},"text","PMC6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 94 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PMC6"
+    } ],
+    "entities" : [ ],
+    "handle" : "PMC6"
+  } ],
+  "type" : null,
+  "handle" : "52801-LACNIC",
+  "country" : "BR"
+}

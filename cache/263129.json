@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263129,
+  "endAutnum" : 263129,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263129",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263129"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140509",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140509",
+    "eventActor" : "LCJ20"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-WPIL1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-WPIL1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael Pereira Sguissardi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlta Floresta, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alta Floresta","","04578-000","BR"]],["email",{"type":"work"},"text","RPS20@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["org",{},"text",["Wavemax Provedor de Internet Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "RPS20"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RPS20",
+        "value" : "http://rdap.labs.lacnic.net/entity/RPS20"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rafael Pereira Sguissardi"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlta Floresta, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alta Floresta","MT","04578-000","BR"]],["email",{"type":"work"},"text","RPS20@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "RPS20"
+      } ],
+      "entities" : [ ],
+      "handle" : "RPS20"
+    } ],
+    "handle" : "BR-WPIL1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LCJ20",
+      "value" : "http://rdap.labs.lacnic.net/entity/LCJ20"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luiz C?zar Dias Jorge"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlta Floresta, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alta Floresta","MT","04578-000","BR"]],["email",{"type":"work"},"text","LCJ20@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131206",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131206",
+      "eventActor" : "LCJ20"
+    } ],
+    "entities" : [ ],
+    "handle" : "LCJ20"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LCJ20",
+      "value" : "http://rdap.labs.lacnic.net/entity/LCJ20"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luiz C?zar Dias Jorge"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAlta Floresta, MT 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Alta Floresta","MT","04578-000","BR"]],["email",{"type":"work"},"text","LCJ20@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 66 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131206",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131206",
+      "eventActor" : "LCJ20"
+    } ],
+    "entities" : [ ],
+    "handle" : "LCJ20"
+  } ],
+  "type" : null,
+  "handle" : "263129-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/20191",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/20191"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-PUCC1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-PUCC1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","P. Universidad Cat?lica de Chile"],["adr",{"label":"Vicu?a Mackenna 4860 ()\nSantiago, RM 6904411\nCL","type":"work"},"text",["","","Vicu?a Mackenna 4860 ()","Santiago","RM","6904411","CL"]],["email",{"type":"work"},"text","nic@PUC.CL"],["tel",{"type":"work"},"text","56 2 6864456 ()"],["org",{},"text",["Pontificia Universidad Catolica de Chile"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PUC",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PUC"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","P. Universidad Cat?lica de Chile"],["adr",{"label":"Vicu?a Mackenna 4860 (Macul)\nSantiago,  N\nCL","type":"work"},"text",["","","Vicu?a Mackenna 4860 (Macul)","Santiago","","N","CL"]],["email",{"type":"work"},"text","nic@PUC.CL"],["tel",{"type":"work"},"text","56 2 6864456 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20051124",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20060912",
+        "eventActor" : "PUC"
+      } ],
+      "handle" : "PUC"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20071004",
+      "eventActor" : "PUC"
+    } ],
+    "handle" : "CL-PUCC1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PUC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PUC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","P. Universidad Cat?lica de Chile"],["adr",{"label":"Vicu?a Mackenna 4860 (Macul)\nSantiago,  N\nCL","type":"work"},"text",["","","Vicu?a Mackenna 4860 (Macul)","Santiago","","N","CL"]],["email",{"type":"work"},"text","nic@PUC.CL"],["tel",{"type":"work"},"text","56 2 6864456 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20051124",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060912",
+      "eventActor" : "PUC"
+    } ],
+    "handle" : "PUC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PUC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PUC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","P. Universidad Cat?lica de Chile"],["adr",{"label":"Vicu?a Mackenna 4860 (Macul)\nSantiago,  N\nCL","type":"work"},"text",["","","Vicu?a Mackenna 4860 (Macul)","Santiago","","N","CL"]],["email",{"type":"work"},"text","nic@PUC.CL"],["tel",{"type":"work"},"text","56 2 6864456 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20051124",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060912",
+      "eventActor" : "PUC"
+    } ],
+    "handle" : "PUC"
+  } ],
+  "startAutnum" : 20191,
+  "endAutnum" : 20191,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20010404",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20060912",
+    "eventActor" : "PUC"
+  } ],
+  "type" : null,
+  "handle" : "20191-LACNIC",
+  "country" : "CL"
+}

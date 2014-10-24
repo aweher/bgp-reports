@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52734,
+  "endAutnum" : 52734,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52734",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52734"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130128",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "CDK"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CDKC1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CDKC1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CLAUBERT DADIER KOCHHANN"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto ?ngelo, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo ?ngelo","RS","04578-000","BR"]],["email",{"type":"work"},"text","CDK@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["org",{},"text",["claubert dadier kochhann cia ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140423",
+      "eventActor" : "CDK"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CDK",
+        "value" : "http://rdap.labs.lacnic.net/entity/CDK"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CLAUBERT DADIER KOCHHANN"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto ?ngelo, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo ?ngelo","RS","04578-000","BR"]],["email",{"type":"work"},"text","CDK@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CDK"
+      } ],
+      "entities" : [ ],
+      "handle" : "CDK"
+    } ],
+    "handle" : "BR-CDKC1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CDK",
+      "value" : "http://rdap.labs.lacnic.net/entity/CDK"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CLAUBERT DADIER KOCHHANN"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto ?ngelo, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo ?ngelo","RS","04578-000","BR"]],["email",{"type":"work"},"text","CDK@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CDK"
+    } ],
+    "entities" : [ ],
+    "handle" : "CDK"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CDK",
+      "value" : "http://rdap.labs.lacnic.net/entity/CDK"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CLAUBERT DADIER KOCHHANN"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto ?ngelo, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo ?ngelo","RS","04578-000","BR"]],["email",{"type":"work"},"text","CDK@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CDK"
+    } ],
+    "entities" : [ ],
+    "handle" : "CDK"
+  } ],
+  "type" : null,
+  "handle" : "52734-LACNIC",
+  "country" : "BR"
+}

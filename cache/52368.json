@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52368",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52368"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-ZALT-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-ZALT-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Chan Chun Feng"],["adr",{"label":"Arturo Prat 549 ()\nCurico, MA 3341656\nCL","type":"work"},"text",["","","Arturo Prat 549 ()","Curico","MA","3341656","CL"]],["email",{"type":"work"},"text","lacnic@ZAMLTDA.COM"],["tel",{"type":"work"},"text","56 75 543220 ()"],["org",{},"text",["ZAM LTDA."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CCF3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CCF3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Chan Chun Feng"],["adr",{"label":"Arturo Prat 549 ()\nCurico, MA 3341656\nCL","type":"work"},"text",["","","Arturo Prat 549 ()","Curico","MA","3341656","CL"]],["email",{"type":"work"},"text","lacnic@ZAMLTDA.COM"],["tel",{"type":"work"},"text","56 75 543220 (1)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20111227",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140402",
+        "eventActor" : "CCF3"
+      } ],
+      "handle" : "CCF3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120102",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "CCF3"
+    } ],
+    "handle" : "CL-ZALT-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CCF3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CCF3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Chan Chun Feng"],["adr",{"label":"Arturo Prat 549 ()\nCurico, MA 3341656\nCL","type":"work"},"text",["","","Arturo Prat 549 ()","Curico","MA","3341656","CL"]],["email",{"type":"work"},"text","lacnic@ZAMLTDA.COM"],["tel",{"type":"work"},"text","56 75 543220 (1)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20111227",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140402",
+      "eventActor" : "CCF3"
+    } ],
+    "handle" : "CCF3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CCF3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CCF3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Chan Chun Feng"],["adr",{"label":"Arturo Prat 549 ()\nCurico, MA 3341656\nCL","type":"work"},"text",["","","Arturo Prat 549 ()","Curico","MA","3341656","CL"]],["email",{"type":"work"},"text","lacnic@ZAMLTDA.COM"],["tel",{"type":"work"},"text","56 75 543220 (1)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20111227",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140402",
+      "eventActor" : "CCF3"
+    } ],
+    "handle" : "CCF3"
+  } ],
+  "startAutnum" : 52368,
+  "endAutnum" : 52368,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120322",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120322",
+    "eventActor" : "CCF3"
+  } ],
+  "type" : null,
+  "handle" : "52368-LACNIC",
+  "country" : "CL"
+}

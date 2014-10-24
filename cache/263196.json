@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/263196",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263196"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-INSA65-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-INSA65-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Daniel Filippo"],["adr",{"label":"Av de la Union 2095 (--)\nMerlo, BA 1761\nAR","type":"work"},"text",["","","Av de la Union 2095 (--)","Merlo","BA","1761","AR"]],["email",{"type":"work"},"text","jfilippo@OPTIMIX.COM.AR"],["tel",{"type":"work"},"text","54 11 46340451 ()"],["org",{},"text",["Infosport SA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JDF",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JDF"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Daniel Filippo"],["adr",{"label":"Gregorio de Laferrere 1920 (1ro A)\nBuenos Aires,  1406\nAR","type":"work"},"text",["","","Gregorio de Laferrere 1920 (1ro A)","Buenos Aires","","1406","AR"]],["email",{"type":"work"},"text","jfilippo@OPTIMIX.COM.AR"],["tel",{"type":"work"},"text","54 11 46340451 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110707",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120815",
+        "eventActor" : "JDF"
+      } ],
+      "handle" : "JDF"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "JDF"
+    } ],
+    "handle" : "AR-INSA65-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JDF",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JDF"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Daniel Filippo"],["adr",{"label":"Gregorio de Laferrere 1920 (1ro A)\nBuenos Aires,  1406\nAR","type":"work"},"text",["","","Gregorio de Laferrere 1920 (1ro A)","Buenos Aires","","1406","AR"]],["email",{"type":"work"},"text","jfilippo@OPTIMIX.COM.AR"],["tel",{"type":"work"},"text","54 11 46340451 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110707",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120815",
+      "eventActor" : "JDF"
+    } ],
+    "handle" : "JDF"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JDF",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JDF"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Daniel Filippo"],["adr",{"label":"Gregorio de Laferrere 1920 (1ro A)\nBuenos Aires,  1406\nAR","type":"work"},"text",["","","Gregorio de Laferrere 1920 (1ro A)","Buenos Aires","","1406","AR"]],["email",{"type":"work"},"text","jfilippo@OPTIMIX.COM.AR"],["tel",{"type":"work"},"text","54 11 46340451 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110707",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120815",
+      "eventActor" : "JDF"
+    } ],
+    "handle" : "JDF"
+  } ],
+  "startAutnum" : 263196,
+  "endAutnum" : 263196,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131127",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131127",
+    "eventActor" : "JDF"
+  } ],
+  "type" : null,
+  "handle" : "263196-LACNIC",
+  "country" : "AR"
+}

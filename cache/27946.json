@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27946",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27946"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-DGTM-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-DGTM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Enrique Maldonado A."],["adr",{"label":"Prat 681 ()\nValparaiso,  2361805\nCL","type":"work"},"text",["","","Prat 681 ()","Valparaiso","","2361805","CL"]],["email",{"type":"work"},"text","enrique.maldonado@DIRECTEMAR.CL"],["tel",{"type":"work"},"text","56 32 2208437 ()"],["org",{},"text",["Direcci?n General del Territorio Mar?timo"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/EMA",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/EMA"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Enrique Maldonado A."],["adr",{"label":"Prat 681 ()\nValparaiso,  2361805\nCL","type":"work"},"text",["","","Prat 681 ()","Valparaiso","","2361805","CL"]],["email",{"type":"work"},"text","enrique.maldonado@DIRECTEMAR.CL"],["tel",{"type":"work"},"text","56 32 2208437 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050901",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120802",
+        "eventActor" : "EMA"
+      } ],
+      "handle" : "EMA"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071116",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "EMA"
+    } ],
+    "handle" : "CL-DGTM-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAM39",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAM39"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Albarran Mora"],["adr",{"label":"Prat 681 ()\nValparaiso, null 2361805\nCL","type":"work"},"text",["","","Prat 681 ()","Valparaiso","","2361805","CL"]],["email",{"type":"work"},"text","malmo@DIRECTEMAR.CL"],["tel",{"type":"work"},"text","56 32 2208401 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071025",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20071025",
+      "eventActor" : "MAM39"
+    } ],
+    "handle" : "MAM39"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAM39",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAM39"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Albarran Mora"],["adr",{"label":"Prat 681 ()\nValparaiso, null 2361805\nCL","type":"work"},"text",["","","Prat 681 ()","Valparaiso","","2361805","CL"]],["email",{"type":"work"},"text","malmo@DIRECTEMAR.CL"],["tel",{"type":"work"},"text","56 32 2208401 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071025",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20071025",
+      "eventActor" : "MAM39"
+    } ],
+    "handle" : "MAM39"
+  } ],
+  "startAutnum" : 27946,
+  "endAutnum" : 27946,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20071213",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20071213",
+    "eventActor" : "MAM39"
+  } ],
+  "type" : null,
+  "handle" : "27946-LACNIC",
+  "country" : "CL"
+}

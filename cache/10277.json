@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/10277",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/10277"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-MCYE1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-MCYE1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Guillermo Mendioroz"],["adr",{"label":"Pizzurno 935 ()\nCABA, null 1020\nAR","type":"work"},"text",["","","Pizzurno 935 ()","CABA","","1020","AR"]],["email",{"type":"work"},"text","tron@HUAPI.BA.AR"],["tel",{"type":"work"},"text","54 11 41291116 ()"],["org",{},"text",["Ministerio de Cultura y Educacion"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CGM3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CGM3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Guillermo Mendioroz"],["adr",{"label":"San Lorenzo 2252 ()\nMartinez, null 1640\nAR","type":"work"},"text",["","","San Lorenzo 2252 ()","Martinez","","1640","AR"]],["email",{"type":"work"},"text","tron@HUAPI.BA.AR"],["tel",{"type":"work"},"text","54 11 49787436 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20111227",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20111227",
+        "eventActor" : "CGM3"
+      } ],
+      "handle" : "CGM3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20111227",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111227",
+      "eventActor" : "CGM3"
+    } ],
+    "handle" : "AR-MCYE1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CGM3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CGM3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Guillermo Mendioroz"],["adr",{"label":"San Lorenzo 2252 ()\nMartinez, null 1640\nAR","type":"work"},"text",["","","San Lorenzo 2252 ()","Martinez","","1640","AR"]],["email",{"type":"work"},"text","tron@HUAPI.BA.AR"],["tel",{"type":"work"},"text","54 11 49787436 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20111227",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111227",
+      "eventActor" : "CGM3"
+    } ],
+    "handle" : "CGM3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CGM3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CGM3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Guillermo Mendioroz"],["adr",{"label":"San Lorenzo 2252 ()\nMartinez, null 1640\nAR","type":"work"},"text",["","","San Lorenzo 2252 ()","Martinez","","1640","AR"]],["email",{"type":"work"},"text","tron@HUAPI.BA.AR"],["tel",{"type":"work"},"text","54 11 49787436 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20111227",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111227",
+      "eventActor" : "CGM3"
+    } ],
+    "handle" : "CGM3"
+  } ],
+  "startAutnum" : 10277,
+  "endAutnum" : 10277,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19970604",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "19970604",
+    "eventActor" : "CGM3"
+  } ],
+  "type" : null,
+  "handle" : "10277-LACNIC",
+  "country" : "AR"
+}

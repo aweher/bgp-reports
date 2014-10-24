@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262943,
+  "endAutnum" : 262943,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262943",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262943"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130618",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130618",
+    "eventActor" : "SRC14"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-INPC-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-INPC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","S?rgio Ricardo Carneiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, CE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","CE","04578-000","BR"]],["email",{"type":"work"},"text","SRC14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["org",{},"text",["INFO NET PROVEDOR DE COMUNICACAO LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130611",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "SRC14"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SRC14",
+        "value" : "http://rdap.labs.lacnic.net/entity/SRC14"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","S?rgio Ricardo Carneiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","","04578-000","BR"]],["email",{"type":"work"},"text","SRC14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130607",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130607",
+        "eventActor" : "SRC14"
+      } ],
+      "entities" : [ ],
+      "handle" : "SRC14"
+    } ],
+    "handle" : "BR-INPC-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SRC14",
+      "value" : "http://rdap.labs.lacnic.net/entity/SRC14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","S?rgio Ricardo Carneiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","","04578-000","BR"]],["email",{"type":"work"},"text","SRC14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130607",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130607",
+      "eventActor" : "SRC14"
+    } ],
+    "entities" : [ ],
+    "handle" : "SRC14"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SRC14",
+      "value" : "http://rdap.labs.lacnic.net/entity/SRC14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","S?rgio Ricardo Carneiro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFortaleza, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fortaleza","","04578-000","BR"]],["email",{"type":"work"},"text","SRC14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 85 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130607",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130607",
+      "eventActor" : "SRC14"
+    } ],
+    "entities" : [ ],
+    "handle" : "SRC14"
+  } ],
+  "type" : null,
+  "handle" : "262943-LACNIC",
+  "country" : "BR"
+}

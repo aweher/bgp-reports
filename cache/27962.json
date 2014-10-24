@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27962",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27962"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-ALSA6-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-ALSA6-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alfredo Luco"],["adr",{"label":"2 Poniente 355 (of 53)\nVina del Mar,  2520307\nCL","type":"work"},"text",["","","2 Poniente 355 (of 53)","Vina del Mar","","2520307","CL"]],["email",{"type":"work"},"text","aluco@ALTAVOZ.NET"],["tel",{"type":"work"},"text","56 32 2768060 ()"],["org",{},"text",["AltaVoz S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ALL6",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ALL6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alfredo Luco"],["adr",{"label":"Uno Norte 461 (of 208)\nViña del Mar, null 2520307\nCL","type":"work"},"text",["","","Uno Norte 461 (of 208)","Viña del Mar","","2520307","CL"]],["email",{"type":"work"},"text","aluco@ALTAVOZ.NET"],["tel",{"type":"work"},"text","56 32 2768060 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080211",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20080211",
+        "eventActor" : "ALL6"
+      } ],
+      "handle" : "ALL6"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080218",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "ALL6"
+    } ],
+    "handle" : "CL-ALSA6-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ALL6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALL6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alfredo Luco"],["adr",{"label":"Uno Norte 461 (of 208)\nViña del Mar, null 2520307\nCL","type":"work"},"text",["","","Uno Norte 461 (of 208)","Viña del Mar","","2520307","CL"]],["email",{"type":"work"},"text","aluco@ALTAVOZ.NET"],["tel",{"type":"work"},"text","56 32 2768060 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080211",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080211",
+      "eventActor" : "ALL6"
+    } ],
+    "handle" : "ALL6"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ALL6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALL6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alfredo Luco"],["adr",{"label":"Uno Norte 461 (of 208)\nViña del Mar, null 2520307\nCL","type":"work"},"text",["","","Uno Norte 461 (of 208)","Viña del Mar","","2520307","CL"]],["email",{"type":"work"},"text","aluco@ALTAVOZ.NET"],["tel",{"type":"work"},"text","56 32 2768060 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080211",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080211",
+      "eventActor" : "ALL6"
+    } ],
+    "handle" : "ALL6"
+  } ],
+  "startAutnum" : 27962,
+  "endAutnum" : 27962,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080228",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20081210",
+    "eventActor" : "ALL6"
+  } ],
+  "type" : null,
+  "handle" : "27962-LACNIC",
+  "country" : "CL"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 11271,
+  "endAutnum" : 11271,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/11271",
+    "value" : "http://rdap.labs.lacnic.net/autnum/11271"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19991118",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "GVA2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BLBL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BLBL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Vianna de Andrade"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nHortol?ndia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Hortol?ndia","SP","04578-000","BR"]],["email",{"type":"work"},"text","GVA2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["BT Latam Brasil Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140122",
+      "eventActor" : "GVA2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GVA2",
+        "value" : "http://rdap.labs.lacnic.net/entity/GVA2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Vianna de Andrade"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nHortol?ndia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Hortol?ndia","SP","04578-000","BR"]],["email",{"type":"work"},"text","GVA2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "GVA2"
+      } ],
+      "entities" : [ ],
+      "handle" : "GVA2"
+    } ],
+    "handle" : "BR-BLBL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GVA2",
+      "value" : "http://rdap.labs.lacnic.net/entity/GVA2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Vianna de Andrade"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nHortol?ndia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Hortol?ndia","SP","04578-000","BR"]],["email",{"type":"work"},"text","GVA2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GVA2"
+    } ],
+    "entities" : [ ],
+    "handle" : "GVA2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BLS2",
+      "value" : "http://rdap.labs.lacnic.net/entity/BLS2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","BT Latam Ltda - SOC"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nHortol?ndia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Hortol?ndia","SP","04578-000","BR"]],["email",{"type":"work"},"text","BLS2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "BLS2"
+    } ],
+    "entities" : [ ],
+    "handle" : "BLS2"
+  } ],
+  "type" : null,
+  "handle" : "11271-LACNIC",
+  "country" : "BR"
+}

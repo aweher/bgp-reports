@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52399",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52399"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-ACHS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-ACHS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hernan Casalini"],["adr",{"label":"Rivadavia 858 ()\nAlvarez, SF 2107\nAR","type":"work"},"text",["","","Rivadavia 858 ()","Alvarez","SF","2107","AR"]],["email",{"type":"work"},"text","hcasalini@ALVAREZCABLEHOGAR.COM.AR"],["tel",{"type":"work"},"text","54 3402 462210 ()"],["org",{},"text",["Alvarez Cable Hogar S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/HEC16",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/HEC16"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hernan Casalini"],["adr",{"label":"Rivadavia 858 ()\nAlvarez, SF 2107\nAR","type":"work"},"text",["","","Rivadavia 858 ()","Alvarez","SF","2107","AR"]],["email",{"type":"work"},"text","hcasalini@ALVAREZCABLEHOGAR.COM.AR"],["tel",{"type":"work"},"text","54 3402 462210 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120529",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120830",
+        "eventActor" : "HEC16"
+      } ],
+      "handle" : "HEC16"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120529",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "HEC16"
+    } ],
+    "handle" : "AR-ACHS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NOA26",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NOA26"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NOC - ACH"],["adr",{"label":"Rivadavia 858 ()\nAlvarez, SF 2107\nAR","type":"work"},"text",["","","Rivadavia 858 ()","Alvarez","SF","2107","AR"]],["email",{"type":"work"},"text","recursosip@ALVAREZCABLEHOGAR.COM.AR"],["tel",{"type":"work"},"text","54 3402 462210 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120531",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120531",
+      "eventActor" : "NOA26"
+    } ],
+    "handle" : "NOA26"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/NOA26",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/NOA26"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NOC - ACH"],["adr",{"label":"Rivadavia 858 ()\nAlvarez, SF 2107\nAR","type":"work"},"text",["","","Rivadavia 858 ()","Alvarez","SF","2107","AR"]],["email",{"type":"work"},"text","recursosip@ALVAREZCABLEHOGAR.COM.AR"],["tel",{"type":"work"},"text","54 3402 462210 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120531",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120531",
+      "eventActor" : "NOA26"
+    } ],
+    "handle" : "NOA26"
+  } ],
+  "startAutnum" : 52399,
+  "endAutnum" : 52399,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120913",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120914",
+    "eventActor" : "NOA26"
+  } ],
+  "type" : null,
+  "handle" : "52399-LACNIC",
+  "country" : "AR"
+}

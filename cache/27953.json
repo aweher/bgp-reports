@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27953",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27953"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CEYO4-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CEYO4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Jedruch"],["adr",{"label":"9 de Julio -- ()\nJustiniano Posse, CB 2553\nAR","type":"work"},"text",["","","9 de Julio -- ()","Justiniano Posse","CB","2553","AR"]],["email",{"type":"work"},"text","ejedruch@WILSONSA.COM.AR"],["tel",{"type":"work"},"text","54 3492 501866 ()"],["org",{},"text",["Coop. El?ct. y de Obras y Serv. P?blico Ltda de Justiniano Posse"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/EDJ3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/EDJ3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Jedruch"],["adr",{"label":"Av. Mitre 507 ()\nRafaela, SF 2300\nAR","type":"work"},"text",["","","Av. Mitre 507 ()","Rafaela","SF","2300","AR"]],["email",{"type":"work"},"text","ejedruch@WILSONSA.COM.AR"],["tel",{"type":"work"},"text","54 3492 501866 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060301",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130612",
+        "eventActor" : "EDJ3"
+      } ],
+      "handle" : "EDJ3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060316",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130618",
+      "eventActor" : "EDJ3"
+    } ],
+    "handle" : "AR-CEYO4-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JLS3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JLS3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Luis Silvera"],["adr",{"label":"General Paz 28 (2? Off 3)\nBell Ville, Cb 2550\nAR","type":"work"},"text",["","","General Paz 28 (2? Off 3)","Bell Ville","Cb","2550","AR"]],["email",{"type":"work"},"text","jlsilvera@NODOSUD.COM.AR"],["tel",{"type":"work"},"text","54 3534 411341 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080911",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100601",
+      "eventActor" : "JLS3"
+    } ],
+    "handle" : "JLS3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JLS3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JLS3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Luis Silvera"],["adr",{"label":"General Paz 28 (2? Off 3)\nBell Ville, Cb 2550\nAR","type":"work"},"text",["","","General Paz 28 (2? Off 3)","Bell Ville","Cb","2550","AR"]],["email",{"type":"work"},"text","jlsilvera@NODOSUD.COM.AR"],["tel",{"type":"work"},"text","54 3534 411341 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080911",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100601",
+      "eventActor" : "JLS3"
+    } ],
+    "handle" : "JLS3"
+  } ],
+  "startAutnum" : 27953,
+  "endAutnum" : 27953,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080121",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130618",
+    "eventActor" : "JLS3"
+  } ],
+  "type" : null,
+  "handle" : "27953-LACNIC",
+  "country" : "AR"
+}

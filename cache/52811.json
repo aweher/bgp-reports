@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52811,
+  "endAutnum" : 52811,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52811",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52811"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121009",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "NTL10"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NTGL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NTGL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Netfor Telecomunicacoes Globais Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFormiga, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Formiga","MG","04578-000","BR"]],["email",{"type":"work"},"text","NTL10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["org",{},"text",["Netfor Telecomunicacoes Globais Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "NTL10"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/NTL10",
+        "value" : "http://rdap.labs.lacnic.net/entity/NTL10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Netfor Telecomunicacoes Globais Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFormiga, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Formiga","MG","04578-000","BR"]],["email",{"type":"work"},"text","NTL10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "NTL10"
+      } ],
+      "entities" : [ ],
+      "handle" : "NTL10"
+    } ],
+    "handle" : "BR-NTGL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NTL10",
+      "value" : "http://rdap.labs.lacnic.net/entity/NTL10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Netfor Telecomunicacoes Globais Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFormiga, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Formiga","MG","04578-000","BR"]],["email",{"type":"work"},"text","NTL10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NTL10"
+    } ],
+    "entities" : [ ],
+    "handle" : "NTL10"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NTL10",
+      "value" : "http://rdap.labs.lacnic.net/entity/NTL10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Netfor Telecomunicacoes Globais Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFormiga, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Formiga","MG","04578-000","BR"]],["email",{"type":"work"},"text","NTL10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NTL10"
+    } ],
+    "entities" : [ ],
+    "handle" : "NTL10"
+  } ],
+  "type" : null,
+  "handle" : "52811-LACNIC",
+  "country" : "BR"
+}

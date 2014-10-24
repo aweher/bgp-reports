@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53062,
+  "endAutnum" : 53062,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53062",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53062"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090821",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "GIB22"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-GGNT-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-GGNT-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gilmar Balbinot"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCa?ador, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ca?ador","SC","04578-000","BR"]],["email",{"type":"work"},"text","GIB22@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["org",{},"text",["G G NET - Telecomunica??es LTDA EPP"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "GIB22"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GIB22",
+        "value" : "http://rdap.labs.lacnic.net/entity/GIB22"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gilmar Balbinot"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCa?ador, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ca?ador","SC","04578-000","BR"]],["email",{"type":"work"},"text","GIB22@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "GIB22"
+      } ],
+      "entities" : [ ],
+      "handle" : "GIB22"
+    } ],
+    "handle" : "BR-GGNT-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GIB22",
+      "value" : "http://rdap.labs.lacnic.net/entity/GIB22"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gilmar Balbinot"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCa?ador, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ca?ador","SC","04578-000","BR"]],["email",{"type":"work"},"text","GIB22@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GIB22"
+    } ],
+    "entities" : [ ],
+    "handle" : "GIB22"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GIB22",
+      "value" : "http://rdap.labs.lacnic.net/entity/GIB22"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gilmar Balbinot"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCa?ador, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ca?ador","SC","04578-000","BR"]],["email",{"type":"work"},"text","GIB22@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GIB22"
+    } ],
+    "entities" : [ ],
+    "handle" : "GIB22"
+  } ],
+  "type" : null,
+  "handle" : "53062-LACNIC",
+  "country" : "BR"
+}

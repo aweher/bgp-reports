@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/19077",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/19077"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-CYSA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-CYSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Max Weinstein"],["adr",{"label":"Carmencita 25 (of. 61)\nSantiago, RM 7550157\nCL","type":"work"},"text",["","","Carmencita 25 (of. 61)","Santiago","RM","7550157","CL"]],["email",{"type":"work"},"text","maxwein@CYBERCENTER.CL"],["tel",{"type":"work"},"text","56 2 6567300 ()"],["org",{},"text",["CYBERCENTER S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MAW",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAW"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Max Weinstein"],["adr",{"label":"Carmencita 25 (of. 61)\nSantiago, RM 7550157\nCL","type":"work"},"text",["","","Carmencita 25 (of. 61)","Santiago","RM","7550157","CL"]],["email",{"type":"work"},"text","maxwein@CYBERCENTER.CL"],["tel",{"type":"work"},"text","56 2 26567300 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030314",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130910",
+        "eventActor" : "MAW"
+      } ],
+      "handle" : "MAW"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030321",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "MAW"
+    } ],
+    "handle" : "CL-CYSA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAW",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAW"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Max Weinstein"],["adr",{"label":"Carmencita 25 (of. 61)\nSantiago, RM 7550157\nCL","type":"work"},"text",["","","Carmencita 25 (of. 61)","Santiago","RM","7550157","CL"]],["email",{"type":"work"},"text","maxwein@CYBERCENTER.CL"],["tel",{"type":"work"},"text","56 2 26567300 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030314",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130910",
+      "eventActor" : "MAW"
+    } ],
+    "handle" : "MAW"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAW",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAW"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Max Weinstein"],["adr",{"label":"Carmencita 25 (of. 61)\nSantiago, RM 7550157\nCL","type":"work"},"text",["","","Carmencita 25 (of. 61)","Santiago","RM","7550157","CL"]],["email",{"type":"work"},"text","maxwein@CYBERCENTER.CL"],["tel",{"type":"work"},"text","56 2 26567300 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030314",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130910",
+      "eventActor" : "MAW"
+    } ],
+    "handle" : "MAW"
+  } ],
+  "startAutnum" : 19077,
+  "endAutnum" : 19077,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20001116",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20070503",
+    "eventActor" : "MAW"
+  } ],
+  "type" : null,
+  "handle" : "19077-LACNIC",
+  "country" : "CL"
+}

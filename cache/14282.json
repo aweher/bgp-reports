@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 14282,
+  "endAutnum" : 14282,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/14282",
+    "value" : "http://rdap.labs.lacnic.net/autnum/14282"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20000322",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "CHR8"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-BCLT6-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-BCLT6-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Henrique Romaneli"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLondrina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Londrina","PR","04578-000","BR"]],["email",{"type":"work"},"text","CHR8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["org",{},"text",["PERSIS TELECOM"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130320",
+      "eventActor" : "CHR8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CHR8",
+        "value" : "http://rdap.labs.lacnic.net/entity/CHR8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Henrique Romaneli"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLondrina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Londrina","PR","04578-000","BR"]],["email",{"type":"work"},"text","CHR8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CHR8"
+      } ],
+      "entities" : [ ],
+      "handle" : "CHR8"
+    } ],
+    "handle" : "BR-BCLT6-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CHR8",
+      "value" : "http://rdap.labs.lacnic.net/entity/CHR8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Henrique Romaneli"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLondrina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Londrina","PR","04578-000","BR"]],["email",{"type":"work"},"text","CHR8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CHR8"
+    } ],
+    "entities" : [ ],
+    "handle" : "CHR8"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CHR8",
+      "value" : "http://rdap.labs.lacnic.net/entity/CHR8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Henrique Romaneli"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLondrina, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Londrina","PR","04578-000","BR"]],["email",{"type":"work"},"text","CHR8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CHR8"
+    } ],
+    "entities" : [ ],
+    "handle" : "CHR8"
+  } ],
+  "type" : null,
+  "handle" : "14282-LACNIC",
+  "country" : "BR"
+}

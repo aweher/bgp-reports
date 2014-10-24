@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 19169,
+  "endAutnum" : 19169,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/19169",
+    "value" : "http://rdap.labs.lacnic.net/autnum/19169"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20001130",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20050321",
+    "eventActor" : "SEL"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EC-TESA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/EC-TESA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tomislav Topic"],["adr",{"label":"Kennedy Norte MZ 109 ()\nGuayaquil,  59342\nEC","type":"work"},"text",["","","Kennedy Norte MZ 109 ()","Guayaquil","","59342","EC"]],["email",{"type":"work"},"text","hostmaster@TELCONET.NET"],["tel",{"type":"work"},"text","593 4 2680555 (101)"],["org",{},"text",["Telconet S.A"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020925",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "SEL"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SEL",
+        "value" : "http://rdap.labs.lacnic.net/entity/SEL"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tomislav Topic"],["adr",{"label":"Kennedy Norte MZ 109 (Solar 21)\nGuayaquil,  59342\nEC","type":"work"},"text",["","","Kennedy Norte MZ 109 (Solar 21)","Guayaquil","","59342","EC"]],["email",{"type":"work"},"text","hostmaster@TELCONET.NET"],["tel",{"type":"work"},"text","593 4 2680555 (101)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20021004",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100921",
+        "eventActor" : "SEL"
+      } ],
+      "entities" : [ ],
+      "handle" : "SEL"
+    } ],
+    "handle" : "EC-TESA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SEL",
+      "value" : "http://rdap.labs.lacnic.net/entity/SEL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tomislav Topic"],["adr",{"label":"Kennedy Norte MZ 109 (Solar 21)\nGuayaquil,  59342\nEC","type":"work"},"text",["","","Kennedy Norte MZ 109 (Solar 21)","Guayaquil","","59342","EC"]],["email",{"type":"work"},"text","hostmaster@TELCONET.NET"],["tel",{"type":"work"},"text","593 4 2680555 (101)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021004",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100921",
+      "eventActor" : "SEL"
+    } ],
+    "entities" : [ ],
+    "handle" : "SEL"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SEL",
+      "value" : "http://rdap.labs.lacnic.net/entity/SEL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tomislav Topic"],["adr",{"label":"Kennedy Norte MZ 109 (Solar 21)\nGuayaquil,  59342\nEC","type":"work"},"text",["","","Kennedy Norte MZ 109 (Solar 21)","Guayaquil","","59342","EC"]],["email",{"type":"work"},"text","hostmaster@TELCONET.NET"],["tel",{"type":"work"},"text","593 4 2680555 (101)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021004",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100921",
+      "eventActor" : "SEL"
+    } ],
+    "entities" : [ ],
+    "handle" : "SEL"
+  } ],
+  "type" : null,
+  "handle" : "19169-LACNIC",
+  "country" : "EC"
+}

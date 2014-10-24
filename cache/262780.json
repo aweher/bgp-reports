@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262780,
+  "endAutnum" : 262780,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262780",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262780"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100903",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MAC212"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NTLT33-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NTLT33-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Couto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta Rita de Caldas, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa Rita de Caldas","MG","04578-000","BR"]],["email",{"type":"work"},"text","MAC212@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["org",{},"text",["NTCOM Telecomunica??es Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130905",
+      "eventActor" : "MAC212"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MAC212",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAC212"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Couto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta Rita de Caldas, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa Rita de Caldas","MG","04578-000","BR"]],["email",{"type":"work"},"text","MAC212@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MAC212"
+      } ],
+      "entities" : [ ],
+      "handle" : "MAC212"
+    } ],
+    "handle" : "BR-NTLT33-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAC212",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAC212"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Couto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta Rita de Caldas, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa Rita de Caldas","MG","04578-000","BR"]],["email",{"type":"work"},"text","MAC212@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAC212"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAC212"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAC212",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAC212"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Couto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanta Rita de Caldas, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santa Rita de Caldas","MG","04578-000","BR"]],["email",{"type":"work"},"text","MAC212@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAC212"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAC212"
+  } ],
+  "type" : null,
+  "handle" : "262780-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/263206",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263206"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CCFM-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CCFM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Iacobucci"],["adr",{"label":"Belgrano 1194  ()\nGodoy Cruz, Me 5501\nAR","type":"work"},"text",["","","Belgrano 1194  ()","Godoy Cruz","Me","5501","AR"]],["email",{"type":"work"},"text","hostmaster@COFARMEN.COM.AR"],["tel",{"type":"work"},"text","54 261 4496600 (3353)"],["org",{},"text",["COFARMEN (COOPERATIVA FARMACEUTICA MENDOZA)"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PAI10",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PAI10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Iacobucci"],["adr",{"label":"Belgrano 1194 ()\nGodoy Cruz,  5501\nAR","type":"work"},"text",["","","Belgrano 1194 ()","Godoy Cruz","","5501","AR"]],["email",{"type":"work"},"text","hostmaster@COFARMEN.COM.AR"],["tel",{"type":"work"},"text","54 261 4496600 (3353)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20131126",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131126",
+        "eventActor" : "PAI10"
+      } ],
+      "handle" : "PAI10"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131230",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131230",
+      "eventActor" : "PAI10"
+    } ],
+    "handle" : "AR-CCFM-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAI10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAI10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Iacobucci"],["adr",{"label":"Belgrano 1194 ()\nGodoy Cruz,  5501\nAR","type":"work"},"text",["","","Belgrano 1194 ()","Godoy Cruz","","5501","AR"]],["email",{"type":"work"},"text","hostmaster@COFARMEN.COM.AR"],["tel",{"type":"work"},"text","54 261 4496600 (3353)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131126",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131126",
+      "eventActor" : "PAI10"
+    } ],
+    "handle" : "PAI10"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAI10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAI10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Iacobucci"],["adr",{"label":"Belgrano 1194 ()\nGodoy Cruz,  5501\nAR","type":"work"},"text",["","","Belgrano 1194 ()","Godoy Cruz","","5501","AR"]],["email",{"type":"work"},"text","hostmaster@COFARMEN.COM.AR"],["tel",{"type":"work"},"text","54 261 4496600 (3353)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131126",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131126",
+      "eventActor" : "PAI10"
+    } ],
+    "handle" : "PAI10"
+  } ],
+  "startAutnum" : 263206,
+  "endAutnum" : 263206,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140120",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140120",
+    "eventActor" : "PAI10"
+  } ],
+  "type" : null,
+  "handle" : "263206-LACNIC",
+  "country" : "AR"
+}

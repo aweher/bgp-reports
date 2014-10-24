@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52601,
+  "endAutnum" : 52601,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52601",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52601"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130319",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130319",
+    "eventActor" : "LFM19"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-FTLT12-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-FTLT12-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lincoln Felicio e Macedo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSerro, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Serro","MG","04578-000","BR"]],["email",{"type":"work"},"text","LFM19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["org",{},"text",["FAXT Telecomunica??es Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130320",
+      "eventActor" : "LFM19"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LFM19",
+        "value" : "http://rdap.labs.lacnic.net/entity/LFM19"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lincoln Felicio e Macedo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSerro, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Serro","MG","04578-000","BR"]],["email",{"type":"work"},"text","LFM19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LFM19"
+      } ],
+      "entities" : [ ],
+      "handle" : "LFM19"
+    } ],
+    "handle" : "BR-FTLT12-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LFM19",
+      "value" : "http://rdap.labs.lacnic.net/entity/LFM19"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lincoln Felicio e Macedo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSerro, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Serro","MG","04578-000","BR"]],["email",{"type":"work"},"text","LFM19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LFM19"
+    } ],
+    "entities" : [ ],
+    "handle" : "LFM19"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LFM19",
+      "value" : "http://rdap.labs.lacnic.net/entity/LFM19"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Lincoln Felicio e Macedo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSerro, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Serro","MG","04578-000","BR"]],["email",{"type":"work"},"text","LFM19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LFM19"
+    } ],
+    "entities" : [ ],
+    "handle" : "LFM19"
+  } ],
+  "type" : null,
+  "handle" : "52601-LACNIC",
+  "country" : "BR"
+}

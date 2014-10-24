@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28037",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28037"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-ASIS1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-ASIS1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alpha 2000 Soluciones Infomaticas SRL"],["adr",{"label":"Defensa 570 (1? E)\nBuenos Aires, BS 1065\nAR","type":"work"},"text",["","","Defensa 570 (1? E)","Buenos Aires","BS","1065","AR"]],["email",{"type":"work"},"text","alpha2000srl@ALPHA2K.COM.AR"],["tel",{"type":"work"},"text","54 11 43455150 (103)"],["org",{},"text",["Alpha 2000 Soluciones Infomaticas SRL"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ASS5",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ASS5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alpha 2000 Soluciones Infomaticas SRL"],["adr",{"label":"Defensa 570 (1° E)\nBs As, null 1065\nAR","type":"work"},"text",["","","Defensa 570 (1° E)","Bs As","","1065","AR"]],["email",{"type":"work"},"text","alpha2000srl@ALPHA2K.COM.AR"],["tel",{"type":"work"},"text","54 11 43455150 (103)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080916",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20080916",
+        "eventActor" : "ASS5"
+      } ],
+      "handle" : "ASS5"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080916",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "ASS5"
+    } ],
+    "handle" : "AR-ASIS1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ASS5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ASS5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alpha 2000 Soluciones Infomaticas SRL"],["adr",{"label":"Defensa 570 (1° E)\nBs As, null 1065\nAR","type":"work"},"text",["","","Defensa 570 (1° E)","Bs As","","1065","AR"]],["email",{"type":"work"},"text","alpha2000srl@ALPHA2K.COM.AR"],["tel",{"type":"work"},"text","54 11 43455150 (103)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080916",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080916",
+      "eventActor" : "ASS5"
+    } ],
+    "handle" : "ASS5"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ASS5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ASS5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alpha 2000 Soluciones Infomaticas SRL"],["adr",{"label":"Defensa 570 (1° E)\nBs As, null 1065\nAR","type":"work"},"text",["","","Defensa 570 (1° E)","Bs As","","1065","AR"]],["email",{"type":"work"},"text","alpha2000srl@ALPHA2K.COM.AR"],["tel",{"type":"work"},"text","54 11 43455150 (103)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080916",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080916",
+      "eventActor" : "ASS5"
+    } ],
+    "handle" : "ASS5"
+  } ],
+  "startAutnum" : 28037,
+  "endAutnum" : 28037,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090202",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090202",
+    "eventActor" : "ASS5"
+  } ],
+  "type" : null,
+  "handle" : "28037-LACNIC",
+  "country" : "AR"
+}

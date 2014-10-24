@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262583,
+  "endAutnum" : 262583,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262583",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262583"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110912",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "JAF13"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-FUPF-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-FUPF-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Alfredo Forest"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPasso Fundo, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Passo Fundo","RS","04578-000","BR"]],["email",{"type":"work"},"text","JAF13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["org",{},"text",["Funda??o Universidade de Passo Fundo"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140228",
+      "eventActor" : "JAF13"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JAF13",
+        "value" : "http://rdap.labs.lacnic.net/entity/JAF13"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Alfredo Forest"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPasso Fundo, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Passo Fundo","RS","04578-000","BR"]],["email",{"type":"work"},"text","JAF13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JAF13"
+      } ],
+      "entities" : [ ],
+      "handle" : "JAF13"
+    } ],
+    "handle" : "BR-FUPF-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JAF13",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAF13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Alfredo Forest"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPasso Fundo, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Passo Fundo","RS","04578-000","BR"]],["email",{"type":"work"},"text","JAF13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JAF13"
+    } ],
+    "entities" : [ ],
+    "handle" : "JAF13"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GRU5",
+      "value" : "http://rdap.labs.lacnic.net/entity/GRU5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ger?ncia de Redes - UPF"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPasso Fundo, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Passo Fundo","RS","04578-000","BR"]],["email",{"type":"work"},"text","GRU5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GRU5"
+    } ],
+    "entities" : [ ],
+    "handle" : "GRU5"
+  } ],
+  "type" : null,
+  "handle" : "262583-LACNIC",
+  "country" : "BR"
+}

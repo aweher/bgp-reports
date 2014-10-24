@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263210,
+  "endAutnum" : 263210,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263210",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263210"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140123",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140123",
+    "eventActor" : "CAC112"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-HVTE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-HVTE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","HV TELEVISION"],["adr",{"label":"CARRERA 46 94 (18)\nBOGOTA, CU 0000\nCO","type":"work"},"text",["","","CARRERA 46 94 (18)","BOGOTA","CU","0000","CO"]],["email",{"type":"work"},"text","luz.bustosp.pr@ETB.COM.CO"],["tel",{"type":"work"},"text","057 1 17325170 ()"],["org",{},"text",["HV TELEVISION"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100319",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140124",
+      "eventActor" : "HVT"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/HVT",
+        "value" : "http://rdap.labs.lacnic.net/entity/HVT"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","HV TELEVISION"],["adr",{"label":"CARRERA 46 94 (18)\nBOGOTA, null 0000\nCO","type":"work"},"text",["","","CARRERA 46 94 (18)","BOGOTA","","0000","CO"]],["email",{"type":"work"},"text","luz.bustosp.pr@ETB.COM.CO"],["tel",{"type":"work"},"text","057 1 7325170 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100319",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100319",
+        "eventActor" : "HVT"
+      } ],
+      "entities" : [ ],
+      "handle" : "HVT"
+    } ],
+    "handle" : "CO-HVTE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CAC112",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAC112"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Andr?s Guti?rrez Castro"],["adr",{"label":"Cr 7 No 15 - 26  ()\nSoacha, null \nCO","type":"work"},"text",["","","Cr 7 No 15 - 26  ()","Soacha","","","CO"]],["email",{"type":"work"},"text","cgutierrez@HVTELEVISION.COM"],["tel",{"type":"work"},"text","57 1 7799600 (127)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130423",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130423",
+      "eventActor" : "CAC112"
+    } ],
+    "entities" : [ ],
+    "handle" : "CAC112"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CAC112",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAC112"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Andr?s Guti?rrez Castro"],["adr",{"label":"Cr 7 No 15 - 26  ()\nSoacha, null \nCO","type":"work"},"text",["","","Cr 7 No 15 - 26  ()","Soacha","","","CO"]],["email",{"type":"work"},"text","cgutierrez@HVTELEVISION.COM"],["tel",{"type":"work"},"text","57 1 7799600 (127)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130423",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130423",
+      "eventActor" : "CAC112"
+    } ],
+    "entities" : [ ],
+    "handle" : "CAC112"
+  } ],
+  "type" : null,
+  "handle" : "263210-LACNIC",
+  "country" : "CO"
+}

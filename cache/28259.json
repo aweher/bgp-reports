@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28259,
+  "endAutnum" : 28259,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28259",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28259"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20081007",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "PRC16"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CRDT-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CRDT-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Provedor CertelNET"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeut?nia, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teut?nia","RS","04578-000","BR"]],["email",{"type":"work"},"text","PRC16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["org",{},"text",["COOPERATIVA REGIONAL DE DESENVOLVIMENTO TEUTONIA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PRC16"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PRC16",
+        "value" : "http://rdap.labs.lacnic.net/entity/PRC16"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Provedor CertelNET"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeut?nia, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teut?nia","RS","04578-000","BR"]],["email",{"type":"work"},"text","PRC16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PRC16"
+      } ],
+      "entities" : [ ],
+      "handle" : "PRC16"
+    } ],
+    "handle" : "BR-CRDT-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PRC16",
+      "value" : "http://rdap.labs.lacnic.net/entity/PRC16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Provedor CertelNET"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeut?nia, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teut?nia","RS","04578-000","BR"]],["email",{"type":"work"},"text","PRC16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PRC16"
+    } ],
+    "entities" : [ ],
+    "handle" : "PRC16"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PRC16",
+      "value" : "http://rdap.labs.lacnic.net/entity/PRC16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Provedor CertelNET"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTeut?nia, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Teut?nia","RS","04578-000","BR"]],["email",{"type":"work"},"text","PRC16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 51 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PRC16"
+    } ],
+    "entities" : [ ],
+    "handle" : "PRC16"
+  } ],
+  "type" : null,
+  "handle" : "28259-LACNIC",
+  "country" : "BR"
+}

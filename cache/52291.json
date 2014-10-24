@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52291",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52291"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CPSY-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CPSY-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christian Callejon"],["adr",{"label":"MITRE 609 (Neuqu?n)\nNeuqu?n,  8300\nAR","type":"work"},"text",["","","MITRE 609 (Neuqu?n)","Neuqu?n","","8300","AR"]],["email",{"type":"work"},"text","christian@COOPERATIVACALF.COM.AR"],["tel",{"type":"work"},"text","54 299 15041097 ()"],["org",{},"text",["Coop. Provincia de Serv. Publicos y Comunitarios de Neuquen LTDA."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CHC6",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CHC6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christian Callejon"],["adr",{"label":"Mitre 609 ()\nNeuquen, null 8300\nAR","type":"work"},"text",["","","Mitre 609 ()","Neuquen","","8300","AR"]],["email",{"type":"work"},"text","christian@COOPERATIVACALF.COM.AR"],["tel",{"type":"work"},"text","54 299 4487233 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100512",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100512",
+        "eventActor" : "CHC6"
+      } ],
+      "handle" : "CHC6"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040213",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "CHC6"
+    } ],
+    "handle" : "AR-CPSY-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CHC6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CHC6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christian Callejon"],["adr",{"label":"Mitre 609 ()\nNeuquen, null 8300\nAR","type":"work"},"text",["","","Mitre 609 ()","Neuquen","","8300","AR"]],["email",{"type":"work"},"text","christian@COOPERATIVACALF.COM.AR"],["tel",{"type":"work"},"text","54 299 4487233 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100512",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100512",
+      "eventActor" : "CHC6"
+    } ],
+    "handle" : "CHC6"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CHC6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CHC6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christian Callejon"],["adr",{"label":"Mitre 609 ()\nNeuquen, null 8300\nAR","type":"work"},"text",["","","Mitre 609 ()","Neuquen","","8300","AR"]],["email",{"type":"work"},"text","christian@COOPERATIVACALF.COM.AR"],["tel",{"type":"work"},"text","54 299 4487233 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100512",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100512",
+      "eventActor" : "CHC6"
+    } ],
+    "handle" : "CHC6"
+  } ],
+  "startAutnum" : 52291,
+  "endAutnum" : 52291,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101027",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20101028",
+    "eventActor" : "CHC6"
+  } ],
+  "type" : null,
+  "handle" : "52291-LACNIC",
+  "country" : "AR"
+}

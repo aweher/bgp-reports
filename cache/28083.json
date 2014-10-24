@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28083,
+  "endAutnum" : 28083,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28083",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28083"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090911",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100205",
+    "eventActor" : "EDS8"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-GCSE2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-GCSE2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Segura"],["adr",{"label":"Calle 93 11 (Piso 5)\nBogota,  9999\nCO","type":"work"},"text",["","","Calle 93 11 (Piso 5)","Bogota","","9999","CO"]],["email",{"type":"work"},"text","nsegura@GILATLA.COM"],["tel",{"type":"work"},"text","57 1 6003434 ()"],["org",{},"text",["GILAT Colombia S.A. E.S.P."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090630",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130118",
+      "eventActor" : "GAS8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GAS8",
+        "value" : "http://rdap.labs.lacnic.net/entity/GAS8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gabriel Segura"],["adr",{"label":"234234 57 (3208020)\nBogota, null 23454\nCO","type":"work"},"text",["","","234234 57 (3208020)","Bogota","","23454","CO"]],["email",{"type":"work"},"text","nsegura@GILATLA.COM"],["tel",{"type":"work"},"text","57 1 7449494 (543)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100205",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100205",
+        "eventActor" : "GAS8"
+      } ],
+      "entities" : [ ],
+      "handle" : "GAS8"
+    } ],
+    "handle" : "CO-GCSE2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDS8",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDS8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Elkin Dario Gonzalez Sierra"],["adr",{"label":"Calle 93 # 11-26 Piso 5 ** (**)\nBogota, ** 1234\nCO","type":"work"},"text",["","","Calle 93 # 11-26 Piso 5 ** (**)","Bogota","**","1234","CO"]],["email",{"type":"work"},"text","egonzalez@GILATLA.COM"],["tel",{"type":"work"},"text","57 1 6003434 (248)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090619",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090619",
+      "eventActor" : "EDS8"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDS8"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDS8",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDS8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Elkin Dario Gonzalez Sierra"],["adr",{"label":"Calle 93 # 11-26 Piso 5 ** (**)\nBogota, ** 1234\nCO","type":"work"},"text",["","","Calle 93 # 11-26 Piso 5 ** (**)","Bogota","**","1234","CO"]],["email",{"type":"work"},"text","egonzalez@GILATLA.COM"],["tel",{"type":"work"},"text","57 1 6003434 (248)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090619",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090619",
+      "eventActor" : "EDS8"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDS8"
+  } ],
+  "type" : null,
+  "handle" : "28083-LACNIC",
+  "country" : "CO"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52273",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52273"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-LCSS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-LCSS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonel Alejandro Argal"],["adr",{"label":"Rivadavia 1063 ()\nCoronel Pringles, BA 7530\nAR","type":"work"},"text",["","","Rivadavia 1063 ()","Coronel Pringles","BA","7530","AR"]],["email",{"type":"work"},"text","leoarg85@GMAIL.COM"],["tel",{"type":"work"},"text","54 2922 465050 ()"],["org",{},"text",["Loop Coronel Suarez S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/LAA4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/LAA4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonel Alejandro Argal"],["adr",{"label":"Belgrano 875 ()\nPigüé, null 8170\nAR","type":"work"},"text",["","","Belgrano 875 ()","Pigüé","","8170","AR"]],["email",{"type":"work"},"text","leoarg85@GMAIL.COM"],["tel",{"type":"work"},"text","54 2923 415796 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110510",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110510",
+        "eventActor" : "LAA4"
+      } ],
+      "handle" : "LAA4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100713",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "LAA4"
+    } ],
+    "handle" : "AR-LCSS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CMB4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CMB4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio M. Bottini"],["adr",{"label":"Colon 845 ()\nCoronel Pringles, null 7530\nAR","type":"work"},"text",["","","Colon 845 ()","Coronel Pringles","","7530","AR"]],["email",{"type":"work"},"text","dominios@PRINGLES.COM.AR"],["tel",{"type":"work"},"text","054 2922 465050 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100630",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100630",
+      "eventActor" : "CMB4"
+    } ],
+    "handle" : "CMB4"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/LAA4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/LAA4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Leonel Alejandro Argal"],["adr",{"label":"Belgrano 875 ()\nPigüé, null 8170\nAR","type":"work"},"text",["","","Belgrano 875 ()","Pigüé","","8170","AR"]],["email",{"type":"work"},"text","leoarg85@GMAIL.COM"],["tel",{"type":"work"},"text","54 2923 415796 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110510",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110510",
+      "eventActor" : "LAA4"
+    } ],
+    "handle" : "LAA4"
+  } ],
+  "startAutnum" : 52273,
+  "endAutnum" : 52273,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100819",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110512",
+    "eventActor" : "CMB4"
+  } ],
+  "type" : null,
+  "handle" : "52273-LACNIC",
+  "country" : "AR"
+}

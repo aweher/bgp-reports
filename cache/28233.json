@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28233,
+  "endAutnum" : 28233,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28233",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28233"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080717",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "EAS24"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-IRTL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-IRTL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Taddei"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio das Ostras, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio das Ostras","RJ","04578-000","BR"]],["email",{"type":"work"},"text","EDT15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["org",{},"text",["I-CONECTA REDES DE TELECOMUNICACAO LTDA EPP"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "EDT15"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EDT15",
+        "value" : "http://rdap.labs.lacnic.net/entity/EDT15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Taddei"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio das Ostras, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio das Ostras","RJ","04578-000","BR"]],["email",{"type":"work"},"text","EDT15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EDT15"
+      } ],
+      "entities" : [ ],
+      "handle" : "EDT15"
+    } ],
+    "handle" : "BR-IRTL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EAS24",
+      "value" : "http://rdap.labs.lacnic.net/entity/EAS24"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Elind Alves de Souza"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio das Ostras, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio das Ostras","RJ","04578-000","BR"]],["email",{"type":"work"},"text","EAS24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EAS24"
+    } ],
+    "entities" : [ ],
+    "handle" : "EAS24"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDT15",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDT15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduardo Taddei"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nRio das Ostras, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Rio das Ostras","RJ","04578-000","BR"]],["email",{"type":"work"},"text","EDT15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EDT15"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDT15"
+  } ],
+  "type" : null,
+  "handle" : "28233-LACNIC",
+  "country" : "BR"
+}

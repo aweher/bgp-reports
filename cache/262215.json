@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262215,
+  "endAutnum" : 262215,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262215",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262215"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120201",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140618",
+    "eventActor" : "TLO"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-INSA10-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-INSA10-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ANDRES FELIPE CASTRO VALENCIA"],["adr",{"label":"Avenida Carrera 19 n/a (No. 95-35 OF. 409)\nBogota, -- 123\nCO","type":"work"},"text",["","","Avenida Carrera 19 n/a (No. 95-35 OF. 409)","Bogota","--","123","CO"]],["email",{"type":"work"},"text","andres.castro@ITELSEK.COM"],["tel",{"type":"work"},"text","57  3174300720 ()"],["org",{},"text",["ITELKOM"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060712",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140515",
+      "eventActor" : "AFV"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/AFV",
+        "value" : "http://rdap.labs.lacnic.net/entity/AFV"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ANDRES FELIPE CASTRO VALENCIA"],["adr",{"label":"Avenida Carrera 19 No. 95-35 Of. 409  ()\nBogot?, CU \nCO","type":"work"},"text",["","","Avenida Carrera 19 No. 95-35 Of. 409  ()","Bogot?","CU","","CO"]],["email",{"type":"work"},"text","andres.castro@ITELSEK.COM"],["tel",{"type":"work"},"text","57  3174300720 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20101108",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140515",
+        "eventActor" : "AFV"
+      } ],
+      "entities" : [ ],
+      "handle" : "AFV"
+    } ],
+    "handle" : "CO-INSA10-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TLO",
+      "value" : "http://rdap.labs.lacnic.net/entity/TLO"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tatiana Lorena Becerra Ossa"],["adr",{"label":"Av Cra 19 # 95 - 35 oficina 409  ()\nBogota,  \nCO","type":"work"},"text",["","","Av Cra 19 # 95 - 35 oficina 409  ()","Bogota","","","CO"]],["email",{"type":"work"},"text","tatiana.becerra@ITELKOM.CO"],["tel",{"type":"work"},"text","57  3168312841 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140402",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140402",
+      "eventActor" : "TLO"
+    } ],
+    "entities" : [ ],
+    "handle" : "TLO"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TLO",
+      "value" : "http://rdap.labs.lacnic.net/entity/TLO"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tatiana Lorena Becerra Ossa"],["adr",{"label":"Av Cra 19 # 95 - 35 oficina 409  ()\nBogota,  \nCO","type":"work"},"text",["","","Av Cra 19 # 95 - 35 oficina 409  ()","Bogota","","","CO"]],["email",{"type":"work"},"text","tatiana.becerra@ITELKOM.CO"],["tel",{"type":"work"},"text","57  3168312841 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140402",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140402",
+      "eventActor" : "TLO"
+    } ],
+    "entities" : [ ],
+    "handle" : "TLO"
+  } ],
+  "type" : null,
+  "handle" : "262215-LACNIC",
+  "country" : "CO"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262377,
+  "endAutnum" : 262377,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262377",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262377"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120206",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ESL9"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ESEL1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ESEL1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMMEX Solu??es Empresariais Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSaquarema, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Saquarema","RJ","04578-000","BR"]],["email",{"type":"work"},"text","ESL9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["org",{},"text",["EMMEX SOLUCOES EMPRESARIAIS LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140524",
+      "eventActor" : "ESL9"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ESL9",
+        "value" : "http://rdap.labs.lacnic.net/entity/ESL9"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMMEX Solu??es Empresariais Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSaquarema, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Saquarema","RJ","04578-000","BR"]],["email",{"type":"work"},"text","ESL9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ESL9"
+      } ],
+      "entities" : [ ],
+      "handle" : "ESL9"
+    } ],
+    "handle" : "BR-ESEL1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ESL9",
+      "value" : "http://rdap.labs.lacnic.net/entity/ESL9"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMMEX Solu??es Empresariais Ltda."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSaquarema, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Saquarema","RJ","04578-000","BR"]],["email",{"type":"work"},"text","ESL9@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ESL9"
+    } ],
+    "entities" : [ ],
+    "handle" : "ESL9"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDC53",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDC53"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMMEX DATA CENTERS"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSaquarema, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Saquarema","RJ","04578-000","BR"]],["email",{"type":"work"},"text","EDC53@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 21 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EDC53"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDC53"
+  } ],
+  "type" : null,
+  "handle" : "262377-LACNIC",
+  "country" : "BR"
+}

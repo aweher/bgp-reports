@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52741,
+  "endAutnum" : 52741,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52741",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52741"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130131",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "HGC2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MCIL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MCIL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hermison G. Castro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTurmalina, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Turmalina","MG","04578-000","BR"]],["email",{"type":"work"},"text","HGC2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["org",{},"text",["Macedo e Castro Inform?tica LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "HGC2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/HGC2",
+        "value" : "http://rdap.labs.lacnic.net/entity/HGC2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hermison G. Castro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTurmalina, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Turmalina","MG","04578-000","BR"]],["email",{"type":"work"},"text","HGC2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "HGC2"
+      } ],
+      "entities" : [ ],
+      "handle" : "HGC2"
+    } ],
+    "handle" : "BR-MCIL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HGC2",
+      "value" : "http://rdap.labs.lacnic.net/entity/HGC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hermison G. Castro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTurmalina, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Turmalina","MG","04578-000","BR"]],["email",{"type":"work"},"text","HGC2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "HGC2"
+    } ],
+    "entities" : [ ],
+    "handle" : "HGC2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HGC2",
+      "value" : "http://rdap.labs.lacnic.net/entity/HGC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hermison G. Castro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTurmalina, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Turmalina","MG","04578-000","BR"]],["email",{"type":"work"},"text","HGC2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 38 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "HGC2"
+    } ],
+    "entities" : [ ],
+    "handle" : "HGC2"
+  } ],
+  "type" : null,
+  "handle" : "52741-LACNIC",
+  "country" : "BR"
+}

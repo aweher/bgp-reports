@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262704,
+  "endAutnum" : 262704,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262704",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262704"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100303",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140529",
+    "eventActor" : "DAR33"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-FILM-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-FILM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dimas Alexandre Rocha"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConchas, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Conchas","SP","04578-000","BR"]],["email",{"type":"work"},"text","DAR33@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["org",{},"text",["FD Inform?tica Ltda EPP"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140529",
+      "eventActor" : "DAR33"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DAR33",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAR33"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dimas Alexandre Rocha"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLaranjal Paulista, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Laranjal Paulista","SP","04578-000","BR"]],["email",{"type":"work"},"text","DAR33@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DAR33"
+      } ],
+      "entities" : [ ],
+      "handle" : "DAR33"
+    } ],
+    "handle" : "BR-FILM-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DAR33",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAR33"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dimas Alexandre Rocha"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLaranjal Paulista, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Laranjal Paulista","SP","04578-000","BR"]],["email",{"type":"work"},"text","DAR33@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DAR33"
+    } ],
+    "entities" : [ ],
+    "handle" : "DAR33"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CCS50",
+      "value" : "http://rdap.labs.lacnic.net/entity/CCS50"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Clynton C. Silveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPereiras, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Pereiras","SP","04578-000","BR"]],["email",{"type":"work"},"text","CCS50@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140529",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140529",
+      "eventActor" : "CCS50"
+    } ],
+    "entities" : [ ],
+    "handle" : "CCS50"
+  } ],
+  "type" : null,
+  "handle" : "262704-LACNIC",
+  "country" : "BR"
+}

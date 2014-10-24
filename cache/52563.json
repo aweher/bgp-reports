@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52563,
+  "endAutnum" : 52563,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52563",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52563"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130214",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140717",
+    "eventActor" : "PEP14"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PPIL14-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PPIL14-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ivan William dos Santos Martins"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBirig?i, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Birig?i","SP","04578-000","BR"]],["email",{"type":"work"},"text","IWM@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["org",{},"text",["Perola Provedores de Internet Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130723",
+      "eventActor" : "IWM"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/IWM",
+        "value" : "http://rdap.labs.lacnic.net/entity/IWM"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ivan William dos Santos Martins"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBirig?i, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Birig?i","SP","04578-000","BR"]],["email",{"type":"work"},"text","IWM@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "IWM"
+      } ],
+      "entities" : [ ],
+      "handle" : "IWM"
+    } ],
+    "handle" : "BR-PPIL14-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PEP14",
+      "value" : "http://rdap.labs.lacnic.net/entity/PEP14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pérola Provedores"],["adr",{"label":"Av. das Nações Unidas 11541 (7º andar)\nBirigüi, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Nações Unidas 11541 (7º andar)","Birigüi","SP","04578-000","BR"]],["email",{"type":"work"},"text","PEP14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130723",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130723",
+      "eventActor" : "PEP14"
+    } ],
+    "entities" : [ ],
+    "handle" : "PEP14"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PEP14",
+      "value" : "http://rdap.labs.lacnic.net/entity/PEP14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pérola Provedores"],["adr",{"label":"Av. das Nações Unidas 11541 (7º andar)\nBirigüi, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Nações Unidas 11541 (7º andar)","Birigüi","SP","04578-000","BR"]],["email",{"type":"work"},"text","PEP14@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 18 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130723",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130723",
+      "eventActor" : "PEP14"
+    } ],
+    "entities" : [ ],
+    "handle" : "PEP14"
+  } ],
+  "type" : null,
+  "handle" : "52563-LACNIC",
+  "country" : "BR"
+}

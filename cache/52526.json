@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52526,
+  "endAutnum" : 52526,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52526",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52526"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130522",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130726",
+    "eventActor" : "VAS30"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VAPS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VAPS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano Rodrigues Fonseca"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nImperatriz, MA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Imperatriz","MA","04578-000","BR"]],["email",{"type":"work"},"text","LRF7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 99 55093511 ()"],["org",{},"text",["V. A. DE PAULA SEGUNDO TELECOMUNICACOES"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130522",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130726",
+      "eventActor" : "LRF7"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LRF7",
+        "value" : "http://rdap.labs.lacnic.net/entity/LRF7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luciano Rodrigues Fonseca"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nImperatriz, MA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Imperatriz","MA","04578-000","BR"]],["email",{"type":"work"},"text","LRF7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 99 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LRF7"
+      } ],
+      "entities" : [ ],
+      "handle" : "LRF7"
+    } ],
+    "handle" : "BR-VAPS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VAS30",
+      "value" : "http://rdap.labs.lacnic.net/entity/VAS30"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Vilmar Aguiar de Paula Segundo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nImperatriz, MA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Imperatriz","MA","04578-000","BR"]],["email",{"type":"work"},"text","VAS30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 99 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130726",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130726",
+      "eventActor" : "VAS30"
+    } ],
+    "entities" : [ ],
+    "handle" : "VAS30"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/VAS30",
+      "value" : "http://rdap.labs.lacnic.net/entity/VAS30"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Vilmar Aguiar de Paula Segundo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nImperatriz, MA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Imperatriz","MA","04578-000","BR"]],["email",{"type":"work"},"text","VAS30@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 99 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130726",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130726",
+      "eventActor" : "VAS30"
+    } ],
+    "entities" : [ ],
+    "handle" : "VAS30"
+  } ],
+  "type" : null,
+  "handle" : "52526-LACNIC",
+  "country" : "BR"
+}

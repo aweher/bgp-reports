@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262216",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262216"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TSAT2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TSAT2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","URIEL PALATNIK"],["adr",{"label":"MAIPU 267 (Piso 10)\nCIUDAD AUTONOMA BUENOS AIRES, AR C1084ABE\nAR","type":"work"},"text",["","","MAIPU 267 (Piso 10)","CIUDAD AUTONOMA BUENOS AIRES","AR","C1084ABE","AR"]],["email",{"type":"work"},"text","UPALATNIK@EQUAL.COM.AR"],["tel",{"type":"work"},"text","54 11 43287800 (107)"],["org",{},"text",["TELCONET S A"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/URP2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/URP2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","URIEL PALATNIK"],["adr",{"label":"MAIPU 267 (PISO 10)\nCAPITAL FEDERAL, null C1084ABE\nAR","type":"work"},"text",["","","MAIPU 267 (PISO 10)","CAPITAL FEDERAL","","C1084ABE","AR"]],["email",{"type":"work"},"text","UPALATNIK@EQUAL.COM.AR"],["tel",{"type":"work"},"text","54 11 43287800 (107)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110720",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110720",
+        "eventActor" : "URP2"
+      } ],
+      "handle" : "URP2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100322",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "URP2"
+    } ],
+    "handle" : "AR-TSAT2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/URP2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/URP2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","URIEL PALATNIK"],["adr",{"label":"MAIPU 267 (PISO 10)\nCAPITAL FEDERAL, null C1084ABE\nAR","type":"work"},"text",["","","MAIPU 267 (PISO 10)","CAPITAL FEDERAL","","C1084ABE","AR"]],["email",{"type":"work"},"text","UPALATNIK@EQUAL.COM.AR"],["tel",{"type":"work"},"text","54 11 43287800 (107)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110720",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110720",
+      "eventActor" : "URP2"
+    } ],
+    "handle" : "URP2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/URP2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/URP2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","URIEL PALATNIK"],["adr",{"label":"MAIPU 267 (PISO 10)\nCAPITAL FEDERAL, null C1084ABE\nAR","type":"work"},"text",["","","MAIPU 267 (PISO 10)","CAPITAL FEDERAL","","C1084ABE","AR"]],["email",{"type":"work"},"text","UPALATNIK@EQUAL.COM.AR"],["tel",{"type":"work"},"text","54 11 43287800 (107)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110720",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110720",
+      "eventActor" : "URP2"
+    } ],
+    "handle" : "URP2"
+  } ],
+  "startAutnum" : 262216,
+  "endAutnum" : 262216,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120202",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120724",
+    "eventActor" : "URP2"
+  } ],
+  "type" : null,
+  "handle" : "262216-LACNIC",
+  "country" : "AR"
+}

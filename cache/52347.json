@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52347",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52347"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-HDGM-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-HDGM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauro Ariel Peluso Nieto"],["adr",{"label":"Pola 387 ()\nCiudad Aut?noma de Buenos Aires, BA C1408HJG\nAR","type":"work"},"text",["","","Pola 387 ()","Ciudad Aut?noma de Buenos Aires","BA","C1408HJG","AR"]],["email",{"type":"work"},"text","noc@IENTER.NET"],["tel",{"type":"work"},"text","54 11 51676954 ()"],["org",{},"text",["HOSTCLICK, de DUCA GRACIELA MIRTA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MAN13",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAN13"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mauro Ariel Peluso Nieto"],["adr",{"label":"Pola 387 ()\nBuenos Aires,  1408\nAR","type":"work"},"text",["","","Pola 387 ()","Buenos Aires","","1408","AR"]],["email",{"type":"work"},"text","noc@IENTER.NET"],["tel",{"type":"work"},"text","54 11 46432176 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20091108",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121205",
+        "eventActor" : "MAN13"
+      } ],
+      "handle" : "MAN13"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110630",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "MAN13"
+    } ],
+    "handle" : "AR-HDGM-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JOM8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JOM8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Minassian"],["adr",{"label":"Carrasco 750 ()\nBuenos Aires,  C1407AVN\nAR","type":"work"},"text",["","","Carrasco 750 ()","Buenos Aires","","C1407AVN","AR"]],["email",{"type":"work"},"text","jorge@MINASSIAN.NET"],["tel",{"type":"work"},"text","54 911 6359 (5346)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030612",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130328",
+      "eventActor" : "JOM8"
+    } ],
+    "handle" : "JOM8"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JOM8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JOM8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Minassian"],["adr",{"label":"Carrasco 750 ()\nBuenos Aires,  C1407AVN\nAR","type":"work"},"text",["","","Carrasco 750 ()","Buenos Aires","","C1407AVN","AR"]],["email",{"type":"work"},"text","jorge@MINASSIAN.NET"],["tel",{"type":"work"},"text","54 911 6359 (5346)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030612",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130328",
+      "eventActor" : "JOM8"
+    } ],
+    "handle" : "JOM8"
+  } ],
+  "startAutnum" : 52347,
+  "endAutnum" : 52347,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110921",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110921",
+    "eventActor" : "JOM8"
+  } ],
+  "type" : null,
+  "handle" : "52347-LACNIC",
+  "country" : "AR"
+}

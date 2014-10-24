@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27987",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27987"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-NFCL-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-NFCL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mario Alberto Galindo"],["adr",{"label":"Av. Moreno 53 ()\nBuenos Aires, TO B8160BJA\nAR","type":"work"},"text",["","","Av. Moreno 53 ()","Buenos Aires","TO","B8160BJA","AR"]],["email",{"type":"work"},"text","tecnica@NODOCOOP.COM.AR"],["tel",{"type":"work"},"text","54 291 4941142 ()"],["org",{},"text",["NODOCOOP Federaci?n de Cooperativas Ltda."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MAG32",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAG32"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mario Alberto Galindo"],["adr",{"label":"Av. Moreno 53 ()\nBuenos Aires, null B8160BJA\nAR","type":"work"},"text",["","","Av. Moreno 53 ()","Buenos Aires","","B8160BJA","AR"]],["email",{"type":"work"},"text","tecnica@NODOCOOP.COM.AR"],["tel",{"type":"work"},"text","54 291 4941142 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080304",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20080304",
+        "eventActor" : "MAG32"
+      } ],
+      "handle" : "MAG32"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080418",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "MAG32"
+    } ],
+    "handle" : "AR-NFCL-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAG32",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAG32"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mario Alberto Galindo"],["adr",{"label":"Av. Moreno 53 ()\nBuenos Aires, null B8160BJA\nAR","type":"work"},"text",["","","Av. Moreno 53 ()","Buenos Aires","","B8160BJA","AR"]],["email",{"type":"work"},"text","tecnica@NODOCOOP.COM.AR"],["tel",{"type":"work"},"text","54 291 4941142 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080304",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080304",
+      "eventActor" : "MAG32"
+    } ],
+    "handle" : "MAG32"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAG32",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAG32"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mario Alberto Galindo"],["adr",{"label":"Av. Moreno 53 ()\nBuenos Aires, null B8160BJA\nAR","type":"work"},"text",["","","Av. Moreno 53 ()","Buenos Aires","","B8160BJA","AR"]],["email",{"type":"work"},"text","tecnica@NODOCOOP.COM.AR"],["tel",{"type":"work"},"text","54 291 4941142 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080304",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080304",
+      "eventActor" : "MAG32"
+    } ],
+    "handle" : "MAG32"
+  } ],
+  "startAutnum" : 27987,
+  "endAutnum" : 27987,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080806",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080806",
+    "eventActor" : "MAG32"
+  } ],
+  "type" : null,
+  "handle" : "27987-LACNIC",
+  "country" : "AR"
+}

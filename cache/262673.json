@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262673,
+  "endAutnum" : 262673,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262673",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262673"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090714",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130723",
+    "eventActor" : "MSS21"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-LPIT-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-LPIT-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Manoel Santana Sobrinho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConselheiro Lafaiete, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Conselheiro Lafaiete","","04578-000","BR"]],["email",{"type":"work"},"text","MSS21@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["org",{},"text",["Lafaiete Provedor de Internet e Telecomunic Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130403",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130403",
+      "eventActor" : "MSS21"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MSS21",
+        "value" : "http://rdap.labs.lacnic.net/entity/MSS21"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Manoel Santana Sobrinho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConselheiro Lafaiete, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Conselheiro Lafaiete","MG","04578-000","BR"]],["email",{"type":"work"},"text","MSS21@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MSS21"
+      } ],
+      "entities" : [ ],
+      "handle" : "MSS21"
+    } ],
+    "handle" : "BR-LPIT-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MSS21",
+      "value" : "http://rdap.labs.lacnic.net/entity/MSS21"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Manoel Santana Sobrinho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConselheiro Lafaiete, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Conselheiro Lafaiete","MG","04578-000","BR"]],["email",{"type":"work"},"text","MSS21@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MSS21"
+    } ],
+    "entities" : [ ],
+    "handle" : "MSS21"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MSS21",
+      "value" : "http://rdap.labs.lacnic.net/entity/MSS21"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Manoel Santana Sobrinho"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nConselheiro Lafaiete, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Conselheiro Lafaiete","MG","04578-000","BR"]],["email",{"type":"work"},"text","MSS21@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MSS21"
+    } ],
+    "entities" : [ ],
+    "handle" : "MSS21"
+  } ],
+  "type" : null,
+  "handle" : "262673-LACNIC",
+  "country" : "BR"
+}

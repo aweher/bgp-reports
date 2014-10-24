@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52226",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52226"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-COCH4-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-COCH4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo D?az"],["adr",{"label":"Mill?n 1020 (Ed-351, Rancagua)\nChuquicamata,  1\nCL","type":"work"},"text",["","","Mill?n 1020 (Ed-351, Rancagua)","Chuquicamata","","1","CL"]],["email",{"type":"work"},"text","RDiaz010@CODELCO.CL"],["tel",{"type":"work"},"text","56 72 292128 ()"],["org",{},"text",["CODELCO Chuquicamata"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/RID4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/RID4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo D?az"],["adr",{"label":"Hu?rfanos 1270 ()\nSantiago, RM D-150\nCL","type":"work"},"text",["","","Hu?rfanos 1270 ()","Santiago","RM","D-150","CL"]],["email",{"type":"work"},"text","RDiaz010@CODELCO.CL"],["tel",{"type":"work"},"text","56 72 292128 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20091027",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130326",
+        "eventActor" : "RID4"
+      } ],
+      "handle" : "RID4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050726",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130118",
+      "eventActor" : "RID4"
+    } ],
+    "handle" : "CL-COCH4-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RID4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RID4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo D?az"],["adr",{"label":"Hu?rfanos 1270 ()\nSantiago, RM D-150\nCL","type":"work"},"text",["","","Hu?rfanos 1270 ()","Santiago","RM","D-150","CL"]],["email",{"type":"work"},"text","RDiaz010@CODELCO.CL"],["tel",{"type":"work"},"text","56 72 292128 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091027",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130326",
+      "eventActor" : "RID4"
+    } ],
+    "handle" : "RID4"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RID4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RID4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo D?az"],["adr",{"label":"Hu?rfanos 1270 ()\nSantiago, RM D-150\nCL","type":"work"},"text",["","","Hu?rfanos 1270 ()","Santiago","RM","D-150","CL"]],["email",{"type":"work"},"text","RDiaz010@CODELCO.CL"],["tel",{"type":"work"},"text","56 72 292128 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091027",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130326",
+      "eventActor" : "RID4"
+    } ],
+    "handle" : "RID4"
+  } ],
+  "startAutnum" : 52226,
+  "endAutnum" : 52226,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100218",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100218",
+    "eventActor" : "RID4"
+  } ],
+  "type" : null,
+  "handle" : "52226-LACNIC",
+  "country" : "CL"
+}

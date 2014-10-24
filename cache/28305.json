@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28305,
+  "endAutnum" : 28305,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28305",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28305"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070622",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "SVI"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-SILT33-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-SILT33-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","S V A Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nApucarana, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Apucarana","PR","04578-000","BR"]],["email",{"type":"work"},"text","SVI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["org",{},"text",["SVA INTERNET LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SVI"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SVI",
+        "value" : "http://rdap.labs.lacnic.net/entity/SVI"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","S V A Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCambira, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cambira","PR","04578-000","BR"]],["email",{"type":"work"},"text","SVI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SVI"
+      } ],
+      "entities" : [ ],
+      "handle" : "SVI"
+    } ],
+    "handle" : "BR-SILT33-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SVI",
+      "value" : "http://rdap.labs.lacnic.net/entity/SVI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","S V A Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCambira, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cambira","PR","04578-000","BR"]],["email",{"type":"work"},"text","SVI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SVI"
+    } ],
+    "entities" : [ ],
+    "handle" : "SVI"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SVI",
+      "value" : "http://rdap.labs.lacnic.net/entity/SVI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","S V A Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCambira, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cambira","PR","04578-000","BR"]],["email",{"type":"work"},"text","SVI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 43 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SVI"
+    } ],
+    "entities" : [ ],
+    "handle" : "SVI"
+  } ],
+  "type" : null,
+  "handle" : "28305-LACNIC",
+  "country" : "BR"
+}

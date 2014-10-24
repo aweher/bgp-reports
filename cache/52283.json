@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52283",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52283"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-AGSA16-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-AGSA16-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Aginet SA"],["adr",{"label":"Franklin Roosevelt 4989 ()\nBuenos Aires, CP 1431\nAR","type":"work"},"text",["","","Franklin Roosevelt 4989 ()","Buenos Aires","CP","1431","AR"]],["email",{"type":"work"},"text","soporte@AGINET.COM.AR"],["tel",{"type":"work"},"text","54 11 4139-7566 ()"],["org",{},"text",["Aginet SA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/AGS",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/AGS"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Aginet SA"],["adr",{"label":"Av. F. D. Roosevelt 4989 (Of 405)\nBuenos Aires, CP 1431\nAR","type":"work"},"text",["","","Av. F. D. Roosevelt 4989 (Of 405)","Buenos Aires","CP","1431","AR"]],["email",{"type":"work"},"text","soporte@AGINET.COM.AR"],["tel",{"type":"work"},"text","54 11 53539292 (0)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20070830",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110518",
+        "eventActor" : "AGS"
+      } ],
+      "handle" : "AGS"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070830",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "AGS"
+    } ],
+    "handle" : "AR-AGSA16-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AGS",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AGS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Aginet SA"],["adr",{"label":"Av. F. D. Roosevelt 4989 (Of 405)\nBuenos Aires, CP 1431\nAR","type":"work"},"text",["","","Av. F. D. Roosevelt 4989 (Of 405)","Buenos Aires","CP","1431","AR"]],["email",{"type":"work"},"text","soporte@AGINET.COM.AR"],["tel",{"type":"work"},"text","54 11 53539292 (0)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070830",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110518",
+      "eventActor" : "AGS"
+    } ],
+    "handle" : "AGS"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AGS",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AGS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Aginet SA"],["adr",{"label":"Av. F. D. Roosevelt 4989 (Of 405)\nBuenos Aires, CP 1431\nAR","type":"work"},"text",["","","Av. F. D. Roosevelt 4989 (Of 405)","Buenos Aires","CP","1431","AR"]],["email",{"type":"work"},"text","soporte@AGINET.COM.AR"],["tel",{"type":"work"},"text","54 11 53539292 (0)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070830",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110518",
+      "eventActor" : "AGS"
+    } ],
+    "handle" : "AGS"
+  } ],
+  "startAutnum" : 52283,
+  "endAutnum" : 52283,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101013",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20101014",
+    "eventActor" : "AGS"
+  } ],
+  "type" : null,
+  "handle" : "52283-LACNIC",
+  "country" : "AR"
+}

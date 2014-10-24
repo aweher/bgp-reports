@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52856,
+  "endAutnum" : 52856,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52856",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52856"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110107",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ECP4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NPIL9-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NPIL9-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Carlos Puhl"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nErval Grande, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Erval Grande","RS","04578-000","BR"]],["email",{"type":"work"},"text","ECP4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["org",{},"text",["NETWAY PROVEDOR DE INTERNET LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "ECP4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ECP4",
+        "value" : "http://rdap.labs.lacnic.net/entity/ECP4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Carlos Puhl"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nErval Grande, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Erval Grande","RS","04578-000","BR"]],["email",{"type":"work"},"text","ECP4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ECP4"
+      } ],
+      "entities" : [ ],
+      "handle" : "ECP4"
+    } ],
+    "handle" : "BR-NPIL9-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ECP4",
+      "value" : "http://rdap.labs.lacnic.net/entity/ECP4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Carlos Puhl"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nErval Grande, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Erval Grande","RS","04578-000","BR"]],["email",{"type":"work"},"text","ECP4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ECP4"
+    } ],
+    "entities" : [ ],
+    "handle" : "ECP4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ECP4",
+      "value" : "http://rdap.labs.lacnic.net/entity/ECP4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Carlos Puhl"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nErval Grande, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Erval Grande","RS","04578-000","BR"]],["email",{"type":"work"},"text","ECP4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ECP4"
+    } ],
+    "entities" : [ ],
+    "handle" : "ECP4"
+  } ],
+  "type" : null,
+  "handle" : "52856-LACNIC",
+  "country" : "BR"
+}

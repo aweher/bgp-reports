@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28098",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28098"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-ABCO1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-ABCO1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ABGON Comunicaciones"],["adr",{"label":"Monjitas 879 (Oficina 1004)\nSantiago, RM 00181-311\nCL","type":"work"},"text",["","","Monjitas 879 (Oficina 1004)","Santiago","RM","00181-311","CL"]],["email",{"type":"work"},"text","sebastian.gonzalez@CORP.DELTASYSTEM.CL"],["tel",{"type":"work"},"text","56 2 5951997 (2)"],["org",{},"text",["ABGON COMUNICACIONES"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SGP3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SGP3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ABGON Comunicaciones"],["adr",{"label":"Monjitas 879 (Oficina 1004)\nSantiago, RM 00181-311\nCL","type":"work"},"text",["","","Monjitas 879 (Oficina 1004)","Santiago","RM","00181-311","CL"]],["email",{"type":"work"},"text","sebastian.gonzalez@CORP.DELTASYSTEM.CL"],["tel",{"type":"work"},"text","56 2 5951997 (2)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20091020",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100315",
+        "eventActor" : "SGP3"
+      } ],
+      "handle" : "SGP3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091106",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "SGP3"
+    } ],
+    "handle" : "CL-ABCO1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SGP3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SGP3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ABGON Comunicaciones"],["adr",{"label":"Monjitas 879 (Oficina 1004)\nSantiago, RM 00181-311\nCL","type":"work"},"text",["","","Monjitas 879 (Oficina 1004)","Santiago","RM","00181-311","CL"]],["email",{"type":"work"},"text","sebastian.gonzalez@CORP.DELTASYSTEM.CL"],["tel",{"type":"work"},"text","56 2 5951997 (2)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091020",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100315",
+      "eventActor" : "SGP3"
+    } ],
+    "handle" : "SGP3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SGP3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SGP3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ABGON Comunicaciones"],["adr",{"label":"Monjitas 879 (Oficina 1004)\nSantiago, RM 00181-311\nCL","type":"work"},"text",["","","Monjitas 879 (Oficina 1004)","Santiago","RM","00181-311","CL"]],["email",{"type":"work"},"text","sebastian.gonzalez@CORP.DELTASYSTEM.CL"],["tel",{"type":"work"},"text","56 2 5951997 (2)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091020",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100315",
+      "eventActor" : "SGP3"
+    } ],
+    "handle" : "SGP3"
+  } ],
+  "startAutnum" : 28098,
+  "endAutnum" : 28098,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091123",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20091125",
+    "eventActor" : "SGP3"
+  } ],
+  "type" : null,
+  "handle" : "28098-LACNIC",
+  "country" : "CL"
+}

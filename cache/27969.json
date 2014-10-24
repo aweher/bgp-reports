@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27969",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27969"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-ARTU-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-ARTU-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Arturi"],["adr",{"label":"Maipu 464 (1 dto B)\nBuenos Aires,  1006\nAR","type":"work"},"text",["","","Maipu 464 (1 dto B)","Buenos Aires","","1006","AR"]],["email",{"type":"work"},"text","noc@DNSBA.COM"],["tel",{"type":"work"},"text","54 11 5218-4829 ()"],["org",{},"text",["BairesWeb"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PAA",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PAA"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Arturi"],["adr",{"label":"vieytes 24 (8 A)\nMartinez,  1640\nAR","type":"work"},"text",["","","vieytes 24 (8 A)","Martinez","","1640","AR"]],["email",{"type":"work"},"text","noc@DNSBA.COM"],["tel",{"type":"work"},"text","54 11 5218 (4829)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20021117",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140514",
+        "eventActor" : "PAA"
+      } ],
+      "handle" : "PAA"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050822",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "PAA"
+    } ],
+    "handle" : "AR-ARTU-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Arturi"],["adr",{"label":"vieytes 24 (8 A)\nMartinez,  1640\nAR","type":"work"},"text",["","","vieytes 24 (8 A)","Martinez","","1640","AR"]],["email",{"type":"work"},"text","noc@DNSBA.COM"],["tel",{"type":"work"},"text","54 11 5218 (4829)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021117",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140514",
+      "eventActor" : "PAA"
+    } ],
+    "handle" : "PAA"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Arturi"],["adr",{"label":"vieytes 24 (8 A)\nMartinez,  1640\nAR","type":"work"},"text",["","","vieytes 24 (8 A)","Martinez","","1640","AR"]],["email",{"type":"work"},"text","noc@DNSBA.COM"],["tel",{"type":"work"},"text","54 11 5218 (4829)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021117",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140514",
+      "eventActor" : "PAA"
+    } ],
+    "handle" : "PAA"
+  } ],
+  "startAutnum" : 27969,
+  "endAutnum" : 27969,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080425",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080425",
+    "eventActor" : "PAA"
+  } ],
+  "type" : null,
+  "handle" : "27969-LACNIC",
+  "country" : "AR"
+}

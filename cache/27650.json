@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27650,
+  "endAutnum" : 27650,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27650",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27650"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20030312",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20061201",
+    "eventActor" : "RDM"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-ESES1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-ESES1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","RUBEN DARIO CAMAYO M."],["adr",{"label":"CALLE 5 5-68 ()\nPOPAYAN,  092\nCO","type":"work"},"text",["","","CALLE 5 5-68 ()","POPAYAN","","092","CO"]],["email",{"type":"work"},"text","rcamayo@EMTEL.NET.CO"],["tel",{"type":"work"},"text","57 2 8201646 ()"],["org",{},"text",["EMTEL S.A. E.S.P."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021129",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130712",
+      "eventActor" : "RDM"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RDM",
+        "value" : "http://rdap.labs.lacnic.net/entity/RDM"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","RUBEN DARIO CAMAYO M."],["adr",{"label":"Clle 5 No 5-68 572 (8201646)\nPOPAYAN, CA 01\nCO","type":"work"},"text",["","","Clle 5 No 5-68 572 (8201646)","POPAYAN","CA","01","CO"]],["email",{"type":"work"},"text","rcamayo@EMTEL.NET.CO"],["tel",{"type":"work"},"text","57 2 8201646 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20021128",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130913",
+        "eventActor" : "RDM"
+      } ],
+      "entities" : [ ],
+      "handle" : "RDM"
+    } ],
+    "handle" : "CO-ESES1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RDM",
+      "value" : "http://rdap.labs.lacnic.net/entity/RDM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","RUBEN DARIO CAMAYO M."],["adr",{"label":"Clle 5 No 5-68 572 (8201646)\nPOPAYAN, CA 01\nCO","type":"work"},"text",["","","Clle 5 No 5-68 572 (8201646)","POPAYAN","CA","01","CO"]],["email",{"type":"work"},"text","rcamayo@EMTEL.NET.CO"],["tel",{"type":"work"},"text","57 2 8201646 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021128",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130913",
+      "eventActor" : "RDM"
+    } ],
+    "entities" : [ ],
+    "handle" : "RDM"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RDM",
+      "value" : "http://rdap.labs.lacnic.net/entity/RDM"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","RUBEN DARIO CAMAYO M."],["adr",{"label":"Clle 5 No 5-68 572 (8201646)\nPOPAYAN, CA 01\nCO","type":"work"},"text",["","","Clle 5 No 5-68 572 (8201646)","POPAYAN","CA","01","CO"]],["email",{"type":"work"},"text","rcamayo@EMTEL.NET.CO"],["tel",{"type":"work"},"text","57 2 8201646 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021128",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130913",
+      "eventActor" : "RDM"
+    } ],
+    "entities" : [ ],
+    "handle" : "RDM"
+  } ],
+  "type" : null,
+  "handle" : "27650-LACNIC",
+  "country" : "CO"
+}

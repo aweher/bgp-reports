@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52675,
+  "endAutnum" : 52675,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52675",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52675"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121127",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "LCP6"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PPNL2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PPNL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Carlos Benedito Pontes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTabo?o da Serra, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tabo?o da Serra","SP","04578-000","BR"]],["email",{"type":"work"},"text","LCP6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["Pronet Provedor Network Ltda -Me"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "LCP6"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LCP6",
+        "value" : "http://rdap.labs.lacnic.net/entity/LCP6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Carlos Benedito Pontes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTabo?o da Serra, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tabo?o da Serra","SP","04578-000","BR"]],["email",{"type":"work"},"text","LCP6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "LCP6"
+      } ],
+      "entities" : [ ],
+      "handle" : "LCP6"
+    } ],
+    "handle" : "BR-PPNL2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LCP6",
+      "value" : "http://rdap.labs.lacnic.net/entity/LCP6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Carlos Benedito Pontes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTabo?o da Serra, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tabo?o da Serra","SP","04578-000","BR"]],["email",{"type":"work"},"text","LCP6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LCP6"
+    } ],
+    "entities" : [ ],
+    "handle" : "LCP6"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LCP6",
+      "value" : "http://rdap.labs.lacnic.net/entity/LCP6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Carlos Benedito Pontes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTabo?o da Serra, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tabo?o da Serra","SP","04578-000","BR"]],["email",{"type":"work"},"text","LCP6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "LCP6"
+    } ],
+    "entities" : [ ],
+    "handle" : "LCP6"
+  } ],
+  "type" : null,
+  "handle" : "52675-LACNIC",
+  "country" : "BR"
+}

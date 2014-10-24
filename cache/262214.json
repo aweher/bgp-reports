@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262214,
+  "endAutnum" : 262214,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262214",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262214"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120120",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120120",
+    "eventActor" : "JUC26"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-BABO1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-BABO1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julio Cardenas"],["adr",{"label":"Calle 35 7-46 ()\nBogot?, dc 11001000\nCO","type":"work"},"text",["","","Calle 35 7-46 ()","Bogot?","dc","11001000","CO"]],["email",{"type":"work"},"text","jcardenas@BANCODEBOGOTA.COM.CO"],["tel",{"type":"work"},"text","57 1 3320032 (3298)"],["org",{},"text",["BANCO DE BOGOTA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050224",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "JUC26"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JUC26",
+        "value" : "http://rdap.labs.lacnic.net/entity/JUC26"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julio Cardenas"],["adr",{"label":"Calle 35 No. 7-46 N/A (N/A)\nBOGOTA, null 11001000\nCO","type":"work"},"text",["","","Calle 35 No. 7-46 N/A (N/A)","BOGOTA","","11001000","CO"]],["email",{"type":"work"},"text","jcardenas@BANCODEBOGOTA.COM.CO"],["tel",{"type":"work"},"text","57 1 3320032 (3298)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110721",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110721",
+        "eventActor" : "JUC26"
+      } ],
+      "entities" : [ ],
+      "handle" : "JUC26"
+    } ],
+    "handle" : "CO-BABO1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JUC26",
+      "value" : "http://rdap.labs.lacnic.net/entity/JUC26"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julio Cardenas"],["adr",{"label":"Calle 35 No. 7-46 N/A (N/A)\nBOGOTA, null 11001000\nCO","type":"work"},"text",["","","Calle 35 No. 7-46 N/A (N/A)","BOGOTA","","11001000","CO"]],["email",{"type":"work"},"text","jcardenas@BANCODEBOGOTA.COM.CO"],["tel",{"type":"work"},"text","57 1 3320032 (3298)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110721",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110721",
+      "eventActor" : "JUC26"
+    } ],
+    "entities" : [ ],
+    "handle" : "JUC26"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JUC26",
+      "value" : "http://rdap.labs.lacnic.net/entity/JUC26"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julio Cardenas"],["adr",{"label":"Calle 35 No. 7-46 N/A (N/A)\nBOGOTA, null 11001000\nCO","type":"work"},"text",["","","Calle 35 No. 7-46 N/A (N/A)","BOGOTA","","11001000","CO"]],["email",{"type":"work"},"text","jcardenas@BANCODEBOGOTA.COM.CO"],["tel",{"type":"work"},"text","57 1 3320032 (3298)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110721",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110721",
+      "eventActor" : "JUC26"
+    } ],
+    "entities" : [ ],
+    "handle" : "JUC26"
+  } ],
+  "type" : null,
+  "handle" : "262214-LACNIC",
+  "country" : "CO"
+}

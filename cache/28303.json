@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28303,
+  "endAutnum" : 28303,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28303",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28303"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070621",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "OCR"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-REOP1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-REOP1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","OptiTel - Ger?ncia de Registros Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGet?lio Vargas, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Get?lio Vargas","RS","04578-000","BR"]],["email",{"type":"work"},"text","OGI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 54 55093511 ()"],["org",{},"text",["Rede OptiTel"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131121",
+      "eventActor" : "OGI"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/OGI",
+        "value" : "http://rdap.labs.lacnic.net/entity/OGI"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","OptiTel - Ger?ncia de Registros Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBalne?rio Cambori?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Balne?rio Cambori?","SC","04578-000","BR"]],["email",{"type":"work"},"text","OGI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "OGI"
+      } ],
+      "entities" : [ ],
+      "handle" : "OGI"
+    } ],
+    "handle" : "BR-REOP1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/OCR",
+      "value" : "http://rdap.labs.lacnic.net/entity/OCR"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Optitel - Centro de Ger?ncia de Redes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBalne?rio Cambori?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Balne?rio Cambori?","SC","04578-000","BR"]],["email",{"type":"work"},"text","OCR@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "OCR"
+    } ],
+    "entities" : [ ],
+    "handle" : "OCR"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/OCR",
+      "value" : "http://rdap.labs.lacnic.net/entity/OCR"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Optitel - Centro de Ger?ncia de Redes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBalne?rio Cambori?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Balne?rio Cambori?","SC","04578-000","BR"]],["email",{"type":"work"},"text","OCR@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 47 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "OCR"
+    } ],
+    "entities" : [ ],
+    "handle" : "OCR"
+  } ],
+  "type" : null,
+  "handle" : "28303-LACNIC",
+  "country" : "BR"
+}

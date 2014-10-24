@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52755,
+  "endAutnum" : 52755,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52755",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52755"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120831",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MRM17"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-UMCS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-UMCS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MARCELO RIBEIRO MACHADO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMatias Barbosa, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Matias Barbosa","MG","04578-000","BR"]],["email",{"type":"work"},"text","MRM17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["org",{},"text",["U&M MINERACAO E CONSTRUCAO S/A"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "MRM17"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MRM17",
+        "value" : "http://rdap.labs.lacnic.net/entity/MRM17"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MARCELO RIBEIRO MACHADO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMatias Barbosa, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Matias Barbosa","MG","04578-000","BR"]],["email",{"type":"work"},"text","MRM17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MRM17"
+      } ],
+      "entities" : [ ],
+      "handle" : "MRM17"
+    } ],
+    "handle" : "BR-UMCS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MRM17",
+      "value" : "http://rdap.labs.lacnic.net/entity/MRM17"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MARCELO RIBEIRO MACHADO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMatias Barbosa, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Matias Barbosa","MG","04578-000","BR"]],["email",{"type":"work"},"text","MRM17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MRM17"
+    } ],
+    "entities" : [ ],
+    "handle" : "MRM17"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MRM17",
+      "value" : "http://rdap.labs.lacnic.net/entity/MRM17"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","MARCELO RIBEIRO MACHADO"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMatias Barbosa, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Matias Barbosa","MG","04578-000","BR"]],["email",{"type":"work"},"text","MRM17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 32 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MRM17"
+    } ],
+    "entities" : [ ],
+    "handle" : "MRM17"
+  } ],
+  "type" : null,
+  "handle" : "52755-LACNIC",
+  "country" : "BR"
+}

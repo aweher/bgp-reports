@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263076,
+  "endAutnum" : 263076,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263076",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263076"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120330",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "HEP16"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-UEMU-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-UEMU-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Helcio do Prado"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaring?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maring?","PR","04578-000","BR"]],["email",{"type":"work"},"text","HEP16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["org",{},"text",["Universidade Estadual de Maring? - UEM"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "HEP16"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/HEP16",
+        "value" : "http://rdap.labs.lacnic.net/entity/HEP16"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Helcio do Prado"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaring?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maring?","PR","04578-000","BR"]],["email",{"type":"work"},"text","HEP16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "HEP16"
+      } ],
+      "entities" : [ ],
+      "handle" : "HEP16"
+    } ],
+    "handle" : "BR-UEMU-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HEP16",
+      "value" : "http://rdap.labs.lacnic.net/entity/HEP16"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Helcio do Prado"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaring?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maring?","PR","04578-000","BR"]],["email",{"type":"work"},"text","HEP16@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "HEP16"
+    } ],
+    "entities" : [ ],
+    "handle" : "HEP16"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ASJ8",
+      "value" : "http://rdap.labs.lacnic.net/entity/ASJ8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Antonio S. Martins Jr."],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaring?, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maring?","PR","04578-000","BR"]],["email",{"type":"work"},"text","ASJ8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 44 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ASJ8"
+    } ],
+    "entities" : [ ],
+    "handle" : "ASJ8"
+  } ],
+  "type" : null,
+  "handle" : "263076-LACNIC",
+  "country" : "BR"
+}

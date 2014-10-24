@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27894",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27894"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-PJME-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-PJME-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo S. Dagfal"],["adr",{"label":"AV. ESPA?A 480 (primer sub.)\nMENDOZA,  -\nAR","type":"work"},"text",["","","AV. ESPA?A 480 (primer sub.)","MENDOZA","","-","AR"]],["email",{"type":"work"},"text","pdagfal@JUS.MENDOZA.GOV.AR"],["tel",{"type":"work"},"text","54 261 4495483 ()"],["org",{},"text",["PODER JUDICIAL DE MENDOZA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PSD3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PSD3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo S. Dagfal"],["adr",{"label":"Av. Espana 430 ()\nMendoza,  5500\nAR","type":"work"},"text",["","","Av. Espana 430 ()","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","pdagfal@JUS.MENDOZA.GOV.AR"],["tel",{"type":"work"},"text","54 261 4495483 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20081119",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130704",
+        "eventActor" : "PSD3"
+      } ],
+      "handle" : "PSD3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081203",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130705",
+      "eventActor" : "PSD3"
+    } ],
+    "handle" : "AR-PJME-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PSD3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PSD3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo S. Dagfal"],["adr",{"label":"Av. Espana 430 ()\nMendoza,  5500\nAR","type":"work"},"text",["","","Av. Espana 430 ()","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","pdagfal@JUS.MENDOZA.GOV.AR"],["tel",{"type":"work"},"text","54 261 4495483 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081119",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130704",
+      "eventActor" : "PSD3"
+    } ],
+    "handle" : "PSD3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PSD3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PSD3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo S. Dagfal"],["adr",{"label":"Av. Espana 430 ()\nMendoza,  5500\nAR","type":"work"},"text",["","","Av. Espana 430 ()","Mendoza","","5500","AR"]],["email",{"type":"work"},"text","pdagfal@JUS.MENDOZA.GOV.AR"],["tel",{"type":"work"},"text","54 261 4495483 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081119",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130704",
+      "eventActor" : "PSD3"
+    } ],
+    "handle" : "PSD3"
+  } ],
+  "startAutnum" : 27894,
+  "endAutnum" : 27894,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090713",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090713",
+    "eventActor" : "PSD3"
+  } ],
+  "type" : null,
+  "handle" : "27894-LACNIC",
+  "country" : "AR"
+}

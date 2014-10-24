@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28204,
+  "endAutnum" : 28204,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28204",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28204"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080411",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ART13"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-KSII-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-KSII-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniele Chuery"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Paulo, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Paulo","SP","04578-000","BR"]],["email",{"type":"work"},"text","DAC54@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["Keraxweb Servi?os de Interliga??o e Internet Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "DAC54"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DAC54",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAC54"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniele Chuery"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDiadema, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Diadema","SP","04578-000","BR"]],["email",{"type":"work"},"text","DAC54@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DAC54"
+      } ],
+      "entities" : [ ],
+      "handle" : "DAC54"
+    } ],
+    "handle" : "BR-KSII-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ART13",
+      "value" : "http://rdap.labs.lacnic.net/entity/ART13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Adriano Rodrigo Teles"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCotia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cotia","SP","04578-000","BR"]],["email",{"type":"work"},"text","ART13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130726",
+      "eventActor" : "ART13"
+    } ],
+    "entities" : [ ],
+    "handle" : "ART13"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ART13",
+      "value" : "http://rdap.labs.lacnic.net/entity/ART13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Adriano Rodrigo Teles"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCotia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cotia","SP","04578-000","BR"]],["email",{"type":"work"},"text","ART13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130726",
+      "eventActor" : "ART13"
+    } ],
+    "entities" : [ ],
+    "handle" : "ART13"
+  } ],
+  "type" : null,
+  "handle" : "28204-LACNIC",
+  "country" : "BR"
+}

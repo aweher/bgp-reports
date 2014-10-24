@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262668,
+  "endAutnum" : 262668,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262668",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262668"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090714",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ACP23"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MPIL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MPIL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ademir Costa Peixoto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto Ant?nio de Jesus, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo Ant?nio de Jesus","BA","04578-000","BR"]],["email",{"type":"work"},"text","ACP23@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["org",{},"text",["Mar Provedor de Internet Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "ACP23"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ACP23",
+        "value" : "http://rdap.labs.lacnic.net/entity/ACP23"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ademir Costa Peixoto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAmargosa, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Amargosa","BA","04578-000","BR"]],["email",{"type":"work"},"text","ACP23@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ACP23"
+      } ],
+      "entities" : [ ],
+      "handle" : "ACP23"
+    } ],
+    "handle" : "BR-MPIL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ACP23",
+      "value" : "http://rdap.labs.lacnic.net/entity/ACP23"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ademir Costa Peixoto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAmargosa, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Amargosa","BA","04578-000","BR"]],["email",{"type":"work"},"text","ACP23@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ACP23"
+    } ],
+    "entities" : [ ],
+    "handle" : "ACP23"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ACP23",
+      "value" : "http://rdap.labs.lacnic.net/entity/ACP23"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ademir Costa Peixoto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nAmargosa, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Amargosa","BA","04578-000","BR"]],["email",{"type":"work"},"text","ACP23@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 75 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ACP23"
+    } ],
+    "entities" : [ ],
+    "handle" : "ACP23"
+  } ],
+  "type" : null,
+  "handle" : "262668-LACNIC",
+  "country" : "BR"
+}

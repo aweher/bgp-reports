@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53202,
+  "endAutnum" : 53202,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53202",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53202"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100909",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "JDS13"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-AILT30-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-AILT30-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jean Denys Schoenherr"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArapiraca, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Arapiraca","AL","04578-000","BR"]],["email",{"type":"work"},"text","JDS13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["org",{},"text",["Acesso10 Telecom"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140522",
+      "eventActor" : "JDS13"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JDS13",
+        "value" : "http://rdap.labs.lacnic.net/entity/JDS13"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jean Denys Schoenherr"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArapiraca, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Arapiraca","AL","04578-000","BR"]],["email",{"type":"work"},"text","JDS13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JDS13"
+      } ],
+      "entities" : [ ],
+      "handle" : "JDS13"
+    } ],
+    "handle" : "BR-AILT30-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JDS13",
+      "value" : "http://rdap.labs.lacnic.net/entity/JDS13"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jean Denys Schoenherr"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArapiraca, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Arapiraca","AL","04578-000","BR"]],["email",{"type":"work"},"text","JDS13@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JDS13"
+    } ],
+    "entities" : [ ],
+    "handle" : "JDS13"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CGA7",
+      "value" : "http://rdap.labs.lacnic.net/entity/CGA7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","CENTRO GERENCIA REDES ACESSO10"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArapiraca, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Arapiraca","AL","04578-000","BR"]],["email",{"type":"work"},"text","CGA7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CGA7"
+    } ],
+    "entities" : [ ],
+    "handle" : "CGA7"
+  } ],
+  "type" : null,
+  "handle" : "53202-LACNIC",
+  "country" : "BR"
+}

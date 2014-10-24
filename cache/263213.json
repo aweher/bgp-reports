@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/263213",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263213"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-VINE1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-VINE1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio M. Bottini"],["adr",{"label":"ROCA 94  ()\nSIERRA DE LA VENTANA, BA \nAR","type":"work"},"text",["","","ROCA 94  ()","SIERRA DE LA VENTANA","BA","","AR"]],["email",{"type":"work"},"text","dominios@PRINGLES.COM.AR"],["tel",{"type":"work"},"text","054 2922 4915255 ()"],["org",{},"text",["VISION NET"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CMB4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CMB4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio M. Bottini"],["adr",{"label":"Colon 845 ()\nCoronel Pringles, null 7530\nAR","type":"work"},"text",["","","Colon 845 ()","Coronel Pringles","","7530","AR"]],["email",{"type":"work"},"text","dominios@PRINGLES.COM.AR"],["tel",{"type":"work"},"text","054 2922 465050 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100630",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100630",
+        "eventActor" : "CMB4"
+      } ],
+      "handle" : "CMB4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131105",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131105",
+      "eventActor" : "CMB4"
+    } ],
+    "handle" : "AR-VINE1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CMB4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CMB4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio M. Bottini"],["adr",{"label":"Colon 845 ()\nCoronel Pringles, null 7530\nAR","type":"work"},"text",["","","Colon 845 ()","Coronel Pringles","","7530","AR"]],["email",{"type":"work"},"text","dominios@PRINGLES.COM.AR"],["tel",{"type":"work"},"text","054 2922 465050 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100630",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100630",
+      "eventActor" : "CMB4"
+    } ],
+    "handle" : "CMB4"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CMB4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CMB4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Claudio M. Bottini"],["adr",{"label":"Colon 845 ()\nCoronel Pringles, null 7530\nAR","type":"work"},"text",["","","Colon 845 ()","Coronel Pringles","","7530","AR"]],["email",{"type":"work"},"text","dominios@PRINGLES.COM.AR"],["tel",{"type":"work"},"text","054 2922 465050 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100630",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100630",
+      "eventActor" : "CMB4"
+    } ],
+    "handle" : "CMB4"
+  } ],
+  "startAutnum" : 263213,
+  "endAutnum" : 263213,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140203",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140203",
+    "eventActor" : "CMB4"
+  } ],
+  "type" : null,
+  "handle" : "263213-LACNIC",
+  "country" : "AR"
+}

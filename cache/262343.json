@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262343,
+  "endAutnum" : 262343,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262343",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262343"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120103",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "GZO"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NAIL3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NAIL3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Zucconi de Oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArtur Nogueira, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Artur Nogueira","SP","04578-000","BR"]],["email",{"type":"work"},"text","GZO@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["Net Aki Internet Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "GZO"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GZO",
+        "value" : "http://rdap.labs.lacnic.net/entity/GZO"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Zucconi de Oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArtur Nogueira, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Artur Nogueira","SP","04578-000","BR"]],["email",{"type":"work"},"text","GZO@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "GZO"
+      } ],
+      "entities" : [ ],
+      "handle" : "GZO"
+    } ],
+    "handle" : "BR-NAIL3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GZO",
+      "value" : "http://rdap.labs.lacnic.net/entity/GZO"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Zucconi de Oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArtur Nogueira, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Artur Nogueira","SP","04578-000","BR"]],["email",{"type":"work"},"text","GZO@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GZO"
+    } ],
+    "entities" : [ ],
+    "handle" : "GZO"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GZO",
+      "value" : "http://rdap.labs.lacnic.net/entity/GZO"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Gustavo Zucconi de Oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArtur Nogueira, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Artur Nogueira","SP","04578-000","BR"]],["email",{"type":"work"},"text","GZO@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GZO"
+    } ],
+    "entities" : [ ],
+    "handle" : "GZO"
+  } ],
+  "type" : null,
+  "handle" : "262343-LACNIC",
+  "country" : "BR"
+}

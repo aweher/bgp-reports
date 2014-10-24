@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52995,
+  "endAutnum" : 52995,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52995",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52995"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110524",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "SES29"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TILT44-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TILT44-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Saulo Emerson de Oliveira Sousa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCapim Grosso, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Capim Grosso","BA","04578-000","BR"]],["email",{"type":"work"},"text","SES29@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 74 55093511 ()"],["org",{},"text",["TECHNet Inform?tica Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "SES29"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SES29",
+        "value" : "http://rdap.labs.lacnic.net/entity/SES29"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Saulo Emerson de Oliveira Sousa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCapim Grosso, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Capim Grosso","BA","04578-000","BR"]],["email",{"type":"work"},"text","SES29@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 74 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SES29"
+      } ],
+      "entities" : [ ],
+      "handle" : "SES29"
+    } ],
+    "handle" : "BR-TILT44-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SES29",
+      "value" : "http://rdap.labs.lacnic.net/entity/SES29"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Saulo Emerson de Oliveira Sousa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCapim Grosso, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Capim Grosso","BA","04578-000","BR"]],["email",{"type":"work"},"text","SES29@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 74 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SES29"
+    } ],
+    "entities" : [ ],
+    "handle" : "SES29"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SES29",
+      "value" : "http://rdap.labs.lacnic.net/entity/SES29"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Saulo Emerson de Oliveira Sousa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCapim Grosso, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Capim Grosso","BA","04578-000","BR"]],["email",{"type":"work"},"text","SES29@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 74 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SES29"
+    } ],
+    "entities" : [ ],
+    "handle" : "SES29"
+  } ],
+  "type" : null,
+  "handle" : "52995-LACNIC",
+  "country" : "BR"
+}

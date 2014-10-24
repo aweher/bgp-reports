@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52267",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52267"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-BSVS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-BSVS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Banchile Seguros de Vida"],["adr",{"label":"Miraflores 222 (Piso 21)\nSantiago, RM NONE\nCL","type":"work"},"text",["","","Miraflores 222 (Piso 21)","Santiago","RM","NONE","CL"]],["email",{"type":"work"},"text","lrivas@BANCHILEVIDA.CL"],["tel",{"type":"work"},"text","56 2 7573860 ()"],["org",{},"text",["BanChile Seguros de Vida S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/BSV",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/BSV"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Banchile Seguros de Vida"],["adr",{"label":"MIRAFLORES 222 PISO 21  ()\nSANTIAGO, null 8320198\nCL","type":"work"},"text",["","","MIRAFLORES 222 PISO 21  ()","SANTIAGO","","8320198","CL"]],["email",{"type":"work"},"text","lrivas@BANCHILEVIDA.CL"],["tel",{"type":"work"},"text","056 02 7573875 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100308",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100308",
+        "eventActor" : "BSV"
+      } ],
+      "handle" : "BSV"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20051207",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100717",
+      "eventActor" : "BSV"
+    } ],
+    "handle" : "CL-BSVS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/BSV",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/BSV"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Banchile Seguros de Vida"],["adr",{"label":"MIRAFLORES 222 PISO 21  ()\nSANTIAGO, null 8320198\nCL","type":"work"},"text",["","","MIRAFLORES 222 PISO 21  ()","SANTIAGO","","8320198","CL"]],["email",{"type":"work"},"text","lrivas@BANCHILEVIDA.CL"],["tel",{"type":"work"},"text","056 02 7573875 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100308",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100308",
+      "eventActor" : "BSV"
+    } ],
+    "handle" : "BSV"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/BSV",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/BSV"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Banchile Seguros de Vida"],["adr",{"label":"MIRAFLORES 222 PISO 21  ()\nSANTIAGO, null 8320198\nCL","type":"work"},"text",["","","MIRAFLORES 222 PISO 21  ()","SANTIAGO","","8320198","CL"]],["email",{"type":"work"},"text","lrivas@BANCHILEVIDA.CL"],["tel",{"type":"work"},"text","056 02 7573875 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100308",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100308",
+      "eventActor" : "BSV"
+    } ],
+    "handle" : "BSV"
+  } ],
+  "startAutnum" : 52267,
+  "endAutnum" : 52267,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100716",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100716",
+    "eventActor" : "BSV"
+  } ],
+  "type" : null,
+  "handle" : "52267-LACNIC",
+  "country" : "CL"
+}

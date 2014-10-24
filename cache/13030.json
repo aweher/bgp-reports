@@ -1,0 +1,522 @@
+{"service" : {
+  "name" : "search"
+},
+"parameters" : {
+  "inverse-lookup" : { },
+  "type-filters" : { },
+  "flags" : { },
+  "query-strings" : {
+    "query-string" : [ {
+      "value" : "as13030"
+    } ]
+  },
+  "sources" : { }
+},
+"objects" : {
+  "object" : [ {
+    "type" : "as-block",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/as-block/AS12557 - AS13223"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS12557 - AS13223"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "as-block",
+        "value" : "AS12557 - AS13223"
+      }, {
+        "name" : "descr",
+        "value" : "RIPE NCC ASN block"
+      }, {
+        "name" : "remarks",
+        "value" : "These AS Numbers are assigned to network operators in the RIPE NCC service region."
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "aut-num",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/aut-num/AS13030"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS13030"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "aut-num",
+        "value" : "AS13030"
+      }, {
+        "name" : "as-name",
+        "value" : "INIT7"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/organisation/ORG-ISA1-RIPE"
+        },
+        "name" : "org",
+        "value" : "ORG-ISA1-RIPE",
+        "referenced-type" : "organisation"
+      }, {
+        "name" : "descr",
+        "value" : "Init Seven AG"
+      }, {
+        "name" : "remarks",
+        "value" : "Init7 Global Backbone"
+      }, {
+        "name" : "remarks",
+        "value" : "http://www.init7.net/"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "Please find our peering details at"
+      }, {
+        "name" : "remarks",
+        "value" : "http://as13030.peeringdb.com/"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "We have an open peering policy and would like to peer with"
+      }, {
+        "name" : "remarks",
+        "value" : "you. Please send requests to peering@init7.net."
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "NOC: noc@init7.net"
+      }, {
+        "name" : "remarks",
+        "value" : "Abuse: abuse@init7.net"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "remarks",
+        "value" : "Looking Glass:"
+      }, {
+        "name" : "remarks",
+        "value" : "http://www.init7.net/looking-glass/looking-glass.php"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "name" : "export",
+        "value" : "to AS13030:AS-TRANSIT announce AS13030:AS-INIT7"
+      }, {
+        "name" : "export",
+        "value" : "to AS13030:AS-PEERS announce AS13030:AS-INIT7"
+      }, {
+        "name" : "import",
+        "value" : "from AS13030:AS-TRANSIT accept ANY"
+      }, {
+        "name" : "import",
+        "value" : "from AS13030:AS-PEERS accept AS13030:AS-SET:PeerAS"
+      }, {
+        "name" : "remarks",
+        "value" : ""
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/ISHM-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "ISHM-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/ISIE-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "ISIE-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "name" : "remarks",
+        "value" : "For information on \"status:\" attribute read https://www.ripe.net/data-tools/db/faq/faq-status-values-legacy-resources"
+      }, {
+        "name" : "status",
+        "value" : "ASSIGNED"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-END-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-END-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/MNT-INIT7-NOC"
+        },
+        "name" : "mnt-by",
+        "value" : "MNT-INIT7-NOC",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    },
+    "tags" : {
+      "tag" : [ {
+        "id" : "RIPE-REGISTRY-RESOURCE",
+        "data" : null
+      } ]
+    }
+  }, {
+    "type" : "organisation",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/organisation/ORG-ISA1-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "organisation",
+        "value" : "ORG-ISA1-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "organisation",
+        "value" : "ORG-ISA1-RIPE"
+      }, {
+        "name" : "org-name",
+        "value" : "Init Seven AG"
+      }, {
+        "name" : "org-type",
+        "value" : "LIR"
+      }, {
+        "name" : "address",
+        "value" : "Init Seven AG"
+      }, {
+        "name" : "address",
+        "value" : "St. Georgen-Strasse 70"
+      }, {
+        "name" : "address",
+        "value" : "CH-8400"
+      }, {
+        "name" : "address",
+        "value" : "Winterthur"
+      }, {
+        "name" : "address",
+        "value" : "SWITZERLAND"
+      }, {
+        "name" : "phone",
+        "value" : "+41443154400"
+      }, {
+        "name" : "fax-no",
+        "value" : "+41443154401"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/ISIE-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "ISIE-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/ISNE-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "ISNE-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/ISHM-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "ISHM-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/FKU-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "FKU-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/WELL-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "WELL-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/LIMO-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "LIMO-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/ISNO-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "ISNO-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-ref",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/MNT-INIT7-NOC"
+        },
+        "name" : "mnt-ref",
+        "value" : "MNT-INIT7-NOC",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "remarks",
+        "value" : "For Spam/Abuse, please contact ONLY abuse@init7.net"
+      }, {
+        "name" : "remarks",
+        "value" : "E-mails to other addresses will be IGNORED"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/RIPE-NCC-HM-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "RIPE-NCC-HM-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/ISHM-RIPE"
+        },
+        "name" : "abuse-c",
+        "value" : "ISHM-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "role",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/role/ISHM-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "nic-hdl",
+        "value" : "ISHM-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "role",
+        "value" : "Init Seven Hostmaster-Team"
+      }, {
+        "name" : "address",
+        "value" : "Init7 (Switzerland) AG"
+      }, {
+        "name" : "address",
+        "value" : "St. Georgen-Strasse 70"
+      }, {
+        "name" : "address",
+        "value" : "CH-8400 Winterthur"
+      }, {
+        "name" : "abuse-mailbox",
+        "value" : "abuse@init7.net"
+      }, {
+        "name" : "phone",
+        "value" : "+41 44 315 44 00"
+      }, {
+        "name" : "fax-no",
+        "value" : "+41 44 315 44 01"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/WELL-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "WELL-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/LIMO-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "LIMO-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/ISNO-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "ISNO-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "name" : "nic-hdl",
+        "value" : "ISHM-RIPE"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/organisation/ORG-ISA1-RIPE"
+        },
+        "name" : "org",
+        "value" : "ORG-ISA1-RIPE",
+        "referenced-type" : "organisation"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/MNT-INIT7-NOC"
+        },
+        "name" : "mnt-by",
+        "value" : "MNT-INIT7-NOC",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  }, {
+    "type" : "role",
+    "link" : {
+      "type" : "locator",
+      "href" : "http://rest.db.ripe.net/ripe/role/ISIE-RIPE"
+    },
+    "source" : {
+      "id" : "ripe"
+    },
+    "primary-key" : {
+      "attribute" : [ {
+        "name" : "nic-hdl",
+        "value" : "ISIE-RIPE"
+      } ]
+    },
+    "attributes" : {
+      "attribute" : [ {
+        "name" : "role",
+        "value" : "Init Seven IP Engineering"
+      }, {
+        "name" : "address",
+        "value" : "Init7 (Switzerland) AG"
+      }, {
+        "name" : "address",
+        "value" : "St. Georgen-Strasse 70"
+      }, {
+        "name" : "address",
+        "value" : "CH-8400 Winterthur"
+      }, {
+        "name" : "abuse-mailbox",
+        "value" : "abuse@init7.net"
+      }, {
+        "name" : "phone",
+        "value" : "+41 44 315 44 00"
+      }, {
+        "name" : "fax-no",
+        "value" : "+41 44 315 44 01"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/role/ISHM-RIPE"
+        },
+        "name" : "admin-c",
+        "value" : "ISHM-RIPE",
+        "referenced-type" : "role"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/WELL-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "WELL-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/person/LIMO-RIPE"
+        },
+        "name" : "tech-c",
+        "value" : "LIMO-RIPE",
+        "referenced-type" : "person"
+      }, {
+        "name" : "nic-hdl",
+        "value" : "ISIE-RIPE"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/organisation/ORG-ISA1-RIPE"
+        },
+        "name" : "org",
+        "value" : "ORG-ISA1-RIPE",
+        "referenced-type" : "organisation"
+      }, {
+        "link" : {
+          "type" : "locator",
+          "href" : "http://rest.db.ripe.net/ripe/mntner/INIT7-MNT"
+        },
+        "name" : "mnt-by",
+        "value" : "INIT7-MNT",
+        "referenced-type" : "mntner"
+      }, {
+        "name" : "source",
+        "value" : "RIPE",
+        "comment" : "Filtered"
+      } ]
+    }
+  } ]
+},
+"terms-and-conditions" : {
+  "type" : "locator",
+  "href" : "http://www.ripe.net/db/support/db-terms-conditions.pdf"
+}
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262424,
+  "endAutnum" : 262424,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262424",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262424"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110324",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ESL19"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-IISL5-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-IISL5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","eliezer santana lima"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGuanambi, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Guanambi","BA","04578-000","BR"]],["email",{"type":"work"},"text","ESL19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 77 55093511 ()"],["org",{},"text",["InterSoft Internet e Software Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "ESL19"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ESL19",
+        "value" : "http://rdap.labs.lacnic.net/entity/ESL19"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","eliezer santana lima"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGuanambi, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Guanambi","BA","04578-000","BR"]],["email",{"type":"work"},"text","ESL19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 77 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ESL19"
+      } ],
+      "entities" : [ ],
+      "handle" : "ESL19"
+    } ],
+    "handle" : "BR-IISL5-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ESL19",
+      "value" : "http://rdap.labs.lacnic.net/entity/ESL19"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","eliezer santana lima"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGuanambi, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Guanambi","BA","04578-000","BR"]],["email",{"type":"work"},"text","ESL19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 77 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ESL19"
+    } ],
+    "entities" : [ ],
+    "handle" : "ESL19"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WEC6",
+      "value" : "http://rdap.labs.lacnic.net/entity/WEC6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","welton castro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGuanambi, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Guanambi","BA","04578-000","BR"]],["email",{"type":"work"},"text","WEC6@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 77 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "WEC6"
+    } ],
+    "entities" : [ ],
+    "handle" : "WEC6"
+  } ],
+  "type" : null,
+  "handle" : "262424-LACNIC",
+  "country" : "BR"
+}

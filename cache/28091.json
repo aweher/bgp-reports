@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28091",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28091"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-SISA24-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-SISA24-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alberto Ponce Albornoz"],["adr",{"label":"Eleodoro Flores 2425 ()\nSantiago, RM 7770318\nCL","type":"work"},"text",["","","Eleodoro Flores 2425 ()","Santiago","RM","7770318","CL"]],["email",{"type":"work"},"text","soportelacnic@SOLINT.CL"],["tel",{"type":"work"},"text","56 2 4119000 (9467)"],["org",{},"text",["Soluciones Integrales S.A"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CLG4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CLG4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alberto Ponce Albornoz"],["adr",{"label":"Eleodoro Flores 2425 (?u?oa)\nSantiago, RM 7770318\nCL","type":"work"},"text",["","","Eleodoro Flores 2425 (?u?oa)","Santiago","RM","7770318","CL"]],["email",{"type":"work"},"text","soportelacnic@SOLINT.CL"],["tel",{"type":"work"},"text","56 2 4119000 (9422)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20091022",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130322",
+        "eventActor" : "CLG4"
+      } ],
+      "handle" : "CLG4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091023",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130322",
+      "eventActor" : "CLG4"
+    } ],
+    "handle" : "CL-SISA24-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CLG4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLG4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alberto Ponce Albornoz"],["adr",{"label":"Eleodoro Flores 2425 (?u?oa)\nSantiago, RM 7770318\nCL","type":"work"},"text",["","","Eleodoro Flores 2425 (?u?oa)","Santiago","RM","7770318","CL"]],["email",{"type":"work"},"text","soportelacnic@SOLINT.CL"],["tel",{"type":"work"},"text","56 2 4119000 (9422)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091022",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130322",
+      "eventActor" : "CLG4"
+    } ],
+    "handle" : "CLG4"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CLG4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CLG4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alberto Ponce Albornoz"],["adr",{"label":"Eleodoro Flores 2425 (?u?oa)\nSantiago, RM 7770318\nCL","type":"work"},"text",["","","Eleodoro Flores 2425 (?u?oa)","Santiago","RM","7770318","CL"]],["email",{"type":"work"},"text","soportelacnic@SOLINT.CL"],["tel",{"type":"work"},"text","56 2 4119000 (9422)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091022",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130322",
+      "eventActor" : "CLG4"
+    } ],
+    "handle" : "CLG4"
+  } ],
+  "startAutnum" : 28091,
+  "endAutnum" : 28091,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20091104",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20091105",
+    "eventActor" : "CLG4"
+  } ],
+  "type" : null,
+  "handle" : "28091-LACNIC",
+  "country" : "CL"
+}

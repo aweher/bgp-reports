@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263651,
+  "endAutnum" : 263651,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263651",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263651"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20131030",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140516",
+    "eventActor" : "RAM72"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-VMCL2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-VMCL2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Renan Alves Montoro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmeira DOeste, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmeira DOeste","","04578-000","BR"]],["email",{"type":"work"},"text","RAM72@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["org",{},"text",["V. Montoro & Cia Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "RAM72"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RAM72",
+        "value" : "http://rdap.labs.lacnic.net/entity/RAM72"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Renan Alves Montoro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmeira DOeste, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmeira DOeste","SP","04578-000","BR"]],["email",{"type":"work"},"text","RAM72@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "RAM72"
+      } ],
+      "entities" : [ ],
+      "handle" : "RAM72"
+    } ],
+    "handle" : "BR-VMCL2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RAM72",
+      "value" : "http://rdap.labs.lacnic.net/entity/RAM72"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Renan Alves Montoro"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmeira DOeste, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmeira DOeste","SP","04578-000","BR"]],["email",{"type":"work"},"text","RAM72@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "RAM72"
+    } ],
+    "entities" : [ ],
+    "handle" : "RAM72"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RSI8",
+      "value" : "http://rdap.labs.lacnic.net/entity/RSI8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","RVNeT - Solucoes em Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmeira DOeste, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmeira DOeste","SP","04578-000","BR"]],["email",{"type":"work"},"text","RSI8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140407",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140407",
+      "eventActor" : "RSI8"
+    } ],
+    "entities" : [ ],
+    "handle" : "RSI8"
+  } ],
+  "type" : null,
+  "handle" : "263651-LACNIC",
+  "country" : "BR"
+}

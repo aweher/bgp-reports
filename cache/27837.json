@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27837,
+  "endAutnum" : 27837,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27837",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27837"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060621",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20111022",
+    "eventActor" : "ACL"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-DCSE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-DCSE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Antonio Bojanini Maza"],["adr",{"label":"Calle 13 Numero 3-13 ()\nSanta Marta,  --\nCO","type":"work"},"text",["","","Calle 13 Numero 3-13 ()","Santa Marta","","--","CO"]],["email",{"type":"work"},"text","dialnet@DIALNET.NET.CO"],["tel",{"type":"work"},"text","57 5 431596 ()"],["org",{},"text",["Dialnet de Colombia S.A. E.S.P."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060608",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "ACL"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ACL",
+        "value" : "http://rdap.labs.lacnic.net/entity/ACL"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Antonio Bojanini Maza"],["adr",{"label":"Calle 13 3 -13 (C.Cial San F)\nSanta Marta, MA NONE\nCO","type":"work"},"text",["","","Calle 13 3 -13 (C.Cial San F)","Santa Marta","MA","NONE","CO"]],["email",{"type":"work"},"text","dialnet@DIALNET.NET.CO"],["tel",{"type":"work"},"text","57 5 4214328 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060515",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20111006",
+        "eventActor" : "ACL"
+      } ],
+      "entities" : [ ],
+      "handle" : "ACL"
+    } ],
+    "handle" : "CO-DCSE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ACL",
+      "value" : "http://rdap.labs.lacnic.net/entity/ACL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Antonio Bojanini Maza"],["adr",{"label":"Calle 13 3 -13 (C.Cial San F)\nSanta Marta, MA NONE\nCO","type":"work"},"text",["","","Calle 13 3 -13 (C.Cial San F)","Santa Marta","MA","NONE","CO"]],["email",{"type":"work"},"text","dialnet@DIALNET.NET.CO"],["tel",{"type":"work"},"text","57 5 4214328 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060515",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111006",
+      "eventActor" : "ACL"
+    } ],
+    "entities" : [ ],
+    "handle" : "ACL"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ACL",
+      "value" : "http://rdap.labs.lacnic.net/entity/ACL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Antonio Bojanini Maza"],["adr",{"label":"Calle 13 3 -13 (C.Cial San F)\nSanta Marta, MA NONE\nCO","type":"work"},"text",["","","Calle 13 3 -13 (C.Cial San F)","Santa Marta","MA","NONE","CO"]],["email",{"type":"work"},"text","dialnet@DIALNET.NET.CO"],["tel",{"type":"work"},"text","57 5 4214328 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060515",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111006",
+      "eventActor" : "ACL"
+    } ],
+    "entities" : [ ],
+    "handle" : "ACL"
+  } ],
+  "type" : null,
+  "handle" : "27837-LACNIC",
+  "country" : "CO"
+}

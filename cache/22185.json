@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/22185",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/22185"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TLDI-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TLDI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Horacio Tedesco"],["adr",{"label":"Pte.Peron 1286 ()\nBuenos Aires,  1438\nAR","type":"work"},"text",["","","Pte.Peron 1286 ()","Buenos Aires","","1438","AR"]],["email",{"type":"work"},"text","horacio.tedesco@TELEFONICA.COM"],["tel",{"type":"work"},"text","54 11 4370-1549 ()"],["org",{},"text",["TELEFONICA-UNIDAD LARGA DISTANCIA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/HOT",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/HOT"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Horacio Tedesco"],["adr",{"label":"Pte.Peron 1286 ()\nBuenos Aires,  1038\nAR","type":"work"},"text",["","","Pte.Peron 1286 ()","Buenos Aires","","1038","AR"]],["email",{"type":"work"},"text","horacio.tedesco@TELEFONICA.COM"],["tel",{"type":"work"},"text","54 11 43701549 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20040921",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20101012",
+        "eventActor" : "HOT"
+      } ],
+      "handle" : "HOT"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050615",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "HOT"
+    } ],
+    "handle" : "AR-TLDI-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HOT",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HOT"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Horacio Tedesco"],["adr",{"label":"Pte.Peron 1286 ()\nBuenos Aires,  1038\nAR","type":"work"},"text",["","","Pte.Peron 1286 ()","Buenos Aires","","1038","AR"]],["email",{"type":"work"},"text","horacio.tedesco@TELEFONICA.COM"],["tel",{"type":"work"},"text","54 11 43701549 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040921",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101012",
+      "eventActor" : "HOT"
+    } ],
+    "handle" : "HOT"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HOT",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HOT"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Horacio Tedesco"],["adr",{"label":"Pte.Peron 1286 ()\nBuenos Aires,  1038\nAR","type":"work"},"text",["","","Pte.Peron 1286 ()","Buenos Aires","","1038","AR"]],["email",{"type":"work"},"text","horacio.tedesco@TELEFONICA.COM"],["tel",{"type":"work"},"text","54 11 43701549 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040921",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101012",
+      "eventActor" : "HOT"
+    } ],
+    "handle" : "HOT"
+  } ],
+  "startAutnum" : 22185,
+  "endAutnum" : 22185,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20010817",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20050615",
+    "eventActor" : "HOT"
+  } ],
+  "type" : null,
+  "handle" : "22185-LACNIC",
+  "country" : "AR"
+}

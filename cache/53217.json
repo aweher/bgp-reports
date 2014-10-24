@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 53217,
+  "endAutnum" : 53217,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/53217",
+    "value" : "http://rdap.labs.lacnic.net/autnum/53217"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101027",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130404",
+    "eventActor" : "BRV3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-IILT71-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-IILT71-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Bruno Viviani"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVotuporanga, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Votuporanga","SP","04578-000","BR"]],["email",{"type":"work"},"text","BRV3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["org",{},"text",["INFRANET INTERNET LTDA."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130404",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130405",
+      "eventActor" : "BRV3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/BRV3",
+        "value" : "http://rdap.labs.lacnic.net/entity/BRV3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Bruno Viviani"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVotuporanga, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Votuporanga","SP","04578-000","BR"]],["email",{"type":"work"},"text","BRV3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "BRV3"
+      } ],
+      "entities" : [ ],
+      "handle" : "BRV3"
+    } ],
+    "handle" : "BR-IILT71-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BRV3",
+      "value" : "http://rdap.labs.lacnic.net/entity/BRV3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Bruno Viviani"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVotuporanga, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Votuporanga","SP","04578-000","BR"]],["email",{"type":"work"},"text","BRV3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "BRV3"
+    } ],
+    "entities" : [ ],
+    "handle" : "BRV3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BRV3",
+      "value" : "http://rdap.labs.lacnic.net/entity/BRV3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Bruno Viviani"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVotuporanga, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Votuporanga","SP","04578-000","BR"]],["email",{"type":"work"},"text","BRV3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "BRV3"
+    } ],
+    "entities" : [ ],
+    "handle" : "BRV3"
+  } ],
+  "type" : null,
+  "handle" : "53217-LACNIC",
+  "country" : "BR"
+}

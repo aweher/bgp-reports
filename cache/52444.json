@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52444",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52444"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-PAPC-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-PAPC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Franco E. Lazos"],["adr",{"label":"Chile 253 (PA)\nVilla Mar?a - C?rdoba,  5900\nAR","type":"work"},"text",["","","Chile 253 (PA)","Villa Mar?a - C?rdoba","","5900","AR"]],["email",{"type":"work"},"text","franco.lazos@SITSA.COM.AR"],["tel",{"type":"work"},"text","54 353 4532330 ()"],["org",{},"text",["Pogliotti & Pogliotti Construcciones S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FRL7",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FRL7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Franco E. Lazos"],["adr",{"label":"Chile 253 (PA)\nVilla Maria, null 5900\nAR","type":"work"},"text",["","","Chile 253 (PA)","Villa Maria","","5900","AR"]],["email",{"type":"work"},"text","franco.lazos@SITSA.COM.AR"],["tel",{"type":"work"},"text","54 353 4532330 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100715",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100715",
+        "eventActor" : "FRL7"
+      } ],
+      "handle" : "FRL7"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100811",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130227",
+      "eventActor" : "FRL7"
+    } ],
+    "handle" : "AR-PAPC-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FRL7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FRL7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Franco E. Lazos"],["adr",{"label":"Chile 253 (PA)\nVilla Maria, null 5900\nAR","type":"work"},"text",["","","Chile 253 (PA)","Villa Maria","","5900","AR"]],["email",{"type":"work"},"text","franco.lazos@SITSA.COM.AR"],["tel",{"type":"work"},"text","54 353 4532330 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100715",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100715",
+      "eventActor" : "FRL7"
+    } ],
+    "handle" : "FRL7"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FRL7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FRL7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Franco E. Lazos"],["adr",{"label":"Chile 253 (PA)\nVilla Maria, null 5900\nAR","type":"work"},"text",["","","Chile 253 (PA)","Villa Maria","","5900","AR"]],["email",{"type":"work"},"text","franco.lazos@SITSA.COM.AR"],["tel",{"type":"work"},"text","54 353 4532330 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100715",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100715",
+      "eventActor" : "FRL7"
+    } ],
+    "handle" : "FRL7"
+  } ],
+  "startAutnum" : 52444,
+  "endAutnum" : 52444,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130226",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130227",
+    "eventActor" : "FRL7"
+  } ],
+  "type" : null,
+  "handle" : "52444-LACNIC",
+  "country" : "AR"
+}

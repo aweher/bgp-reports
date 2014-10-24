@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263124,
+  "endAutnum" : 263124,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263124",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263124"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140509",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140509",
+    "eventActor" : "ZAT"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-MSEE1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-MSEE1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Aureliano Arantes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmas, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmas","","04578-000","BR"]],["email",{"type":"work"},"text","AUA5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["org",{},"text",["MICROMIDIA SERV. EM EQUIP. DE TELECOMUNICA??ES LTD"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130318",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130318",
+      "eventActor" : "AUA5"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/AUA5",
+        "value" : "http://rdap.labs.lacnic.net/entity/AUA5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Aureliano Arantes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmas, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmas","","04578-000","BR"]],["email",{"type":"work"},"text","AUA5@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130318",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130318",
+        "eventActor" : "AUA5"
+      } ],
+      "entities" : [ ],
+      "handle" : "AUA5"
+    } ],
+    "handle" : "BR-MSEE1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ZAT",
+      "value" : "http://rdap.labs.lacnic.net/entity/ZAT"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Zap Telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmas, TO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmas","TO","04578-000","BR"]],["email",{"type":"work"},"text","ZAT@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140211",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140211",
+      "eventActor" : "ZAT"
+    } ],
+    "entities" : [ ],
+    "handle" : "ZAT"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ZAT",
+      "value" : "http://rdap.labs.lacnic.net/entity/ZAT"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Zap Telecom"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPalmas, TO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Palmas","TO","04578-000","BR"]],["email",{"type":"work"},"text","ZAT@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 63 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140211",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140211",
+      "eventActor" : "ZAT"
+    } ],
+    "entities" : [ ],
+    "handle" : "ZAT"
+  } ],
+  "type" : null,
+  "handle" : "263124-LACNIC",
+  "country" : "BR"
+}

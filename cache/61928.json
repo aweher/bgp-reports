@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61928,
+  "endAutnum" : 61928,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61928",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61928"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140603",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140603",
+    "eventActor" : "EFK2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ABCM-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ABCM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMERSON FELICIO KUHL"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLimeira, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Limeira","","04578-000","BR"]],["email",{"type":"work"},"text","EFK2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["ALEXANDRE BISPO COMUNICA??O ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "EFK2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EFK2",
+        "value" : "http://rdap.labs.lacnic.net/entity/EFK2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMERSON FELICIO KUHL"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLimeira, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Limeira","SP","04578-000","BR"]],["email",{"type":"work"},"text","EFK2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EFK2"
+      } ],
+      "entities" : [ ],
+      "handle" : "EFK2"
+    } ],
+    "handle" : "BR-ABCM-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EFK2",
+      "value" : "http://rdap.labs.lacnic.net/entity/EFK2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMERSON FELICIO KUHL"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLimeira, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Limeira","SP","04578-000","BR"]],["email",{"type":"work"},"text","EFK2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EFK2"
+    } ],
+    "entities" : [ ],
+    "handle" : "EFK2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EFK2",
+      "value" : "http://rdap.labs.lacnic.net/entity/EFK2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EMERSON FELICIO KUHL"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nLimeira, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Limeira","SP","04578-000","BR"]],["email",{"type":"work"},"text","EFK2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EFK2"
+    } ],
+    "entities" : [ ],
+    "handle" : "EFK2"
+  } ],
+  "type" : null,
+  "handle" : "61928-LACNIC",
+  "country" : "BR"
+}

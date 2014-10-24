@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/11664",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/11664"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TLCI-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TLCI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administraci?n Direcciones IP"],["adr",{"label":"Garay 34 ()\nBuenos Aires,  C1063AB\nAR","type":"work"},"text",["","","Garay 34 ()","Buenos Aires","","C1063AB","AR"]],["email",{"type":"work"},"text","eduardo.lotito@CLARO.COM.AR"],["tel",{"type":"work"},"text","54 11 4000-3000 (3270)"],["org",{},"text",["Techtel LMDS Comunicaciones Interactivas S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JPL3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JPL3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administraci?n Direcciones IP"],["adr",{"label":"Av. Juan de Garay 34 ()\nBuenos Aires,  C1063ABN\nAR","type":"work"},"text",["","","Av. Juan de Garay 34 ()","Buenos Aires","","C1063ABN","AR"]],["email",{"type":"work"},"text","eduardo.lotito@CLARO.COM.AR"],["tel",{"type":"work"},"text","54 11 4000 (3000)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20061121",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140519",
+        "eventActor" : "JPL3"
+      } ],
+      "handle" : "JPL3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021007",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130425",
+      "eventActor" : "JPL3"
+    } ],
+    "handle" : "AR-TLCI-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JPL3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JPL3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administraci?n Direcciones IP"],["adr",{"label":"Av. Juan de Garay 34 ()\nBuenos Aires,  C1063ABN\nAR","type":"work"},"text",["","","Av. Juan de Garay 34 ()","Buenos Aires","","C1063ABN","AR"]],["email",{"type":"work"},"text","eduardo.lotito@CLARO.COM.AR"],["tel",{"type":"work"},"text","54 11 4000 (3000)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20061121",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140519",
+      "eventActor" : "JPL3"
+    } ],
+    "handle" : "JPL3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ATA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ATA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Abuse Telmex Argentina"],["adr",{"label":"Garay 34 ()\nBuenos Aires, null C1063AB\nAR","type":"work"},"text",["","","Garay 34 ()","Buenos Aires","","C1063AB","AR"]],["email",{"type":"work"},"text","abuse@TELMEX.NET.AR"],["tel",{"type":"work"},"text","54 11 4000-3000 (3138)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050617",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20050617",
+      "eventActor" : "ATA"
+    } ],
+    "handle" : "ATA"
+  } ],
+  "startAutnum" : 11664,
+  "endAutnum" : 11664,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19981109",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090316",
+    "eventActor" : "JPL3"
+  } ],
+  "type" : null,
+  "handle" : "11664-LACNIC",
+  "country" : "AR"
+}

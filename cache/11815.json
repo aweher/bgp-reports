@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 11815,
+  "endAutnum" : 11815,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/11815",
+    "value" : "http://rdap.labs.lacnic.net/autnum/11815"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19981230",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20051008",
+    "eventActor" : "EFB"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CTVL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CTVL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edgar Fernando Balbastro"],["adr",{"label":"Avenida Mitre 1028 ()\nVilla Gobernador Galvez, SF 2124\nAR","type":"work"},"text",["","","Avenida Mitre 1028 ()","Villa Gobernador Galvez","SF","2124","AR"]],["email",{"type":"work"},"text","sistemas@TELVGG.COOP"],["tel",{"type":"work"},"text","54 341 4921299 ()"],["org",{},"text",["Cooperativa Telefonica de V.G.G. Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040811",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131015",
+      "eventActor" : "EFB"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EFB",
+        "value" : "http://rdap.labs.lacnic.net/entity/EFB"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edgar Fernando Balbastro"],["adr",{"label":"Avenida Mitre 1028 ()\nVilla Gobernador Galvez, SF 2124\nAR","type":"work"},"text",["","","Avenida Mitre 1028 ()","Villa Gobernador Galvez","SF","2124","AR"]],["email",{"type":"work"},"text","sistemas@TELVGG.COOP"],["tel",{"type":"work"},"text","54 341 4921299 (24)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20040810",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20050929",
+        "eventActor" : "EFB"
+      } ],
+      "entities" : [ ],
+      "handle" : "EFB"
+    } ],
+    "handle" : "AR-CTVL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EFB",
+      "value" : "http://rdap.labs.lacnic.net/entity/EFB"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edgar Fernando Balbastro"],["adr",{"label":"Avenida Mitre 1028 ()\nVilla Gobernador Galvez, SF 2124\nAR","type":"work"},"text",["","","Avenida Mitre 1028 ()","Villa Gobernador Galvez","SF","2124","AR"]],["email",{"type":"work"},"text","sistemas@TELVGG.COOP"],["tel",{"type":"work"},"text","54 341 4921299 (24)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040810",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20050929",
+      "eventActor" : "EFB"
+    } ],
+    "entities" : [ ],
+    "handle" : "EFB"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EFB",
+      "value" : "http://rdap.labs.lacnic.net/entity/EFB"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edgar Fernando Balbastro"],["adr",{"label":"Avenida Mitre 1028 ()\nVilla Gobernador Galvez, SF 2124\nAR","type":"work"},"text",["","","Avenida Mitre 1028 ()","Villa Gobernador Galvez","SF","2124","AR"]],["email",{"type":"work"},"text","sistemas@TELVGG.COOP"],["tel",{"type":"work"},"text","54 341 4921299 (24)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040810",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20050929",
+      "eventActor" : "EFB"
+    } ],
+    "entities" : [ ],
+    "handle" : "EFB"
+  } ],
+  "type" : null,
+  "handle" : "11815-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262812,
+  "endAutnum" : 262812,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262812",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262812"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101020",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "EMS23"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-KSCL3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-KSCL3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emerson Silvestri"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Mateus do Sul, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Mateus do Sul","PR","04578-000","BR"]],["email",{"type":"work"},"text","EMS23@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["org",{},"text",["K.H.D. SILVESTRI E CIA LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140605",
+      "eventActor" : "EMS23"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EMS23",
+        "value" : "http://rdap.labs.lacnic.net/entity/EMS23"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emerson Silvestri"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Mateus do Sul, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Mateus do Sul","PR","04578-000","BR"]],["email",{"type":"work"},"text","EMS23@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EMS23"
+      } ],
+      "entities" : [ ],
+      "handle" : "EMS23"
+    } ],
+    "handle" : "BR-KSCL3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EMS23",
+      "value" : "http://rdap.labs.lacnic.net/entity/EMS23"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emerson Silvestri"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Mateus do Sul, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Mateus do Sul","PR","04578-000","BR"]],["email",{"type":"work"},"text","EMS23@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EMS23"
+    } ],
+    "entities" : [ ],
+    "handle" : "EMS23"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EMS23",
+      "value" : "http://rdap.labs.lacnic.net/entity/EMS23"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emerson Silvestri"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Mateus do Sul, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Mateus do Sul","PR","04578-000","BR"]],["email",{"type":"work"},"text","EMS23@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EMS23"
+    } ],
+    "entities" : [ ],
+    "handle" : "EMS23"
+  } ],
+  "type" : null,
+  "handle" : "262812-LACNIC",
+  "country" : "BR"
+}

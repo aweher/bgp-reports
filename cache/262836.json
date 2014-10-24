@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262836,
+  "endAutnum" : 262836,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262836",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262836"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101129",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "NAI4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ANTT-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ANTT-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Net ABC Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Caetano do Sul, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Caetano do Sul","SP","04578-000","BR"]],["email",{"type":"work"},"text","NAI4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["org",{},"text",["ABC Net Telecomunica??es e Tecnologia Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "NAI4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/NAI4",
+        "value" : "http://rdap.labs.lacnic.net/entity/NAI4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Net ABC Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Caetano do Sul, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Caetano do Sul","SP","04578-000","BR"]],["email",{"type":"work"},"text","NAI4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "NAI4"
+      } ],
+      "entities" : [ ],
+      "handle" : "NAI4"
+    } ],
+    "handle" : "BR-ANTT-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NAI4",
+      "value" : "http://rdap.labs.lacnic.net/entity/NAI4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Net ABC Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Caetano do Sul, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Caetano do Sul","SP","04578-000","BR"]],["email",{"type":"work"},"text","NAI4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NAI4"
+    } ],
+    "entities" : [ ],
+    "handle" : "NAI4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NAI4",
+      "value" : "http://rdap.labs.lacnic.net/entity/NAI4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Net ABC Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Caetano do Sul, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Caetano do Sul","SP","04578-000","BR"]],["email",{"type":"work"},"text","NAI4@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 11 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NAI4"
+    } ],
+    "entities" : [ ],
+    "handle" : "NAI4"
+  } ],
+  "type" : null,
+  "handle" : "262836-LACNIC",
+  "country" : "BR"
+}

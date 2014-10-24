@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52313",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52313"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-LLSA-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-LLSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Felipe Varas"],["adr",{"label":"Chacabuco 675 (1)\nTemuco, cl NONE\nCL","type":"work"},"text",["","","Chacabuco 675 (1)","Temuco","cl","NONE","CL"]],["email",{"type":"work"},"text","fvaras@INTERLUZ.CL"],["tel",{"type":"work"},"text","56 2 582500 ()"],["org",{},"text",["Luz Linares S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FEV7",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FEV7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Felipe Varas"],["adr",{"label":"Chacabuco 675 569 (76166182)\nLinares, 7 3581389\nCL","type":"work"},"text",["","","Chacabuco 675 569 (76166182)","Linares","7","3581389","CL"]],["email",{"type":"work"},"text","fvaras@INTERLUZ.CL"],["tel",{"type":"work"},"text","56 73 634092 (634090)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20101119",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110121",
+        "eventActor" : "FEV7"
+      } ],
+      "handle" : "FEV7"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070122",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "FEV7"
+    } ],
+    "handle" : "CL-LLSA-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEV7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEV7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Felipe Varas"],["adr",{"label":"Chacabuco 675 569 (76166182)\nLinares, 7 3581389\nCL","type":"work"},"text",["","","Chacabuco 675 569 (76166182)","Linares","7","3581389","CL"]],["email",{"type":"work"},"text","fvaras@INTERLUZ.CL"],["tel",{"type":"work"},"text","56 73 634092 (634090)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101119",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110121",
+      "eventActor" : "FEV7"
+    } ],
+    "handle" : "FEV7"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEV7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEV7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Felipe Varas"],["adr",{"label":"Chacabuco 675 569 (76166182)\nLinares, 7 3581389\nCL","type":"work"},"text",["","","Chacabuco 675 569 (76166182)","Linares","7","3581389","CL"]],["email",{"type":"work"},"text","fvaras@INTERLUZ.CL"],["tel",{"type":"work"},"text","56 73 634092 (634090)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101119",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110121",
+      "eventActor" : "FEV7"
+    } ],
+    "handle" : "FEV7"
+  } ],
+  "startAutnum" : 52313,
+  "endAutnum" : 52313,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110128",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110128",
+    "eventActor" : "FEV7"
+  } ],
+  "type" : null,
+  "handle" : "52313-LACNIC",
+  "country" : "CL"
+}

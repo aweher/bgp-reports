@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/20321",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/20321"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-ALGR1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-ALGR1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP"],["adr",{"label":"Olga Cossenttini 1545 (4th)\nCF, BA C1107BVA\nAR","type":"work"},"text",["","","Olga Cossenttini 1545 (4th)","CF","BA","C1107BVA","AR"]],["email",{"type":"work"},"text","ipadmin@ALTERNATIVA.NET.AR"],["tel",{"type":"work"},"text","54 11 6393-0000 ()"],["org",{},"text",["Alternativa Gratis"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CDF",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CDF"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP"],["adr",{"label":"Olga Cossentini 1545 (4th)\nCF, BA C1107BVA\nAR","type":"work"},"text",["","","Olga Cossentini 1545 (4th)","CF","BA","C1107BVA","AR"]],["email",{"type":"work"},"text","ipadmin@ALTERNATIVA.NET.AR"],["tel",{"type":"work"},"text","54 11 6393-0000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20021205",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20030122",
+        "eventActor" : "CDF"
+      } ],
+      "handle" : "CDF"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021205",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20030603",
+      "eventActor" : "CDF"
+    } ],
+    "handle" : "AR-ALGR1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CDF",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CDF"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP"],["adr",{"label":"Olga Cossentini 1545 (4th)\nCF, BA C1107BVA\nAR","type":"work"},"text",["","","Olga Cossentini 1545 (4th)","CF","BA","C1107BVA","AR"]],["email",{"type":"work"},"text","ipadmin@ALTERNATIVA.NET.AR"],["tel",{"type":"work"},"text","54 11 6393-0000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021205",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20030122",
+      "eventActor" : "CDF"
+    } ],
+    "handle" : "CDF"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CDF",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CDF"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP"],["adr",{"label":"Olga Cossentini 1545 (4th)\nCF, BA C1107BVA\nAR","type":"work"},"text",["","","Olga Cossentini 1545 (4th)","CF","BA","C1107BVA","AR"]],["email",{"type":"work"},"text","ipadmin@ALTERNATIVA.NET.AR"],["tel",{"type":"work"},"text","54 11 6393-0000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021205",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20030122",
+      "eventActor" : "CDF"
+    } ],
+    "handle" : "CDF"
+  } ],
+  "startAutnum" : 20321,
+  "endAutnum" : 20321,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20010423",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20040217",
+    "eventActor" : "CDF"
+  } ],
+  "type" : null,
+  "handle" : "20321-LACNIC",
+  "country" : "AR"
+}

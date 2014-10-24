@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263616,
+  "endAutnum" : 263616,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263616",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263616"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130911",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130911",
+    "eventActor" : "DEI8"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DSEI1-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DSEI1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rosauro Baretta"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDois Vizinhos, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dois Vizinhos","PR","04578-000","BR"]],["email",{"type":"work"},"text","ROB41@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["org",{},"text",["Dez Solucoes em Telecomunicacoes LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140712",
+      "eventActor" : "ROB41"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ROB41",
+        "value" : "http://rdap.labs.lacnic.net/entity/ROB41"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Rosauro Baretta"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPlanalto, PR 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Planalto","PR","04578-000","BR"]],["email",{"type":"work"},"text","ROB41@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ROB41"
+      } ],
+      "entities" : [ ],
+      "handle" : "ROB41"
+    } ],
+    "handle" : "BR-DSEI1-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DEI8",
+      "value" : "http://rdap.labs.lacnic.net/entity/DEI8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dez Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDois Vizinhos, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dois Vizinhos","","04578-000","BR"]],["email",{"type":"work"},"text","DEI8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130530",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130530",
+      "eventActor" : "DEI8"
+    } ],
+    "entities" : [ ],
+    "handle" : "DEI8"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DEI8",
+      "value" : "http://rdap.labs.lacnic.net/entity/DEI8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Dez Internet"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nDois Vizinhos, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Dois Vizinhos","","04578-000","BR"]],["email",{"type":"work"},"text","DEI8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 46 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130530",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130530",
+      "eventActor" : "DEI8"
+    } ],
+    "entities" : [ ],
+    "handle" : "DEI8"
+  } ],
+  "type" : null,
+  "handle" : "263616-LACNIC",
+  "country" : "BR"
+}

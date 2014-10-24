@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52732,
+  "endAutnum" : 52732,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52732",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52732"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130128",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130418",
+    "eventActor" : "HYC2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NFSI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NFSI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hygor Cavalcante"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArapiraca, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Arapiraca","AL","04578-000","BR"]],["email",{"type":"work"},"text","HYC2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["org",{},"text",["N F DA SILVA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130605",
+      "eventActor" : "HYC2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/HYC2",
+        "value" : "http://rdap.labs.lacnic.net/entity/HYC2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hygor Cavalcante"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArapiraca, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Arapiraca","AL","04578-000","BR"]],["email",{"type":"work"},"text","HYC2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "HYC2"
+      } ],
+      "entities" : [ ],
+      "handle" : "HYC2"
+    } ],
+    "handle" : "BR-NFSI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/HYC2",
+      "value" : "http://rdap.labs.lacnic.net/entity/HYC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Hygor Cavalcante"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArapiraca, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Arapiraca","AL","04578-000","BR"]],["email",{"type":"work"},"text","HYC2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "HYC2"
+    } ],
+    "entities" : [ ],
+    "handle" : "HYC2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GSF10",
+      "value" : "http://rdap.labs.lacnic.net/entity/GSF10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Grupo de Seguran?a FSNetwork"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArapiraca, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Arapiraca","","04578-000","BR"]],["email",{"type":"work"},"text","GSF10@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130405",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130405",
+      "eventActor" : "GSF10"
+    } ],
+    "entities" : [ ],
+    "handle" : "GSF10"
+  } ],
+  "type" : null,
+  "handle" : "52732-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262582,
+  "endAutnum" : 262582,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262582",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262582"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110912",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MAL110"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-NIBL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-NIBL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Leal"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCachoeiro de Itapemirim, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cachoeiro de Itapemirim","ES","04578-000","BR"]],["email",{"type":"work"},"text","MAL110@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 28 55093511 ()"],["org",{},"text",["Netsul Internet Banda Larga LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140514",
+      "eventActor" : "MAL110"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MAL110",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAL110"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Leal"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCachoeiro de Itapemirim, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cachoeiro de Itapemirim","ES","04578-000","BR"]],["email",{"type":"work"},"text","MAL110@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 28 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MAL110"
+      } ],
+      "entities" : [ ],
+      "handle" : "MAL110"
+    } ],
+    "handle" : "BR-NIBL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAL110",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAL110"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Leal"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCachoeiro de Itapemirim, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cachoeiro de Itapemirim","ES","04578-000","BR"]],["email",{"type":"work"},"text","MAL110@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 28 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAL110"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAL110"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAL110",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAL110"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo Leal"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCachoeiro de Itapemirim, ES 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cachoeiro de Itapemirim","ES","04578-000","BR"]],["email",{"type":"work"},"text","MAL110@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 28 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MAL110"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAL110"
+  } ],
+  "type" : null,
+  "handle" : "262582-LACNIC",
+  "country" : "BR"
+}

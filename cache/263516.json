@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263516,
+  "endAutnum" : 263516,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263516",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263516"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140107",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140107",
+    "eventActor" : "PIL48"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PIET-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PIET-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Douglas da Silva Moraes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFernand?polis, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fernand?polis","SP","04578-000","BR"]],["email",{"type":"work"},"text","DSM15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["org",{},"text",["Plis Intelig?ncia em Tecnologia Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131210",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131210",
+      "eventActor" : "DSM15"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DSM15",
+        "value" : "http://rdap.labs.lacnic.net/entity/DSM15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Douglas da Silva Moraes"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFernand?polis, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fernand?polis","SP","04578-000","BR"]],["email",{"type":"work"},"text","DSM15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20131210",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131210",
+        "eventActor" : "DSM15"
+      } ],
+      "entities" : [ ],
+      "handle" : "DSM15"
+    } ],
+    "handle" : "BR-PIET-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PIL48",
+      "value" : "http://rdap.labs.lacnic.net/entity/PIL48"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Plis Intelig?ncia em Tecnologia Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFernand?polis, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fernand?polis","SP","04578-000","BR"]],["email",{"type":"work"},"text","PIL48@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131217",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131217",
+      "eventActor" : "PIL48"
+    } ],
+    "entities" : [ ],
+    "handle" : "PIL48"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PIL48",
+      "value" : "http://rdap.labs.lacnic.net/entity/PIL48"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Plis Intelig?ncia em Tecnologia Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nFernand?polis, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Fernand?polis","SP","04578-000","BR"]],["email",{"type":"work"},"text","PIL48@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 17 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131217",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131217",
+      "eventActor" : "PIL48"
+    } ],
+    "entities" : [ ],
+    "handle" : "PIL48"
+  } ],
+  "type" : null,
+  "handle" : "263516-LACNIC",
+  "country" : "BR"
+}

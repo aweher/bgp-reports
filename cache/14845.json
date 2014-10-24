@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/14845",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/14845"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-UNSU-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-UNSU-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Caba"],["adr",{"label":"Avda. Alem 1253 ()\nBahia Blanca,  B8000CPB\nAR","type":"work"},"text",["","","Avda. Alem 1253 ()","Bahia Blanca","","B8000CPB","AR"]],["email",{"type":"work"},"text","fcaba@UNS.EDU.AR"],["tel",{"type":"work"},"text","54 291 4595166 (2050)"],["org",{},"text",["Universidad Nacional del Sur"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FEC",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FEC"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Caba"],["adr",{"label":"Avda. Alem 1253 ()\nBahia Blanca, BA B8000CPB\nAR","type":"work"},"text",["","","Avda. Alem 1253 ()","Bahia Blanca","BA","B8000CPB","AR"]],["email",{"type":"work"},"text","fcaba@UNS.EDU.AR"],["tel",{"type":"work"},"text","54 291 4595166 (2050)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030320",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20060328",
+        "eventActor" : "FEC"
+      } ],
+      "handle" : "FEC"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030321",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120518",
+      "eventActor" : "FEC"
+    } ],
+    "handle" : "AR-UNSU-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Caba"],["adr",{"label":"Avda. Alem 1253 ()\nBahia Blanca, BA B8000CPB\nAR","type":"work"},"text",["","","Avda. Alem 1253 ()","Bahia Blanca","BA","B8000CPB","AR"]],["email",{"type":"work"},"text","fcaba@UNS.EDU.AR"],["tel",{"type":"work"},"text","54 291 4595166 (2050)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030320",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060328",
+      "eventActor" : "FEC"
+    } ],
+    "handle" : "FEC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PRA",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PRA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Roberto Amaya"],["adr",{"label":"Av. Alem 1253 ()\nBahia Blanca, null 8000\nAR","type":"work"},"text",["","","Av. Alem 1253 ()","Bahia Blanca","","8000","AR"]],["email",{"type":"work"},"text","pramaya@UNS.EDU.AR"],["tel",{"type":"work"},"text","011 291 4595166 (2050)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080610",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080610",
+      "eventActor" : "PRA"
+    } ],
+    "handle" : "PRA"
+  } ],
+  "startAutnum" : 14845,
+  "endAutnum" : 14845,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20000215",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080610",
+    "eventActor" : "FEC"
+  } ],
+  "type" : null,
+  "handle" : "14845-LACNIC",
+  "country" : "AR"
+}

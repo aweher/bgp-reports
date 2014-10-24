@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262189",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262189"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-CRSE-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-CRSE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Malizzia Victor Hugo"],["adr",{"label":"Lavalle 1728 ()\nSan Genaro (Santa F?),  2146\nAR","type":"work"},"text",["","","Lavalle 1728 ()","San Genaro (Santa F?)","","2146","AR"]],["email",{"type":"work"},"text","vhm@REDCRS.COM.AR"],["tel",{"type":"work"},"text","54 3401 448000 ()"],["org",{},"text",["Cooperativa Regional de Servicios"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MVH",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MVH"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Malizzia Victor Hugo"],["adr",{"label":"Eduardo Buschiazzo 1718 ()\nSan Genaro, SF 2146\nAR","type":"work"},"text",["","","Eduardo Buschiazzo 1718 ()","San Genaro","SF","2146","AR"]],["email",{"type":"work"},"text","vhm@REDCRS.COM.AR"],["tel",{"type":"work"},"text","54 3401 448000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030905",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130529",
+        "eventActor" : "MVH"
+      } ],
+      "handle" : "MVH"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030910",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "MVH"
+    } ],
+    "handle" : "AR-CRSE-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MVH",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MVH"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Malizzia Victor Hugo"],["adr",{"label":"Eduardo Buschiazzo 1718 ()\nSan Genaro, SF 2146\nAR","type":"work"},"text",["","","Eduardo Buschiazzo 1718 ()","San Genaro","SF","2146","AR"]],["email",{"type":"work"},"text","vhm@REDCRS.COM.AR"],["tel",{"type":"work"},"text","54 3401 448000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030905",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130529",
+      "eventActor" : "MVH"
+    } ],
+    "handle" : "MVH"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MVH",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MVH"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Malizzia Victor Hugo"],["adr",{"label":"Eduardo Buschiazzo 1718 ()\nSan Genaro, SF 2146\nAR","type":"work"},"text",["","","Eduardo Buschiazzo 1718 ()","San Genaro","SF","2146","AR"]],["email",{"type":"work"},"text","vhm@REDCRS.COM.AR"],["tel",{"type":"work"},"text","54 3401 448000 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030905",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130529",
+      "eventActor" : "MVH"
+    } ],
+    "handle" : "MVH"
+  } ],
+  "startAutnum" : 262189,
+  "endAutnum" : 262189,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110927",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110927",
+    "eventActor" : "MVH"
+  } ],
+  "type" : null,
+  "handle" : "262189-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/61445",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61445"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-JOLO-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-JOLO-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Roberto Boero Mansilla"],["adr",{"label":"Av. Recta Martinoli 5239 ()\nC?rdoba Capital, CO X5021HXB\nAR","type":"work"},"text",["","","Av. Recta Martinoli 5239 ()","C?rdoba Capital","CO","X5021HXB","AR"]],["email",{"type":"work"},"text","rboero@SOMTIK.COM"],["tel",{"type":"work"},"text","52  394100 ()"],["org",{},"text",["JOSE LOZANO"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/RBM",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/RBM"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Roberto Boero Mansilla"],["adr",{"label":"Los nogales 535 (1)\nMarcos Paz, Buenos Aires, BA 1727\nAR","type":"work"},"text",["","","Los nogales 535 (1)","Marcos Paz, Buenos Aires","BA","1727","AR"]],["email",{"type":"work"},"text","rboero@SOMTIK.COM"],["tel",{"type":"work"},"text","54 11 6632 (9000)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20071127",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130604",
+        "eventActor" : "RBM"
+      } ],
+      "handle" : "RBM"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130529",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140704",
+      "eventActor" : "RBM"
+    } ],
+    "handle" : "AR-JOLO-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PAC71",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PAC71"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Augusto Calderon"],["adr",{"label":"Ituzaingo 1091 ()\nDon Torcuato,  B1611ALR\nAR","type":"work"},"text",["","","Ituzaingo 1091 ()","Don Torcuato","","B1611ALR","AR"]],["email",{"type":"work"},"text","pablo.calderon@FULLNETCOMUNICACIONES.COM"],["tel",{"type":"work"},"text","054 11 1549167136 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140703",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140703",
+      "eventActor" : "PAC71"
+    } ],
+    "handle" : "PAC71"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JHL5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JHL5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jose Hector Lozano"],["adr",{"label":"Av. Recta Martinoli 5239 ()\nC?rdoba,  X5021HXB\nAR","type":"work"},"text",["","","Av. Recta Martinoli 5239 ()","C?rdoba","","X5021HXB","AR"]],["email",{"type":"work"},"text","jose.lozano@FULLNETCOMUNICACIONES.COM"],["tel",{"type":"work"},"text","54 2966 15216431 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130309",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130530",
+      "eventActor" : "JHL5"
+    } ],
+    "handle" : "JHL5"
+  } ],
+  "startAutnum" : 61445,
+  "endAutnum" : 61445,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140625",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140704",
+    "eventActor" : "PAC71"
+  } ],
+  "type" : null,
+  "handle" : "61445-LACNIC",
+  "country" : "AR"
+}

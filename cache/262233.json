@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262233",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262233"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-CSLT5-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-CSLT5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","?lvaro Navarro"],["adr",{"label":"Teatinos 280 (Piso 11)\nSantiago, RM 8340434\nCL","type":"work"},"text",["","","Teatinos 280 (Piso 11)","Santiago","RM","8340434","CL"]],["email",{"type":"work"},"text","anavarro@CDEC-SIC.CL"],["tel",{"type":"work"},"text","56 2 4246300 ()"],["org",{},"text",["CDEC - SIC Ltda."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ALN12",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ALN12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","?lvaro Navarro"],["adr",{"label":"Teatinos 280 (Piso 11)\nSantiago, RM 8340434\nCL","type":"work"},"text",["","","Teatinos 280 (Piso 11)","Santiago","RM","8340434","CL"]],["email",{"type":"work"},"text","anavarro@CDEC-SIC.CL"],["tel",{"type":"work"},"text","56 2 4246300 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120611",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120611",
+        "eventActor" : "ALN12"
+      } ],
+      "handle" : "ALN12"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070125",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120725",
+      "eventActor" : "ALN12"
+    } ],
+    "handle" : "CL-CSLT5-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ALN12",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALN12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","?lvaro Navarro"],["adr",{"label":"Teatinos 280 (Piso 11)\nSantiago, RM 8340434\nCL","type":"work"},"text",["","","Teatinos 280 (Piso 11)","Santiago","RM","8340434","CL"]],["email",{"type":"work"},"text","anavarro@CDEC-SIC.CL"],["tel",{"type":"work"},"text","56 2 4246300 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120611",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120611",
+      "eventActor" : "ALN12"
+    } ],
+    "handle" : "ALN12"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ALN12",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ALN12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","?lvaro Navarro"],["adr",{"label":"Teatinos 280 (Piso 11)\nSantiago, RM 8340434\nCL","type":"work"},"text",["","","Teatinos 280 (Piso 11)","Santiago","RM","8340434","CL"]],["email",{"type":"work"},"text","anavarro@CDEC-SIC.CL"],["tel",{"type":"work"},"text","56 2 4246300 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120611",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120611",
+      "eventActor" : "ALN12"
+    } ],
+    "handle" : "ALN12"
+  } ],
+  "startAutnum" : 262233,
+  "endAutnum" : 262233,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120724",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120724",
+    "eventActor" : "ALN12"
+  } ],
+  "type" : null,
+  "handle" : "262233-LACNIC",
+  "country" : "CL"
+}

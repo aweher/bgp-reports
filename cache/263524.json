@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263524,
+  "endAutnum" : 263524,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263524",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263524"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140113",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140113",
+    "eventActor" : "JCA56"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CCBI3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CCBI3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Almir de Jesus Gaspar de Ara?jo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Uni?o, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Uni?o","","04578-000","BR"]],["email",{"type":"work"},"text","AJA18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["org",{},"text",["Ciabrasnet - Central Brasileira de Internet Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "AJA18"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/AJA18",
+        "value" : "http://rdap.labs.lacnic.net/entity/AJA18"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Almir de Jesus Gaspar de Ara?jo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Uni?o, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Uni?o","SC","04578-000","BR"]],["email",{"type":"work"},"text","AJA18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "AJA18"
+      } ],
+      "entities" : [ ],
+      "handle" : "AJA18"
+    } ],
+    "handle" : "BR-CCBI3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JCA56",
+      "value" : "http://rdap.labs.lacnic.net/entity/JCA56"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julio Cezar Araujo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Uni?o, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Uni?o","SC","04578-000","BR"]],["email",{"type":"work"},"text","JCA56@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131016",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131016",
+      "eventActor" : "JCA56"
+    } ],
+    "entities" : [ ],
+    "handle" : "JCA56"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JCA56",
+      "value" : "http://rdap.labs.lacnic.net/entity/JCA56"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julio Cezar Araujo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPorto Uni?o, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Porto Uni?o","SC","04578-000","BR"]],["email",{"type":"work"},"text","JCA56@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 42 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131016",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131016",
+      "eventActor" : "JCA56"
+    } ],
+    "entities" : [ ],
+    "handle" : "JCA56"
+  } ],
+  "type" : null,
+  "handle" : "263524-LACNIC",
+  "country" : "BR"
+}

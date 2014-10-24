@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262342,
+  "endAutnum" : 262342,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262342",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262342"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120103",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "JCL40"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-JCRO-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-JCRO-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Carlos Roque Oliveira & Cia Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaca?bas, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maca?bas","BA","04578-000","BR"]],["email",{"type":"work"},"text","JCL40@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 77 55093511 ()"],["org",{},"text",["JOSE CARLOS ROQUE OLIVEIRA & CIA LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130711",
+      "eventActor" : "JCL40"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/JCL40",
+        "value" : "http://rdap.labs.lacnic.net/entity/JCL40"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Carlos Roque Oliveira & Cia Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaca?bas, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maca?bas","BA","04578-000","BR"]],["email",{"type":"work"},"text","JCL40@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 77 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "JCL40"
+      } ],
+      "entities" : [ ],
+      "handle" : "JCL40"
+    } ],
+    "handle" : "BR-JCRO-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JCL40",
+      "value" : "http://rdap.labs.lacnic.net/entity/JCL40"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Carlos Roque Oliveira & Cia Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaca?bas, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maca?bas","BA","04578-000","BR"]],["email",{"type":"work"},"text","JCL40@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 77 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JCL40"
+    } ],
+    "entities" : [ ],
+    "handle" : "JCL40"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/JCL40",
+      "value" : "http://rdap.labs.lacnic.net/entity/JCL40"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jos? Carlos Roque Oliveira & Cia Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMaca?bas, BA 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Maca?bas","BA","04578-000","BR"]],["email",{"type":"work"},"text","JCL40@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 77 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "JCL40"
+    } ],
+    "entities" : [ ],
+    "handle" : "JCL40"
+  } ],
+  "type" : null,
+  "handle" : "262342-LACNIC",
+  "country" : "BR"
+}

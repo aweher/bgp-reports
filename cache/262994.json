@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262994,
+  "endAutnum" : 262994,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262994",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262994"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120515",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140529",
+    "eventActor" : "UTL"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-RSLT17-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-RSLT17-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administra??o de Dom?nios Net4biz"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nUberl?ndia, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Uberl?ndia","","04578-000","BR"]],["email",{"type":"work"},"text","ADN12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["org",{},"text",["REZENDE SISTEMAS LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "ADN12"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ADN12",
+        "value" : "http://rdap.labs.lacnic.net/entity/ADN12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administra??o de Dom?nios Net4biz"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nUberl?ndia, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Uberl?ndia","MG","04578-000","BR"]],["email",{"type":"work"},"text","ADN12@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ADN12"
+      } ],
+      "entities" : [ ],
+      "handle" : "ADN12"
+    } ],
+    "handle" : "BR-RSLT17-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/UTL",
+      "value" : "http://rdap.labs.lacnic.net/entity/UTL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","UCall Telecom Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nUberl?ndia, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Uberl?ndia","MG","04578-000","BR"]],["email",{"type":"work"},"text","UTL@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "UTL"
+    } ],
+    "entities" : [ ],
+    "handle" : "UTL"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/UTL",
+      "value" : "http://rdap.labs.lacnic.net/entity/UTL"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","UCall Telecom Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nUberl?ndia, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Uberl?ndia","MG","04578-000","BR"]],["email",{"type":"work"},"text","UTL@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 34 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "UTL"
+    } ],
+    "entities" : [ ],
+    "handle" : "UTL"
+  } ],
+  "type" : null,
+  "handle" : "262994-LACNIC",
+  "country" : "BR"
+}

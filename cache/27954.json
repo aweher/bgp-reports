@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27954",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27954"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-FASA15-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-FASA15-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Toscano"],["adr",{"label":"Paraguay 1178 (Piso 4)\nBUENOS AIRES,  C1057AAR\nAR","type":"work"},"text",["","","Paraguay 1178 (Piso 4)","BUENOS AIRES","","C1057AAR","AR"]],["email",{"type":"work"},"text","sergio.toscano@FARMALINK.COM.AR"],["tel",{"type":"work"},"text","54 11 48147958 ()"],["org",{},"text",["FARMALINK S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SET5",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SET5"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Toscano"],["adr",{"label":"Paraguay 1178 (Piso 4)\nCF, BA C1057AAR\nAR","type":"work"},"text",["","","Paraguay 1178 (Piso 4)","CF","BA","C1057AAR","AR"]],["email",{"type":"work"},"text","sergio.toscano@FARMALINK.COM.AR"],["tel",{"type":"work"},"text","54 11 48147958 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20071204",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140212",
+        "eventActor" : "SET5"
+      } ],
+      "handle" : "SET5"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071214",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "SET5"
+    } ],
+    "handle" : "AR-FASA15-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SET5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SET5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Toscano"],["adr",{"label":"Paraguay 1178 (Piso 4)\nCF, BA C1057AAR\nAR","type":"work"},"text",["","","Paraguay 1178 (Piso 4)","CF","BA","C1057AAR","AR"]],["email",{"type":"work"},"text","sergio.toscano@FARMALINK.COM.AR"],["tel",{"type":"work"},"text","54 11 48147958 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071204",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140212",
+      "eventActor" : "SET5"
+    } ],
+    "handle" : "SET5"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SET5",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SET5"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Toscano"],["adr",{"label":"Paraguay 1178 (Piso 4)\nCF, BA C1057AAR\nAR","type":"work"},"text",["","","Paraguay 1178 (Piso 4)","CF","BA","C1057AAR","AR"]],["email",{"type":"work"},"text","sergio.toscano@FARMALINK.COM.AR"],["tel",{"type":"work"},"text","54 11 48147958 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20071204",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140212",
+      "eventActor" : "SET5"
+    } ],
+    "handle" : "SET5"
+  } ],
+  "startAutnum" : 27954,
+  "endAutnum" : 27954,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080130",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080130",
+    "eventActor" : "SET5"
+  } ],
+  "type" : null,
+  "handle" : "27954-LACNIC",
+  "country" : "AR"
+}

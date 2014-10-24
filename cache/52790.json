@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52790,
+  "endAutnum" : 52790,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52790",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52790"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120925",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "GBJ2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CNTL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CNTL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","GILBERTO BOTREL CAMPOS JUNIOR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTr?s Pontas, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tr?s Pontas","MG","04578-000","BR"]],["email",{"type":"work"},"text","GBJ2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["org",{},"text",["CONECTA NET TELECOMUNICA??ES LTDA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "GBJ2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/GBJ2",
+        "value" : "http://rdap.labs.lacnic.net/entity/GBJ2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","GILBERTO BOTREL CAMPOS JUNIOR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTr?s Pontas, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tr?s Pontas","MG","04578-000","BR"]],["email",{"type":"work"},"text","GBJ2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "GBJ2"
+      } ],
+      "entities" : [ ],
+      "handle" : "GBJ2"
+    } ],
+    "handle" : "BR-CNTL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GBJ2",
+      "value" : "http://rdap.labs.lacnic.net/entity/GBJ2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","GILBERTO BOTREL CAMPOS JUNIOR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTr?s Pontas, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tr?s Pontas","MG","04578-000","BR"]],["email",{"type":"work"},"text","GBJ2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GBJ2"
+    } ],
+    "entities" : [ ],
+    "handle" : "GBJ2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/GBJ2",
+      "value" : "http://rdap.labs.lacnic.net/entity/GBJ2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","GILBERTO BOTREL CAMPOS JUNIOR"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTr?s Pontas, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tr?s Pontas","MG","04578-000","BR"]],["email",{"type":"work"},"text","GBJ2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "GBJ2"
+    } ],
+    "entities" : [ ],
+    "handle" : "GBJ2"
+  } ],
+  "type" : null,
+  "handle" : "52790-LACNIC",
+  "country" : "BR"
+}

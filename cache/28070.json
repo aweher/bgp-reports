@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28070,
+  "endAutnum" : 28070,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28070",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28070"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090722",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090722",
+    "eventActor" : "WEM3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-BACO-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-BACO-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Wilson Enrique Suarez Martinez"],["adr",{"label":"Cra. 7 24-89 (Piso 14)\nSanta Fe de Bogota, DC -\nCO","type":"work"},"text",["","","Cra. 7 24-89 (Piso 14)","Santa Fe de Bogota","DC","-","CO"]],["email",{"type":"work"},"text","suarezw@COLPATRIA.COM"],["tel",{"type":"work"},"text","57 1 3386300 ()"],["org",{},"text",["Banco Colpatria Red Multibanca Colpatria S.A."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070719",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110304",
+      "eventActor" : "WEM3"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/WEM3",
+        "value" : "http://rdap.labs.lacnic.net/entity/WEM3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Wilson Enrique Suarez Martinez"],["adr",{"label":"Cra 7 # 24-89 Piso 14 571 (7456300)\nBogota, null 0000\nCO","type":"work"},"text",["","","Cra 7 # 24-89 Piso 14 571 (7456300)","Bogota","","0000","CO"]],["email",{"type":"work"},"text","suarezw@COLPATRIA.COM"],["tel",{"type":"work"},"text","57 1 7456300 (3581)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090107",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20090107",
+        "eventActor" : "WEM3"
+      } ],
+      "entities" : [ ],
+      "handle" : "WEM3"
+    } ],
+    "handle" : "CO-BACO-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WEM3",
+      "value" : "http://rdap.labs.lacnic.net/entity/WEM3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Wilson Enrique Suarez Martinez"],["adr",{"label":"Cra 7 # 24-89 Piso 14 571 (7456300)\nBogota, null 0000\nCO","type":"work"},"text",["","","Cra 7 # 24-89 Piso 14 571 (7456300)","Bogota","","0000","CO"]],["email",{"type":"work"},"text","suarezw@COLPATRIA.COM"],["tel",{"type":"work"},"text","57 1 7456300 (3581)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090107",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090107",
+      "eventActor" : "WEM3"
+    } ],
+    "entities" : [ ],
+    "handle" : "WEM3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/WEM3",
+      "value" : "http://rdap.labs.lacnic.net/entity/WEM3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Wilson Enrique Suarez Martinez"],["adr",{"label":"Cra 7 # 24-89 Piso 14 571 (7456300)\nBogota, null 0000\nCO","type":"work"},"text",["","","Cra 7 # 24-89 Piso 14 571 (7456300)","Bogota","","0000","CO"]],["email",{"type":"work"},"text","suarezw@COLPATRIA.COM"],["tel",{"type":"work"},"text","57 1 7456300 (3581)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090107",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20090107",
+      "eventActor" : "WEM3"
+    } ],
+    "entities" : [ ],
+    "handle" : "WEM3"
+  } ],
+  "type" : null,
+  "handle" : "28070-LACNIC",
+  "country" : "CO"
+}

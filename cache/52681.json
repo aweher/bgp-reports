@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52681,
+  "endAutnum" : 52681,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52681",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52681"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121204",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "PIM2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PILM-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PILM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pbinet Informatica Ltda - ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPanambi, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Panambi","RS","04578-000","BR"]],["email",{"type":"work"},"text","PIM2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["org",{},"text",["Pbinet Informatica Ltda - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "PIM2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PIM2",
+        "value" : "http://rdap.labs.lacnic.net/entity/PIM2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pbinet Informatica Ltda - ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPanambi, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Panambi","RS","04578-000","BR"]],["email",{"type":"work"},"text","PIM2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PIM2"
+      } ],
+      "entities" : [ ],
+      "handle" : "PIM2"
+    } ],
+    "handle" : "BR-PILM-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PIM2",
+      "value" : "http://rdap.labs.lacnic.net/entity/PIM2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pbinet Informatica Ltda - ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPanambi, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Panambi","RS","04578-000","BR"]],["email",{"type":"work"},"text","PIM2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PIM2"
+    } ],
+    "entities" : [ ],
+    "handle" : "PIM2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PIM2",
+      "value" : "http://rdap.labs.lacnic.net/entity/PIM2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pbinet Informatica Ltda - ME"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPanambi, RS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Panambi","RS","04578-000","BR"]],["email",{"type":"work"},"text","PIM2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 55 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PIM2"
+    } ],
+    "entities" : [ ],
+    "handle" : "PIM2"
+  } ],
+  "type" : null,
+  "handle" : "52681-LACNIC",
+  "country" : "BR"
+}

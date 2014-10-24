@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/4270",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/4270"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-RIUN-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-RIUN-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administracion RIU"],["adr",{"label":"Maipu 645 (Piso 4to - Of 10)\nCiudad de Buenos Aires, BA C1006ACG\nAR","type":"work"},"text",["","","Maipu 645 (Piso 4to - Of 10)","Ciudad de Buenos Aires","BA","C1006ACG","AR"]],["email",{"type":"work"},"text","noc@RIU.EDU.AR"],["tel",{"type":"work"},"text","54 11 43227027 ()"],["org",{},"text",["Red de Interconexion Universitaria"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ADR6",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ADR6"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administracion RIU"],["adr",{"label":"Maipu 645 (Piso 4 Of. 10)\nBuenos Aires, CF C1006ACG\nAR","type":"work"},"text",["","","Maipu 645 (Piso 4 Of. 10)","Buenos Aires","CF","C1006ACG","AR"]],["email",{"type":"work"},"text","noc@RIU.EDU.AR"],["tel",{"type":"work"},"text","54 11 43227027 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20040315",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110708",
+        "eventActor" : "ADR6"
+      } ],
+      "handle" : "ADR6"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040402",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140502",
+      "eventActor" : "ADR6"
+    } ],
+    "handle" : "AR-RIUN-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ADR6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ADR6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administracion RIU"],["adr",{"label":"Maipu 645 (Piso 4 Of. 10)\nBuenos Aires, CF C1006ACG\nAR","type":"work"},"text",["","","Maipu 645 (Piso 4 Of. 10)","Buenos Aires","CF","C1006ACG","AR"]],["email",{"type":"work"},"text","noc@RIU.EDU.AR"],["tel",{"type":"work"},"text","54 11 43227027 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040315",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110708",
+      "eventActor" : "ADR6"
+    } ],
+    "handle" : "ADR6"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ADR6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ADR6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administracion RIU"],["adr",{"label":"Maipu 645 (Piso 4 Of. 10)\nBuenos Aires, CF C1006ACG\nAR","type":"work"},"text",["","","Maipu 645 (Piso 4 Of. 10)","Buenos Aires","CF","C1006ACG","AR"]],["email",{"type":"work"},"text","noc@RIU.EDU.AR"],["tel",{"type":"work"},"text","54 11 43227027 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20040315",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110708",
+      "eventActor" : "ADR6"
+    } ],
+    "handle" : "ADR6"
+  } ],
+  "startAutnum" : 4270,
+  "endAutnum" : 4270,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19950118",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "19950118",
+    "eventActor" : "ADR6"
+  } ],
+  "type" : null,
+  "handle" : "4270-LACNIC",
+  "country" : "AR"
+}

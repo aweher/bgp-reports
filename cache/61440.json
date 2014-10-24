@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/61440",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61440"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-DETC-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-DETC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Network Operating Center"],["adr",{"label":"Moneda 970 (Piso 5)\nSantiadno,  8320313\nCL","type":"work"},"text",["","","Moneda 970 (Piso 5)","Santiadno","","8320313","CL"]],["email",{"type":"work"},"text","noc@AS61440.NET"],["tel",{"type":"work"},"text","56 226 382322 ()"],["org",{},"text",["Digital Energy Technologies Chile SpA"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/VIG28",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/VIG28"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Network Operating Center"],["adr",{"label":"Moneda 970 (Piso 5)\nSantiago, RM 8320313\nCL","type":"work"},"text",["","","Moneda 970 (Piso 5)","Santiago","RM","8320313","CL"]],["email",{"type":"work"},"text","noc@AS61440.NET"],["tel",{"type":"work"},"text","56 229 382322 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130508",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140108",
+        "eventActor" : "VIG28"
+      } ],
+      "handle" : "VIG28"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130715",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130715",
+      "eventActor" : "VIG28"
+    } ],
+    "handle" : "CL-DETC-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/VIG28",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/VIG28"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Network Operating Center"],["adr",{"label":"Moneda 970 (Piso 5)\nSantiago, RM 8320313\nCL","type":"work"},"text",["","","Moneda 970 (Piso 5)","Santiago","RM","8320313","CL"]],["email",{"type":"work"},"text","noc@AS61440.NET"],["tel",{"type":"work"},"text","56 229 382322 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130508",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140108",
+      "eventActor" : "VIG28"
+    } ],
+    "handle" : "VIG28"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/VIG28",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/VIG28"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Network Operating Center"],["adr",{"label":"Moneda 970 (Piso 5)\nSantiago, RM 8320313\nCL","type":"work"},"text",["","","Moneda 970 (Piso 5)","Santiago","RM","8320313","CL"]],["email",{"type":"work"},"text","noc@AS61440.NET"],["tel",{"type":"work"},"text","56 229 382322 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130508",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140108",
+      "eventActor" : "VIG28"
+    } ],
+    "handle" : "VIG28"
+  } ],
+  "startAutnum" : 61440,
+  "endAutnum" : 61440,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130902",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130902",
+    "eventActor" : "VIG28"
+  } ],
+  "type" : null,
+  "handle" : "61440-LACNIC",
+  "country" : "CL"
+}

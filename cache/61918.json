@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 61918,
+  "endAutnum" : 61918,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/61918",
+    "value" : "http://rdap.labs.lacnic.net/autnum/61918"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140508",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140508",
+    "eventActor" : "BCV3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-RCLM-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-RCLM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Prata Net"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPrat?nia, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Prat?nia","","04578-000","BR"]],["email",{"type":"work"},"text","PRN11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["org",{},"text",["RALUEL COMERCIO LTDA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130306",
+      "eventActor" : "PRN11"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PRN11",
+        "value" : "http://rdap.labs.lacnic.net/entity/PRN11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Prata Net"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nPrat?nia, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Prat?nia","SP","04578-000","BR"]],["email",{"type":"work"},"text","PRN11@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PRN11"
+      } ],
+      "entities" : [ ],
+      "handle" : "PRN11"
+    } ],
+    "handle" : "BR-RCLM-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BCV3",
+      "value" : "http://rdap.labs.lacnic.net/entity/BCV3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Breno de Castro Laranjo Vale"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOliveira, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Oliveira","MG","04578-000","BR"]],["email",{"type":"work"},"text","BCV3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "BCV3"
+    } ],
+    "entities" : [ ],
+    "handle" : "BCV3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BCV3",
+      "value" : "http://rdap.labs.lacnic.net/entity/BCV3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Breno de Castro Laranjo Vale"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOliveira, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Oliveira","MG","04578-000","BR"]],["email",{"type":"work"},"text","BCV3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 37 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "BCV3"
+    } ],
+    "entities" : [ ],
+    "handle" : "BCV3"
+  } ],
+  "type" : null,
+  "handle" : "61918-LACNIC",
+  "country" : "BR"
+}

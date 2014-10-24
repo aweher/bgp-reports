@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52427",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52427"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-VASA18-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-VASA18-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Cattolica"],["adr",{"label":"Avenida Corrientes 1437 (Piso 6)\nCap Fed, BA 1042\nAR","type":"work"},"text",["","","Avenida Corrientes 1437 (Piso 6)","Cap Fed","BA","1042","AR"]],["email",{"type":"work"},"text","cattolica@VISA.COM.AR"],["tel",{"type":"work"},"text","054 011 43792677 ()"],["org",{},"text",["Visa Argentina S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ESC11",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ESC11"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Cattolica"],["adr",{"label":"Av. Corrientes 1437 (6)\nCapital Federal, BA 1042\nAR","type":"work"},"text",["","","Av. Corrientes 1437 (6)","Capital Federal","BA","1042","AR"]],["email",{"type":"work"},"text","cattolica@VISA.COM.AR"],["tel",{"type":"work"},"text","54 11 43792677 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110810",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20121206",
+        "eventActor" : "ESC11"
+      } ],
+      "handle" : "ESC11"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110815",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120118",
+      "eventActor" : "ESC11"
+    } ],
+    "handle" : "AR-VASA18-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ESC11",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ESC11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Cattolica"],["adr",{"label":"Av. Corrientes 1437 (6)\nCapital Federal, BA 1042\nAR","type":"work"},"text",["","","Av. Corrientes 1437 (6)","Capital Federal","BA","1042","AR"]],["email",{"type":"work"},"text","cattolica@VISA.COM.AR"],["tel",{"type":"work"},"text","54 11 43792677 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110810",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121206",
+      "eventActor" : "ESC11"
+    } ],
+    "handle" : "ESC11"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ESC11",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ESC11"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pablo Cattolica"],["adr",{"label":"Av. Corrientes 1437 (6)\nCapital Federal, BA 1042\nAR","type":"work"},"text",["","","Av. Corrientes 1437 (6)","Capital Federal","BA","1042","AR"]],["email",{"type":"work"},"text","cattolica@VISA.COM.AR"],["tel",{"type":"work"},"text","54 11 43792677 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110810",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121206",
+      "eventActor" : "ESC11"
+    } ],
+    "handle" : "ESC11"
+  } ],
+  "startAutnum" : 52427,
+  "endAutnum" : 52427,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121205",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121205",
+    "eventActor" : "ESC11"
+  } ],
+  "type" : null,
+  "handle" : "52427-LACNIC",
+  "country" : "AR"
+}

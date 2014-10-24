@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263144,
+  "endAutnum" : 263144,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263144",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263144"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140515",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140515",
+    "eventActor" : "RIA35"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-TILT77-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-TILT77-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","T2web Informatica"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMacei?, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Macei?","AL","04578-000","BR"]],["email",{"type":"work"},"text","TWI2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["org",{},"text",["T2web Inform?tica LTDA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140318",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140318",
+      "eventActor" : "TWI2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/TWI2",
+        "value" : "http://rdap.labs.lacnic.net/entity/TWI2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","T2web Informatica"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMacei?, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Macei?","AL","04578-000","BR"]],["email",{"type":"work"},"text","TWI2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "TWI2"
+      } ],
+      "entities" : [ ],
+      "handle" : "TWI2"
+    } ],
+    "handle" : "BR-TILT77-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RIA35",
+      "value" : "http://rdap.labs.lacnic.net/entity/RIA35"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Andr?"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMacei?, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Macei?","AL","04578-000","BR"]],["email",{"type":"work"},"text","RIA35@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140321",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140321",
+      "eventActor" : "RIA35"
+    } ],
+    "entities" : [ ],
+    "handle" : "RIA35"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/NSL7",
+      "value" : "http://rdap.labs.lacnic.net/entity/NSL7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","NEXTi Solu??es Interativas Ltda"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nMacei?, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Macei?","AL","04578-000","BR"]],["email",{"type":"work"},"text","NSL7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "NSL7"
+    } ],
+    "entities" : [ ],
+    "handle" : "NSL7"
+  } ],
+  "type" : null,
+  "handle" : "263144-LACNIC",
+  "country" : "BR"
+}

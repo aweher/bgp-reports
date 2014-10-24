@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27898",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27898"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-RESR2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-RESR2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Ariel Canta"],["adr",{"label":"San Mart?n 663 (PB)\nCiudad Aut?noma de Bs.As, BA 1004\nAR","type":"work"},"text",["","","San Mart?n 663 (PB)","Ciudad Aut?noma de Bs.As","BA","1004","AR"]],["email",{"type":"work"},"text","admin@REDY.NET.AR"],["tel",{"type":"work"},"text","54 11 4328-7954 ()"],["org",{},"text",["Redynet SRL"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CAC14",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CAC14"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Ariel Canta"],["adr",{"label":"San Martín, 663, PB 011 (43287954)\nCiudad de buenos aires, null 1004\nAR","type":"work"},"text",["","","San Martín, 663, PB 011 (43287954)","Ciudad de buenos aires","","1004","AR"]],["email",{"type":"work"},"text","admin@REDY.NET.AR"],["tel",{"type":"work"},"text","54 11 43287954 (104)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060411",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20060411",
+        "eventActor" : "CAC14"
+      } ],
+      "handle" : "CAC14"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030324",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "CAC14"
+    } ],
+    "handle" : "AR-RESR2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CAC14",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAC14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Ariel Canta"],["adr",{"label":"San Martín, 663, PB 011 (43287954)\nCiudad de buenos aires, null 1004\nAR","type":"work"},"text",["","","San Martín, 663, PB 011 (43287954)","Ciudad de buenos aires","","1004","AR"]],["email",{"type":"work"},"text","admin@REDY.NET.AR"],["tel",{"type":"work"},"text","54 11 43287954 (104)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060411",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060411",
+      "eventActor" : "CAC14"
+    } ],
+    "handle" : "CAC14"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CAC14",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CAC14"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Ariel Canta"],["adr",{"label":"San Martín, 663, PB 011 (43287954)\nCiudad de buenos aires, null 1004\nAR","type":"work"},"text",["","","San Martín, 663, PB 011 (43287954)","Ciudad de buenos aires","","1004","AR"]],["email",{"type":"work"},"text","admin@REDY.NET.AR"],["tel",{"type":"work"},"text","54 11 43287954 (104)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060411",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060411",
+      "eventActor" : "CAC14"
+    } ],
+    "handle" : "CAC14"
+  } ],
+  "startAutnum" : 27898,
+  "endAutnum" : 27898,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070424",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20070424",
+    "eventActor" : "CAC14"
+  } ],
+  "type" : null,
+  "handle" : "27898-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 3603,
+  "endAutnum" : 3603,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/3603",
+    "value" : "http://rdap.labs.lacnic.net/autnum/3603"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19940518",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080923",
+    "eventActor" : "RIP7"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-ULAN5-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-ULAN5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Direccion de Tecnologias de Informacion"],["adr",{"label":"Cra. 1 18a (10)\nBogota, dc 00000\nCO","type":"work"},"text",["","","Cra. 1 18a (10)","Bogota","dc","00000","CO"]],["email",{"type":"work"},"text","dti@UNIANDES.EDU.CO"],["tel",{"type":"work"},"text","57 1 3324480 ()"],["org",{},"text",["University de Los Andes"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080821",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130711",
+      "eventActor" : "RIP7"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RIP7",
+        "value" : "http://rdap.labs.lacnic.net/entity/RIP7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Direccion de Tecnologias de Informacion"],["adr",{"label":"Carrera 1 # 18a -10 18a (10)\nBogota, dc 00000\nCO","type":"work"},"text",["","","Carrera 1 # 18a -10 18a (10)","Bogota","dc","00000","CO"]],["email",{"type":"work"},"text","dti@UNIANDES.EDU.CO"],["tel",{"type":"work"},"text","57 1 3324480 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080808",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20080822",
+        "eventActor" : "RIP7"
+      } ],
+      "entities" : [ ],
+      "handle" : "RIP7"
+    } ],
+    "handle" : "CO-ULAN5-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RIP7",
+      "value" : "http://rdap.labs.lacnic.net/entity/RIP7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Direccion de Tecnologias de Informacion"],["adr",{"label":"Carrera 1 # 18a -10 18a (10)\nBogota, dc 00000\nCO","type":"work"},"text",["","","Carrera 1 # 18a -10 18a (10)","Bogota","dc","00000","CO"]],["email",{"type":"work"},"text","dti@UNIANDES.EDU.CO"],["tel",{"type":"work"},"text","57 1 3324480 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080808",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080822",
+      "eventActor" : "RIP7"
+    } ],
+    "entities" : [ ],
+    "handle" : "RIP7"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RIP7",
+      "value" : "http://rdap.labs.lacnic.net/entity/RIP7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Direccion de Tecnologias de Informacion"],["adr",{"label":"Carrera 1 # 18a -10 18a (10)\nBogota, dc 00000\nCO","type":"work"},"text",["","","Carrera 1 # 18a -10 18a (10)","Bogota","dc","00000","CO"]],["email",{"type":"work"},"text","dti@UNIANDES.EDU.CO"],["tel",{"type":"work"},"text","57 1 3324480 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080808",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20080822",
+      "eventActor" : "RIP7"
+    } ],
+    "entities" : [ ],
+    "handle" : "RIP7"
+  } ],
+  "type" : null,
+  "handle" : "3603-LACNIC",
+  "country" : "CO"
+}

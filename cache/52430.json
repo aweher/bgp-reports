@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52430",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52430"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-COYS7-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-COYS7-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Novik Gabriel"],["adr",{"label":"Bv. Hip?lito Irigoyen 1275 (-)\nBrinkmann (Cordoba),  -\nAR","type":"work"},"text",["","","Bv. Hip?lito Irigoyen 1275 (-)","Brinkmann (Cordoba)","","-","AR"]],["email",{"type":"work"},"text","fonocoop@BRINET.COM.AR"],["tel",{"type":"work"},"text","54 3562 455001 ()"],["org",{},"text",["Coop. de Obras y Serv. P?blicos de Brinkmann"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/AAG2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/AAG2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Novik Gabriel"],["adr",{"label":"Bv Hip?lito Yrigoyen 1275 ()\nBrinkmann,  X2419\nAR","type":"work"},"text",["","","Bv Hip?lito Yrigoyen 1275 ()","Brinkmann","","X2419","AR"]],["email",{"type":"work"},"text","fonocoop@BRINET.COM.AR"],["tel",{"type":"work"},"text","54 3562 455001 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050609",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140623",
+        "eventActor" : "AAG2"
+      } ],
+      "handle" : "AAG2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050630",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140623",
+      "eventActor" : "AAG2"
+    } ],
+    "handle" : "AR-COYS7-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AAG2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AAG2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Novik Gabriel"],["adr",{"label":"Bv Hip?lito Yrigoyen 1275 ()\nBrinkmann,  X2419\nAR","type":"work"},"text",["","","Bv Hip?lito Yrigoyen 1275 ()","Brinkmann","","X2419","AR"]],["email",{"type":"work"},"text","fonocoop@BRINET.COM.AR"],["tel",{"type":"work"},"text","54 3562 455001 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050609",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140623",
+      "eventActor" : "AAG2"
+    } ],
+    "handle" : "AAG2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AAG2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AAG2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Novik Gabriel"],["adr",{"label":"Bv Hip?lito Yrigoyen 1275 ()\nBrinkmann,  X2419\nAR","type":"work"},"text",["","","Bv Hip?lito Yrigoyen 1275 ()","Brinkmann","","X2419","AR"]],["email",{"type":"work"},"text","fonocoop@BRINET.COM.AR"],["tel",{"type":"work"},"text","54 3562 455001 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050609",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140623",
+      "eventActor" : "AAG2"
+    } ],
+    "handle" : "AAG2"
+  } ],
+  "startAutnum" : 52430,
+  "endAutnum" : 52430,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121217",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121217",
+    "eventActor" : "AAG2"
+  } ],
+  "type" : null,
+  "handle" : "52430-LACNIC",
+  "country" : "AR"
+}

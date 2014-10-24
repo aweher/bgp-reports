@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27971",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27971"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-AOGE-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-AOGE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ariel Sebastian Weher"],["adr",{"label":"Rivadavia 1180 ()\nTostado, SF S3060AYO\nAR","type":"work"},"text",["","","Rivadavia 1180 ()","Tostado","SF","S3060AYO","AR"]],["email",{"type":"work"},"text","ariel@WEHER.NET"],["tel",{"type":"work"},"text","54 3491 470501 ()"],["org",{},"text",["Alberto Oscar Genovese"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ASW",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ASW"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ariel Sebastian Weher"],["adr",{"label":"Mitre 1028 ()\nVilla Gobernador Galvez, SF S2124HEB\nAR","type":"work"},"text",["","","Mitre 1028 ()","Villa Gobernador Galvez","SF","S2124HEB","AR"]],["email",{"type":"work"},"text","ariel@WEHER.NET"],["tel",{"type":"work"},"text","54 341 4921299 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20070727",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140203",
+        "eventActor" : "ASW"
+      } ],
+      "handle" : "ASW"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080212",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130112",
+      "eventActor" : "ASW"
+    } ],
+    "handle" : "AR-AOGE-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ASW",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ASW"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ariel Sebastian Weher"],["adr",{"label":"Mitre 1028 ()\nVilla Gobernador Galvez, SF S2124HEB\nAR","type":"work"},"text",["","","Mitre 1028 ()","Villa Gobernador Galvez","SF","S2124HEB","AR"]],["email",{"type":"work"},"text","ariel@WEHER.NET"],["tel",{"type":"work"},"text","54 341 4921299 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070727",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140203",
+      "eventActor" : "ASW"
+    } ],
+    "handle" : "ASW"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ASW",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ASW"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ariel Sebastian Weher"],["adr",{"label":"Mitre 1028 ()\nVilla Gobernador Galvez, SF S2124HEB\nAR","type":"work"},"text",["","","Mitre 1028 ()","Villa Gobernador Galvez","SF","S2124HEB","AR"]],["email",{"type":"work"},"text","ariel@WEHER.NET"],["tel",{"type":"work"},"text","54 341 4921299 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070727",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140203",
+      "eventActor" : "ASW"
+    } ],
+    "handle" : "ASW"
+  } ],
+  "startAutnum" : 27971,
+  "endAutnum" : 27971,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080521",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20080522",
+    "eventActor" : "ASW"
+  } ],
+  "type" : null,
+  "handle" : "27971-LACNIC",
+  "country" : "AR"
+}

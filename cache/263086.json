@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 263086,
+  "endAutnum" : 263086,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/263086",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263086"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120417",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140102",
+    "eventActor" : "ERA28"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PNCE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PNCE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pl?cido de Almeida Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuit?, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cuit?","PB","04578-000","BR"]],["email",{"type":"work"},"text","PAN17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["org",{},"text",["PBNET - TELECOM"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140402",
+      "eventActor" : "PAN17"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PAN17",
+        "value" : "http://rdap.labs.lacnic.net/entity/PAN17"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pl?cido de Almeida Neto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nCuit?, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Cuit?","PB","04578-000","BR"]],["email",{"type":"work"},"text","PAN17@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PAN17"
+      } ],
+      "entities" : [ ],
+      "handle" : "PAN17"
+    } ],
+    "handle" : "BR-PNCE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ERA28",
+      "value" : "http://rdap.labs.lacnic.net/entity/ERA28"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Erick Araujo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJo?o Pessoa, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jo?o Pessoa","PB","04578-000","BR"]],["email",{"type":"work"},"text","ERA28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ERA28"
+    } ],
+    "entities" : [ ],
+    "handle" : "ERA28"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ERA28",
+      "value" : "http://rdap.labs.lacnic.net/entity/ERA28"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Erick Araujo"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJo?o Pessoa, PB 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Jo?o Pessoa","PB","04578-000","BR"]],["email",{"type":"work"},"text","ERA28@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 83 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ERA28"
+    } ],
+    "entities" : [ ],
+    "handle" : "ERA28"
+  } ],
+  "type" : null,
+  "handle" : "263086-LACNIC",
+  "country" : "BR"
+}

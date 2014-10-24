@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28068",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28068"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-UNSL-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-UNSL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Aversa"],["adr",{"label":"Ejercito de los Andes 950 (-)\nSan Luis, SL 5700\nAR","type":"work"},"text",["","","Ejercito de los Andes 950 (-)","San Luis","SL","5700","AR"]],["email",{"type":"work"},"text","aversa@UNSL.EDU.AR"],["tel",{"type":"work"},"text","54 2652 424027 (-)"],["org",{},"text",["Universidad Nacional de San Luis"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FEA4",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FEA4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Aversa"],["adr",{"label":"Ejercito de los Andes 950 ()\nSan Luis, SL 5700\nAR","type":"work"},"text",["","","Ejercito de los Andes 950 ()","San Luis","SL","5700","AR"]],["email",{"type":"work"},"text","aversa@UNSL.EDU.AR"],["tel",{"type":"work"},"text","0054 2652 424027 (311)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090430",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110608",
+        "eventActor" : "FEA4"
+      } ],
+      "handle" : "FEA4"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050928",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120525",
+      "eventActor" : "FEA4"
+    } ],
+    "handle" : "AR-UNSL-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEA4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEA4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Aversa"],["adr",{"label":"Ejercito de los Andes 950 ()\nSan Luis, SL 5700\nAR","type":"work"},"text",["","","Ejercito de los Andes 950 ()","San Luis","SL","5700","AR"]],["email",{"type":"work"},"text","aversa@UNSL.EDU.AR"],["tel",{"type":"work"},"text","0054 2652 424027 (311)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090430",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110608",
+      "eventActor" : "FEA4"
+    } ],
+    "handle" : "FEA4"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEA4",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEA4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Aversa"],["adr",{"label":"Ejercito de los Andes 950 ()\nSan Luis, SL 5700\nAR","type":"work"},"text",["","","Ejercito de los Andes 950 ()","San Luis","SL","5700","AR"]],["email",{"type":"work"},"text","aversa@UNSL.EDU.AR"],["tel",{"type":"work"},"text","0054 2652 424027 (311)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090430",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110608",
+      "eventActor" : "FEA4"
+    } ],
+    "handle" : "FEA4"
+  } ],
+  "startAutnum" : 28068,
+  "endAutnum" : 28068,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090722",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090722",
+    "eventActor" : "FEA4"
+  } ],
+  "type" : null,
+  "handle" : "28068-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27838",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27838"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-SESA6-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-SESA6-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Rojas Cornejo"],["adr",{"label":"Catedral 1888 ()\nSantiago, RM 834-0377\nCL","type":"work"},"text",["","","Catedral 1888 ()","Santiago","RM","834-0377","CL"]],["email",{"type":"work"},"text","diego.rojas@ASSINLTDA.SERVIBANCA.CL"],["tel",{"type":"work"},"text","56 2 6950832 (302)"],["org",{},"text",["Servibanca S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/DRC2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/DRC2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Rojas Cornejo"],["adr",{"label":"Catedral 1888 ()\nSantiago, RM 834-0377\nCL","type":"work"},"text",["","","Catedral 1888 ()","Santiago","RM","834-0377","CL"]],["email",{"type":"work"},"text","diego.rojas@ASSINLTDA.SERVIBANCA.CL"],["tel",{"type":"work"},"text","56 2 6950832 (302)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20051108",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20070319",
+        "eventActor" : "DRC2"
+      } ],
+      "handle" : "DRC2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060502",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "DRC2"
+    } ],
+    "handle" : "CL-SESA6-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DRC2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DRC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Rojas Cornejo"],["adr",{"label":"Catedral 1888 ()\nSantiago, RM 834-0377\nCL","type":"work"},"text",["","","Catedral 1888 ()","Santiago","RM","834-0377","CL"]],["email",{"type":"work"},"text","diego.rojas@ASSINLTDA.SERVIBANCA.CL"],["tel",{"type":"work"},"text","56 2 6950832 (302)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20051108",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070319",
+      "eventActor" : "DRC2"
+    } ],
+    "handle" : "DRC2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DRC2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DRC2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Rojas Cornejo"],["adr",{"label":"Catedral 1888 ()\nSantiago, RM 834-0377\nCL","type":"work"},"text",["","","Catedral 1888 ()","Santiago","RM","834-0377","CL"]],["email",{"type":"work"},"text","diego.rojas@ASSINLTDA.SERVIBANCA.CL"],["tel",{"type":"work"},"text","56 2 6950832 (302)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20051108",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070319",
+      "eventActor" : "DRC2"
+    } ],
+    "handle" : "DRC2"
+  } ],
+  "startAutnum" : 27838,
+  "endAutnum" : 27838,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060622",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20060622",
+    "eventActor" : "DRC2"
+  } ],
+  "type" : null,
+  "handle" : "27838-LACNIC",
+  "country" : "CL"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52280",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52280"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-ICSA46-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-ICSA46-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP-ITX"],["adr",{"label":"Av. La Dehesa 1201 (Torre Oriente, ofi 823, Lo Barnechea)\nSantiago de Chile,  --\nCL","type":"work"},"text",["","","Av. La Dehesa 1201 (Torre Oriente, ofi 823, Lo Barnechea)","Santiago de Chile","","--","CL"]],["email",{"type":"work"},"text","adminred@INTERNEXA.COM"],["tel",{"type":"work"},"text","57 4 3252270 (73221)"],["org",{},"text",["INTERNEXA Chile S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/HEJ",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/HEJ"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP-ITX"],["adr",{"label":"Cl 12 sur # 18 - 168 bloque 5 Piso 2 00 (00000)\nMedellin, CO 00000\nCO","type":"work"},"text",["","","Cl 12 sur # 18 - 168 bloque 5 Piso 2 00 (00000)","Medellin","CO","00000","CO"]],["email",{"type":"work"},"text","adminred@INTERNEXA.COM"],["tel",{"type":"work"},"text","57 4 3171111 (73341)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090515",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130920",
+        "eventActor" : "HEJ"
+      } ],
+      "handle" : "HEJ"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100830",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130920",
+      "eventActor" : "HEJ"
+    } ],
+    "handle" : "CL-ICSA46-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HEJ",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HEJ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP-ITX"],["adr",{"label":"Cl 12 sur # 18 - 168 bloque 5 Piso 2 00 (00000)\nMedellin, CO 00000\nCO","type":"work"},"text",["","","Cl 12 sur # 18 - 168 bloque 5 Piso 2 00 (00000)","Medellin","CO","00000","CO"]],["email",{"type":"work"},"text","adminred@INTERNEXA.COM"],["tel",{"type":"work"},"text","57 4 3171111 (73341)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090515",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130920",
+      "eventActor" : "HEJ"
+    } ],
+    "handle" : "HEJ"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/HEJ",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/HEJ"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador IP-ITX"],["adr",{"label":"Cl 12 sur # 18 - 168 bloque 5 Piso 2 00 (00000)\nMedellin, CO 00000\nCO","type":"work"},"text",["","","Cl 12 sur # 18 - 168 bloque 5 Piso 2 00 (00000)","Medellin","CO","00000","CO"]],["email",{"type":"work"},"text","adminred@INTERNEXA.COM"],["tel",{"type":"work"},"text","57 4 3171111 (73341)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090515",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130920",
+      "eventActor" : "HEJ"
+    } ],
+    "handle" : "HEJ"
+  } ],
+  "startAutnum" : 52280,
+  "endAutnum" : 52280,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100910",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100911",
+    "eventActor" : "HEJ"
+  } ],
+  "type" : null,
+  "handle" : "52280-LACNIC",
+  "country" : "CL"
+}

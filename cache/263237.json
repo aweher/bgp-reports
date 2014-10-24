@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/263237",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/263237"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-PHEI-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-PHEI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador de Red"],["adr",{"label":"AVENIDA ANDRES BELLO #1245 PISO 7 , OFI. 707 . Las Condes  ()\nSantiago,  \nCL","type":"work"},"text",["","","AVENIDA ANDRES BELLO #1245 PISO 7 , OFI. 707 . Las Condes  ()","Santiago","","","CL"]],["email",{"type":"work"},"text","administrador.red@GTDINTERNET.COM"],["tel",{"type":"work"},"text","56 09 78011451 ()"],["org",{},"text",["POWER HOST E.I.R.L."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ADR",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ADR"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administrador de Red"],["adr",{"label":"Moneda 920 (Piso 11)\nSantiago, RM 6500712\nCL","type":"work"},"text",["","","Moneda 920 (Piso 11)","Santiago","RM","6500712","CL"]],["email",{"type":"work"},"text","administrador.red@GTDINTERNET.COM"],["tel",{"type":"work"},"text","56 2 4139742 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20020930",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120413",
+        "eventActor" : "ADR"
+      } ],
+      "handle" : "ADR"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140421",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140421",
+      "eventActor" : "ADR"
+    } ],
+    "handle" : "CL-PHEI-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RIR33",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RIR33"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Rubem"],["adr",{"label":"Luis Beltran 1647 (?u?oa)\nSantiago, RM \nCL","type":"work"},"text",["","","Luis Beltran 1647 (?u?oa)","Santiago","RM","","CL"]],["email",{"type":"work"},"text","ricardo@POWERHOST.CL"],["tel",{"type":"work"},"text","56 2 24957301 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140509",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140509",
+      "eventActor" : "RIR33"
+    } ],
+    "handle" : "RIR33"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/RIR33",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/RIR33"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ricardo Rubem"],["adr",{"label":"Luis Beltran 1647 (?u?oa)\nSantiago, RM \nCL","type":"work"},"text",["","","Luis Beltran 1647 (?u?oa)","Santiago","RM","","CL"]],["email",{"type":"work"},"text","ricardo@POWERHOST.CL"],["tel",{"type":"work"},"text","56 2 24957301 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140509",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140509",
+      "eventActor" : "RIR33"
+    } ],
+    "handle" : "RIR33"
+  } ],
+  "startAutnum" : 263237,
+  "endAutnum" : 263237,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20140522",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140522",
+    "eventActor" : "RIR33"
+  } ],
+  "type" : null,
+  "handle" : "263237-LACNIC",
+  "country" : "CL"
+}

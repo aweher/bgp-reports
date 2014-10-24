@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52532,
+  "endAutnum" : 52532,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52532",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52532"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130529",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130529",
+    "eventActor" : "ERM24"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ESLT27-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ESLT27-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EUSTAQUIO ROCHA MOREIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSabar?, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sabar?","MG","04578-000","BR"]],["email",{"type":"work"},"text","ERM24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["org",{},"text",["Espeednet Sabar? Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130529",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130530",
+      "eventActor" : "ERM24"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ERM24",
+        "value" : "http://rdap.labs.lacnic.net/entity/ERM24"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EUSTAQUIO ROCHA MOREIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSabar?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sabar?","","04578-000","BR"]],["email",{"type":"work"},"text","ERM24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130322",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130322",
+        "eventActor" : "ERM24"
+      } ],
+      "entities" : [ ],
+      "handle" : "ERM24"
+    } ],
+    "handle" : "BR-ESLT27-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ERM24",
+      "value" : "http://rdap.labs.lacnic.net/entity/ERM24"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EUSTAQUIO ROCHA MOREIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSabar?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sabar?","","04578-000","BR"]],["email",{"type":"work"},"text","ERM24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130322",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130322",
+      "eventActor" : "ERM24"
+    } ],
+    "entities" : [ ],
+    "handle" : "ERM24"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ERM24",
+      "value" : "http://rdap.labs.lacnic.net/entity/ERM24"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EUSTAQUIO ROCHA MOREIRA"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSabar?, null 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sabar?","","04578-000","BR"]],["email",{"type":"work"},"text","ERM24@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 31 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130322",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130322",
+      "eventActor" : "ERM24"
+    } ],
+    "entities" : [ ],
+    "handle" : "ERM24"
+  } ],
+  "type" : null,
+  "handle" : "52532-LACNIC",
+  "country" : "BR"
+}

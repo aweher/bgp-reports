@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262271,
+  "endAutnum" : 262271,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262271",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262271"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120619",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131001",
+    "eventActor" : "EMF19"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-RCAS-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-RCAS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ROGERIO MARCHIOTE GABRI"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItaocara, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itaocara","RJ","04578-000","BR"]],["email",{"type":"work"},"text","RMG15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["org",{},"text",["R. C. A. Sistemas Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131001",
+      "eventActor" : "RMG15"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RMG15",
+        "value" : "http://rdap.labs.lacnic.net/entity/RMG15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ROGERIO MARCHIOTE GABRI"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSanto Ant?nio de P?dua, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Santo Ant?nio de P?dua","RJ","04578-000","BR"]],["email",{"type":"work"},"text","RMG15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "RMG15"
+      } ],
+      "entities" : [ ],
+      "handle" : "RMG15"
+    } ],
+    "handle" : "BR-RCAS-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EMF19",
+      "value" : "http://rdap.labs.lacnic.net/entity/EMF19"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emerson Mois?s Ferreira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItaocara, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itaocara","RJ","04578-000","BR"]],["email",{"type":"work"},"text","EMF19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131001",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131001",
+      "eventActor" : "EMF19"
+    } ],
+    "entities" : [ ],
+    "handle" : "EMF19"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EMF19",
+      "value" : "http://rdap.labs.lacnic.net/entity/EMF19"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Emerson Mois?s Ferreira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nItaocara, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Itaocara","RJ","04578-000","BR"]],["email",{"type":"work"},"text","EMF19@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131001",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131001",
+      "eventActor" : "EMF19"
+    } ],
+    "entities" : [ ],
+    "handle" : "EMF19"
+  } ],
+  "type" : null,
+  "handle" : "262271-LACNIC",
+  "country" : "BR"
+}

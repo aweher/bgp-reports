@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 7087,
+  "endAutnum" : 7087,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/7087",
+    "value" : "http://rdap.labs.lacnic.net/autnum/7087"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19960815",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "19960815",
+    "eventActor" : "ARS"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-COSA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-COSA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administraci?n de Redes Colomsat S.A."],["adr",{"label":"Cra 7 Nro 60-93 60-93 ()\nBogot?, Cu G912\nCO","type":"work"},"text",["","","Cra 7 Nro 60-93 60-93 ()","Bogot?","Cu","G912","CO"]],["email",{"type":"work"},"text","administracion.tecnica@COLOMSAT.COM.CO"],["tel",{"type":"work"},"text","57 1 3469000 (40014)"],["org",{},"text",["Administraci?n de Redes Colomsat S.A."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021018",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20050810",
+      "eventActor" : "ARS"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ARS",
+        "value" : "http://rdap.labs.lacnic.net/entity/ARS"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administraci?n de Redes Colomsat S.A."],["adr",{"label":"Cra 7 Nro 60-93 6093 ()\nBogot?,  G912\nCO","type":"work"},"text",["","","Cra 7 Nro 60-93 6093 ()","Bogot?","","G912","CO"]],["email",{"type":"work"},"text","administracion.tecnica@COLOMSAT.COM.CO"],["tel",{"type":"work"},"text","57 1 3469000 (40014)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20020906",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20030924",
+        "eventActor" : "ARS"
+      } ],
+      "entities" : [ ],
+      "handle" : "ARS"
+    } ],
+    "handle" : "CO-COSA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ARS",
+      "value" : "http://rdap.labs.lacnic.net/entity/ARS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administraci?n de Redes Colomsat S.A."],["adr",{"label":"Cra 7 Nro 60-93 6093 ()\nBogot?,  G912\nCO","type":"work"},"text",["","","Cra 7 Nro 60-93 6093 ()","Bogot?","","G912","CO"]],["email",{"type":"work"},"text","administracion.tecnica@COLOMSAT.COM.CO"],["tel",{"type":"work"},"text","57 1 3469000 (40014)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020906",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20030924",
+      "eventActor" : "ARS"
+    } ],
+    "entities" : [ ],
+    "handle" : "ARS"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ARS",
+      "value" : "http://rdap.labs.lacnic.net/entity/ARS"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Administraci?n de Redes Colomsat S.A."],["adr",{"label":"Cra 7 Nro 60-93 6093 ()\nBogot?,  G912\nCO","type":"work"},"text",["","","Cra 7 Nro 60-93 6093 ()","Bogot?","","G912","CO"]],["email",{"type":"work"},"text","administracion.tecnica@COLOMSAT.COM.CO"],["tel",{"type":"work"},"text","57 1 3469000 (40014)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020906",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20030924",
+      "eventActor" : "ARS"
+    } ],
+    "entities" : [ ],
+    "handle" : "ARS"
+  } ],
+  "type" : null,
+  "handle" : "7087-LACNIC",
+  "country" : "CO"
+}

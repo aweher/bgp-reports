@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28128,
+  "endAutnum" : 28128,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28128",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28128"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20081230",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "CHH8"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ICIL3-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ICIL3-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Henrique de Lima Hohlenwerger"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Fid?lis, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Fid?lis","RJ","04578-000","BR"]],["email",{"type":"work"},"text","CHH8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["org",{},"text",["Infolic Comercial de Informatica Ltda."]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CHH8"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/CHH8",
+        "value" : "http://rdap.labs.lacnic.net/entity/CHH8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Henrique de Lima Hohlenwerger"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Fid?lis, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Fid?lis","RJ","04578-000","BR"]],["email",{"type":"work"},"text","CHH8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "CHH8"
+      } ],
+      "entities" : [ ],
+      "handle" : "CHH8"
+    } ],
+    "handle" : "BR-ICIL3-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CHH8",
+      "value" : "http://rdap.labs.lacnic.net/entity/CHH8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Henrique de Lima Hohlenwerger"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Fid?lis, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Fid?lis","RJ","04578-000","BR"]],["email",{"type":"work"},"text","CHH8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CHH8"
+    } ],
+    "entities" : [ ],
+    "handle" : "CHH8"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CHH8",
+      "value" : "http://rdap.labs.lacnic.net/entity/CHH8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Henrique de Lima Hohlenwerger"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nS?o Fid?lis, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","S?o Fid?lis","RJ","04578-000","BR"]],["email",{"type":"work"},"text","CHH8@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "CHH8"
+    } ],
+    "entities" : [ ],
+    "handle" : "CHH8"
+  } ],
+  "type" : null,
+  "handle" : "28128-LACNIC",
+  "country" : "BR"
+}

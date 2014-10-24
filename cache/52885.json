@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52885,
+  "endAutnum" : 52885,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52885",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52885"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120420",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "SIT7"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CCAA4-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CCAA4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Simone Tormem"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nChapec?, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Chapec?","SC","04578-000","BR"]],["email",{"type":"work"},"text","SIT7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["org",{},"text",["Cooperativa Central Aurora Alimentos"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "SIT7"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/SIT7",
+        "value" : "http://rdap.labs.lacnic.net/entity/SIT7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Simone Tormem"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nChapeco, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Chapeco","SC","04578-000","BR"]],["email",{"type":"work"},"text","SIT7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "SIT7"
+      } ],
+      "entities" : [ ],
+      "handle" : "SIT7"
+    } ],
+    "handle" : "BR-CCAA4-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SIT7",
+      "value" : "http://rdap.labs.lacnic.net/entity/SIT7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Simone Tormem"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nChapeco, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Chapeco","SC","04578-000","BR"]],["email",{"type":"work"},"text","SIT7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SIT7"
+    } ],
+    "entities" : [ ],
+    "handle" : "SIT7"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/SIT7",
+      "value" : "http://rdap.labs.lacnic.net/entity/SIT7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Simone Tormem"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nChapeco, SC 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Chapeco","SC","04578-000","BR"]],["email",{"type":"work"},"text","SIT7@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 49 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "SIT7"
+    } ],
+    "entities" : [ ],
+    "handle" : "SIT7"
+  } ],
+  "type" : null,
+  "handle" : "52885-LACNIC",
+  "country" : "BR"
+}

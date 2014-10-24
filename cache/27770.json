@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27770",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27770"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-UNRC-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-UNRC-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Cristobal Sabroe Yde"],["adr",{"label":"ruta 8 km 601 -- (--)\nRio Cuarto,  X5804BYA\nAR","type":"work"},"text",["","","ruta 8 km 601 -- (--)","Rio Cuarto","","X5804BYA","AR"]],["email",{"type":"work"},"text","cyde@UTI.UNRC.EDU.AR"],["tel",{"type":"work"},"text","54 358 4676183 ()"],["org",{},"text",["Universidad Nacional de Rio Cuarto"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CCY",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CCY"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Cristobal Sabroe Yde"],["adr",{"label":"Ruta 36 Km. 601 (Computos)\nRio Cuarto, CO X5804BYA\nAR","type":"work"},"text",["","","Ruta 36 Km. 601 (Computos)","Rio Cuarto","CO","X5804BYA","AR"]],["email",{"type":"work"},"text","cyde@UTI.UNRC.EDU.AR"],["tel",{"type":"work"},"text","54 358 4676183 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050307",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20111220",
+        "eventActor" : "CCY"
+      } ],
+      "handle" : "CCY"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050308",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20071108",
+      "eventActor" : "CCY"
+    } ],
+    "handle" : "AR-UNRC-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CCY",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CCY"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Cristobal Sabroe Yde"],["adr",{"label":"Ruta 36 Km. 601 (Computos)\nRio Cuarto, CO X5804BYA\nAR","type":"work"},"text",["","","Ruta 36 Km. 601 (Computos)","Rio Cuarto","CO","X5804BYA","AR"]],["email",{"type":"work"},"text","cyde@UTI.UNRC.EDU.AR"],["tel",{"type":"work"},"text","54 358 4676183 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050307",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111220",
+      "eventActor" : "CCY"
+    } ],
+    "handle" : "CCY"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CCY",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CCY"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Carlos Cristobal Sabroe Yde"],["adr",{"label":"Ruta 36 Km. 601 (Computos)\nRio Cuarto, CO X5804BYA\nAR","type":"work"},"text",["","","Ruta 36 Km. 601 (Computos)","Rio Cuarto","CO","X5804BYA","AR"]],["email",{"type":"work"},"text","cyde@UTI.UNRC.EDU.AR"],["tel",{"type":"work"},"text","54 358 4676183 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20050307",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20111220",
+      "eventActor" : "CCY"
+    } ],
+    "handle" : "CCY"
+  } ],
+  "startAutnum" : 27770,
+  "endAutnum" : 27770,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20050525",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20050525",
+    "eventActor" : "CCY"
+  } ],
+  "type" : null,
+  "handle" : "27770-LACNIC",
+  "country" : "AR"
+}

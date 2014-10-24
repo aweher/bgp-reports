@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/11193",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/11193"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-COSA13-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-COSA13-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Comnet Operation Center"],["adr",{"label":"San Martin 638 ()\nCiudad Autonoma de Buenos Aire, BA C1004AAN\nAR","type":"work"},"text",["","","San Martin 638 ()","Ciudad Autonoma de Buenos Aire","BA","C1004AAN","AR"]],["email",{"type":"work"},"text","noc@COMNET.COM.AR"],["tel",{"type":"work"},"text","54 11 4103 (1300)"],["org",{},"text",["COMNET S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/COC3",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/COC3"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Comnet Operation Center"],["adr",{"label":"San Martin 638 ()\nCiudad Autonoma de Buenos Aire, null C1004AAN\nAR","type":"work"},"text",["","","San Martin 638 ()","Ciudad Autonoma de Buenos Aire","","C1004AAN","AR"]],["email",{"type":"work"},"text","noc@COMNET.COM.AR"],["tel",{"type":"work"},"text","54 11 4103 (1300)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20060927",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20060927",
+        "eventActor" : "COC3"
+      } ],
+      "handle" : "COC3"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060927",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20061122",
+      "eventActor" : "COC3"
+    } ],
+    "handle" : "AR-COSA13-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/COC3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/COC3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Comnet Operation Center"],["adr",{"label":"San Martin 638 ()\nCiudad Autonoma de Buenos Aire, null C1004AAN\nAR","type":"work"},"text",["","","San Martin 638 ()","Ciudad Autonoma de Buenos Aire","","C1004AAN","AR"]],["email",{"type":"work"},"text","noc@COMNET.COM.AR"],["tel",{"type":"work"},"text","54 11 4103 (1300)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060927",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060927",
+      "eventActor" : "COC3"
+    } ],
+    "handle" : "COC3"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/COC3",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/COC3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Comnet Operation Center"],["adr",{"label":"San Martin 638 ()\nCiudad Autonoma de Buenos Aire, null C1004AAN\nAR","type":"work"},"text",["","","San Martin 638 ()","Ciudad Autonoma de Buenos Aire","","C1004AAN","AR"]],["email",{"type":"work"},"text","noc@COMNET.COM.AR"],["tel",{"type":"work"},"text","54 11 4103 (1300)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060927",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20060927",
+      "eventActor" : "COC3"
+    } ],
+    "handle" : "COC3"
+  } ],
+  "startAutnum" : 11193,
+  "endAutnum" : 11193,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19980512",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20040315",
+    "eventActor" : "COC3"
+  } ],
+  "type" : null,
+  "handle" : "11193-LACNIC",
+  "country" : "AR"
+}

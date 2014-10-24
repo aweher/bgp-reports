@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/6429",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/6429"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-ACIS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-ACIS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Core Internet Telmex Chile"],["adr",{"label":"Rinconada El Salto 202 (Huechuraba)\nSantiago, RM 56\nCL","type":"work"},"text",["","","Rinconada El Salto 202 (Huechuraba)","Santiago","RM","56","CL"]],["email",{"type":"work"},"text","netadmin@IP.TELMEXCHILE.CL"],["tel",{"type":"work"},"text","56 02 5825712 ()"],["org",{},"text",["Telmex Chile Internet S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CIC",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CIC"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Core Internet Telmex Chile"],["adr",{"label":"Avenida el Salto 202 56 (2)\nSantiago, M NONE\nCL","type":"work"},"text",["","","Avenida el Salto 202 56 (2)","Santiago","M","NONE","CL"]],["email",{"type":"work"},"text","netadmin@IP.TELMEXCHILE.CL"],["tel",{"type":"work"},"text","56 02 5825590 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20020927",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20070417",
+        "eventActor" : "CIC"
+      } ],
+      "handle" : "CIC"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020927",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "CIC"
+    } ],
+    "handle" : "CL-ACIS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Core Internet Telmex Chile"],["adr",{"label":"Avenida el Salto 202 56 (2)\nSantiago, M NONE\nCL","type":"work"},"text",["","","Avenida el Salto 202 56 (2)","Santiago","M","NONE","CL"]],["email",{"type":"work"},"text","netadmin@IP.TELMEXCHILE.CL"],["tel",{"type":"work"},"text","56 02 5825590 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020927",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070417",
+      "eventActor" : "CIC"
+    } ],
+    "handle" : "CIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Core Internet Telmex Chile"],["adr",{"label":"Avenida el Salto 202 56 (2)\nSantiago, M NONE\nCL","type":"work"},"text",["","","Avenida el Salto 202 56 (2)","Santiago","M","NONE","CL"]],["email",{"type":"work"},"text","netadmin@IP.TELMEXCHILE.CL"],["tel",{"type":"work"},"text","56 02 5825590 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020927",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20070417",
+      "eventActor" : "CIC"
+    } ],
+    "handle" : "CIC"
+  } ],
+  "startAutnum" : 6429,
+  "endAutnum" : 6429,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20010419",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20010419",
+    "eventActor" : "CIC"
+  } ],
+  "type" : null,
+  "handle" : "6429-LACNIC",
+  "country" : "CL"
+}

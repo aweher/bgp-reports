@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27753,
+  "endAutnum" : 27753,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27753",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27753"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20041222",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20041222",
+    "eventActor" : "LAA"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-CCPR-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-CCPR-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Angel Arango"],["adr",{"label":"Calle 13 57 (50)\nCali, Va 9999\nCO","type":"work"},"text",["","","Calle 13 57 (50)","Cali","Va","9999","CO"]],["email",{"type":"work"},"text","luisa_arango@COOMEVA.COM.CO"],["tel",{"type":"work"},"text","57 2 333 00 00 ()"],["org",{},"text",["Coomeva Cali Principal"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030724",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "LAA"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/LAA",
+        "value" : "http://rdap.labs.lacnic.net/entity/LAA"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Angel Arango"],["adr",{"label":"Calle 13 57 (50)\nCali, Va 9999\nCO","type":"work"},"text",["","","Calle 13 57 (50)","Cali","Va","9999","CO"]],["email",{"type":"work"},"text","luisa_arango@COOMEVA.COM.CO"],["tel",{"type":"work"},"text","57 2 333 00 00 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030723",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20030729",
+        "eventActor" : "LAA"
+      } ],
+      "entities" : [ ],
+      "handle" : "LAA"
+    } ],
+    "handle" : "CO-CCPR-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LAA",
+      "value" : "http://rdap.labs.lacnic.net/entity/LAA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Angel Arango"],["adr",{"label":"Calle 13 57 (50)\nCali, Va 9999\nCO","type":"work"},"text",["","","Calle 13 57 (50)","Cali","Va","9999","CO"]],["email",{"type":"work"},"text","luisa_arango@COOMEVA.COM.CO"],["tel",{"type":"work"},"text","57 2 333 00 00 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030723",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20030729",
+      "eventActor" : "LAA"
+    } ],
+    "entities" : [ ],
+    "handle" : "LAA"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/LAA",
+      "value" : "http://rdap.labs.lacnic.net/entity/LAA"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Luis Angel Arango"],["adr",{"label":"Calle 13 57 (50)\nCali, Va 9999\nCO","type":"work"},"text",["","","Calle 13 57 (50)","Cali","Va","9999","CO"]],["email",{"type":"work"},"text","luisa_arango@COOMEVA.COM.CO"],["tel",{"type":"work"},"text","57 2 333 00 00 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030723",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20030729",
+      "eventActor" : "LAA"
+    } ],
+    "entities" : [ ],
+    "handle" : "LAA"
+  } ],
+  "type" : null,
+  "handle" : "27753-LACNIC",
+  "country" : "CO"
+}

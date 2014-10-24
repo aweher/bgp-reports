@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28111",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28111"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-GSSR-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-GSSR-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Dianese"],["adr",{"label":"Scalabrini Ortiz 2498 ()\nRamos Mejia,  B1704ERX\nAR","type":"work"},"text",["","","Scalabrini Ortiz 2498 ()","Ramos Mejia","","B1704ERX","AR"]],["email",{"type":"work"},"text","ddianese@SOLUNET.COM.AR"],["tel",{"type":"work"},"text","54 11 4656-6327 ()"],["org",{},"text",["Grupo Solunet SRL"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/DAD8",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/DAD8"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Dianese"],["adr",{"label":"Scalabrini Ortiz 2498 ()\nRamos Mejia,  B1704ERX\nAR","type":"work"},"text",["","","Scalabrini Ortiz 2498 ()","Ramos Mejia","","B1704ERX","AR"]],["email",{"type":"work"},"text","ddianese@SOLUNET.COM.AR"],["tel",{"type":"work"},"text","054 11 46566327 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080612",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130808",
+        "eventActor" : "DAD8"
+      } ],
+      "handle" : "DAD8"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080908",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140516",
+      "eventActor" : "DAD8"
+    } ],
+    "handle" : "AR-GSSR-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DAD8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAD8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Dianese"],["adr",{"label":"Scalabrini Ortiz 2498 ()\nRamos Mejia,  B1704ERX\nAR","type":"work"},"text",["","","Scalabrini Ortiz 2498 ()","Ramos Mejia","","B1704ERX","AR"]],["email",{"type":"work"},"text","ddianese@SOLUNET.COM.AR"],["tel",{"type":"work"},"text","054 11 46566327 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080612",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130808",
+      "eventActor" : "DAD8"
+    } ],
+    "handle" : "DAD8"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/DAD8",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/DAD8"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Daniel Dianese"],["adr",{"label":"Scalabrini Ortiz 2498 ()\nRamos Mejia,  B1704ERX\nAR","type":"work"},"text",["","","Scalabrini Ortiz 2498 ()","Ramos Mejia","","B1704ERX","AR"]],["email",{"type":"work"},"text","ddianese@SOLUNET.COM.AR"],["tel",{"type":"work"},"text","054 11 46566327 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080612",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130808",
+      "eventActor" : "DAD8"
+    } ],
+    "handle" : "DAD8"
+  } ],
+  "startAutnum" : 28111,
+  "endAutnum" : 28111,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100114",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100114",
+    "eventActor" : "DAD8"
+  } ],
+  "type" : null,
+  "handle" : "28111-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52688,
+  "endAutnum" : 52688,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52688",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52688"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121213",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140224",
+    "eventActor" : "PJO3"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-FVEL-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-FVEL-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo Miyashita"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nF?tima do Sul, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","F?tima do Sul","MS","04578-000","BR"]],["email",{"type":"work"},"text","PAM60@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["org",{},"text",["FATIMA VIDEO ELETRONICA LTDA ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131120",
+      "eventActor" : "PAM60"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PAM60",
+        "value" : "http://rdap.labs.lacnic.net/entity/PAM60"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo Miyashita"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nF?tima do Sul, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","F?tima do Sul","MS","04578-000","BR"]],["email",{"type":"work"},"text","PAM60@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PAM60"
+      } ],
+      "entities" : [ ],
+      "handle" : "PAM60"
+    } ],
+    "handle" : "BR-FVEL-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PJO3",
+      "value" : "http://rdap.labs.lacnic.net/entity/PJO3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pedro Jos? Mugarte de Oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSidrol?ndia, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sidrol?ndia","MS","04578-000","BR"]],["email",{"type":"work"},"text","PJO3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130820",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130820",
+      "eventActor" : "PJO3"
+    } ],
+    "entities" : [ ],
+    "handle" : "PJO3"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PJO3",
+      "value" : "http://rdap.labs.lacnic.net/entity/PJO3"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pedro Jos? Mugarte de Oliveira"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSidrol?ndia, MS 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Sidrol?ndia","MS","04578-000","BR"]],["email",{"type":"work"},"text","PJO3@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 67 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130820",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130820",
+      "eventActor" : "PJO3"
+    } ],
+    "entities" : [ ],
+    "handle" : "PJO3"
+  } ],
+  "type" : null,
+  "handle" : "52688-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/12150",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/12150"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-COTE1-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-COTE1-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Gallo"],["adr",{"label":"Quirno Costa 3318 (-)\nEl Talar, BA 1618\nAR","type":"work"},"text",["","","Quirno Costa 3318 (-)","El Talar","BA","1618","AR"]],["email",{"type":"work"},"text","diego.gallo@COTELCAM.NET.AR"],["tel",{"type":"work"},"text","54 3327 444575 (-)"],["org",{},"text",["COTELCAM"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MAH7",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAH7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Gallo"],["adr",{"label":"Quirno Costa 3318 ()\nEl Talar,  1618\nAR","type":"work"},"text",["","","Quirno Costa 3318 ()","El Talar","","1618","AR"]],["email",{"type":"work"},"text","diego.gallo@COTELCAM.NET.AR"],["tel",{"type":"work"},"text","54 3327 455000 (83)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20061113",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130801",
+        "eventActor" : "MAH7"
+      } ],
+      "handle" : "MAH7"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030228",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "MAH7"
+    } ],
+    "handle" : "AR-COTE1-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAH7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAH7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Gallo"],["adr",{"label":"Quirno Costa 3318 ()\nEl Talar,  1618\nAR","type":"work"},"text",["","","Quirno Costa 3318 ()","El Talar","","1618","AR"]],["email",{"type":"work"},"text","diego.gallo@COTELCAM.NET.AR"],["tel",{"type":"work"},"text","54 3327 455000 (83)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20061113",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130801",
+      "eventActor" : "MAH7"
+    } ],
+    "handle" : "MAH7"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAH7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAH7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Diego Gallo"],["adr",{"label":"Quirno Costa 3318 ()\nEl Talar,  1618\nAR","type":"work"},"text",["","","Quirno Costa 3318 ()","El Talar","","1618","AR"]],["email",{"type":"work"},"text","diego.gallo@COTELCAM.NET.AR"],["tel",{"type":"work"},"text","54 3327 455000 (83)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20061113",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130801",
+      "eventActor" : "MAH7"
+    } ],
+    "handle" : "MAH7"
+  } ],
+  "startAutnum" : 12150,
+  "endAutnum" : 12150,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19990406",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110316",
+    "eventActor" : "MAH7"
+  } ],
+  "type" : null,
+  "handle" : "12150-LACNIC",
+  "country" : "AR"
+}

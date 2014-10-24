@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52327",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52327"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-SUSA6-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-SUSA6-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mart?n Bruno"],["adr",{"label":"R?o Negro 890 (-)\nSanta Fe, - 2535\nAR","type":"work"},"text",["","","R?o Negro 890 (-)","Santa Fe","-","2535","AR"]],["email",{"type":"work"},"text","mbruno@CANAL2CABLEVISION.COM.AR"],["tel",{"type":"work"},"text","54 3401 422169 (15401918)"],["org",{},"text",["Summit S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MAB29",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAB29"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mart?n Bruno"],["adr",{"label":"R?o Negro 890 ()\nEl Tr?bol, SF 2535\nAR","type":"work"},"text",["","","R?o Negro 890 ()","El Tr?bol","SF","2535","AR"]],["email",{"type":"work"},"text","mbruno@CANAL2CABLEVISION.COM.AR"],["tel",{"type":"work"},"text","54 3401 422169 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20080715",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110916",
+        "eventActor" : "MAB29"
+      } ],
+      "handle" : "MAB29"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090316",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130201",
+      "eventActor" : "MAB29"
+    } ],
+    "handle" : "AR-SUSA6-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAB29",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAB29"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mart?n Bruno"],["adr",{"label":"R?o Negro 890 ()\nEl Tr?bol, SF 2535\nAR","type":"work"},"text",["","","R?o Negro 890 ()","El Tr?bol","SF","2535","AR"]],["email",{"type":"work"},"text","mbruno@CANAL2CABLEVISION.COM.AR"],["tel",{"type":"work"},"text","54 3401 422169 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080715",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110916",
+      "eventActor" : "MAB29"
+    } ],
+    "handle" : "MAB29"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAB29",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAB29"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Mart?n Bruno"],["adr",{"label":"R?o Negro 890 ()\nEl Tr?bol, SF 2535\nAR","type":"work"},"text",["","","R?o Negro 890 ()","El Tr?bol","SF","2535","AR"]],["email",{"type":"work"},"text","mbruno@CANAL2CABLEVISION.COM.AR"],["tel",{"type":"work"},"text","54 3401 422169 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20080715",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110916",
+      "eventActor" : "MAB29"
+    } ],
+    "handle" : "MAB29"
+  } ],
+  "startAutnum" : 52327,
+  "endAutnum" : 52327,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110615",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110615",
+    "eventActor" : "MAB29"
+  } ],
+  "type" : null,
+  "handle" : "52327-LACNIC",
+  "country" : "AR"
+}

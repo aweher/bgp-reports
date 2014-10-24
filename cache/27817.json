@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27817,
+  "endAutnum" : 27817,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27817",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27817"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20060329",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20120702",
+    "eventActor" : "MAG35"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-RNAT-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-RNAT-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","LUCAS A. GIRALDO R."],["adr",{"label":"Cra 18 No. 79-47 of 201 - ()\nBogot?, CU 00000\nCO","type":"work"},"text",["","","Cra 18 No. 79-47 of 201 - ()","Bogot?","CU","00000","CO"]],["email",{"type":"work"},"text","direccion@RENATA.EDU.CO"],["tel",{"type":"work"},"text","57 1 5302604 ()"],["org",{},"text",["Red Nacional Acad?mica de Tecnolog?a Avanzada - RENATA"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20060302",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "MAG35"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MAG35",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAG35"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","LUCAS A. GIRALDO R."],["adr",{"label":"Cra 18 No. 79-47 of 201 00 ()\nBogota,  00\nCO","type":"work"},"text",["","","Cra 18 No. 79-47 of 201 00 ()","Bogota","","00","CO"]],["email",{"type":"work"},"text","direccion@RENATA.EDU.CO"],["tel",{"type":"work"},"text","57 1 5302604 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20081119",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120628",
+        "eventActor" : "MAG35"
+      } ],
+      "entities" : [ ],
+      "handle" : "MAG35"
+    } ],
+    "handle" : "CO-RNAT-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAG35",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAG35"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","LUCAS A. GIRALDO R."],["adr",{"label":"Cra 18 No. 79-47 of 201 00 ()\nBogota,  00\nCO","type":"work"},"text",["","","Cra 18 No. 79-47 of 201 00 ()","Bogota","","00","CO"]],["email",{"type":"work"},"text","direccion@RENATA.EDU.CO"],["tel",{"type":"work"},"text","57 1 5302604 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081119",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120628",
+      "eventActor" : "MAG35"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAG35"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MAG35",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAG35"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","LUCAS A. GIRALDO R."],["adr",{"label":"Cra 18 No. 79-47 of 201 00 ()\nBogota,  00\nCO","type":"work"},"text",["","","Cra 18 No. 79-47 of 201 00 ()","Bogota","","00","CO"]],["email",{"type":"work"},"text","direccion@RENATA.EDU.CO"],["tel",{"type":"work"},"text","57 1 5302604 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20081119",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120628",
+      "eventActor" : "MAG35"
+    } ],
+    "entities" : [ ],
+    "handle" : "MAG35"
+  } ],
+  "type" : null,
+  "handle" : "27817-LACNIC",
+  "country" : "CO"
+}

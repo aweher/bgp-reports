@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27907",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27907"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-NASA9-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-NASA9-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sebastian Manzanares"],["adr",{"label":"Dorrego 1042 ()\nRosario, SF S2000DHV\nAR","type":"work"},"text",["","","Dorrego 1042 ()","Rosario","SF","S2000DHV","AR"]],["email",{"type":"work"},"text","sebastian.manzanares@AR.NEORIS.COM"],["tel",{"type":"work"},"text","54 341 5127400 (7433)"],["org",{},"text",["Neoris Argentina S.A"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MAL18",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAL18"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sebastian Manzanares"],["adr",{"label":"Av. Madres de Plaza 25 de Mayo 3020 (piso 4)\nRosario, SF S2013SWJ\nAR","type":"work"},"text",["","","Av. Madres de Plaza 25 de Mayo 3020 (piso 4)","Rosario","SF","S2013SWJ","AR"]],["email",{"type":"work"},"text","sebastian.manzanares@AR.NEORIS.COM"],["tel",{"type":"work"},"text","54 341 5127400 (7407)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20070125",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130618",
+        "eventActor" : "MAL18"
+      } ],
+      "handle" : "MAL18"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070329",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130618",
+      "eventActor" : "MAL18"
+    } ],
+    "handle" : "AR-NASA9-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAL18",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAL18"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sebastian Manzanares"],["adr",{"label":"Av. Madres de Plaza 25 de Mayo 3020 (piso 4)\nRosario, SF S2013SWJ\nAR","type":"work"},"text",["","","Av. Madres de Plaza 25 de Mayo 3020 (piso 4)","Rosario","SF","S2013SWJ","AR"]],["email",{"type":"work"},"text","sebastian.manzanares@AR.NEORIS.COM"],["tel",{"type":"work"},"text","54 341 5127400 (7407)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070125",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130618",
+      "eventActor" : "MAL18"
+    } ],
+    "handle" : "MAL18"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAL18",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAL18"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sebastian Manzanares"],["adr",{"label":"Av. Madres de Plaza 25 de Mayo 3020 (piso 4)\nRosario, SF S2013SWJ\nAR","type":"work"},"text",["","","Av. Madres de Plaza 25 de Mayo 3020 (piso 4)","Rosario","SF","S2013SWJ","AR"]],["email",{"type":"work"},"text","sebastian.manzanares@AR.NEORIS.COM"],["tel",{"type":"work"},"text","54 341 5127400 (7407)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070125",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130618",
+      "eventActor" : "MAL18"
+    } ],
+    "handle" : "MAL18"
+  } ],
+  "startAutnum" : 27907,
+  "endAutnum" : 27907,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070531",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20070531",
+    "eventActor" : "MAL18"
+  } ],
+  "type" : null,
+  "handle" : "27907-LACNIC",
+  "country" : "AR"
+}

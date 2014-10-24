@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/18822",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/18822"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-MANQ-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-MANQ-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Alejandro Andrade Mu?oz"],["adr",{"label":"Av del Condor 796 (Huechuraba)\nSantiago,  858-0704\nCL","type":"work"},"text",["","","Av del Condor 796 (Huechuraba)","Santiago","","858-0704","CL"]],["email",{"type":"work"},"text","administrador.red@GTDINTERNET.COM"],["tel",{"type":"work"},"text","56 2 9505862 ()"],["org",{},"text",["Manquehuenet"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JAM35",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JAM35"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Jorge Alejandro Andrade Mu?oz"],["adr",{"label":"Moneda 920 (oficina 602)\nSantiago,  \nCL","type":"work"},"text",["","","Moneda 920 (oficina 602)","Santiago","","","CL"]],["email",{"type":"work"},"text","administrador.red@GTDINTERNET.COM"],["tel",{"type":"work"},"text","56 2 4139742 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120410",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120518",
+        "eventActor" : "JAM35"
+      } ],
+      "handle" : "JAM35"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030428",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140707",
+      "eventActor" : "JAM35"
+    } ],
+    "handle" : "CL-MANQ-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAS309",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAS309"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Manuel Suanez"],["adr",{"label":"Moneda 920 P.11  ()\nSantiago, SA NONE\nCL","type":"work"},"text",["","","Moneda 920 P.11  ()","Santiago","SA","NONE","CL"]],["email",{"type":"work"},"text","msuanez@GRUPOGTD.COM"],["tel",{"type":"work"},"text","56 2 29409413 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140204",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140204",
+      "eventActor" : "MAS309"
+    } ],
+    "handle" : "MAS309"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAS309",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAS309"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Manuel Suanez"],["adr",{"label":"Moneda 920 P.11  ()\nSantiago, SA NONE\nCL","type":"work"},"text",["","","Moneda 920 P.11  ()","Santiago","SA","NONE","CL"]],["email",{"type":"work"},"text","msuanez@GRUPOGTD.COM"],["tel",{"type":"work"},"text","56 2 29409413 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20140204",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140204",
+      "eventActor" : "MAS309"
+    } ],
+    "handle" : "MAS309"
+  } ],
+  "startAutnum" : 18822,
+  "endAutnum" : 18822,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20001016",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20140707",
+    "eventActor" : "MAS309"
+  } ],
+  "type" : null,
+  "handle" : "18822-LACNIC",
+  "country" : "CL"
+}

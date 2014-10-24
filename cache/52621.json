@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52621,
+  "endAutnum" : 52621,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52621",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52621"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130402",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130402",
+    "eventActor" : "RMC15"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DAEB-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DAEB-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ronaldo Martins da Costa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nBauru, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Bauru","SP","04578-000","BR"]],["email",{"type":"work"},"text","RMC15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 14 55093511 ()"],["org",{},"text",["Departamento de Agua e Esgoto de Bauru"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140312",
+      "eventActor" : "RMC15"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/RMC15",
+        "value" : "http://rdap.labs.lacnic.net/entity/RMC15"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ronaldo Martins da Costa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoi?nia, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goi?nia","GO","04578-000","BR"]],["email",{"type":"work"},"text","RMC15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130825",
+        "eventActor" : "RMC15"
+      } ],
+      "entities" : [ ],
+      "handle" : "RMC15"
+    } ],
+    "handle" : "BR-DAEB-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RMC15",
+      "value" : "http://rdap.labs.lacnic.net/entity/RMC15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ronaldo Martins da Costa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoi?nia, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goi?nia","GO","04578-000","BR"]],["email",{"type":"work"},"text","RMC15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130825",
+      "eventActor" : "RMC15"
+    } ],
+    "entities" : [ ],
+    "handle" : "RMC15"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/RMC15",
+      "value" : "http://rdap.labs.lacnic.net/entity/RMC15"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ronaldo Martins da Costa"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nGoi?nia, GO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Goi?nia","GO","04578-000","BR"]],["email",{"type":"work"},"text","RMC15@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 62 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130825",
+      "eventActor" : "RMC15"
+    } ],
+    "entities" : [ ],
+    "handle" : "RMC15"
+  } ],
+  "type" : null,
+  "handle" : "52621-LACNIC",
+  "country" : "BR"
+}

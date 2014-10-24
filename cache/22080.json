@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/22080",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/22080"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-BSAB-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-BSAB-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Roman Soto"],["adr",{"label":"Jun?n 1596 (Piso 6)\nBuenos Aires,  C1113AAP\nAR","type":"work"},"text",["","","Jun?n 1596 (Piso 6)","Buenos Aires","","C1113AAP","AR"]],["email",{"type":"work"},"text","soto.fernando@BBT.COM.AR"],["tel",{"type":"work"},"text","54 11 63859100 (108)"],["org",{},"text",["Broadbandtech S. A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FRS10",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FRS10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Roman Soto"],["adr",{"label":"Olga Cossettini 731 (3)\nBuenos Aires, null 1107\nAR","type":"work"},"text",["","","Olga Cossettini 731 (3)","Buenos Aires","","1107","AR"]],["email",{"type":"work"},"text","soto.fernando@BBT.COM.AR"],["tel",{"type":"work"},"text","54 11 63859100 (128)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100712",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100712",
+        "eventActor" : "FRS10"
+      } ],
+      "handle" : "FRS10"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021106",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140211",
+      "eventActor" : "FRS10"
+    } ],
+    "handle" : "AR-BSAB-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FRS10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FRS10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Roman Soto"],["adr",{"label":"Olga Cossettini 731 (3)\nBuenos Aires, null 1107\nAR","type":"work"},"text",["","","Olga Cossettini 731 (3)","Buenos Aires","","1107","AR"]],["email",{"type":"work"},"text","soto.fernando@BBT.COM.AR"],["tel",{"type":"work"},"text","54 11 63859100 (128)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100712",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100712",
+      "eventActor" : "FRS10"
+    } ],
+    "handle" : "FRS10"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FRS10",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FRS10"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Roman Soto"],["adr",{"label":"Olga Cossettini 731 (3)\nBuenos Aires, null 1107\nAR","type":"work"},"text",["","","Olga Cossettini 731 (3)","Buenos Aires","","1107","AR"]],["email",{"type":"work"},"text","soto.fernando@BBT.COM.AR"],["tel",{"type":"work"},"text","54 11 63859100 (128)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100712",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100712",
+      "eventActor" : "FRS10"
+    } ],
+    "handle" : "FRS10"
+  } ],
+  "startAutnum" : 22080,
+  "endAutnum" : 22080,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20010802",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100722",
+    "eventActor" : "FRS10"
+  } ],
+  "type" : null,
+  "handle" : "22080-LACNIC",
+  "country" : "AR"
+}

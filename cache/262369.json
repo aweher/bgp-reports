@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262369,
+  "endAutnum" : 262369,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262369",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262369"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120130",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "TGA2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-OVPI-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-OVPI-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tony Gomes do Amaral"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSaquarema, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Saquarema","RJ","04578-000","BR"]],["email",{"type":"work"},"text","TGA2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["org",{},"text",["ok virtual provedor de internet ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "TGA2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/TGA2",
+        "value" : "http://rdap.labs.lacnic.net/entity/TGA2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tony Gomes do Amaral"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSaquarema, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Saquarema","RJ","04578-000","BR"]],["email",{"type":"work"},"text","TGA2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "TGA2"
+      } ],
+      "entities" : [ ],
+      "handle" : "TGA2"
+    } ],
+    "handle" : "BR-OVPI-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TGA2",
+      "value" : "http://rdap.labs.lacnic.net/entity/TGA2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tony Gomes do Amaral"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSaquarema, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Saquarema","RJ","04578-000","BR"]],["email",{"type":"work"},"text","TGA2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TGA2"
+    } ],
+    "entities" : [ ],
+    "handle" : "TGA2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/TGA2",
+      "value" : "http://rdap.labs.lacnic.net/entity/TGA2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Tony Gomes do Amaral"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nSaquarema, RJ 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Saquarema","RJ","04578-000","BR"]],["email",{"type":"work"},"text","TGA2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 22 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "TGA2"
+    } ],
+    "entities" : [ ],
+    "handle" : "TGA2"
+  } ],
+  "type" : null,
+  "handle" : "262369-LACNIC",
+  "country" : "BR"
+}

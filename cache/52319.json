@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52319",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52319"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TECP-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TECP-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pedro D. Prato"],["adr",{"label":"Carlos Della paolera 299 (Piso 20)\nBuenos Aires,  C1001ADA\nAR","type":"work"},"text",["","","Carlos Della paolera 299 (Piso 20)","Buenos Aires","","C1001ADA","AR"]],["email",{"type":"work"},"text","tecppd@TECPETROL.COM"],["tel",{"type":"work"},"text","54 11 40185968 ()"],["org",{},"text",["Tecpetrol"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/PDP",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/PDP"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pedro D. Prato"],["adr",{"label":"Carlos M Della Paolera 299 (Piso 20)\nBuenos Aires,  C1001ADA\nAR","type":"work"},"text",["","","Carlos M Della Paolera 299 (Piso 20)","Buenos Aires","","C1001ADA","AR"]],["email",{"type":"work"},"text","tecppd@TECPETROL.COM"],["tel",{"type":"work"},"text","54 11 4018-5968 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20021120",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20101001",
+        "eventActor" : "PDP"
+      } ],
+      "handle" : "PDP"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021120",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110302",
+      "eventActor" : "PDP"
+    } ],
+    "handle" : "AR-TECP-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PDP",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PDP"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pedro D. Prato"],["adr",{"label":"Carlos M Della Paolera 299 (Piso 20)\nBuenos Aires,  C1001ADA\nAR","type":"work"},"text",["","","Carlos M Della Paolera 299 (Piso 20)","Buenos Aires","","C1001ADA","AR"]],["email",{"type":"work"},"text","tecppd@TECPETROL.COM"],["tel",{"type":"work"},"text","54 11 4018-5968 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021120",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101001",
+      "eventActor" : "PDP"
+    } ],
+    "handle" : "PDP"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/PDP",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/PDP"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Pedro D. Prato"],["adr",{"label":"Carlos M Della Paolera 299 (Piso 20)\nBuenos Aires,  C1001ADA\nAR","type":"work"},"text",["","","Carlos M Della Paolera 299 (Piso 20)","Buenos Aires","","C1001ADA","AR"]],["email",{"type":"work"},"text","tecppd@TECPETROL.COM"],["tel",{"type":"work"},"text","54 11 4018-5968 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20021120",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101001",
+      "eventActor" : "PDP"
+    } ],
+    "handle" : "PDP"
+  } ],
+  "startAutnum" : 52319,
+  "endAutnum" : 52319,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110404",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110404",
+    "eventActor" : "PDP"
+  } ],
+  "type" : null,
+  "handle" : "52319-LACNIC",
+  "country" : "AR"
+}

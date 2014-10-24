@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27879",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27879"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-IYTS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-IYTS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Lorenzo"],["adr",{"label":"Per? 1070 ()\nMendoza, MZ M5500FAX\nAR","type":"work"},"text",["","","Per? 1070 ()","Mendoza","MZ","M5500FAX","AR"]],["email",{"type":"work"},"text","sergiol@ITCSA.NET.AR"],["tel",{"type":"work"},"text","54 261 4134500 ()"],["org",{},"text",["Inform?tica y Telecomunicaciones S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/SEL2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/SEL2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Lorenzo"],["adr",{"label":"Per? 1070 ()\nMendoza,  M5500FAX\nAR","type":"work"},"text",["","","Per? 1070 ()","Mendoza","","M5500FAX","AR"]],["email",{"type":"work"},"text","sergiol@ITCSA.NET.AR"],["tel",{"type":"work"},"text","054 261 4134500 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20030413",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20061127",
+        "eventActor" : "SEL2"
+      } ],
+      "handle" : "SEL2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20061221",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "SEL2"
+    } ],
+    "handle" : "AR-IYTS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SEL2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SEL2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Lorenzo"],["adr",{"label":"Per? 1070 ()\nMendoza,  M5500FAX\nAR","type":"work"},"text",["","","Per? 1070 ()","Mendoza","","M5500FAX","AR"]],["email",{"type":"work"},"text","sergiol@ITCSA.NET.AR"],["tel",{"type":"work"},"text","054 261 4134500 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030413",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20061127",
+      "eventActor" : "SEL2"
+    } ],
+    "handle" : "SEL2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/SEL2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/SEL2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Sergio Lorenzo"],["adr",{"label":"Per? 1070 ()\nMendoza,  M5500FAX\nAR","type":"work"},"text",["","","Per? 1070 ()","Mendoza","","M5500FAX","AR"]],["email",{"type":"work"},"text","sergiol@ITCSA.NET.AR"],["tel",{"type":"work"},"text","054 261 4134500 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030413",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20061127",
+      "eventActor" : "SEL2"
+    } ],
+    "handle" : "SEL2"
+  } ],
+  "startAutnum" : 27879,
+  "endAutnum" : 27879,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20070201",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20070202",
+    "eventActor" : "SEL2"
+  } ],
+  "type" : null,
+  "handle" : "27879-LACNIC",
+  "country" : "AR"
+}

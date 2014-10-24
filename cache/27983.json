@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/27983",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27983"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-RIDS-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-RIDS-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Matias Cimetta"],["adr",{"label":"Av. Belgrano 615 (Piso 12)\nBuenos Aires, BA 1092\nAR","type":"work"},"text",["","","Av. Belgrano 615 (Piso 12)","Buenos Aires","BA","1092","AR"]],["email",{"type":"work"},"text","mcimetta@RIDSA.COM.AR"],["tel",{"type":"work"},"text","54 11 60915656 ()"],["org",{},"text",["Red Intercable Digital S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/MAC49",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/MAC49"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Matias Cimetta"],["adr",{"label":"Belgrano 615 (12A)\nBuenos Aires, null 1092\nAR","type":"work"},"text",["","","Belgrano 615 (12A)","Buenos Aires","","1092","AR"]],["email",{"type":"work"},"text","mcimetta@RIDSA.COM.AR"],["tel",{"type":"work"},"text","54 11 60915665 (8010)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100531",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20100531",
+        "eventActor" : "MAC49"
+      } ],
+      "handle" : "MAC49"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20070301",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "MAC49"
+    } ],
+    "handle" : "AR-RIDS-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAC49",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAC49"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Matias Cimetta"],["adr",{"label":"Belgrano 615 (12A)\nBuenos Aires, null 1092\nAR","type":"work"},"text",["","","Belgrano 615 (12A)","Buenos Aires","","1092","AR"]],["email",{"type":"work"},"text","mcimetta@RIDSA.COM.AR"],["tel",{"type":"work"},"text","54 11 60915665 (8010)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100531",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100531",
+      "eventActor" : "MAC49"
+    } ],
+    "handle" : "MAC49"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/MAC49",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/MAC49"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Matias Cimetta"],["adr",{"label":"Belgrano 615 (12A)\nBuenos Aires, null 1092\nAR","type":"work"},"text",["","","Belgrano 615 (12A)","Buenos Aires","","1092","AR"]],["email",{"type":"work"},"text","mcimetta@RIDSA.COM.AR"],["tel",{"type":"work"},"text","54 11 60915665 (8010)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100531",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20100531",
+      "eventActor" : "MAC49"
+    } ],
+    "handle" : "MAC49"
+  } ],
+  "startAutnum" : 27983,
+  "endAutnum" : 27983,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20080715",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100601",
+    "eventActor" : "MAC49"
+  } ],
+  "type" : null,
+  "handle" : "27983-LACNIC",
+  "country" : "AR"
+}

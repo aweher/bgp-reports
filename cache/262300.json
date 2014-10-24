@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262300,
+  "endAutnum" : 262300,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262300",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262300"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111208",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "ATB"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ALTF-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ALTF-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alberto Torres Barreto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nOlho D?gua das Flores, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Olho D?gua das Flores","AL","04578-000","BR"]],["email",{"type":"work"},"text","ATB@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["org",{},"text",["AFONSO LUIZ TENORIO FREITAS MELRO - ME"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "ATB"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/ATB",
+        "value" : "http://rdap.labs.lacnic.net/entity/ATB"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alberto Torres Barreto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArapiraca, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Arapiraca","AL","04578-000","BR"]],["email",{"type":"work"},"text","ATB@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "ATB"
+      } ],
+      "entities" : [ ],
+      "handle" : "ATB"
+    } ],
+    "handle" : "BR-ALTF-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ATB",
+      "value" : "http://rdap.labs.lacnic.net/entity/ATB"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alberto Torres Barreto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArapiraca, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Arapiraca","AL","04578-000","BR"]],["email",{"type":"work"},"text","ATB@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ATB"
+    } ],
+    "entities" : [ ],
+    "handle" : "ATB"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/ATB",
+      "value" : "http://rdap.labs.lacnic.net/entity/ATB"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Alberto Torres Barreto"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nArapiraca, AL 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Arapiraca","AL","04578-000","BR"]],["email",{"type":"work"},"text","ATB@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 82 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "ATB"
+    } ],
+    "entities" : [ ],
+    "handle" : "ATB"
+  } ],
+  "type" : null,
+  "handle" : "262300-LACNIC",
+  "country" : "BR"
+}

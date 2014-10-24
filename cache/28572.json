@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 28572,
+  "endAutnum" : 28572,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/28572",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28572"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20031125",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "EMS42"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ADLE-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ADLE-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EDSON MARTINS SOARES"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIndaiatuba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Indaiatuba","SP","04578-000","BR"]],["email",{"type":"work"},"text","EMS42@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["org",{},"text",["Apoiocom Digital Ltda - EPP"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EMS42"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EMS42",
+        "value" : "http://rdap.labs.lacnic.net/entity/EMS42"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EDSON MARTINS SOARES"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIndaiatuba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Indaiatuba","SP","04578-000","BR"]],["email",{"type":"work"},"text","EMS42@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130624",
+        "eventActor" : "EMS42"
+      } ],
+      "entities" : [ ],
+      "handle" : "EMS42"
+    } ],
+    "handle" : "BR-ADLE-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EMS42",
+      "value" : "http://rdap.labs.lacnic.net/entity/EMS42"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EDSON MARTINS SOARES"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIndaiatuba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Indaiatuba","SP","04578-000","BR"]],["email",{"type":"work"},"text","EMS42@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130624",
+      "eventActor" : "EMS42"
+    } ],
+    "entities" : [ ],
+    "handle" : "EMS42"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EMS42",
+      "value" : "http://rdap.labs.lacnic.net/entity/EMS42"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","EDSON MARTINS SOARES"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nIndaiatuba, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Indaiatuba","SP","04578-000","BR"]],["email",{"type":"work"},"text","EMS42@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 19 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130624",
+      "eventActor" : "EMS42"
+    } ],
+    "entities" : [ ],
+    "handle" : "EMS42"
+  } ],
+  "type" : null,
+  "handle" : "28572-LACNIC",
+  "country" : "BR"
+}

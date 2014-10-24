@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52296",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52296"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-TRYN2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-TRYN2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ernesto Bianciotto"],["adr",{"label":"Santa Fe 1497 ()\nSan Jorge (Santa F?),  2452\nAR","type":"work"},"text",["","","Santa Fe 1497 ()","San Jorge (Santa F?)","","2452","AR"]],["email",{"type":"work"},"text","info@TRYNET.COM.AR"],["tel",{"type":"work"},"text","54 3406 441447 ()"],["org",{},"text",["Trynet S.R.L."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/TRS2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/TRS2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ernesto Bianciotto"],["adr",{"label":"Santa Fe 1497 ()\nSan Jorge, SF 2451\nAR","type":"work"},"text",["","","Santa Fe 1497 ()","San Jorge","SF","2451","AR"]],["email",{"type":"work"},"text","info@TRYNET.COM.AR"],["tel",{"type":"work"},"text","54 3406 441447 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20100210",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20131002",
+        "eventActor" : "TRS2"
+      } ],
+      "handle" : "TRS2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030912",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "TRS2"
+    } ],
+    "handle" : "AR-TRYN2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/TRS2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/TRS2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ernesto Bianciotto"],["adr",{"label":"Santa Fe 1497 ()\nSan Jorge, SF 2451\nAR","type":"work"},"text",["","","Santa Fe 1497 ()","San Jorge","SF","2451","AR"]],["email",{"type":"work"},"text","info@TRYNET.COM.AR"],["tel",{"type":"work"},"text","54 3406 441447 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100210",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131002",
+      "eventActor" : "TRS2"
+    } ],
+    "handle" : "TRS2"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/TRS2",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/TRS2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Ernesto Bianciotto"],["adr",{"label":"Santa Fe 1497 ()\nSan Jorge, SF 2451\nAR","type":"work"},"text",["","","Santa Fe 1497 ()","San Jorge","SF","2451","AR"]],["email",{"type":"work"},"text","info@TRYNET.COM.AR"],["tel",{"type":"work"},"text","54 3406 441447 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100210",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131002",
+      "eventActor" : "TRS2"
+    } ],
+    "handle" : "TRS2"
+  } ],
+  "startAutnum" : 52296,
+  "endAutnum" : 52296,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20101118",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20101118",
+    "eventActor" : "TRS2"
+  } ],
+  "type" : null,
+  "handle" : "52296-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52480",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52480"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-IISA5-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-IISA5-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ancls arg"],["adr",{"label":"Carril Rodriguez Pe?a 2451  ()\nMendoza,  5503\nAR","type":"work"},"text",["","","Carril Rodriguez Pe?a 2451  ()","Mendoza","","5503","AR"]],["email",{"type":"work"},"text","lacnic_ancls@GLOBALCROSSING.COM"],["tel",{"type":"work"},"text","54 261 4131349 ()"],["org",{},"text",["IMPSA IND.METALUR.PESCARMONA SAICYF"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ANA10",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ANA10"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ancls arg"],["adr",{"label":"Alferez Pareja 256 (Costanera)\nBuenos Aires,  C1107BJD\nAR","type":"work"},"text",["","","Alferez Pareja 256 (Costanera)","Buenos Aires","","C1107BJD","AR"]],["email",{"type":"work"},"text","lacnic_ancls@GLOBALCROSSING.COM"],["tel",{"type":"work"},"text","54 11 51706819 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20110321",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120802",
+        "eventActor" : "ANA10"
+      } ],
+      "handle" : "ANA10"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110928",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130531",
+      "eventActor" : "ANA10"
+    } ],
+    "handle" : "AR-IISA5-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ENA6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ENA6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ENRIQUE ARNUT"],["adr",{"label":"Carril Rodriguez Pe?a 2451 (San Francisco del Monte)\nGodoy Cruz, MZ M5503\nAR","type":"work"},"text",["","","Carril Rodriguez Pe?a 2451 (San Francisco del Monte)","Godoy Cruz","MZ","M5503","AR"]],["email",{"type":"work"},"text","groupnetworking@IMPSA.COM"],["tel",{"type":"work"},"text","54 261 4131300 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130315",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130405",
+      "eventActor" : "ENA6"
+    } ],
+    "handle" : "ENA6"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ENA6",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ENA6"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","ENRIQUE ARNUT"],["adr",{"label":"Carril Rodriguez Pe?a 2451 (San Francisco del Monte)\nGodoy Cruz, MZ M5503\nAR","type":"work"},"text",["","","Carril Rodriguez Pe?a 2451 (San Francisco del Monte)","Godoy Cruz","MZ","M5503","AR"]],["email",{"type":"work"},"text","groupnetworking@IMPSA.COM"],["tel",{"type":"work"},"text","54 261 4131300 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130315",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130405",
+      "eventActor" : "ENA6"
+    } ],
+    "handle" : "ENA6"
+  } ],
+  "startAutnum" : 52480,
+  "endAutnum" : 52480,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20130530",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130530",
+    "eventActor" : "ENA6"
+  } ],
+  "type" : null,
+  "handle" : "52480-LACNIC",
+  "country" : "AR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52252",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52252"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-EPTS4-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-EPTS4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Manuel Mondaca Oyarzun"],["adr",{"label":"Av. Andres Bello 2711 (piso 14)\nSantiago,  7550611\nCL","type":"work"},"text",["","","Av. Andres Bello 2711 (piso 14)","Santiago","","7550611","CL"]],["email",{"type":"work"},"text","momondaca@ENTEL.CL"],["tel",{"type":"work"},"text","56 2 4504048 ()"],["org",{},"text",["Entel PCS Telecomunicaciones S.A. (Sis)"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/ATO",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/ATO"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Manuel Mondaca Oyarzun"],["adr",{"label":"Amuntagui 20, Piso 8, Santiago 20 ()\nSantiago,  8340516\nCL","type":"work"},"text",["","","Amuntagui 20, Piso 8, Santiago 20 ()","Santiago","","8340516","CL"]],["email",{"type":"work"},"text","momondaca@ENTEL.CL"],["tel",{"type":"work"},"text","56 2 4413429 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20091222",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110210",
+        "eventActor" : "ATO"
+      } ],
+      "handle" : "ATO"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20100319",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121212",
+      "eventActor" : "ATO"
+    } ],
+    "handle" : "CL-EPTS4-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ATO",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ATO"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Manuel Mondaca Oyarzun"],["adr",{"label":"Amuntagui 20, Piso 8, Santiago 20 ()\nSantiago,  8340516\nCL","type":"work"},"text",["","","Amuntagui 20, Piso 8, Santiago 20 ()","Santiago","","8340516","CL"]],["email",{"type":"work"},"text","momondaca@ENTEL.CL"],["tel",{"type":"work"},"text","56 2 4413429 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091222",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110210",
+      "eventActor" : "ATO"
+    } ],
+    "handle" : "ATO"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/ATO",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/ATO"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Manuel Mondaca Oyarzun"],["adr",{"label":"Amuntagui 20, Piso 8, Santiago 20 ()\nSantiago,  8340516\nCL","type":"work"},"text",["","","Amuntagui 20, Piso 8, Santiago 20 ()","Santiago","","8340516","CL"]],["email",{"type":"work"},"text","momondaca@ENTEL.CL"],["tel",{"type":"work"},"text","56 2 4413429 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20091222",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110210",
+      "eventActor" : "ATO"
+    } ],
+    "handle" : "ATO"
+  } ],
+  "startAutnum" : 52252,
+  "endAutnum" : 52252,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20100601",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20100601",
+    "eventActor" : "ATO"
+  } ],
+  "type" : null,
+  "handle" : "52252-LACNIC",
+  "country" : "CL"
+}

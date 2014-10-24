@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/15311",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/15311"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-TEEM-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-TEEM-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Operador de Red ISP TIE"],["adr",{"label":"Providencia 119 (Piso 8)\nSantiago,  00\nCL","type":"work"},"text",["","","Providencia 119 (Piso 8)","Santiago","","00","CL"]],["email",{"type":"work"},"text","technical.tie@GMAIL.COM"],["tel",{"type":"work"},"text","56 02 6912000 (7562)"],["org",{},"text",["Telefonica Empresas"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/HMP2",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/HMP2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Operador de Red ISP TIE"],["adr",{"label":"Providencia 111 (Piso10)\nsantiago, M 7500775\nCL","type":"work"},"text",["","","Providencia 111 (Piso10)","santiago","M","7500775","CL"]],["email",{"type":"work"},"text","technical.tie@GMAIL.COM"],["tel",{"type":"work"},"text","56 2 26912478 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20050603",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130417",
+        "eventActor" : "HMP2"
+      } ],
+      "handle" : "HMP2"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020910",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140613",
+      "eventActor" : "HMP2"
+    } ],
+    "handle" : "CL-TEEM-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/OSB",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/OSB"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Operador de Red ISP TIE"],["adr",{"label":"Providencia 111 (Piso 10)\nSantiago, M 7500775\nCL","type":"work"},"text",["","","Providencia 111 (Piso 10)","Santiago","M","7500775","CL"]],["email",{"type":"work"},"text","technical.tie@GMAIL.COM"],["tel",{"type":"work"},"text","56 02 6912000 (7068)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020906",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130417",
+      "eventActor" : "OSB"
+    } ],
+    "handle" : "OSB"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/OSB",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/OSB"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Operador de Red ISP TIE"],["adr",{"label":"Providencia 111 (Piso 10)\nSantiago, M 7500775\nCL","type":"work"},"text",["","","Providencia 111 (Piso 10)","Santiago","M","7500775","CL"]],["email",{"type":"work"},"text","technical.tie@GMAIL.COM"],["tel",{"type":"work"},"text","56 02 6912000 (7068)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20020906",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130417",
+      "eventActor" : "OSB"
+    } ],
+    "handle" : "OSB"
+  } ],
+  "startAutnum" : 15311,
+  "endAutnum" : 15311,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20000414",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20000414",
+    "eventActor" : "OSB"
+  } ],
+  "type" : null,
+  "handle" : "15311-LACNIC",
+  "country" : "CL"
+}

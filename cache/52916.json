@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52916,
+  "endAutnum" : 52916,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52916",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52916"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120801",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20131202",
+    "eventActor" : "DQI"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-DPIN-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-DPIN-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","DENES PEREIRA GOMES"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVarginha, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Varginha","MG","04578-000","BR"]],["email",{"type":"work"},"text","DPG@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["org",{},"text",["Datanet Provedor de Internet Ltda"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131202",
+      "eventActor" : "DPG"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/DPG",
+        "value" : "http://rdap.labs.lacnic.net/entity/DPG"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","DENES PEREIRA GOMES"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVarginha, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Varginha","MG","04578-000","BR"]],["email",{"type":"work"},"text","DPG@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "DPG"
+      } ],
+      "entities" : [ ],
+      "handle" : "DPG"
+    } ],
+    "handle" : "BR-DPIN-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DQI",
+      "value" : "http://rdap.labs.lacnic.net/entity/DQI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Data Quality Inform?tica"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVarginha, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Varginha","MG","04578-000","BR"]],["email",{"type":"work"},"text","DQI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131114",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131114",
+      "eventActor" : "DQI"
+    } ],
+    "entities" : [ ],
+    "handle" : "DQI"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/DQI",
+      "value" : "http://rdap.labs.lacnic.net/entity/DQI"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Data Quality Inform?tica"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nVarginha, MG 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Varginha","MG","04578-000","BR"]],["email",{"type":"work"},"text","DQI@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 35 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20131114",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20131114",
+      "eventActor" : "DQI"
+    } ],
+    "entities" : [ ],
+    "handle" : "DQI"
+  } ],
+  "type" : null,
+  "handle" : "52916-LACNIC",
+  "country" : "BR"
+}

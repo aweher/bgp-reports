@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/52426",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52426"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-FAPU-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-FAPU-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Pugelj"],["adr",{"label":"San Martin 1625 ()\nLuis Guillon,  1838\nAR","type":"work"},"text",["","","San Martin 1625 ()","Luis Guillon","","1838","AR"]],["email",{"type":"work"},"text","fernandopugelj@I-SUR.COM.AR"],["tel",{"type":"work"},"text","54 011 42817634 ()"],["org",{},"text",["I-SUR WISP S.R.L."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/FEP12",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/FEP12"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Pugelj"],["adr",{"label":"Avellaneda 1471 ()\nLuis Guillon, null 1838\nAR","type":"work"},"text",["","","Avellaneda 1471 ()","Luis Guillon","","1838","AR"]],["email",{"type":"work"},"text","fernandopugelj@I-SUR.COM.AR"],["tel",{"type":"work"},"text","54 011 42817634 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20120828",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120828",
+        "eventActor" : "FEP12"
+      } ],
+      "handle" : "FEP12"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120808",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140709",
+      "eventActor" : "FEP12"
+    } ],
+    "handle" : "AR-FAPU-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEP12",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEP12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Pugelj"],["adr",{"label":"Avellaneda 1471 ()\nLuis Guillon, null 1838\nAR","type":"work"},"text",["","","Avellaneda 1471 ()","Luis Guillon","","1838","AR"]],["email",{"type":"work"},"text","fernandopugelj@I-SUR.COM.AR"],["tel",{"type":"work"},"text","54 011 42817634 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120828",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120828",
+      "eventActor" : "FEP12"
+    } ],
+    "handle" : "FEP12"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/FEP12",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/FEP12"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Fernando Pugelj"],["adr",{"label":"Avellaneda 1471 ()\nLuis Guillon, null 1838\nAR","type":"work"},"text",["","","Avellaneda 1471 ()","Luis Guillon","","1838","AR"]],["email",{"type":"work"},"text","fernandopugelj@I-SUR.COM.AR"],["tel",{"type":"work"},"text","54 011 42817634 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20120828",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20120828",
+      "eventActor" : "FEP12"
+    } ],
+    "handle" : "FEP12"
+  } ],
+  "startAutnum" : 52426,
+  "endAutnum" : 52426,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20121123",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20121123",
+    "eventActor" : "FEP12"
+  } ],
+  "type" : null,
+  "handle" : "52426-LACNIC",
+  "country" : "AR"
+}

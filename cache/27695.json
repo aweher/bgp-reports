@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 27695,
+  "endAutnum" : 27695,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/27695",
+    "value" : "http://rdap.labs.lacnic.net/autnum/27695"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20041129",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20041129",
+    "eventActor" : "EDP4"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/CO-ESES2-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/CO-ESES2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduar Uribe"],["adr",{"label":"CL 41 CR 52 -28 (PISO 15 ) 0 (0)\nMEDELLIN, 4 0\nCO","type":"work"},"text",["","","CL 41 CR 52 -28 (PISO 15 ) 0 (0)","MEDELLIN","4","0","CO"]],["email",{"type":"work"},"text","adminternet@EDATEL.NET.CO"],["tel",{"type":"work"},"text","57 4 3846562 ()"],["org",{},"text",["EDATEL S.A. E.S.P"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20030928",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130118",
+      "eventActor" : "EDP4"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EDP4",
+        "value" : "http://rdap.labs.lacnic.net/entity/EDP4"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduar Uribe"],["adr",{"label":"Calle 41 Nro. 52 28 P 2 (Ed. Edatel)\nMedellin, An 574\nCO","type":"work"},"text",["","","Calle 41 Nro. 52 28 P 2 (Ed. Edatel)","Medellin","An","574","CO"]],["email",{"type":"work"},"text","adminternet@EDATEL.NET.CO"],["tel",{"type":"work"},"text","57 4 3846562 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20041004",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20140429",
+        "eventActor" : "EDP4"
+      } ],
+      "entities" : [ ],
+      "handle" : "EDP4"
+    } ],
+    "handle" : "CO-ESES2-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDP4",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDP4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduar Uribe"],["adr",{"label":"Calle 41 Nro. 52 28 P 2 (Ed. Edatel)\nMedellin, An 574\nCO","type":"work"},"text",["","","Calle 41 Nro. 52 28 P 2 (Ed. Edatel)","Medellin","An","574","CO"]],["email",{"type":"work"},"text","adminternet@EDATEL.NET.CO"],["tel",{"type":"work"},"text","57 4 3846562 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041004",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140429",
+      "eventActor" : "EDP4"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDP4"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDP4",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDP4"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Eduar Uribe"],["adr",{"label":"Calle 41 Nro. 52 28 P 2 (Ed. Edatel)\nMedellin, An 574\nCO","type":"work"},"text",["","","Calle 41 Nro. 52 28 P 2 (Ed. Edatel)","Medellin","An","574","CO"]],["email",{"type":"work"},"text","adminternet@EDATEL.NET.CO"],["tel",{"type":"work"},"text","57 4 3846562 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20041004",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20140429",
+      "eventActor" : "EDP4"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDP4"
+  } ],
+  "type" : null,
+  "handle" : "27695-LACNIC",
+  "country" : "CO"
+}

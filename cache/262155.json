@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/262155",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262155"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-GASA4-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-GASA4-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christian Camacho"],["adr",{"label":"Magdalena 181 (Piso 3, Las Condes)\nSantiago de Chile, RM 7550055\nCL","type":"work"},"text",["","","Magdalena 181 (Piso 3, Las Condes)","Santiago de Chile","RM","7550055","CL"]],["email",{"type":"work"},"text","ccamacho@GOLDER.CL"],["tel",{"type":"work"},"text","56 2 5942005 ()"],["org",{},"text",["Golder Associates S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/CHC7",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/CHC7"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christian Camacho"],["adr",{"label":"Magdalena 181 piso 3, Las Condes 181 ()\nSantiago, null 7550055\nCL","type":"work"},"text",["","","Magdalena 181 piso 3, Las Condes 181 ()","Santiago","","7550055","CL"]],["email",{"type":"work"},"text","ccamacho@GOLDER.CL"],["tel",{"type":"work"},"text","56 2 5942005 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20101216",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20101216",
+        "eventActor" : "CHC7"
+      } ],
+      "handle" : "CHC7"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101217",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110225",
+      "eventActor" : "CHC7"
+    } ],
+    "handle" : "CL-GASA4-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CHC7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CHC7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christian Camacho"],["adr",{"label":"Magdalena 181 piso 3, Las Condes 181 ()\nSantiago, null 7550055\nCL","type":"work"},"text",["","","Magdalena 181 piso 3, Las Condes 181 ()","Santiago","","7550055","CL"]],["email",{"type":"work"},"text","ccamacho@GOLDER.CL"],["tel",{"type":"work"},"text","56 2 5942005 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101216",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101216",
+      "eventActor" : "CHC7"
+    } ],
+    "handle" : "CHC7"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CHC7",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CHC7"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Christian Camacho"],["adr",{"label":"Magdalena 181 piso 3, Las Condes 181 ()\nSantiago, null 7550055\nCL","type":"work"},"text",["","","Magdalena 181 piso 3, Las Condes 181 ()","Santiago","","7550055","CL"]],["email",{"type":"work"},"text","ccamacho@GOLDER.CL"],["tel",{"type":"work"},"text","56 2 5942005 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20101216",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20101216",
+      "eventActor" : "CHC7"
+    } ],
+    "handle" : "CHC7"
+  } ],
+  "startAutnum" : 262155,
+  "endAutnum" : 262155,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110224",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20110224",
+    "eventActor" : "CHC7"
+  } ],
+  "type" : null,
+  "handle" : "262155-LACNIC",
+  "country" : "CL"
+}

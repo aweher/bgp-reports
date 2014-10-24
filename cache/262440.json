@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 262440,
+  "endAutnum" : 262440,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/262440",
+    "value" : "http://rdap.labs.lacnic.net/autnum/262440"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20110411",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "PJN2"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-PJNA-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-PJNA-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo Junior do Nascimento"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nNazar? da Mata, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Nazar? da Mata","PE","04578-000","BR"]],["email",{"type":"work"},"text","PJN2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["org",{},"text",["PAULO JUNIOR DO NASCIMENTO"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "PJN2"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/PJN2",
+        "value" : "http://rdap.labs.lacnic.net/entity/PJN2"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo Junior do Nascimento"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTimba?ba, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Timba?ba","PE","04578-000","BR"]],["email",{"type":"work"},"text","PJN2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "PJN2"
+      } ],
+      "entities" : [ ],
+      "handle" : "PJN2"
+    } ],
+    "handle" : "BR-PJNA-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PJN2",
+      "value" : "http://rdap.labs.lacnic.net/entity/PJN2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo Junior do Nascimento"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTimba?ba, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Timba?ba","PE","04578-000","BR"]],["email",{"type":"work"},"text","PJN2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PJN2"
+    } ],
+    "entities" : [ ],
+    "handle" : "PJN2"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/PJN2",
+      "value" : "http://rdap.labs.lacnic.net/entity/PJN2"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Paulo Junior do Nascimento"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTimba?ba, PE 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Timba?ba","PE","04578-000","BR"]],["email",{"type":"work"},"text","PJN2@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 81 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "PJN2"
+    } ],
+    "entities" : [ ],
+    "handle" : "PJN2"
+  } ],
+  "type" : null,
+  "handle" : "262440-LACNIC",
+  "country" : "BR"
+}

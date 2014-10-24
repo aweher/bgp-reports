@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/28077",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/28077"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/CL-IGSA2-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/CL-IGSA2-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Santis"],["adr",{"label":"Estado 337 (505)\nSantiago de Chile, RM 8320000\nCL","type":"work"},"text",["","","Estado 337 (505)","Santiago de Chile","RM","8320000","CL"]],["email",{"type":"work"},"text","fsantis@RDC.CL"],["tel",{"type":"work"},"text","0056 2 3818711 ()"],["org",{},"text",["Informes Garantizados S.A."]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/GGP",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/GGP"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Santis"],["adr",{"label":"ESTADO 337 (of 501)\nsantiago, RM STGO\nCL","type":"work"},"text",["","","ESTADO 337 (of 501)","santiago","RM","STGO","CL"]],["email",{"type":"work"},"text","fsantis@RDC.CL"],["tel",{"type":"work"},"text","56 2 3818711 (8711)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20090224",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20110907",
+        "eventActor" : "GGP"
+      } ],
+      "handle" : "GGP"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090615",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110907",
+      "eventActor" : "GGP"
+    } ],
+    "handle" : "CL-IGSA2-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GGP",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GGP"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Santis"],["adr",{"label":"ESTADO 337 (of 501)\nsantiago, RM STGO\nCL","type":"work"},"text",["","","ESTADO 337 (of 501)","santiago","RM","STGO","CL"]],["email",{"type":"work"},"text","fsantis@RDC.CL"],["tel",{"type":"work"},"text","56 2 3818711 (8711)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090224",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110907",
+      "eventActor" : "GGP"
+    } ],
+    "handle" : "GGP"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/GGP",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/GGP"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Francisco Santis"],["adr",{"label":"ESTADO 337 (of 501)\nsantiago, RM STGO\nCL","type":"work"},"text",["","","ESTADO 337 (of 501)","santiago","RM","STGO","CL"]],["email",{"type":"work"},"text","fsantis@RDC.CL"],["tel",{"type":"work"},"text","56 2 3818711 (8711)"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20090224",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110907",
+      "eventActor" : "GGP"
+    } ],
+    "handle" : "GGP"
+  } ],
+  "startAutnum" : 28077,
+  "endAutnum" : 28077,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20090814",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20090814",
+    "eventActor" : "GGP"
+  } ],
+  "type" : null,
+  "handle" : "28077-LACNIC",
+  "country" : "CL"
+}

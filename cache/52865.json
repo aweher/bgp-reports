@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52865,
+  "endAutnum" : 52865,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52865",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52865"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20111226",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "MRS18"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-CAAP-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-CAAP-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo R da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJi-Paran?, RO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ji-Paran?","RO","04578-000","BR"]],["email",{"type":"work"},"text","MRS18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 06 955093511 ()"],["org",{},"text",["Casa Aparecida"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130717",
+      "eventActor" : "MRS18"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/MRS18",
+        "value" : "http://rdap.labs.lacnic.net/entity/MRS18"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo R da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJi-Paran?, RO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ji-Paran?","RO","04578-000","BR"]],["email",{"type":"work"},"text","MRS18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 69 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "MRS18"
+      } ],
+      "entities" : [ ],
+      "handle" : "MRS18"
+    } ],
+    "handle" : "BR-CAAP-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MRS18",
+      "value" : "http://rdap.labs.lacnic.net/entity/MRS18"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo R da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJi-Paran?, RO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ji-Paran?","RO","04578-000","BR"]],["email",{"type":"work"},"text","MRS18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 69 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MRS18"
+    } ],
+    "entities" : [ ],
+    "handle" : "MRS18"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/MRS18",
+      "value" : "http://rdap.labs.lacnic.net/entity/MRS18"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Marcelo R da Silva"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nJi-Paran?, RO 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Ji-Paran?","RO","04578-000","BR"]],["email",{"type":"work"},"text","MRS18@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 69 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "MRS18"
+    } ],
+    "entities" : [ ],
+    "handle" : "MRS18"
+  } ],
+  "type" : null,
+  "handle" : "52865-LACNIC",
+  "country" : "BR"
+}

@@ -1,0 +1,104 @@
+{
+  "remarks" : [ ],
+  "links" : [ {
+    "href" : "http://rdap.labs.lacnic.net/autnum/3597",
+    "rel" : "self",
+    "value" : "http://rdap.labs.lacnic.net/autnum/3597"
+  } ],
+  "entities" : [ {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/AR-ACCH-LACNIC",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/AR-ACCH-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julian Dunayevich"],["adr",{"label":"Juli?n Alvarez 1218 ()\nBuenos Aires,  C1414DRZ\nAR","type":"work"},"text",["","","Juli?n Alvarez 1218 ()","Buenos Aires","","C1414DRZ","AR"]],["email",{"type":"work"},"text","julian@DUNAYEVICH.COM.AR"],["tel",{"type":"work"},"text","54 911 44785473 ()"],["org",{},"text",["Fundaci?n InnovaT"]],["kind",{},"text","individual"]] ],
+    "roles" : [ "registrant" ],
+    "entities" : [ {
+      "remarks" : [ ],
+      "links" : [ {
+        "href" : "http://rdap.labs.lacnic.net/entity/JUD",
+        "rel" : "self",
+        "value" : "http://rdap.labs.lacnic.net/entity/JUD"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Julian Dunayevich"],["adr",{"label":"Araoz 2989 (3A)\nCABA, BA 1425\nAR","type":"work"},"text",["","","Araoz 2989 (3A)","CABA","BA","1425","AR"]],["email",{"type":"work"},"text","julian@DUNAYEVICH.COM.AR"],["tel",{"type":"work"},"text","54 911 44785473 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","SP"]] ],
+      "roles" : [ "administrative" ],
+      "entities" : [ ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20021111",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20120728",
+        "eventActor" : "JUD"
+      } ],
+      "handle" : "JUD"
+    } ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20031107",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20121130",
+      "eventActor" : "JUD"
+    } ],
+    "handle" : "AR-ACCH-LACNIC"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JAM34",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAM34"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Martinez"],["adr",{"label":"Esmeralda 339 (3ero 2do cuerpo)\nCABA, null ABG1023\nAR","type":"work"},"text",["","","Esmeralda 339 (3ero 2do cuerpo)","CABA","","ABG1023","AR"]],["email",{"type":"work"},"text","jmartinez@INNOVA-RED.NET"],["tel",{"type":"work"},"text","54 11 43228488 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "tech" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110928",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110928",
+      "eventActor" : "JAM34"
+    } ],
+    "handle" : "JAM34"
+  }, {
+    "remarks" : [ ],
+    "links" : [ {
+      "href" : "http://rdap.labs.lacnic.net/entity/JAM34",
+      "rel" : "self",
+      "value" : "http://rdap.labs.lacnic.net/entity/JAM34"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Javier Martinez"],["adr",{"label":"Esmeralda 339 (3ero 2do cuerpo)\nCABA, null ABG1023\nAR","type":"work"},"text",["","","Esmeralda 339 (3ero 2do cuerpo)","CABA","","ABG1023","AR"]],["email",{"type":"work"},"text","jmartinez@INNOVA-RED.NET"],["tel",{"type":"work"},"text","54 11 43228488 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag",""]] ],
+    "roles" : [ "abuse" ],
+    "entities" : [ ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20110928",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20110928",
+      "eventActor" : "JAM34"
+    } ],
+    "handle" : "JAM34"
+  } ],
+  "startAutnum" : 3597,
+  "endAutnum" : 3597,
+  "status" : [ "allocated" ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "19940518",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20111122",
+    "eventActor" : "JAM34"
+  } ],
+  "type" : null,
+  "handle" : "3597-LACNIC",
+  "country" : "AR"
+}

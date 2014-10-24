@@ -1,0 +1,104 @@
+{
+  "startAutnum" : 52887,
+  "endAutnum" : 52887,
+  "status" : [ "allocated" ],
+  "remarks" : [ ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "http://rdap.labs.lacnic.net/autnum/52887",
+    "value" : "http://rdap.labs.lacnic.net/autnum/52887"
+  } ],
+  "events" : [ {
+    "eventAction" : "registration",
+    "eventDate" : "20120502",
+    "eventActor" : null
+  }, {
+    "eventAction" : "last changed",
+    "eventDate" : "20130306",
+    "eventActor" : "EDS27"
+  } ],
+  "entities" : [ {
+    "roles" : [ "registrant" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/BR-ATVB-LACNIC",
+      "value" : "http://rdap.labs.lacnic.net/entity/BR-ATVB-LACNIC"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Sincic"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTatu?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tatu?","SP","04578-000","BR"]],["email",{"type":"work"},"text","EDS27@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["org",{},"text",["Associa??o Torre de Vigia de B?blias e Tratados"]],["kind",{},"text","individual"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130307",
+      "eventActor" : "EDS27"
+    } ],
+    "entities" : [ {
+      "roles" : [ "administrative" ],
+      "remarks" : [ ],
+      "links" : [ {
+        "rel" : "self",
+        "href" : "http://rdap.labs.lacnic.net/entity/EDS27",
+        "value" : "http://rdap.labs.lacnic.net/entity/EDS27"
+      } ],
+      "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Sincic"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTatu?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tatu?","SP","04578-000","BR"]],["email",{"type":"work"},"text","EDS27@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+      "events" : [ {
+        "eventAction" : "registration",
+        "eventDate" : "20130306",
+        "eventActor" : null
+      }, {
+        "eventAction" : "last changed",
+        "eventDate" : "20130308",
+        "eventActor" : "EDS27"
+      } ],
+      "entities" : [ ],
+      "handle" : "EDS27"
+    } ],
+    "handle" : "BR-ATVB-LACNIC"
+  }, {
+    "roles" : [ "tech" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDS27",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDS27"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Sincic"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTatu?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tatu?","SP","04578-000","BR"]],["email",{"type":"work"},"text","EDS27@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EDS27"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDS27"
+  }, {
+    "roles" : [ "abuse" ],
+    "remarks" : [ ],
+    "links" : [ {
+      "rel" : "self",
+      "href" : "http://rdap.labs.lacnic.net/entity/EDS27",
+      "value" : "http://rdap.labs.lacnic.net/entity/EDS27"
+    } ],
+    "vcardArray" : ["vcard",[["version",{},"text","4.0"],["fn",{},"text","Edson Sincic"],["adr",{"label":"Av. das Na??es Unidas 11541 (7? andar)\nTatu?, SP 04578-000\nBR","type":"work"},"text",["","","Av. das Na??es Unidas 11541 (7? andar)","Tatu?","SP","04578-000","BR"]],["email",{"type":"work"},"text","EDS27@NUMERACAO.REGISTRO.BR"],["tel",{"type":"work"},"text","55 15 55093511 ()"],["kind",{},"text","individual"],["lang",{"pref":"1"},"language-tag","EN"]] ],
+    "events" : [ {
+      "eventAction" : "registration",
+      "eventDate" : "20130306",
+      "eventActor" : null
+    }, {
+      "eventAction" : "last changed",
+      "eventDate" : "20130308",
+      "eventActor" : "EDS27"
+    } ],
+    "entities" : [ ],
+    "handle" : "EDS27"
+  } ],
+  "type" : null,
+  "handle" : "52887-LACNIC",
+  "country" : "BR"
+}
